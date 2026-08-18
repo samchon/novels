@@ -1,0 +1,54 @@
+# Novels
+
+An experiment in writing English-language novels as compiled evidence graphs.
+
+Every work in this pnpm workspace is a TypeScript package whose documents — canon settings, storyline treatments, scene scenarios, and finished manuscripts — form an evidence graph compiled by [`ttsc`](https://github.com/samchon/ttsc) with [`@ttsc/evidence`](https://github.com/samchon/ttsc/tree/master/packages/evidence). Markdown hierarchy, narrative lineage, citations, and review fingerprints are treated as source code: a broken promise between layers is a build error, and a stale review is a diagnostic.
+
+## How a novel compiles
+
+Each work authors four layers in order, and each layer advances through three evidence stages:
+
+```text
+settings → storylines → scenarios → manuscripts        (pipeline)
+disabled → evidence → review                            (per-layer stage)
+```
+
+- **Settings** state the work's canon: facts, constraints, institutions, people, and conventions, one anchored H2 per addressable fact.
+- **Storylines** own causes, choices, events, and changes as detailed narrative treatments.
+- **Scenarios** specify executable scene progression — staging, movement, decisive dialogue, turn, and exit.
+- **Manuscripts** are the finished literary prose.
+
+The three narrative layers share one `H2 sequence → H3 chapter → H4 scene` hierarchy. Matching units cite their upstream parents and the settings they use; manuscripts cite both the scenario and the storyline so a misreading cannot travel silently.
+
+Shared literary principles live in [`config/docs/principles`](config/docs/principles) as one file per layer plus [`common.md`](config/docs/principles/common.md). Each principle is one anchored H2, and each principle reference is a compiler **checklist**: every file answers every item with its own citation or a concrete per-item exclusion — a whole-file citation is refused, and no file's answer covers another file. Common principles can never be excluded. In the `review` stage every answer carries the fingerprint of that single item, so editing one principle expires exactly the answers to that item across all works.
+
+A compiling work is not a finished work: after all layers pass review, repeated literal full-work reviews continue until two consecutive rounds find nothing.
+
+## Workspace
+
+| Path | Role |
+| --- | --- |
+| [`config`](config) | Shared private package: the evidence-graph factory ([`createLintConfig.ts`](config/src/createLintConfig.ts)), the principle checklists, and the package generator. |
+| `packages/*` | One novel work per package. |
+| [`AGENTS.md`](AGENTS.md) | The shared writing and evidence contract. |
+| [`.agents/skills`](.agents/skills) | Repository skills: `novel`, `evidence-graph`, `benchmark`, `edit-agent-skills`. |
+| [`BENCHMARK.md`](BENCHMARK.md) | Multi-package experiment log. |
+
+## Works
+
+No work packages exist yet. Each new work is added with the generator and listed here with its title, subject, genre, and honest status.
+
+## Usage
+
+```bash
+pnpm install
+
+# create a new work package
+pnpm create:novel winter-orbit --title "Winter Orbit" --description "A generation-ship mystery"
+
+# compile one work's evidence graph
+pnpm --filter @samchon/novel-winter-orbit ttsc
+
+# compile every work from the root
+pnpm ttsc
+```
