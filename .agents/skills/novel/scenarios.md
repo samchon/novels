@@ -6,7 +6,7 @@ Scenarios are **production-capable initial scripts**. They are neither causal su
 
 ## Craft
 
-This document owns what an initial script is and how it is produced; `config/docs/principles/common.md` and `narratives.md` own the shared narrative obligations, and `config/docs/principles/scenarios.md` owns the scene obligations — orientation, physical progression, decisive dialogue, turn and exit, environmental pressure, and the stageability test that decides whether a draft is still a storyline. Read all three before drafting and test every H4 against their items. When a scenario unit reads no more concretely than the storyline unit it refines, it has been restated rather than staged: find the positions, objects, exchanges, and timings the storyline left to this layer. Shrinking against the parent unit is a reliable symptom, never the test.
+This document owns what an initial script is and how it is produced; `config/docs/principles/common.md` and `narratives.md` own the shared narrative obligations, and `config/docs/principles/scenarios.md` owns the scene obligations — orientation, physical progression, decisive dialogue, turn and exit, environmental pressure, and the stageability test that decides whether a draft is still a storyline. Read all three before drafting and test every H4 against their items. When a scenario unit reads no more concretely than the storyline unit it refines, it has been restated rather than staged: find the positions, objects, exchanges, and timings the storyline left to this layer.
 
 ## Evidence
 

@@ -100,9 +100,11 @@ Sources: [Green & Brock on narrative transportation](https://doi.org/10.1037/002
 
 ## Realization depth {#realization-depth}
 
-Every unit in a file is realized to the depth its layer promises, not only the units that open it. A unit whose actors are unnamed roles, whose objects cannot be handled, whose pressure costs nobody anything, or whose outcome is asserted rather than reached has been summarized; a file that realizes its first units and summarizes its later ones is defective even when each unit is individually intelligible.
+Every unit in a file is realized to the depth its layer promises, not only the units that open it. Measure a unit against what this work does when it is working: whatever its strong units use to make a moment land, the weak ones must earn their moment by the same means or by means of equal weight, rather than reporting that the moment occurred.
 
-Judge a file by its weakest unit. When a unit cannot carry the depth its siblings carry, give it that depth or merge it into the unit whose consequence it actually belongs to. This item does not forbid summary — compressing narrated time on purpose belongs to the manuscript layer's pacing item. It forbids a unit that was meant to be realized and was not.
+Judge a file by its weakest unit. A file that realizes its first units and reduces its later ones to a report of what happened is defective even where each unit is individually intelligible. When a unit cannot carry the depth its siblings carry, give it that depth or merge it into the unit whose consequence it actually belongs to.
+
+This item prescribes no texture. Named actors, handled objects, and bodily detail are means some works use and others refuse; an abstract, collective, allegorical, or depersonalized mode realizes a unit by its own means, and is judged against those. Nor does the item forbid summary — compressing narrated time on purpose belongs to the manuscript layer's pacing item. It forbids a unit that was meant to be realized and was not.
 
 Sources: [Purdue OWL on scene and summary](https://owl.purdue.edu/owl/resources/writing_tutors/tutoring_creative_writing_students/documents/working-with-creative-writing-students-09152025.pdf), [Trabasso & Sperry on causal relatedness and importance](https://doi.org/10.1016/0749-596X(85)90048-8)
 

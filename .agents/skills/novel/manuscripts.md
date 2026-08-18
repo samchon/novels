@@ -13,7 +13,7 @@ Write the finished novel. A manuscript preserves the scenario's decisive action,
 
 ## Craft
 
-This document owns what a manuscript is and how it is produced; `config/docs/principles/common.md` and `narratives.md` own the shared narrative obligations, and `config/docs/principles/manuscripts.md` owns the prose obligations — scene realization from the script, prose control, viewpoint, pacing, reader orientation, dialogue voice, emotional resonance, descriptive function, and tonal contrast. Read all three before drafting and read every scene against their items. When a manuscript unit adds no perception, voice, or texture the scenario lacked, it has been transcribed rather than written. Shrinking against the parent unit is a reliable symptom, never the test.
+This document owns what a manuscript is and how it is produced; `config/docs/principles/common.md` and `narratives.md` own the shared narrative obligations, and `config/docs/principles/manuscripts.md` owns the prose obligations — scene realization from the script, prose control, viewpoint, pacing, reader orientation, dialogue voice, emotional resonance, descriptive function, and tonal contrast. Read all three before drafting and read every scene against their items. When a manuscript unit adds no perception, voice, or texture the scenario lacked, it has been transcribed rather than written.
 
 ## Evidence
 

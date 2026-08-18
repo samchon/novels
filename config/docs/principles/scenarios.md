@@ -38,7 +38,7 @@ Sources: [Center for Fiction on writing dialogue](https://centerforfiction.org/w
 
 Fix what each participant knows, believes falsely, suspects, and can verify when the scene opens, and what has changed for each of them when it closes — gained, lost, concealed, misread, or newly provable. Name the carrier through which each change actually travels: the document, the overheard sentence, the absence, the gesture, the silence.
 
-A later scene inherits this ledger as fact, so an unrecorded change becomes an invention downstream. Where a scene deliberately leaves the audience ahead of or behind a participant, state which, and until when. This item owns the executable ledger; which knowledge the work withholds and when it pays that withholding off belongs to the storyline layer.
+A later scene inherits this ledger as fact, so an unrecorded change becomes an invention downstream. Where a scene deliberately leaves the audience ahead of or behind a participant, state which, and until when. A scene in which nobody's knowledge, belief, or access is at stake does not trigger this item. This item owns the executable ledger; which knowledge the work withholds and when it pays that withholding off belongs to the storyline layer.
 
 Sources: [Brewer & Lichtenstein's structural-affect theory](https://doi.org/10.1017/S0140525X00017568), [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
 
