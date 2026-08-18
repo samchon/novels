@@ -23,9 +23,7 @@ flowchart LR
   T4["matching storyline H4"] --> C4
 ```
 
-Answer the `principles/common.md`, `principles/narratives.md`, and `principles/scenarios.md` checklists in one HTML comment before the file's first H1. Do not repeat principle tags under H2, H3, or H4.
-
-Place setting and cross-layer lineage acknowledgements directly below the H2, H3, or H4 they justify:
+This layer answers `principles/common.md`, `principles/narratives.md`, and `principles/scenarios.md`. Each unit cites the settings it uses and its matching storyline unit at the same level:
 
 ```text
 <!--
@@ -33,16 +31,9 @@ Place setting and cross-layer lineage acknowledgements directly below the H2, H3
 -->
 ```
 
-- H2 cites the matching storyline H2.
-- H3 cites the matching storyline H3.
-- H4 cites the matching storyline H4.
-- Every unit cites the settings it actually uses and stays silent about the rest; a setting no host in the population uses takes one concrete population-wide `@evidenceExclude`.
+Write the reason with the actual inherited fact, causal duty, or execution choice.
 
-Markdown hierarchy already determines each scenario H3's H2 parent and each H4's H3 parent. Do not duplicate that same-layer parentage with evidence tags.
-
-Targets are relative to their configured reference root, not to the scenario file. Use `settings/...`, `storylines/...`, or `principles/...` without a `docs/` prefix. Write the reason with the actual inherited fact, causal duty, or execution choice.
-
-Load `$evidence-graph` [staging](../evidence-graph/staging.md) before changing state. Its main skill owns tag grammar, checklist policy, roots, coverage, and exclusions; follow its [review procedure](../evidence-graph/review.md) only in `review`.
+`$evidence-graph` owns tag grammar, roots, coverage, and exclusions. Load its [staging](../evidence-graph/staging.md) before changing state and its [review procedure](../evidence-graph/review.md) for fingerprints.
 
 ## Harness
 
@@ -52,11 +43,6 @@ Control this layer in the package `lint.config.ts`:
 scenarios: "disabled",
 ```
 
-1. Start only after the matching storyline has a clean review build.
-2. Keep `disabled` while writing the complete initial script without compiler pressure.
-3. Read every H4 aloud or enact its order mentally. Test physical possibility, knowledge, motive, timing, resources, speech, silence, staging, and earned cuts.
-4. Change to `evidence`; resolve graph diagnostics and repair any owning upstream layer.
-5. Change to `review` only after the evidence build is clean.
-6. Reach a clean review build before starting manuscripts.
+Before leaving `disabled`, enact every H4 in order: test physical possibility, knowledge, motive, timing, resources, speech, silence, staging, and earned cuts.
 
 When detail exposes a setting or storyline defect, fix the earliest layer and reread the full path back to the scene.

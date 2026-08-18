@@ -33,9 +33,7 @@ flowchart LR
   C4["matching scenario H4"] --> M4
 ```
 
-Answer the `principles/common.md`, `principles/narratives.md`, and `principles/manuscripts.md` checklists in one HTML comment before the file's first H1. Do not repeat principle tags under H2, H3, or H4.
-
-Place setting and cross-layer lineage acknowledgements directly below the H2, H3, or H4 they justify:
+This layer answers `principles/common.md`, `principles/narratives.md`, and `principles/manuscripts.md`. Each unit cites the settings it uses and both its matching scenario unit and its matching storyline unit at the same level:
 
 ```text
 <!--
@@ -43,16 +41,9 @@ Place setting and cross-layer lineage acknowledgements directly below the H2, H3
 -->
 ```
 
-- H2 cites the matching scenario H2 and storyline H2.
-- H3 cites the matching scenario H3 and matching storyline H3.
-- H4 cites the matching scenario H4 and matching storyline H4.
-- Every unit cites the settings it actually uses and stays silent about the rest; a setting no host in the population uses takes one concrete population-wide `@evidenceExclude`.
+State what the prose actually realizes; relevance alone is insufficient.
 
-Markdown hierarchy already determines each manuscript H3's H2 parent and each H4's H3 parent. Do not duplicate that same-layer parentage with evidence tags.
-
-Targets are relative to their configured reference root. Use `settings/...`, `storylines/...`, `scenarios/...`, or `principles/...` without a `docs/` prefix. State what the prose actually realizes; relevance alone is insufficient.
-
-Load `$evidence-graph` [staging](../evidence-graph/staging.md) before changing state. Its main skill owns tag grammar, checklist policy, roots, coverage, and exclusions; follow its [review procedure](../evidence-graph/review.md) only in `review`.
+`$evidence-graph` owns tag grammar, roots, coverage, and exclusions. Load its [staging](../evidence-graph/staging.md) before changing state and its [review procedure](../evidence-graph/review.md) for fingerprints.
 
 ## Harness
 
@@ -62,9 +53,6 @@ Control this layer in the package `lint.config.ts`:
 manuscripts: "disabled",
 ```
 
-1. Start only after the matching scenario has a clean review build.
-2. Keep `disabled` while writing the complete manuscript without compiler pressure.
-3. Read it as a reader and reject prose that merely expands scene instructions or loses the script's pressure and consequence.
-4. Change to `evidence`; repair graph and prose defects.
-5. Change to `review` only after the evidence build is clean.
-6. After the clean review build, continue with [review.md](review.md).
+Before leaving `disabled`, read the draft as a reader and reject prose that merely expands scene instructions or loses the script's pressure and consequence.
+
+After the manuscript's clean review build, continue with [review.md](review.md).

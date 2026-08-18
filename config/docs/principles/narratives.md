@@ -28,9 +28,9 @@ Sources: [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.
 
 ## Unit ownership {#unit-ownership}
 
-An H2 owns a promise and an irreversible change in the whole work; an H3 owns the options altered by the previous chapter's outcome; an H4 owns the actions and reactions in which that choice actually collides. An H4 is one continuous scene: time, place, active focal mode, and dramatic function run through it unbroken, and a real change in any of them splits the scene instead of extending it.
+The three levels differ in kind, not in length. In event-driven work an H2 owns a promise and an irreversible change in the whole work, an H3 owns the options its predecessor's outcome altered, and an H4 owns the actions in which a choice collides — and an H4 is also one continuous scene, whose time, place, active focal mode, and dramatic function run unbroken, so a real change in any of them splits it instead of extending it. A work built on accumulation, recurrence, or contemplation keeps the distinction and changes its currency: what a sequence permanently alters in the reader's understanding, what a chapter reconfigures within it, what a scene enacts in the reader's presence.
 
-Test a unit against the whole work rather than against its neighbour: if deleting it or moving it far away leaves the surrounding comprehension, tension, character judgment, and the ending's meaning almost unchanged, strengthen its coupling to the work, merge it, or cut it.
+Three levels that differ only in length are one level typeset three ways. Test a unit against the whole work rather than against its neighbour: if deleting it or moving it far away leaves the surrounding comprehension, pressure, judgment, and the ending's meaning almost unchanged, strengthen its coupling, merge it, or cut it.
 
 Sources: [Trabasso & Sperry on causal relatedness and importance](https://doi.org/10.1016/0749-596X(85)90048-8), [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
 
@@ -76,11 +76,9 @@ Sources: [Green & Brock on narrative transportation](https://doi.org/10.1037/002
 
 ## Character grounding {#character-grounding}
 
-A reader assembles a figure from the work as a model, and the default model is a mind with wishes, beliefs, and intentions. Where a work uses that default, ground it: the current goal, the reason it is wanted, and the resistance and cost accepted while pursuing it, shown through observable choices before any résumé or trait sheet.
+A reader assembles a figure from the work as a model, and the default model is a mind with wishes, beliefs, and intentions. Where a work uses that default, ground it: the current goal, the reason it is wanted, and the cost accepted while pursuing it, shown through observable choices before any trait sheet.
 
-Any part of the default may be refused. A figure may be a collective, an office, an anonymous position, a name with no interior, a will in dissolution, or a surface the narration never enters. What a work may not do is leave the refusal indistinguishable from an omission: the refusal is carried by the work's declared mode or by its own consistent practice, and whatever governs the figure's attention and selection in place of stated desire — obsession, procedure, custom, appetite, damage, duty — stays reconstructible from the text.
-
-The reader need not like a figure, share its ends, or predict its next act; opacity can be the subject. The reader must be able to reinterpret what the figure did in the light of what the work has shown, rather than receive it as arbitrary.
+Any part of the default may be refused — a collective, an office, an anonymous position, a name with no interior, a will in dissolution, a surface the narration never enters. What a work may not do is leave the refusal indistinguishable from an omission: it is carried by the work's declared mode or by its own consistent practice, and whatever governs the figure's attention in place of stated desire stays reconstructible from the text. The reader need not like a figure or predict its next act, since opacity can be the subject, but must be able to reinterpret what it did in the light of what the work has shown.
 
 Sources: [Jannidis on character as a reader-built model whose basis type may be negated explicitly or by genre convention](https://www-archiv.fdm.uni-hamburg.de/lhn/node/41.html), [Cohen on identification with characters](https://doi.org/10.1207/S15327825MCS0403_01), [character goal pursuit and narrative engagement](https://doi.org/10.1080/15213269.2019.1601569)
 
@@ -102,11 +100,9 @@ Sources: [Green & Brock on narrative transportation](https://doi.org/10.1037/002
 
 ## Realization depth {#realization-depth}
 
-Every unit in a file is realized to the depth its layer promises, not only the units that open it. Measure a unit against what this work does when it is working: whatever its strong units use to make a moment land, the weak ones must earn their moment by the same means or by means of equal weight, rather than reporting that the moment occurred.
+Every unit is realized to the depth its layer promises, not only the units that open a file. Measure a unit against what this work does when it is working: whatever its strong units use to make a moment land, the weak ones earn their moment by the same means or by means of equal weight, instead of reporting that the moment occurred. Judge a file by its weakest unit, and where one cannot carry the depth its siblings carry, give it that depth or merge it into the unit whose consequence it belongs to.
 
-Judge a file by its weakest unit. A file that realizes its first units and reduces its later ones to a report of what happened is defective even where each unit is individually intelligible. When a unit cannot carry the depth its siblings carry, give it that depth or merge it into the unit whose consequence it actually belongs to.
-
-This item prescribes no texture. Named actors, handled objects, and bodily detail are means some works use and others refuse; an abstract, collective, allegorical, or depersonalized mode realizes a unit by its own means, and is judged against those. Nor does the item forbid summary — compressing narrated time on purpose belongs to the manuscript layer's pacing item. It forbids a unit that was meant to be realized and was not.
+The item prescribes no texture: named actors, handled objects, and bodily detail are means some works use and others refuse, and an abstract, collective, or depersonalized mode is judged against its own. Nor does it forbid summary, which the manuscript layer's pacing item owns. It forbids a unit that was meant to be realized and was not.
 
 Sources: [Purdue OWL on scene and summary](https://owl.purdue.edu/owl/resources/writing_tutors/tutoring_creative_writing_students/documents/working-with-creative-writing-students-09152025.pdf), [Trabasso & Sperry on causal relatedness and importance](https://doi.org/10.1016/0749-596X(85)90048-8)
 
@@ -120,8 +116,8 @@ Sources: [Laterpress on the series bible as continuity record](https://www.later
 
 ## Specificity {#specificity}
 
-Prefer the objects, habits, sensations, comparisons, and choices of this work's situations, narrators, characters, and environments over abstract evaluative words and the auto-completion of convention. Choose detail by its contribution to the scene's function and focus, not by quantity.
+Every word, image, and detail arrives either from this work or from the stock of what such works usually say. Prefer what this work's situations, narrators, figures, and environments actually yield. Abstraction, summary, and the general term are legitimate where a work reaches for them and defects where they arrive instead of a decision.
 
-Inspect familiar metaphors, stock gestures, uniform sentence rhythm, and modifiers that state an emotion on the scene's behalf; distinguish deliberate use from unexamined repetition. Distinctiveness comes from the work's internal context, not from random strangeness.
+Inspect familiar metaphors, stock gestures, uniform sentence rhythm, and modifiers that state an emotion on the scene's behalf; distinguish deliberate use from unexamined repetition. Choose detail by its contribution to function and focus rather than by quantity, and let distinctiveness come from the work's internal context rather than from invented strangeness.
 
 Sources: [Boston University on concrete action](https://www.bu.edu/articles/2019/how-to-create-suspense/), [Purdue OWL on building and revealing characters](https://owl.purdue.edu/owl/subject_specific_writing/creative_writing/writers/fiction-basics/building_and_revealing_characters.html)

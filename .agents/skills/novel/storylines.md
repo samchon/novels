@@ -34,11 +34,9 @@ flowchart LR
   F --> S4["storyline H4"]
 ```
 
-Answer the `principles/common.md`, `principles/narratives.md`, and `principles/storylines.md` checklists in one HTML comment before the file's first H1. Do not repeat principle tags under H2, H3, or H4.
+This layer answers `principles/common.md`, `principles/narratives.md`, and `principles/storylines.md`. It has no cross-layer parent: storylines are where the settings catalog is first accounted for, so each H2, H3, and H4 cites the settings it uses and nothing else.
 
-H2, H3, and H4 cite the settings they actually use and stay silent about the rest; a setting no host in the population uses takes one concrete population-wide `@evidenceExclude`. Markdown hierarchy already determines each H3's H2 parent and each H4's H3 parent, so do not duplicate same-layer parentage with evidence tags. Use `settings/...` and `principles/...` without `docs/`.
-
-Load `$evidence-graph` [staging](../evidence-graph/staging.md) before changing state. Its main skill owns tag grammar, checklist policy, roots, coverage, and exclusions; its [review procedure](../evidence-graph/review.md) owns fingerprints.
+`$evidence-graph` owns tag grammar, roots, coverage, and exclusions. Load its [staging](../evidence-graph/staging.md) before changing state and its [review procedure](../evidence-graph/review.md) for fingerprints.
 
 ## Harness
 
@@ -48,13 +46,6 @@ Control this layer in the package `lint.config.ts`:
 storylines: "disabled",
 ```
 
-1. Start only after the settings have a clean review build.
-2. Keep `disabled` while writing the complete detailed treatment without compiler pressure.
-3. Read the entire treatment as a reader. Test every scene's arrival, turn, departure, long-range consequence, agency, and the intelligibility of every deliberate jump.
-4. Record an obvious truthful `@evidence` when useful, but do not interrupt drafting to complete coverage.
-5. Change to `evidence`; resolve principle checklist and H2/H3/H4 setting diagnostics truthfully.
-6. Repair the story when a diagnostic exposes misuse, overclaim, missing canon, inert scene function, or a false bridge.
-7. Change to `review` only after the evidence build is clean.
-8. Independently reread both ends of every acknowledgement and reach a clean review build before starting scenarios.
+Before leaving `disabled`, read the entire treatment as a reader: test every scene's arrival, turn, departure, long-range consequence, agency, and the intelligibility of every deliberate jump. Repair the story when a diagnostic exposes misuse, overclaim, missing canon, inert scene function, or a false bridge.
 
 If later work changes causality, revise the smallest true storyline unit first and propagate the change.
