@@ -96,9 +96,11 @@ Sources: [Purdue OWL on scene and summary](https://owl.purdue.edu/owl/resources/
 
 Use canon exactly as the settings declare it: never contradict a declared fact, never resolve a matter the settings leave open, and never promote an undecided matter to fact by inference alone.
 
+What the work itself has already established binds the same way. A place, object, injury, debt, season, position, or arrangement fixed by an earlier unit stays fixed until some unit changes it, and that change is shown rather than assumed; a later unit quietly restoring what an earlier one spent is a contradiction even though no settings file names it. Where an earlier unit and the settings disagree, one of them is wrong — repair the earliest owning layer instead of letting both stand.
+
 When a draft needs a new fact, do not smuggle it into the work: fix it first in the work package's `docs/settings`, then use it.
 
-Sources: [Laterpress on the series bible as continuity record](https://www.laterpress.com/craft-of-writing/series-bible/), [Jane Friedman's principles for historical fiction](https://janefriedman.com/dos-and-donts-of-writing-historical-fiction/)
+Sources: [Laterpress on the series bible as continuity record](https://www.laterpress.com/craft-of-writing/series-bible/), [Jane Friedman's principles for historical fiction](https://janefriedman.com/dos-and-donts-of-writing-historical-fiction/), [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
 
 ## Specificity {#specificity}
 

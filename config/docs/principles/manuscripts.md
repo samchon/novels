@@ -18,6 +18,14 @@ Avoid unintended duplication; when repetition is used, give it a function among 
 
 Sources: [University of Nevada, Reno on psychic distance](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/psychic-distance-in-creative-writing)
 
+## Continuous telling {#continuous-telling}
+
+Inside one unit each paragraph is reachable from the one before it in time, position, and attention. What the narration turns to next follows a movement, a look, an answer, a consequence, or a break the prose marks as a break. A paragraph that resumes somewhere else without marking the move, advances the clock unannounced, restores a position the unit had already left, or handles an object that was never picked up assembles blocks that each read well and do not compose one continuous experience.
+
+Ellipsis, juxtaposition, and abrupt cutting within a unit stay available; what they require is that a reader can tell a cut from a slip. This item owns the join between paragraphs inside a unit — the sentence and the narrating voice belong to prose control, narrated time and the arrangement of consecutive units belong to pacing and rhythm, and the exit-to-entry inheritance between units belongs to unit handover. A unit written as a single unbroken movement does not trigger this item.
+
+Sources: [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x), [UW–Madison Writing Center on cohesion](https://writing.wisc.edu/handbook/style/connectingideas/), [Harvard College Writing Center on transitions](https://writingcenter.fas.harvard.edu/transitions)
+
 ## Point of view {#point-of-view}
 
 Each scene fixes its narrator, the scope of focalization, and the information allowed to the reader. A limited viewpoint keeps the boundaries of observation, inference, and memory; omniscient, objective, collective, and mixed viewpoints operate their transitions and narrative authority consistently. Even an unpeopled place is presented through the chosen narrative focus.
@@ -25,6 +33,14 @@ Each scene fixes its narrator, the scope of focalization, and the information al
 Make shifts of viewpoint or focus identifiable in intent and boundary, and ground everything the reader learns in observation, inference, memory, or narrative authority.
 
 Sources: [Oregon State University on point of view](https://liberalarts.oregonstate.edu/wlf/what-point-of-view), [Oregon State University on free indirect discourse](https://liberalarts.oregonstate.edu/wlf/what-free-indirect-discourse)
+
+## Narrated withholding {#narrated-withholding}
+
+A telling that keeps something back keeps it back by means its focal mode already owns: what the consciousness does not notice, cannot see, will not think about, or has no words for. Narration that steps around a fact its chosen mode is plainly holding — cutting away at the moment of the thought, naming everything in a memory except its subject, reporting an act while suppressing the motive its actor knows — buys surprise against the reader's trust, and loses it on the first rereading.
+
+The same control governs stress. A portent lending a moment weight the unit has not produced, an interiority stating the recognition the unit was built to let the reader reach, or an emphasis no present purpose explains marks a significance the telling has not earned and spends the later unit's work early. Which information the work withholds, and when it pays that withholding off, belongs to the storyline layer's disclosure item; what the reader is given and the authority it arrives on belongs to point of view. This item owns whether the narration's silences and stresses are honest to the mode it chose. A unit that neither withholds nor marks significance does not trigger this item.
+
+Sources: [Sternberg on delayed and distributed exposition](https://archive.org/details/expositionalmode0000ster), [Brewer & Lichtenstein's structural-affect theory](https://doi.org/10.1017/S0140525X00017568), [University of Minnesota on plot, suspense, and surprise](https://manifold.open.umn.edu/read/c10-plot-rodak-storey/section/d89285f2-a958-4caa-9c4d-7f0f612724b8)
 
 ## Pacing and rhythm {#pacing-rhythm}
 

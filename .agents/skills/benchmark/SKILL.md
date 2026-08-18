@@ -32,6 +32,8 @@ flowchart LR
 
 Give each work one exclusive owner and forbid edits to other packages. The coordinator owns shared config, skills, workspace files, package creation, and cross-work audits.
 
+An owner may delegate research but never authorship: a helper returns findings and writes nothing into the package, because helpers cannot see each other's files and each will otherwise produce its own complete canon. Helpers can also outlive the owner that spawned them, so before reassigning or restarting a work, stop its helpers and confirm the package directory has stopped changing.
+
 Every brief states:
 
 - package path, title or seed, genre, intended scale, language, and authorized creative freedom;

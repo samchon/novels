@@ -36,9 +36,28 @@ A compiling work is not a finished work: after all layers pass review, repeated 
 
 ## Works
 
-No work packages exist yet. Each new work is added with the generator and listed here with its title, subject, genre, and honest status.
+Five works run under one harness as the current benchmark campaign, logged in [`BENCHMARK.md`](BENCHMARK.md). Each was chosen for a different genre, research burden, narrating voice, and audience. The first is written alone and to completion, so that what it exposes is repaired in the shared principles and skills before the other four inherit it.
+
+| Package | Title | Subject | Genre | Experiment axis | Status |
+| --- | --- | --- | --- | --- | --- |
+| [`napoleon-imperator`](packages/napoleon-imperator) | *Imperator* | Napoleon Bonaparte's life and age, opened at Austerlitz | Long-form historical biography | Documentary rigor beside limited focalization | in progress, settings `disabled` |
+| [`abyss-regressor`](packages/abyss-regressor) | *Abyss Regressor* | A regressor's repeated descent into a world-eating Abyss | Progression fantasy | Serial momentum joined to long-form causality | scaffolded, held |
+| [`after-school-conquest`](packages/after-school-conquest) | *The After-School World Conquest Club* | A suburban high school club plays at conquering the world | Light-novel comedy | A light first person accruing real costs | scaffolded, held |
+| [`long-night-voyager`](packages/long-night-voyager) | *The Long Night Voyager* | Generational turnover aboard a failing closed system | Generation-ship hard SF | Engineering limits driving social change | scaffolded, held |
+| [`pale-lantern`](packages/pale-lantern) | *The Pale Lantern* | The reliability of memory and testimony | Psychological thriller | Unreliable narration under fair clue control | scaffolded, held |
 
 ## Usage
+
+The evidence graph compiles the principle checklists with `@ttsc/evidence`'s `checklist` reference, which no published release carries yet — the newest on the registry is 0.27.0. Until 0.28.0 publishes, bootstrap once from a local [`ttsc`](https://github.com/samchon/ttsc) checkout, whose tarballs the `overrides` block in [`pnpm-workspace.yaml`](pnpm-workspace.yaml) points at:
+
+```bash
+# from a ttsc checkout at version 0.28.0
+for p in evidence lint ttsc ttsc-win32-x64; do
+  (cd packages/$p && pnpm pack --pack-destination /path/to/novels/artifacts)
+done
+```
+
+Then work from this repository:
 
 ```bash
 pnpm install
