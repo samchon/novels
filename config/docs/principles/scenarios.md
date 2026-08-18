@@ -30,9 +30,7 @@ Sources: [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.
 
 Dialogue operates relationship, attitude, emotion, rhythm, or situation, never only information transfer. Include enough of the actual exchanges — in speaker-labelled blocks — that later writers do not have to invent the decisive accusation, bargain, lie, plea, refusal, or silence, whenever exact wording, interruption, evasion, overlap, or a failed answer changes power, relationship, knowledge, or action.
 
-Choose the agreement or gap between what is said and what is meant, and the placement of silence and topic shifts, by character and situation. Do not make participants unnaturally recite facts they already share only to inform the reader, and do not transcribe harmless chatter merely to look like a script.
-
-A scene with no speech is outside this principle's scope.
+Choose the agreement or gap between what is said and what is meant, and the placement of silence and topic shifts, by character and situation. Do not make participants unnaturally recite facts they already share only to inform the reader, and do not transcribe harmless chatter merely to look like a script. A scene with no speech is outside this principle's scope.
 
 Sources: [Center for Fiction on writing dialogue](https://centerforfiction.org/writing-tools/tips-for-writing-dialogue/)
 

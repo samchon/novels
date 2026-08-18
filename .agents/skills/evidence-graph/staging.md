@@ -47,7 +47,7 @@ For a settings foundation pass, make a target-to-host map before inserting tags.
 
 Never lower or skip a state. Do not activate a layer before its immediate upstream layer has a clean review build; the pipeline is `settings → storylines → scenarios → manuscripts`.
 
-The `settings` stage owns only the settings principle checklist. The settings H2 catalog has no stage of its own: settle it before storylines, revise it when later work exposes a defect, and propagate every consequence; each consuming layer's stage decides whether its settings citations need review.
+The `settings` stage owns only the principle checklists on settings files. The settings H2 catalog has no stage of its own: settle it before storylines, revise it when later work exposes a defect, and propagate every consequence; each consuming layer's stage decides whether its settings citations need review.
 
 Keep package comments focused on transition conditions. Do not copy claims into wrappers or create phase-specific configs.
 

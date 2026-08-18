@@ -94,12 +94,12 @@ const createSettingReferences = (
 /**
  * The literary principle checklists a layer's files answer item by item.
  *
- * Principles live in `config/docs/principles` as one file per authored layer
- * plus `narratives.md`, each principle one anchored H2. Every principle reference
- * is a `checklist`: each file host answers each H2 item with its own citation
- * or item exclusion, and a whole-document citation is refused as an aggregate.
- * One file can therefore never tick a box on behalf of another, which is the
- * coverage the old file-per-principle layout could not express.
+ * Principles live in `config/docs/principles` as `common.md` answered by every
+ * layer, `narratives.md` answered by the three narrative layers, and one file
+ * per authored layer, each principle one anchored H2. Every principle
+ * reference is a `checklist`: each file host answers each H2 item with its own
+ * citation, and a whole-document citation is refused as an aggregate, so one
+ * file can never tick a box on behalf of another.
  *
  * Every principle reference refuses exclusions. Principles are written
  * conditionally — an item that governs speech, tension, or closure binds only
@@ -121,27 +121,25 @@ const createPrincipleReferences = (
     .relative(location, path.join(configRoot, "docs"))
     .replaceAll("\\", "/");
 
-  const references: ITtscEvidenceGraphReference[] = [];
-  if (layer !== "settings")
-    references.push({
-      type: "markdown",
-      root: referenceRoot,
-      files: ["principles/narratives.md"],
-      symbol: "h2",
-      checklist: true,
-      noEvidenceExclude: true,
-      requireReview,
-    } satisfies ITtscEvidenceGraphReference);
-  references.push({
+  const createChecklistReference = (
+    file: string,
+  ): ITtscEvidenceGraphReference => ({
     type: "markdown",
     root: referenceRoot,
-    files: [`principles/${layer}.md`],
+    files: [`principles/${file}`],
     symbol: "h2",
     checklist: true,
     noEvidenceExclude: true,
     requireReview,
-  } satisfies ITtscEvidenceGraphReference);
-  return references;
+  });
+
+  return [
+    createChecklistReference("common.md"),
+    ...(layer === "settings"
+      ? []
+      : [createChecklistReference("narratives.md")]),
+    createChecklistReference(`${layer}.md`),
+  ];
 };
 
 const createGraphConfig = (props: ICreateLintConfigProps): ITtscLintConfig => {
@@ -169,10 +167,10 @@ const createGraphConfig = (props: ICreateLintConfigProps): ITtscLintConfig => {
   const claims: ITtscEvidenceGraphClaim[] = [
     // Settings are the canon foundation, but writing them is itself a
     // disciplined craft: declared sources, sufficient constraints,
-    // verified quantities. Each settings file answers the settings
-    // principle checklist once, before its first H1.
+    // verified quantities. Each settings file answers the common and
+    // settings principle checklists once, before its first H1.
     ({
-      name: "setting files answer the settings principle checklist",
+      name: "setting files answer the common and settings principle checklists",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["settings/**/*.md"],
@@ -189,7 +187,7 @@ const createGraphConfig = (props: ICreateLintConfigProps): ITtscLintConfig => {
     // answered item by item in one comment before its H1 instead of
     // repeated on every sequence, chapter, and scene.
     ({
-      name: "storyline files answer the narrative and storyline principle checklists",
+      name: "storyline files answer the common, narrative, and storyline principle checklists",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["storylines/**/*.md"],
@@ -241,7 +239,7 @@ const createGraphConfig = (props: ICreateLintConfigProps): ITtscLintConfig => {
     } satisfies ITtscEvidenceGraphClaim),
 
     ({
-      name: "scenario files answer the narrative and scenario principle checklists",
+      name: "scenario files answer the common, narrative, and scenario principle checklists",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["scenarios/**/*.md"],
@@ -319,7 +317,7 @@ const createGraphConfig = (props: ICreateLintConfigProps): ITtscLintConfig => {
     } satisfies ITtscEvidenceGraphClaim),
 
     ({
-      name: "manuscript files answer the narrative and manuscript principle checklists",
+      name: "manuscript files answer the common, narrative, and manuscript principle checklists",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["manuscripts/**/*.md"],
@@ -438,8 +436,8 @@ const createGraphConfig = (props: ICreateLintConfigProps): ITtscLintConfig => {
  * and fingerprints. Layers hold independent states, so reviewed settings and
  * storylines can stand while scenarios are still drafted freely.
  *
- * Settings enter the pipeline first: their stage governs the settings
- * principle checklist on each settings file, while their H2 catalog becomes
+ * Settings enter the pipeline first: their stage governs the common and
+ * settings principle checklists on each settings file, while their H2 catalog becomes
  * downstream evidence whose review requirement follows each consuming layer's
  * own stage.
  */

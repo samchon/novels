@@ -22,11 +22,12 @@ Do not rewrite canon merely to excuse a downstream mistake. Compare research, dr
 
 ```mermaid
 flowchart LR
-  P["settings.md principle H2 items"] --> SF["settings file"]
+  CM["common.md H2 items"] --> SF["settings file"]
+  P["settings.md H2 items"] --> SF
   SF -. "H2 facts become downstream evidence" .-> D["storylines / scenarios / manuscripts"]
 ```
 
-Each settings file answers the `principles/settings.md` checklist in one HTML comment before its first H1. Settings files cite nothing else — their H2 facts are the evidence downstream layers consume. Load `$evidence-graph` [staging](../evidence-graph/staging.md) before changing state; its main skill owns tag grammar, checklist policy, coverage, and exclusions, and its [review procedure](../evidence-graph/review.md) owns fingerprints.
+Each settings file answers the `principles/common.md` and `principles/settings.md` checklists in one HTML comment before its first H1. Settings files cite nothing else — their H2 facts are the evidence downstream layers consume. Load `$evidence-graph` [staging](../evidence-graph/staging.md) before changing state; its main skill owns tag grammar, checklist policy, coverage, and exclusions, and its [review procedure](../evidence-graph/review.md) owns fingerprints.
 
 ## Harness
 
@@ -38,7 +39,7 @@ settings: "disabled",
 
 1. Keep `disabled` while researching and writing the complete canon without compiler pressure.
 2. Read the complete setting system. Check contradictions, impossible timelines, undefined exceptions, unsupported precision, predetermined arcs, and inert detail.
-3. Change to `evidence`; answer the settings checklist truthfully and repair any file the checklist exposes.
+3. Change to `evidence`; answer both checklists truthfully and repair any file an item exposes.
 4. Change to `review` only after the evidence build is clean; fingerprint each item answer while performing its check.
 5. Reach a clean review build before activating storylines.
 

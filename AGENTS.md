@@ -40,7 +40,7 @@ disabled → evidence → review
 - `evidence`: activate the layer's file-level principle checklists and its H2/H3/H4 setting and lineage claims, resolve their compiler errors truthfully, and revise content when the graph exposes a defect.
 - `review`: keep the graph active, require current reviewed fingerprints, and independently recheck every acknowledgement.
 
-The `settings` stage governs the settings principle checklist on each settings file; the settings H2 catalog itself becomes downstream evidence whose review requirement follows each consuming layer's own stage.
+The `settings` stage governs the common and settings principle checklists on each settings file; the settings H2 catalog itself becomes downstream evidence whose review requirement follows each consuming layer's own stage.
 
 Comment each package state with the condition for its next transition. Do not skip, reverse, or lower a state to hide diagnostics. Do not activate a downstream layer before the immediate upstream layer has a clean review build; the pipeline is `settings → storylines → scenarios → manuscripts`.
 
@@ -48,7 +48,7 @@ Comment each package state with the condition for its next transition. Do not sk
 
 - Keep only Markdown in every `docs` directory.
 - Keep detailed canonical world facts in each work package's `docs/settings`. Every addressable fact is an H2. Put non-evidence overview prose above the first H2.
-- Keep reusable literary principles in `config/docs/principles` as `narratives.md` plus one file per authored layer: `settings.md`, `storylines.md`, `scenarios.md`, `manuscripts.md`. Each principle is independent of any work's subject, genre, characters, setting, and ending. Each file has exactly one H1, non-evidence overview prose above the first H2, and one anchored H2 per principle; the compiler reads every H2 as one checklist item.
+- Keep reusable literary principles in `config/docs/principles` as `common.md` answered by every layer, `narratives.md` answered by the three narrative layers, and one file per authored layer: `settings.md`, `storylines.md`, `scenarios.md`, `manuscripts.md`. Each principle is independent of any work's subject, genre, characters, setting, and ending. Each file has exactly one H1, non-evidence overview prose above the first H2, and one anchored H2 per principle; the compiler reads every H2 as one checklist item.
 - Keep narrative artifacts in `docs/storylines`, `docs/scenarios`, and `docs/manuscripts`. Do not create placeholder files or invent story content without an explicit request.
 - Start settings, storyline, scenario, and manuscript filenames with zero-padded order such as `001-opening.md`. Preserve the sequence key and slug across the three narrative layers.
 - Use H2 for sequences, H3 for chapters, and H4 for scenes in every narrative artifact. A manuscript H4 is an internal authoring and evidence boundary; it may be hidden or rendered as a scene break at publication and need not be a visible book heading.
@@ -66,7 +66,7 @@ Keep the layers distinct. Settings state facts and constraints; storylines own c
 ## Evidence discipline
 
 - Put principle acknowledgements in one file-level HTML comment before the first H1 of each settings and narrative Markdown file. Do not repeat principle tags under H2, H3, or H4.
-- Principle references are compiler checklists: each file answers each anchored H2 item individually — `narratives.md` plus the layer file for narrative files, `settings.md` for settings files. Whole-file citations are refused and no principle item may be excluded: each item binds wherever its condition applies, and the citation asserts that compliance.
+- Principle references are compiler checklists: each file answers each anchored H2 item individually — `common.md` for every file, `narratives.md` additionally for narrative files, and its own layer's file. Whole-file citations are refused and no principle item may be excluded: each item binds wherever its condition applies, and the citation asserts that compliance.
 - Put setting and cross-layer lineage acknowledgements directly below the H2, H3, or H4 they justify.
 - Use configured evidence-root paths in tags: `settings/...`, `storylines/...`, `scenarios/...`, `manuscripts/...`, and shared `principles/...`. Do not prefix them with `docs/`.
 - Preserve strict one-parent, no-exclusion lineage between matching narrative units. Treat settings as unit-level foundations and principles as file-level literary contracts; both require truthful citations or concrete scope exclusions where the graph permits them.

@@ -46,7 +46,7 @@ Package Markdown populations use `root: "docs"`; shared principles use `config/d
 
 ## Tags
 
-Place file-level principle checklist answers in one HTML comment before the document's first H1: settings files answer `principles/settings.md`, and each narrative file answers `principles/narratives.md` plus its layer's principle file, one line per anchored H2 item. Place setting and lineage tags directly below the H2, H3, or H4 they justify:
+Place file-level principle checklist answers in one HTML comment before the document's first H1: every file answers `principles/common.md` and its own layer's principle file, and each narrative file also answers `principles/narratives.md`, one line per anchored H2 item. Place setting and lineage tags directly below the H2, H3, or H4 they justify:
 
 ```text
 @evidence path/file.md#anchor Why the host uses or realizes the target.
