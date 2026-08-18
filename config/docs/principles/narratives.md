@@ -68,19 +68,21 @@ Sources: [Purdue OWL on goals and conflict](https://owl.purdue.edu/owl/subject_s
 
 ## Reader question {#reader-question}
 
-Information volume and crisis size never substitute for the reader's reason to read the next unit. Build a concrete question the reader holds, an outcome the reader wants changed, and a choice not yet settled.
+Information volume and crisis size never substitute for the reader's reason to read the next unit. Where a work runs on tellable event, build that reason as a concrete question the reader holds, an outcome the reader wants changed, and a choice not yet settled.
 
-Sustain whichever axis of investment the work needs — comprehension, attention, emotional involvement, or presence in the story world — through scene-level action and sensation.
+A work may instead make its art out of the untellable — the uneventful, the withheld, the merely accumulating. That does not release it from holding a reader; it changes what does the holding. Sustain whichever axis of investment the work needs — comprehension, attention, emotional involvement, or presence in the story world — by the work's own means, and never by announcing that a reason exists.
 
-Sources: [Green & Brock on narrative transportation](https://doi.org/10.1037/0022-3514.79.5.701), [Busselle & Bilandzic's narrative engagement scale](https://doi.org/10.1080/15213260903287259)
+Sources: [Green & Brock on narrative transportation](https://doi.org/10.1037/0022-3514.79.5.701), [Busselle & Bilandzic's narrative engagement scale](https://doi.org/10.1080/15213260903287259), [Baroni on tellability and the art of the not-tellable](https://www-archiv.fdm.uni-hamburg.de/lhn/node/30.html)
 
-## Character goal grounding {#character-goal-grounding}
+## Character grounding {#character-grounding}
 
-The most basic cue for understanding a character is the current goal, the reason it is wanted, and the resistance and cost accepted while pursuing it — shown through observable choices in daily life before any résumé or trait sheet.
+A reader assembles a figure from the work as a model, and the default model is a mind with wishes, beliefs, and intentions. Where a work uses that default, ground it: the current goal, the reason it is wanted, and the resistance and cost accepted while pursuing it, shown through observable choices before any résumé or trait sheet.
 
-The reader need not like or morally endorse a character, but must be able to predict and reinterpret the character's choices from that character's own knowledge, desires, relationships, and pressures.
+Any part of the default may be refused. A figure may be a collective, an office, an anonymous position, a name with no interior, a will in dissolution, or a surface the narration never enters. What a work may not do is leave the refusal indistinguishable from an omission: the refusal is carried by the work's declared mode or by its own consistent practice, and whatever governs the figure's attention and selection in place of stated desire — obsession, procedure, custom, appetite, damage, duty — stays reconstructible from the text.
 
-Sources: [Cohen on identification with characters](https://doi.org/10.1207/S15327825MCS0403_01), [character goal pursuit and narrative engagement](https://doi.org/10.1080/15213269.2019.1601569)
+The reader need not like a figure, share its ends, or predict its next act; opacity can be the subject. The reader must be able to reinterpret what the figure did in the light of what the work has shown, rather than receive it as arbitrary.
+
+Sources: [Jannidis on character as a reader-built model whose basis type may be negated explicitly or by genre convention](https://www-archiv.fdm.uni-hamburg.de/lhn/node/41.html), [Cohen on identification with characters](https://doi.org/10.1207/S15327825MCS0403_01), [character goal pursuit and narrative engagement](https://doi.org/10.1080/15213269.2019.1601569)
 
 ## Character accumulation {#character-accumulation}
 
@@ -92,7 +94,7 @@ Sources: [reading of character goal shifts](https://pmc.ncbi.nlm.nih.gov/article
 
 ## Investment beyond crisis {#investment-beyond-crisis}
 
-Waiting, labor, humor, observation, and recovery contribute to investment when they change the reader's question or the character's goal.
+Waiting, labor, humor, observation, and recovery contribute to investment when they change what the reader is holding or the figure's situation.
 
 Exposition, procedure, and event summary that change neither a character's judgment nor the world's response cannot justify a scene by information alone.
 
