@@ -6,9 +6,6 @@ settings:
 
 catalogs:
   typescript:
-    '@ttsc/lint':
-      specifier: ^0.27.0
-      version: 0.27.0
     typescript:
       specifier: ^7.0.2
       version: 7.0.2
@@ -18,7 +15,10 @@ catalogs:
       version: 26.2.0
 
 overrides:
-  '@ttsc/evidence': file:./artifacts/ttsc-evidence-0.27.0.tgz
+  ttsc: file:./artifacts/ttsc-0.28.0.tgz
+  '@ttsc/lint': file:./artifacts/ttsc-lint-0.28.0.tgz
+  '@ttsc/evidence': file:./artifacts/ttsc-evidence-0.28.0.tgz
+  '@ttsc/win32-x64': file:./artifacts/ttsc-win32-x64-0.28.0.tgz
 
 importers:
 
@@ -27,14 +27,119 @@ importers:
   config:
     devDependencies:
       '@ttsc/evidence':
-        specifier: file:../artifacts/ttsc-evidence-0.27.0.tgz
-        version: file:artifacts/ttsc-evidence-0.27.0.tgz(@ttsc/lint@0.27.0)
+        specifier: file:../artifacts/ttsc-evidence-0.28.0.tgz
+        version: file:artifacts/ttsc-evidence-0.28.0.tgz(@ttsc/lint@file:artifacts/ttsc-lint-0.28.0.tgz)
       '@ttsc/lint':
-        specifier: catalog:typescript
-        version: 0.27.0
+        specifier: file:../artifacts/ttsc-lint-0.28.0.tgz
+        version: file:artifacts/ttsc-lint-0.28.0.tgz
       '@types/node':
         specifier: catalog:utils
         version: 26.2.0
+      typescript:
+        specifier: catalog:typescript
+        version: 7.0.2
+
+  packages/abyss-regressor:
+    devDependencies:
+      '@samchon/novel-config':
+        specifier: workspace:*
+        version: link:../../config
+      '@ttsc/evidence':
+        specifier: file:../../artifacts/ttsc-evidence-0.28.0.tgz
+        version: file:artifacts/ttsc-evidence-0.28.0.tgz(@ttsc/lint@file:artifacts/ttsc-lint-0.28.0.tgz)
+      '@ttsc/lint':
+        specifier: file:../../artifacts/ttsc-lint-0.28.0.tgz
+        version: file:artifacts/ttsc-lint-0.28.0.tgz
+      '@types/node':
+        specifier: catalog:utils
+        version: 26.2.0
+      ttsc:
+        specifier: file:../../artifacts/ttsc-0.28.0.tgz
+        version: file:artifacts/ttsc-0.28.0.tgz
+      typescript:
+        specifier: catalog:typescript
+        version: 7.0.2
+
+  packages/after-school-conquest:
+    devDependencies:
+      '@samchon/novel-config':
+        specifier: workspace:*
+        version: link:../../config
+      '@ttsc/evidence':
+        specifier: file:../../artifacts/ttsc-evidence-0.28.0.tgz
+        version: file:artifacts/ttsc-evidence-0.28.0.tgz(@ttsc/lint@file:artifacts/ttsc-lint-0.28.0.tgz)
+      '@ttsc/lint':
+        specifier: file:../../artifacts/ttsc-lint-0.28.0.tgz
+        version: file:artifacts/ttsc-lint-0.28.0.tgz
+      '@types/node':
+        specifier: catalog:utils
+        version: 26.2.0
+      ttsc:
+        specifier: file:../../artifacts/ttsc-0.28.0.tgz
+        version: file:artifacts/ttsc-0.28.0.tgz
+      typescript:
+        specifier: catalog:typescript
+        version: 7.0.2
+
+  packages/long-night-voyager:
+    devDependencies:
+      '@samchon/novel-config':
+        specifier: workspace:*
+        version: link:../../config
+      '@ttsc/evidence':
+        specifier: file:../../artifacts/ttsc-evidence-0.28.0.tgz
+        version: file:artifacts/ttsc-evidence-0.28.0.tgz(@ttsc/lint@file:artifacts/ttsc-lint-0.28.0.tgz)
+      '@ttsc/lint':
+        specifier: file:../../artifacts/ttsc-lint-0.28.0.tgz
+        version: file:artifacts/ttsc-lint-0.28.0.tgz
+      '@types/node':
+        specifier: catalog:utils
+        version: 26.2.0
+      ttsc:
+        specifier: file:../../artifacts/ttsc-0.28.0.tgz
+        version: file:artifacts/ttsc-0.28.0.tgz
+      typescript:
+        specifier: catalog:typescript
+        version: 7.0.2
+
+  packages/napoleon-imperator:
+    devDependencies:
+      '@samchon/novel-config':
+        specifier: workspace:*
+        version: link:../../config
+      '@ttsc/evidence':
+        specifier: file:../../artifacts/ttsc-evidence-0.28.0.tgz
+        version: file:artifacts/ttsc-evidence-0.28.0.tgz(@ttsc/lint@file:artifacts/ttsc-lint-0.28.0.tgz)
+      '@ttsc/lint':
+        specifier: file:../../artifacts/ttsc-lint-0.28.0.tgz
+        version: file:artifacts/ttsc-lint-0.28.0.tgz
+      '@types/node':
+        specifier: catalog:utils
+        version: 26.2.0
+      ttsc:
+        specifier: file:../../artifacts/ttsc-0.28.0.tgz
+        version: file:artifacts/ttsc-0.28.0.tgz
+      typescript:
+        specifier: catalog:typescript
+        version: 7.0.2
+
+  packages/pale-lantern:
+    devDependencies:
+      '@samchon/novel-config':
+        specifier: workspace:*
+        version: link:../../config
+      '@ttsc/evidence':
+        specifier: file:../../artifacts/ttsc-evidence-0.28.0.tgz
+        version: file:artifacts/ttsc-evidence-0.28.0.tgz(@ttsc/lint@file:artifacts/ttsc-lint-0.28.0.tgz)
+      '@ttsc/lint':
+        specifier: file:../../artifacts/ttsc-lint-0.28.0.tgz
+        version: file:artifacts/ttsc-lint-0.28.0.tgz
+      '@types/node':
+        specifier: catalog:utils
+        version: 26.2.0
+      ttsc:
+        specifier: file:../../artifacts/ttsc-0.28.0.tgz
+        version: file:artifacts/ttsc-0.28.0.tgz
       typescript:
         specifier: catalog:typescript
         version: 7.0.2
@@ -44,14 +149,21 @@ packages:
   '@prisma/prisma-schema-wasm@7.10.0-2.d0368e25c88e68caa4d283b5f2d88d1b76ed9356':
     resolution: {integrity: sha512-loEbWBr+xUSqtIYaoJCrIuDeVs/fSY29Efshp+3rrTgQtyEqJ2iGuLTt9XnRZYBUE+eWC8ps0nOblyckgBehJQ==}
 
-  '@ttsc/evidence@file:artifacts/ttsc-evidence-0.27.0.tgz':
-    resolution: {integrity: sha512-twktLXx8WJ9lsr8tDVQFonoGrbsgJjA42wGmmv6VSrULkY/PZ1L8bNL+fQcSLPDtVqLth369g3MbYa4D5IK2WQ==, tarball: file:artifacts/ttsc-evidence-0.27.0.tgz}
-    version: 0.27.0
+  '@ttsc/evidence@file:artifacts/ttsc-evidence-0.28.0.tgz':
+    resolution: {integrity: sha512-uyB2nlISG8M6fiqqfm0DjXvxfdvrNPy8aHMHAeVig9+1Jh/C/XxLpLqVU7M8o03v4LOZyABqT0NDmOcapZL3NA==, tarball: file:artifacts/ttsc-evidence-0.28.0.tgz}
+    version: 0.28.0
     peerDependencies:
       '@ttsc/lint': '>=0.24.0'
 
-  '@ttsc/lint@0.27.0':
-    resolution: {integrity: sha512-HEc5FSoL9OdHiu85mjtgBq548Q8aNRy/nP3jI0AcHgpqvjekogqWBhmHMvyMuOIpUbpO3QfVy0DrD/CCVLqlmQ==}
+  '@ttsc/lint@file:artifacts/ttsc-lint-0.28.0.tgz':
+    resolution: {integrity: sha512-1IeQq0+lWek6xhugNKLSceyuZWlQffy3XZxANhHWvTXbCGU8sZegrzG2egkAmS6n6pJsUU+JI94CnnSKQ4gucg==, tarball: file:artifacts/ttsc-lint-0.28.0.tgz}
+    version: 0.28.0
+
+  '@ttsc/win32-x64@file:artifacts/ttsc-win32-x64-0.28.0.tgz':
+    resolution: {integrity: sha512-7obQR7+X3ZTbYAGAE5v+ntA3xnDlOWajNrhYzPhdSNGVWzwNBV0A0IvQVsHhMDS7mgIq5H6LK78dnwdQvPvoFw==, tarball: file:artifacts/ttsc-win32-x64-0.28.0.tgz}
+    version: 0.28.0
+    cpu: [x64]
+    os: [win32]
 
   '@types/node@26.2.0':
     resolution: {integrity: sha512-5IviulTZeRNp2vAJ514cc/HUlY5nZ9fCbq9DMyC52BrhFZACo3nI0R7qBxhQmo/d27NFe96ur/b7Wwxklda+kg==}
@@ -176,11 +288,17 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@typia/interface@13.2.0':
-    resolution: {integrity: sha512-F0SM5T7d4w8pyfsvQ0Wd8fR41iUwKjzpj/0+z7T87Ue+IS78STBPps5gFgQgM4qfsteVP82S217reJmb1SZRBA==}
+  '@typia/interface@14.0.0':
+    resolution: {integrity: sha512-rzueBuE8TQYJStfyunPuonx4Irqi9L0tDiTTpfJBt5ZKaVA7MYirJvtlBoj0SExhnoF6hcjabQzz906NF6u57w==}
 
-  '@typia/utils@13.2.0':
-    resolution: {integrity: sha512-Hi/04+FY5tf9sHQihl0XWsb9QoISiHTbu6/gucUta9iT0/yakofMajRaCSwomRg43ekNNve7L9Hvb/6u5JDkuQ==}
+  '@typia/utils@14.0.0':
+    resolution: {integrity: sha512-zXJUft0gI/CJ8DxxBZUFb7HtyqxoUB1qhNkscvagCgTmQeuZFdQgkDIkgYMxKa48M9+pv4FbOFlDo7rDWO9Ytw==}
+
+  ttsc@file:artifacts/ttsc-0.28.0.tgz:
+    resolution: {integrity: sha512-bZSiWiFgl+1GnyrTCAHyhmO28XQOs7v7M4kGLSQUIZO5WNJM21YRQq0KyumisbOHBFVnZfnW2bzNQYERLtUmoQ==, tarball: file:artifacts/ttsc-0.28.0.tgz}
+    version: 0.28.0
+    engines: {node: '>=22.15.0'}
+    hasBin: true
 
   typescript@7.0.2:
     resolution: {integrity: sha512-8FYau96o3NKOhbjKi/qNvG/W5jhzxkbdm5sj9AbZ/5T5sWqn3hJgLfGx27sRKZWTvyzCP8dLRBTf5tBTSRVUNA==}
@@ -199,15 +317,18 @@ snapshots:
 
   '@prisma/prisma-schema-wasm@7.10.0-2.d0368e25c88e68caa4d283b5f2d88d1b76ed9356': {}
 
-  '@ttsc/evidence@file:artifacts/ttsc-evidence-0.27.0.tgz(@ttsc/lint@0.27.0)':
+  '@ttsc/evidence@file:artifacts/ttsc-evidence-0.28.0.tgz(@ttsc/lint@file:artifacts/ttsc-lint-0.28.0.tgz)':
     dependencies:
       '@prisma/prisma-schema-wasm': 7.10.0-2.d0368e25c88e68caa4d283b5f2d88d1b76ed9356
-      '@ttsc/lint': 0.27.0
-      '@typia/interface': 13.2.0
-      '@typia/utils': 13.2.0
+      '@ttsc/lint': file:artifacts/ttsc-lint-0.28.0.tgz
+      '@typia/interface': 14.0.0
+      '@typia/utils': 14.0.0
       yaml: 2.9.0
 
-  '@ttsc/lint@0.27.0': {}
+  '@ttsc/lint@file:artifacts/ttsc-lint-0.28.0.tgz': {}
+
+  '@ttsc/win32-x64@file:artifacts/ttsc-win32-x64-0.28.0.tgz':
+    optional: true
 
   '@types/node@26.2.0':
     dependencies:
@@ -273,11 +394,15 @@ snapshots:
   '@typescript/typescript-win32-x64@7.0.2':
     optional: true
 
-  '@typia/interface@13.2.0': {}
+  '@typia/interface@14.0.0': {}
 
-  '@typia/utils@13.2.0':
+  '@typia/utils@14.0.0':
     dependencies:
-      '@typia/interface': 13.2.0
+      '@typia/interface': 14.0.0
+
+  ttsc@file:artifacts/ttsc-0.28.0.tgz:
+    optionalDependencies:
+      '@ttsc/win32-x64': file:artifacts/ttsc-win32-x64-0.28.0.tgz
 
   typescript@7.0.2:
     optionalDependencies:

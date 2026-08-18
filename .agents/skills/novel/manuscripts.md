@@ -13,7 +13,7 @@ Write the finished novel. A manuscript preserves the scenario's decisive action,
 
 ## Craft
 
-This document owns what a manuscript is and how it is produced; `config/docs/principles/common.md` and `narratives.md` own the shared narrative obligations, and `config/docs/principles/manuscripts.md` owns the prose obligations — scene realization from the script, prose control, viewpoint, pacing and rhythm, reader orientation, dialogue voice, emotional resonance, and descriptive function. Read all three before drafting and read every scene against their items. When a manuscript unit adds no perception, voice, or texture the scenario lacked, it has been transcribed rather than written.
+This document owns what a manuscript is and how it is produced; `config/docs/principles/common.md` and `narratives.md` own the shared narrative obligations, and `config/docs/principles/manuscripts.md` owns the prose obligations — scene realization from the script, prose control, continuous telling, viewpoint, narrated withholding, pacing and rhythm, reader orientation, dialogue voice, emotional resonance, and descriptive function. Read all three before drafting and read every scene against their items. When a manuscript unit adds no perception, voice, or texture the scenario lacked, it has been transcribed rather than written.
 
 ## Evidence
 
