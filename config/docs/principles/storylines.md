@@ -46,7 +46,7 @@ Sources: [Oregon State University on foreshadowing](https://liberalarts.oregonst
 
 Distinguish the information the reader needs to understand the current narration from the information deliberately withheld. Do not dump names, rules, relationships, and time shifts at once; introduce new information connected to context already given.
 
-Ground in advance any condition decisive for understanding a later outcome, without breaking the surprise and plausibility the work has promised. A revelation extends or legitimately revises earlier facts rather than arbitrarily voiding them, and leaves behind a change in character judgment, relationships, situation, or reader interpretation. Units responsible for no new information or revelation do not trigger this item.
+Ground in advance any condition decisive for understanding a later outcome, without breaking the surprise and plausibility the work has promised and without letting the grounding announce what it grounds: a planting that explains its own payoff spends the discovery early and leaves the later unit nothing to perform. A revelation extends or legitimately revises earlier facts rather than arbitrarily voiding them, and leaves behind a change in character judgment, relationships, situation, or reader interpretation. Units responsible for no new information or revelation do not trigger this item.
 
 Sources: [Harvard College Writing Center on connecting information](https://writingcenter.fas.harvard.edu/transitions), [Brewer & Lichtenstein's structural-affect theory](https://doi.org/10.1017/S0140525X00017568)
 

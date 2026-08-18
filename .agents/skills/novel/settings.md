@@ -2,6 +2,8 @@
 
 Keep canon in `<work-package>/docs/settings`. Use Markdown only, ordered filenames, and one stable anchored H2 per addressable fact.
 
+The work's governing aim and its intended scale are settings facts of their own. Record them in the first settings file, before the world facts that serve them, so every later layer can be held to both.
+
 ## Craft
 
 `config/docs/principles/common.md` and `config/docs/principles/settings.md` own what canon must contain and how it is declared, kept coherent, kept execution-neutral, researched, and checked. Read both before writing and draft every file against their items; do not restate them here or in package documents.

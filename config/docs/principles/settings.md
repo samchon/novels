@@ -18,6 +18,14 @@ Sufficiency is judged by the downstream question it answers, not by word count. 
 
 Sources: [Laterpress on the series bible](https://www.laterpress.com/craft-of-writing/series-bible/), [Figments and Fables on series bibles for television and novels](https://figmentsandfables.com/2022/03/29/step-by-step-guide-to-writing-a-series-bible-for-television-and-novels-part-i-of-iii/)
 
+## Figures and relations {#figures-and-relations}
+
+Every figure the work relies on gets its own addressable unit: what it wants and refuses, what it can and cannot do, what it knows and believes wrongly, what it owes and is owed, how it speaks, and what would make it act against its habit. A figure that exists only inside another figure's entry cannot be cited by the scene that needs it.
+
+A relation is a fact in its own right, not the sum of two entries, and it is recorded from both sides wherever the sides differ: what binds the pair, what each believes the other believes, what debt, rank, secret, or obligation runs between them, and what has already changed it. Households, offices, crews, and factions hold relations that no member's entry contains; those take units of their own.
+
+Sources: [Palmer on social and intermental minds in fiction](https://muse.jhu.edu/book/24307), [Laterpress on the series bible](https://www.laterpress.com/craft-of-writing/series-bible/)
+
 ## Internal coherence {#internal-coherence}
 
 The setting system must hold together as one world: no contradictions between files, no impossible timelines, no undefined exceptions relied on elsewhere, no precision the declared sources cannot support, and no predetermined arc smuggled in as fact.

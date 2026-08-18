@@ -66,6 +66,14 @@ When chance produces a decisive result, match it to the degree of plausibility a
 
 Sources: [Purdue OWL on goals and conflict](https://owl.purdue.edu/owl/subject_specific_writing/creative_writing/writers/fiction-basics/writing_compelling_characters.html), [UC San Diego on conflict, crisis, and foreshadowing](https://extendedstudies.ucsd.edu/news-events/extended-studies-blog/the-call-to-creative-writing-finding-your-voice-telling-your-story)
 
+## Expositional entry {#expositional-entry}
+
+A reader arrives knowing nothing and has to be made competent before being asked to care. Decide what must be understood before the first pressure lands and give exactly that, holding the rest until a unit makes it matter. Concentrated exposition buys early clarity at the cost of early interest; distributed exposition buys interest at the cost of provisional misreading. Choose which cost the work pays, and pay it deliberately.
+
+A prologue, a framing unit, or a period preamble earns its place only by doing what no later unit can. Introduce a cast, an era, and a rule system the way a reader will need them rather than the way a reference would list them, letting each new name, custom, or law arrive attached to a consequence the reader can already feel.
+
+Sources: [Sternberg on delayed and distributed exposition](https://archive.org/details/expositionalmode0000ster), [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
+
 ## Reader question {#reader-question}
 
 Information volume and crisis size never substitute for the reader's reason to read the next unit. Where a work runs on tellable event, build that reason as a concrete question the reader holds, an outcome the reader wants changed, and a choice not yet settled.
@@ -84,7 +92,7 @@ Sources: [Jannidis on character as a reader-built model whose basis type may be 
 
 ## Character accumulation {#character-accumulation}
 
-The reader's model of a character accumulates unit by unit: a new choice confirms or complicates earlier successes, failures, lies, wounds, debts, attachments, and habits, and no character is reset to an amnesiac functionary to move the plot.
+The reader's model accumulates unit by unit: a new choice confirms or complicates earlier successes, failures, lies, wounds, debts, attachments, and habits, and no figure is reset to an amnesiac functionary to move the plot. What stands between figures accumulates the same way — a relation carries every exchange already passed through it, and changes by what passes through it next, never by assertion.
 
 Place an emotional peak or a loss only after the reader has experienced the value and the ordinary state of what is at stake, and scale it to the accumulated meaning.
 

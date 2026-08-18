@@ -2,6 +2,14 @@
 
 Principles every authored file of every layer answers — settings, storylines, scenarios, and manuscripts alike. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance. Where a file holds no unit an item governs, the citation states that scope fact.
 
+## Governing aim {#governing-aim}
+
+A work has one governing aim — the affect it means to earn, the understanding it means to produce, the pleasure it means to give, or the argument it means to press — and records it in its settings so every layer can be held to it. Other goods may be served, but one leads and orders the rest; a work that pursues every good equally pursues none.
+
+The aim binds selection, not vocabulary. It decides which facts are worth establishing, which events are worth staging, and which effects are worth their cost, and it is judged by what the work spends its space on rather than by what it declares about itself.
+
+Sources: [Jakobson on the dominant as the component that rules and transforms the rest](https://archive.org/details/readingsinrussia0000mate)
+
 ## Layered refinement {#layered-refinement}
 
 The work refines in one direction: settings and principles ground storylines, storylines ground scenarios, scenarios ground manuscripts. Each layer adds only its own kind of decision — facts and constraints, then causes and events, then executable scene progression, then finished prose — and never pre-makes a downstream one.
