@@ -1,6 +1,6 @@
 # Scenario Principles
 
-Principles for the layer that specifies detailed executable scene progression. A file truthfully outside an item's premise may exclude it with a concrete scope reason.
+Principles for the layer that specifies detailed executable scene progression. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance.
 
 ## Stageability {#stageability}
 
@@ -32,7 +32,7 @@ Dialogue operates relationship, attitude, emotion, rhythm, or situation, never o
 
 Choose the agreement or gap between what is said and what is meant, and the placement of silence and topic shifts, by character and situation. Do not make participants unnaturally recite facts they already share only to inform the reader, and do not transcribe harmless chatter merely to look like a script.
 
-A scene with no speech may exclude this principle.
+A scene with no speech is outside this principle's scope.
 
 Sources: [Center for Fiction on writing dialogue](https://centerforfiction.org/writing-tools/tips-for-writing-dialogue/)
 
@@ -48,6 +48,6 @@ Sources: [Open University on suspense](https://www.open.edu/openlearn/history-th
 
 When place and environment stand in the scene's foreground, show what they act on: action, perception, emotion, atmosphere, or theme. Terrain, institutions, livelihoods, objects, weather, and sensory markers are selected by the scene's focus, and their constraints — distance, visibility, noise, procedure, authority — must actually bind what participants can attempt.
 
-An environment that never resists, enables, or reveals anything is decoration; either make it operative or reduce it. A scene whose environment genuinely exerts no pressure may exclude this principle with its scope stated.
+An environment that never resists, enables, or reveals anything is decoration; either make it operative or reduce it. A scene whose environment genuinely exerts no pressure is outside this principle's scope.
 
 Sources: [Oregon State University on setting](https://liberalarts.oregonstate.edu/wlf/what-setting)

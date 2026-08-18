@@ -9,7 +9,7 @@ Identify the package under `packages/*`. Read `AGENTS.md`, its `package.json`, `
 
 ```mermaid
 flowchart LR
-  PC["common.md H2 items"] -. "checklist per file" .-> T["storylines<br/>H2 / H3 / H4"]
+  PC["narratives.md H2 items"] -. "checklist per file" .-> T["storylines<br/>H2 / H3 / H4"]
   PC -. "checklist per file" .-> S["scenarios<br/>H2 / H3 / H4"]
   PC -. "checklist per file" .-> M["manuscripts<br/>H2 / H3 / H4"]
   PL["layer principle H2 items"] -. "checklist per file" .-> F["settings H2"]
@@ -24,7 +24,7 @@ flowchart LR
   T -->|"direct lineage check"| M
 ```
 
-Principles are per-layer checklists answered once at file scope: every file answers its layer's principle file, and every narrative file also answers `common.md`. Settings ground the exact H2, H3, and H4 units that use them. Matching H2, H3, and H4 units preserve lineage across layers; Markdown hierarchy already owns same-layer parentage, so do not cite it again.
+Principles are per-layer checklists answered once at file scope: every file answers its layer's principle file, and every narrative file also answers `narratives.md`. Settings ground the exact H2, H3, and H4 units that use them. Matching H2, H3, and H4 units preserve lineage across layers; Markdown hierarchy already owns same-layer parentage, so do not cite it again.
 
 Apply this workflow without subject-matter exceptions. Historical, biographical, real-world, familiar, or heavily researched material still requires explicit package canon and the full lineage, evidence, staging, and review workflow; external knowledge never substitutes for them.
 

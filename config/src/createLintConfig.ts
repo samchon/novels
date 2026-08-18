@@ -95,16 +95,17 @@ const createSettingReferences = (
  * The literary principle checklists a layer's files answer item by item.
  *
  * Principles live in `config/docs/principles` as one file per authored layer
- * plus `common.md`, each principle one anchored H2. Every principle reference
+ * plus `narratives.md`, each principle one anchored H2. Every principle reference
  * is a `checklist`: each file host answers each H2 item with its own citation
  * or item exclusion, and a whole-document citation is refused as an aggregate.
  * One file can therefore never tick a box on behalf of another, which is the
  * coverage the old file-per-principle layout could not express.
  *
- * `common.md` additionally refuses exclusions: its principles are the ones no
- * narrative file of any genre may opt out of. Layer files permit per-item
- * `@evidenceExclude` with a concrete scope reason, because a specific work can
- * truthfully sit outside one item's premise.
+ * Every principle reference refuses exclusions. Principles are written
+ * conditionally — an item that governs speech, tension, or closure binds only
+ * where its condition triggers — so citing an item asserts that the file
+ * honors it wherever it applies, and a file the compiler cannot honestly
+ * satisfy is defective rather than excludable.
  *
  * With `requireReview`, each acknowledgement carries the fingerprint of that
  * single item, so editing one principle expires every host's answer to that
@@ -125,11 +126,9 @@ const createPrincipleReferences = (
     references.push({
       type: "markdown",
       root: referenceRoot,
-      files: ["principles/common.md"],
+      files: ["principles/narratives.md"],
       symbol: "h2",
       checklist: true,
-      // No narrative file of any layer or genre may exclude a common
-      // principle; every host adopts every item positively.
       noEvidenceExclude: true,
       requireReview,
     } satisfies ITtscEvidenceGraphReference);
@@ -139,6 +138,7 @@ const createPrincipleReferences = (
     files: [`principles/${layer}.md`],
     symbol: "h2",
     checklist: true,
+    noEvidenceExclude: true,
     requireReview,
   } satisfies ITtscEvidenceGraphReference);
   return references;
@@ -189,7 +189,7 @@ const createGraphConfig = (props: ICreateLintConfigProps): ITtscLintConfig => {
     // answered item by item in one comment before its H1 instead of
     // repeated on every sequence, chapter, and scene.
     ({
-      name: "storyline files answer the common and storyline principle checklists",
+      name: "storyline files answer the narrative and storyline principle checklists",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["storylines/**/*.md"],
@@ -241,7 +241,7 @@ const createGraphConfig = (props: ICreateLintConfigProps): ITtscLintConfig => {
     } satisfies ITtscEvidenceGraphClaim),
 
     ({
-      name: "scenario files answer the common and scenario principle checklists",
+      name: "scenario files answer the narrative and scenario principle checklists",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["scenarios/**/*.md"],
@@ -319,7 +319,7 @@ const createGraphConfig = (props: ICreateLintConfigProps): ITtscLintConfig => {
     } satisfies ITtscEvidenceGraphClaim),
 
     ({
-      name: "manuscript files answer the common and manuscript principle checklists",
+      name: "manuscript files answer the narrative and manuscript principle checklists",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["manuscripts/**/*.md"],

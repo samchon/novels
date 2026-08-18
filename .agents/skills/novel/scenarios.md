@@ -12,7 +12,7 @@ This document owns what an initial script is and how it is produced; `config/doc
 
 ```mermaid
 flowchart LR
-  PC["common.md H2 items"] --> CF["scenario file"]
+  PC["narratives.md H2 items"] --> CF["scenario file"]
   PL["scenarios.md H2 items"] --> CF
   F["settings H2"] --> C2["scenario H2"]
   F --> C3["scenario H3"]
@@ -22,7 +22,7 @@ flowchart LR
   T4["matching storyline H4"] --> C4
 ```
 
-Answer the `principles/common.md` and `principles/scenarios.md` checklists in one HTML comment before the file's first H1. Do not repeat principle tags under H2, H3, or H4.
+Answer the `principles/narratives.md` and `principles/scenarios.md` checklists in one HTML comment before the file's first H1. Do not repeat principle tags under H2, H3, or H4.
 
 Place setting and cross-layer lineage acknowledgements directly below the H2, H3, or H4 they justify:
 

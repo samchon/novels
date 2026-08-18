@@ -32,7 +32,7 @@ A review verifies an acknowledgement against the current target; its fingerprint
 - Every claim-reference pair is an independent coverage obligation.
 - Lineage references require one parent per host and allow no exclusion.
 - Foundation references allow multiple truthful citations and concrete scope exclusions. Within one claim population, never cite and exclude the same target.
-- Checklist references (all principle files) are answered item by item: every file host answers every anchored H2 item with its own citation or exclusion, a whole-file citation is refused as an aggregate, and one host's answer never discharges another host. `common.md` refuses exclusions entirely; a layer file permits per-item exclusion with a concrete scope reason, and a whole-file `@evidenceExclude` is one reviewed decision that no item applies.
+- Checklist references (all principle files) are answered item by item: every file host answers every anchored H2 item with its own citation, a whole-file citation is refused as an aggregate, and one host's answer never discharges another host. Every principle reference refuses exclusions: each item binds wherever its condition applies, the citation asserts that conditional compliance, and a file that cannot honestly assert it is defective rather than excludable.
 
 Permissive coverage can compile dishonestly. Do not let one host cite everything, use a blanket exclusion, or rely on a sibling's acknowledgement to hide an omission. A reason such as “this host uses this setting,” “this summary follows the constraint,” or a target-name paraphrase is not evidence: name the host event, decision, limit, or changed state that would become false without the target. For a principle item, name what in this file does what the item requires. If no such operation exists in the host, do not cite it there.
 
@@ -46,7 +46,7 @@ Package Markdown populations use `root: "docs"`; shared principles use `config/d
 
 ## Tags
 
-Place file-level principle checklist answers in one HTML comment before the document's first H1: settings files answer `principles/settings.md`, and each narrative file answers `principles/common.md` plus its layer's principle file, one line per anchored H2 item. Place setting and lineage tags directly below the H2, H3, or H4 they justify:
+Place file-level principle checklist answers in one HTML comment before the document's first H1: settings files answer `principles/settings.md`, and each narrative file answers `principles/narratives.md` plus its layer's principle file, one line per anchored H2 item. Place setting and lineage tags directly below the H2, H3, or H4 they justify:
 
 ```text
 @evidence path/file.md#anchor Why the host uses or realizes the target.
@@ -63,6 +63,6 @@ Place file-level principle checklist answers in one HTML comment before the docu
 
 ## Diagnostics
 
-Treat each error as a question about evidence, hierarchy, canon, causality, or content. Fix the owning artifact; do not manufacture a tag. A checklist shortfall lists exactly the unanswered items; answer or truthfully exclude each one, never with a copied reason.
+Treat each error as a question about evidence, hierarchy, canon, causality, or content. Fix the owning artifact; do not manufacture a tag. A checklist shortfall lists exactly the unanswered items; answer each item with its own reason, never a copied one.
 
 Work by complete claim batches with `pnpm --filter <package-name> ttsc`. Before handoff, run root `pnpm ttsc` and `git diff --check`.

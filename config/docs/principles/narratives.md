@@ -1,4 +1,4 @@
-# Common Principles
+# Narrative Principles
 
 Principles every storyline, scenario, and manuscript file adopts, whatever the work's subject, genre, or ending. No item may be excluded.
 
@@ -76,6 +76,6 @@ Sources: [University College Dublin on revising fiction](https://www.ucd.ie/writ
 
 The H2, H3, and H4 units of storylines, scenarios, and manuscripts directly cite the same-level upstream units they inherit and the settings they actually use; each file answers its principle checklists at file scope.
 
-An `@evidence` states what is inherited and how it is realized; an `@evidenceReview` states what was actually verified, together with the current fingerprint. A setting unused by the unit, or a checklist item a work truthfully sits outside of, may be excluded with a concrete scope reason. Lineage can never be excluded, and common principles can never be excluded. False citations written to pass compilation and meaningless "not applicable" notes are forbidden.
+An `@evidence` states what is inherited and how it is realized; an `@evidenceReview` states what was actually verified, together with the current fingerprint. A setting unused by the unit may be excluded with a concrete scope reason. Lineage and principle items can never be excluded; a conditional principle is honored, not excluded, where its condition never triggers. False citations written to pass compilation and meaningless "not applicable" notes are forbidden.
 
 Sources: [`@ttsc/evidence` documentation](https://github.com/samchon/ttsc/tree/master/packages/evidence)

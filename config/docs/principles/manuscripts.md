@@ -1,6 +1,6 @@
 # Manuscript Principles
 
-Principles for the layer that contains finished literary prose. A file truthfully outside an item's premise may exclude it with a concrete scope reason.
+Principles for the layer that contains finished literary prose. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance.
 
 ## Scene realization {#scene-realization}
 
@@ -44,7 +44,7 @@ Sources: [Harvard College Writing Center on transitions](https://writingcenter.f
 
 Speech in prose becomes voice and subtext: idiom, rhythm, evasion, and silence particular to each speaker and situation, without reproducing the scenario's speaker labels or beat numbers. The decisive exchanges the scenario fixed keep their force and consequence; what changes is how the words live inside the focal perception.
 
-Attribution, gesture, and interiority around speech are chosen for clarity and pressure, not habit. A scene with no speech may exclude this principle.
+Attribution, gesture, and interiority around speech are chosen for clarity and pressure, not habit. A scene with no speech is outside this principle's scope.
 
 Sources: [Center for Fiction on writing dialogue](https://centerforfiction.org/writing-tools/tips-for-writing-dialogue/)
 
@@ -54,7 +54,7 @@ A unit that intends emotional effect first gives the reader cues to experience t
 
 Emotion can be produced not only by sympathy with a character but by distance, numbness, absence, environment, contrast, and rhythm. After an important emotional change, leave behind what differs among perception, judgment, action, and reader interpretation.
 
-A unit with no emotional responsibility may exclude this principle with its scope stated.
+A unit with no emotional responsibility is outside this principle's scope.
 
 Sources: [Oatley on emotion and identification in narrative](https://doi.org/10.1016/0304-422X(94)P4296-S), [experimental work on narrative absorption and empathy](https://doi.org/10.1016/j.paid.2011.10.005)
 
@@ -72,6 +72,6 @@ Arrange deliberately the emotional intensity, sentence speed, narrative distance
 
 When contrast is chosen, the differing units must sharpen each other's effects; when one tone is sustained, control the pressure, calm, numbness, or self-awareness that repetition produces. A transition must not accidentally erase the consequence and resonance of the preceding emotion.
 
-A standalone unit with no rhythmic relation to its neighbors may exclude this principle.
+A standalone unit with no rhythmic relation to its neighbors is outside this principle's scope.
 
 Sources: [University of Nevada, Reno on psychic distance, pace, and dramatic effect](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/psychic-distance-in-creative-writing), [Purdue OWL on scene and summary](https://owl.purdue.edu/owl/resources/writing_tutors/tutoring_creative_writing_students/documents/working-with-creative-writing-students-09152025.pdf)

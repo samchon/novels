@@ -19,7 +19,7 @@ This document owns what a manuscript is and how it is produced; `config/docs/pri
 
 ```mermaid
 flowchart LR
-  PC["common.md H2 items"] --> MF["manuscript file"]
+  PC["narratives.md H2 items"] --> MF["manuscript file"]
   PL["manuscripts.md H2 items"] --> MF
   F["settings H2"] --> M2["manuscript H2"]
   F --> M3["manuscript H3"]
@@ -32,7 +32,7 @@ flowchart LR
   C4["matching scenario H4"] --> M4
 ```
 
-Answer the `principles/common.md` and `principles/manuscripts.md` checklists in one HTML comment before the file's first H1. Do not repeat principle tags under H2, H3, or H4.
+Answer the `principles/narratives.md` and `principles/manuscripts.md` checklists in one HTML comment before the file's first H1. Do not repeat principle tags under H2, H3, or H4.
 
 Place setting and cross-layer lineage acknowledgements directly below the H2, H3, or H4 they justify:
 

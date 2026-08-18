@@ -1,6 +1,6 @@
 # Settings Principles
 
-Principles for authoring a work's canon in `docs/settings`. A file truthfully outside an item's premise may exclude it with a concrete scope reason.
+Principles for authoring a work's canon in `docs/settings`. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance.
 
 ## Canon declaration {#canon-declaration}
 

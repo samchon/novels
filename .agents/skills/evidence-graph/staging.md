@@ -41,7 +41,7 @@ Move to `evidence` only after the full layer has:
 
 Move to `review` only after the evidence build is clean. Then follow [review.md](review.md); its diagnostics become the worklist.
 
-For a principle checklist pass, reread the whole file against each item before answering it. Answering an item means naming what in this file does what the item requires; excluding a layer item means naming the concrete scope fact that puts this file outside its premise. Do not copy one file's answers into another.
+For a principle checklist pass, reread the whole file against each item before answering it. Answering an item means naming what in this file does what the item requires — or, when the item's condition never triggers in this file, naming that scope fact as the compliance. Do not copy one file's answers into another.
 
 For a settings foundation pass, make a target-to-host map before inserting tags. A citation reason must point to a specific event, decision, resource limit, authority boundary, or irreversible result in the host. Never fill an H2 with a broad catalog of settings or reuse a sentence like “this sequence uses this constraint.” If a target only matters in a child chapter or scene, leave the H2 uncovered and account for it in that child's claim population. If no host in the population uses it, write one concrete population-wide exclusion instead.
 
