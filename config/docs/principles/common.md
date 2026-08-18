@@ -1,6 +1,6 @@
 # Common Principles
 
-Principles every authored file of every layer answers — settings, storylines, scenarios, and manuscripts alike. No item may be excluded.
+Principles every authored file of every layer answers — settings, storylines, scenarios, and manuscripts alike. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance. Where a file holds no unit an item governs, the citation states that scope fact.
 
 ## Layered refinement {#layered-refinement}
 
@@ -20,6 +20,6 @@ Sources: [University College Dublin on revising fiction](https://www.ucd.ie/writ
 
 Each file answers its principle checklists at file scope. A narrative H2, H3, or H4 directly cites the same-level upstream units it inherits and the settings it actually uses; an `@evidence` states what is inherited and how it is realized, and an `@evidenceReview` states what was actually verified, with the current fingerprint.
 
-A setting unused by a unit may be excluded with a concrete scope reason. Lineage and principle items can never be excluded. False citations written to pass compilation and meaningless "not applicable" notes are forbidden.
+An exclusion is a statement about a whole claim population, not about one host: a setting that no host in the population uses is excluded once, with a concrete scope reason, while a host that simply does not use a setting stays silent rather than excluding it. Lineage and principle items can never be excluded at all. False citations written to pass compilation and meaningless "not applicable" notes are forbidden.
 
 Sources: [`@ttsc/evidence` documentation](https://github.com/samchon/ttsc/tree/master/packages/evidence)

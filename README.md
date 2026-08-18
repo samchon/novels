@@ -31,7 +31,7 @@ A compiling work is not a finished work: after all layers pass review, repeated 
 | [`config`](config) | Shared private package: the evidence-graph factory ([`createLintConfig.ts`](config/src/createLintConfig.ts)), the principle checklists, and the package generator. |
 | `packages/*` | One novel work per package. |
 | [`AGENTS.md`](AGENTS.md) | The shared writing and evidence contract. |
-| [`.agents/skills`](.agents/skills) | Repository skills: `novel`, `evidence-graph`, `benchmark`, `edit-agent-skills`. |
+| [`.agents/skills`](.agents/skills) | Repository skills: `novel`, `evidence-graph`, `benchmark`, `edit-agent-instructions`. |
 | [`BENCHMARK.md`](BENCHMARK.md) | Multi-package experiment log. |
 
 ## Works
@@ -47,8 +47,8 @@ pnpm install
 pnpm create:novel winter-orbit --title "Winter Orbit" --description "A generation-ship mystery"
 
 # compile one work's evidence graph
-pnpm --filter @samchon/novel-winter-orbit ttsc
+pnpm --filter @samchon/novel-winter-orbit build
 
 # compile every work from the root
-pnpm ttsc
+pnpm build
 ```

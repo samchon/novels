@@ -4,7 +4,7 @@ Write `docs/storylines` with ordered filenames and `H2 sequence → H3 chapter �
 
 ## Scope
 
-A storyline is a **detailed narrative treatment**, not a causal card and not a preliminary screenplay. It must let a careful reader understand the novel's movement before a scenario or manuscript exists. This document owns what a treatment is; the principle checklists own the craft it must satisfy.
+A storyline is a **detailed narrative treatment**, not a causal card and not a preliminary screenplay. It must let a careful reader understand the novel's movement before a scenario or manuscript exists. This document owns what a treatment is; `config/docs/principles/common.md`, `narratives.md`, and `storylines.md` own the craft it must satisfy. Read all three before drafting.
 
 Each H4 writes the actual dramatic development in connected prose. It establishes the inherited pressure or question that makes the reader enter, the people or forces able to act, the material and social conditions that constrain them, the attempt and resistance, the meaningful choice or discovery, and the changed condition that makes a later scene necessary. Name emotions only through their cause, decision, expression, or changed relationship; do not replace action with a label such as “trust deepens.”
 
@@ -30,7 +30,7 @@ flowchart LR
 
 Answer the `principles/common.md`, `principles/narratives.md`, and `principles/storylines.md` checklists in one HTML comment before the file's first H1. Do not repeat principle tags under H2, H3, or H4.
 
-H2, H3, and H4 cite the settings they actually use. Markdown hierarchy already determines each H3's H2 parent and each H4's H3 parent, so do not duplicate same-layer parentage with evidence tags. Use `settings/...` and `principles/...` without `docs/`.
+H2, H3, and H4 cite the settings they actually use and stay silent about the rest; a setting no host in the population uses takes one concrete population-wide `@evidenceExclude`. Markdown hierarchy already determines each H3's H2 parent and each H4's H3 parent, so do not duplicate same-layer parentage with evidence tags. Use `settings/...` and `principles/...` without `docs/`.
 
 Load `$evidence-graph` [staging](../evidence-graph/staging.md) before changing state. Its main skill owns tag grammar, checklist policy, roots, coverage, and exclusions; its [review procedure](../evidence-graph/review.md) owns fingerprints.
 

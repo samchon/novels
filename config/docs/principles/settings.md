@@ -1,6 +1,6 @@
 # Settings Principles
 
-Principles for authoring a work's canon in `docs/settings`. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance.
+Principles for authoring a work's canon in `docs/settings`. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance. Where a file holds no unit an item governs, the citation states that scope fact.
 
 ## Canon declaration {#canon-declaration}
 
@@ -24,11 +24,15 @@ The setting system must hold together as one world: no contradictions between fi
 
 Detail that touches nothing — geography no route crosses, institutions no character meets, numbers no scene spends — is inert; either connect it to a constraint some choice can collide with, or cut it. Read the complete system before storylining begins and whenever a file changes.
 
+Sources: [Laterpress on the series bible](https://www.laterpress.com/craft-of-writing/series-bible/), [Figments and Fables on series bibles for television and novels](https://figmentsandfables.com/2022/03/29/step-by-step-guide-to-writing-a-series-bible-for-television-and-novels-part-i-of-iii/)
+
 ## Execution neutrality {#execution-neutrality}
 
 Settings define facts and constraints, not a compulsory scene schedule. They do not prescribe chapter assignments, reveal timing, planned deaths, dialogue, or scene solutions.
 
 Causes, choices, and events belong to storylines; detailed scene execution belongs to scenarios; finished prose belongs to manuscripts. A setting that can only be satisfied by one specific scene played one specific way is a disguised scenario and must be rewritten as the underlying fact or constraint.
+
+Sources: [Plan-and-Write](https://doi.org/10.1609/aaai.v33i01.33017378), [Detailed Outline Control](https://arxiv.org/abs/2212.10077)
 
 ## Research integrity {#research-integrity}
 
@@ -43,3 +47,5 @@ Sources: [Jane Friedman's principles for historical fiction](https://janefriedma
 Check arithmetic, units, chronology, travel time, ages, currency, capacity, and resource flows directly; never trust that plausible-sounding numbers cohere. Distances must survive the declared means of travel, incomes must survive the declared prices, and ages must survive the declared dates.
 
 Precision is a promise: a number stated exactly will be cited exactly downstream. Where the truth is a range or an estimate, declare the range rather than inventing false exactness.
+
+Sources: [Jane Friedman's principles for historical fiction](https://janefriedman.com/dos-and-donts-of-writing-historical-fiction/), [Novlr on researching authentic history for fiction](https://www.novlr.org/the-reading-room/how-to-research-and-bring-authentic-history-to-your-fiction)

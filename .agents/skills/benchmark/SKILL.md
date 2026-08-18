@@ -12,10 +12,10 @@ flowchart LR
   P["preflight shared harness"] --> L["announce lineup and briefs"]
   L --> W["one owner per package"]
   W --> A["author current layer"]
-  A --> T["package ttsc and literal audit"]
+  A --> T["package build and literal audit"]
   T -->|"content defect"| A
   T -->|"shared defect"| C["coordinator fixes owner"]
-  C --> R["root ttsc / recheck all works"]
+  C --> R["root build / recheck all works"]
   T -->|"clean reviewed layer"| N["next layer or full review"]
   N --> Q["cross-work comparison"]
 ```
@@ -25,7 +25,7 @@ flowchart LR
 - Treat one package as one experimental unit. Choose deliberately different genres, research burdens, voices, structures, and audiences.
 - Fix the common harness before authorship: skills, principles, graph factory, layer order, stage semantics, compiler gates, output language, review completion, and any scale target. Explicitly define the layer contract: detailed narrative treatment in storylines, production-capable initial script in scenarios, and finished literary prose in manuscripts.
 - Announce the lineup before launch. Keep the root README table current with package link, title, subject, genre, experiment axis, and honest status.
-- Create new units only with `pnpm create:novel`. Run install and root `ttsc` before agents start. Scaffolding creates structure, not story content.
+- Create new units only with `pnpm create:novel`. Run install and root `build` before agents start. Scaffolding creates structure, not story content.
 - Define observations beforehand: elapsed transitions, diagnostics repaired, upstream revisions, stale reviews renewed, literary findings, and clean review rounds. Without a designed control, call the result exploratory rather than causal proof.
 
 ## Brief each owner
@@ -37,7 +37,7 @@ Every brief states:
 - package path, title or seed, genre, intended scale, language, and authorized creative freedom;
 - required readings: repository instructions, both writing skills, shared principles, graph factory, and all existing package documents;
 - research burden and genre-specific success conditions and failure modes;
-- current layer and lint state, exact package `ttsc` command, and completion report fields;
+- current layer and lint state, exact package `build` command, and completion report fields;
 - the phase-specific deliverable: a reader-complete detailed treatment, a stageable initial script, or finished literary prose. Do not let an owner substitute a causal card for a treatment, a beat list for a script, or a script expansion for a novel;
 - persistence: routine uncertainty and status are not reasons to stop while useful authorized work remains.
 
@@ -74,7 +74,7 @@ Audit samples across every active work:
 
 Intervene when an H4 is merely a large partition, a storyline is an event list or causal card, setting detail is inert or still leaves downstream guessing, a scenario hides mechanics in summary or templated beats, a script omits the decisive exchange or physical turn, prose expands field labels, citations are decorative, exclusions use generic layer excuses, reviews say only "checked," or a compiler-green work is dull or incoherent. Do not micromanage sound creative choices, sanitize difficult subject matter, or rank agents by raw counts.
 
-Return package defects to their owner with the observed evidence and required outcome. Fix a genuine shared defect once in its canonical config or skill, run root `ttsc`, and tell every affected owner to recheck. Never weaken the harness for one lagging work.
+Return package defects to their owner with the observed evidence and required outcome. Fix a genuine shared defect once in its canonical config or skill, run root `build`, and tell every affected owner to recheck. Never weaken the harness for one lagging work.
 
 ## Report and compare
 

@@ -6,7 +6,7 @@ Scenarios are **production-capable initial scripts**. They are neither causal su
 
 ## Craft
 
-This document owns what an initial script is and how it is produced; `config/docs/principles/scenarios.md` owns the scene obligations — orientation, physical progression, decisive dialogue, turn and exit, environmental pressure, and the stageability test that decides whether a draft is still a storyline. Read it before drafting and test every H4 against its items.
+This document owns what an initial script is and how it is produced; `config/docs/principles/common.md` and `narratives.md` own the shared narrative obligations, and `config/docs/principles/scenarios.md` owns the scene obligations — orientation, physical progression, decisive dialogue, turn and exit, environmental pressure, and the stageability test that decides whether a draft is still a storyline. Read all three before drafting and test every H4 against their items.
 
 ## Evidence
 
@@ -36,7 +36,7 @@ Place setting and cross-layer lineage acknowledgements directly below the H2, H3
 - H2 cites the matching storyline H2.
 - H3 cites the matching storyline H3.
 - H4 cites the matching storyline H4.
-- Every unit also cites applicable settings or gives a concrete `@evidenceExclude` reason.
+- Every unit cites the settings it actually uses and stays silent about the rest; a setting no host in the population uses takes one concrete population-wide `@evidenceExclude`.
 
 Markdown hierarchy already determines each scenario H3's H2 parent and each H4's H3 parent. Do not duplicate that same-layer parentage with evidence tags.
 

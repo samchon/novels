@@ -1,6 +1,6 @@
 # Narrative Principles
 
-Principles shared by the three narrative layers. Every storyline, scenario, and manuscript file answers them on top of `common.md` and its own layer's file. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance.
+Principles shared by the three narrative layers. Every storyline, scenario, and manuscript file answers them on top of `common.md` and its own layer's file. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance. Where a file holds no unit an item governs, the citation states that scope fact.
 
 ## Unit handover {#unit-handover}
 
@@ -10,25 +10,29 @@ Unresolved pressure persists, worsens, transforms, resolves at a cost, or is del
 
 Sources: [Trabasso & van den Broek on causal networks](https://doi.org/10.1016/0749-596X(85)90049-X), [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
 
-## Reader connection {#reader-connection}
+## Transition relation {#transition-relation}
 
-A unit that opens a new character, place, era, or event connects to the reader's already-formed investment: a continuing goal, another character carrying an earlier consequence, a moved object or piece of information, a repeated image with altered meaning, or a cause answered by its delayed effect.
+Every move from one unit to the next carries a relation the reader can name: a "therefore", a "but", a "nevertheless", or an "at this price". A bare "and then" is not a transition, and neither is a date or a place name standing in for one.
 
-A transition is never a bare "and then"; the reader can tell whether it is a "therefore", a "but", a "nevertheless", or an "at this price".
+The relation must be legible from the units themselves — a consequence taken up, an obstruction met, a cost paid — not from a connective the narration merely asserts.
 
-Sources: [Harvard College Writing Center on transitions](https://writingcenter.fas.harvard.edu/transitions)
+Sources: [Harvard College Writing Center on transitions](https://writingcenter.fas.harvard.edu/transitions), [UW–Madison Writing Center on cohesion](https://writing.wisc.edu/handbook/style/connectingideas/)
 
 ## Leap continuity {#leap-continuity}
 
-The work may leap decades, continents, and focal characters, or show a result before returning to its cause. A leap earns itself by revealing, early, which question, object, emotion, relationship, or consequence the reader carries into the new time and place — not by filling the calendar with explanation.
+A unit that opens a new character, place, era, or event connects to the reader's already-formed investment: a continuing goal, another character carrying an earlier consequence, a moved object or piece of information, a repeated image with altered meaning, or a cause answered by its delayed effect. The work may leap decades, continents, and focal characters, or show a result before returning to its cause.
 
-If, after the jump, the reader is still reading the next transformation of the same work, the leap is a connection; if characters and pressures are all abandoned and a new premise must be learned from zero, it is a break.
+A leap earns itself by revealing, early, which question, object, emotion, relationship, or consequence the reader carries into the new time and place — not by filling the calendar with explanation. If, after the jump, the reader is still reading the next transformation of the same work, the leap is a connection; if characters and pressures are all abandoned and a new premise must be learned from zero, it is a break.
+
+Sources: [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x), [Harvard College Writing Center on transitions](https://writingcenter.fas.harvard.edu/transitions)
 
 ## Unit ownership {#unit-ownership}
 
-An H2 owns a promise and an irreversible change in the whole work; an H3 owns the options altered by the previous chapter's outcome; an H4 owns the actions and reactions in which that choice actually collides.
+An H2 owns a promise and an irreversible change in the whole work; an H3 owns the options altered by the previous chapter's outcome; an H4 owns the actions and reactions in which that choice actually collides. An H4 is one continuous scene: time, place, active focal mode, and dramatic function run through it unbroken, and a real change in any of them splits the scene instead of extending it.
 
-If deleting a unit or moving it far away leaves the surrounding comprehension, tension, character judgment, and the ending's meaning almost unchanged, strengthen its coupling to the work, merge it, or cut it.
+Test a unit against the whole work rather than against its neighbour: if deleting it or moving it far away leaves the surrounding comprehension, tension, character judgment, and the ending's meaning almost unchanged, strengthen its coupling to the work, merge it, or cut it.
+
+Sources: [Trabasso & Sperry on causal relatedness and importance](https://doi.org/10.1016/0749-596X(85)90048-8), [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
 
 ## Closing units {#closing-units}
 
@@ -36,17 +40,21 @@ The last event of a local branch, an aftermath, a side event of a parallel front
 
 Do not force a nonexistent forward hook onto such units — and do not preserve a unit merely for being a self-contained event.
 
+Sources: [Brewer & Lichtenstein's structural-affect theory](https://doi.org/10.1017/S0140525X00017568), [Texas A&M University Writing Center on plot and resolution](https://writingcenter.tamu.edu/guides/resources/analyzing-novels.html)
+
 ## Non-causal forms {#non-causal-forms}
 
 Chronicle, episodic, ensemble, fragmentary, and nonlinear forms are not exempt from connection. They replace event causality with an alternative principle the reader can track — accumulating perspective, contrast, consciousness, place, procedure, or formal rule.
 
 The arrangement and repetition must change the reader's interpretation step by step and be collected by the ending; rearranging the units must change meaning or emotional pressure.
 
+Sources: [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x), [UW–Madison Writing Center on cohesion](https://writing.wisc.edu/handbook/style/connectingideas/)
+
 ## Causal chain {#causal-chain}
 
 A significant event follows intelligibly from earlier choices, conditions, chance, or change, and connects to its neighbors through at least one of cause, obstruction, reaction, or consequence; the work's central changes belong to one causal chain from opening to ending.
 
-If deleting or swapping the immediately preceding unit would leave the current unit's comprehension, pressure, choice, and consequence almost unchanged, the link is weak: redesign the order or the function.
+Test the local link rather than the unit's worth to the whole: if deleting or swapping the immediately preceding unit would leave this unit's comprehension, pressure, choice, and consequence almost unchanged, the link is weak, and the order or the function is redesigned.
 
 Sources: [Trabasso & Sperry on causal relatedness and importance](https://doi.org/10.1016/0749-596X(85)90048-8), [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
 
@@ -55,6 +63,8 @@ Sources: [Trabasso & Sperry on causal relatedness and importance](https://doi.or
 Conflict may arise not only from malice but from incompatible desires, values, information, resources, environment, and time.
 
 When chance produces a decisive result, match it to the degree of plausibility and contingency the work has promised, and never delete a core problem by sudden convenience.
+
+Sources: [Purdue OWL on goals and conflict](https://owl.purdue.edu/owl/subject_specific_writing/creative_writing/writers/fiction-basics/writing_compelling_characters.html), [UC San Diego on conflict, crisis, and foreshadowing](https://extendedstudies.ucsd.edu/news-events/extended-studies-blog/the-call-to-creative-writing-finding-your-voice-telling-your-story)
 
 ## Reader question {#reader-question}
 
@@ -78,17 +88,23 @@ The reader's model of a character accumulates unit by unit: a new choice confirm
 
 Place an emotional peak or a loss only after the reader has experienced the value and the ordinary state of what is at stake, and scale it to the accumulated meaning.
 
+Sources: [reading of character goal shifts](https://pmc.ncbi.nlm.nih.gov/articles/PMC4266429/), [Cohen on identification with characters](https://doi.org/10.1207/S15327825MCS0403_01)
+
 ## Investment beyond crisis {#investment-beyond-crisis}
 
 Waiting, labor, humor, observation, and recovery contribute to investment when they change the reader's question or the character's goal.
 
 Exposition, procedure, and event summary that change neither a character's judgment nor the world's response cannot justify a scene by information alone.
 
+Sources: [Green & Brock on narrative transportation](https://doi.org/10.1037/0022-3514.79.5.701), [Busselle & Bilandzic's narrative engagement scale](https://doi.org/10.1080/15213260903287259)
+
 ## Canon integrity {#canon-integrity}
 
 Use canon exactly as the settings declare it: never contradict a declared fact, never resolve a matter the settings leave open, and never promote an undecided matter to fact by inference alone.
 
 When a draft needs a new fact, do not smuggle it into prose: fix it first in the work package's `docs/settings`, then use it.
+
+Sources: [Laterpress on the series bible as continuity record](https://www.laterpress.com/craft-of-writing/series-bible/), [Jane Friedman's principles for historical fiction](https://janefriedman.com/dos-and-donts-of-writing-historical-fiction/)
 
 ## Specificity {#specificity}
 

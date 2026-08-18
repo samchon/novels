@@ -21,7 +21,7 @@ flowchart LR
   V -. "becomes" .-> X
 ```
 
-Each claim population must account for every unit in every configured reference population. Principle checklists are claimed by the Markdown file host; settings and cross-layer lineage are claimed by their exact H2, H3, or H4 hosts. A selected host cites only targets it actually uses; omission from another host is not an exclusion.
+Each claim population must account for every unit in every configured reference population. Principle checklists are claimed by the Markdown file host; settings and cross-layer lineage are claimed by their exact H2, H3, or H4 hosts. A selected host cites only targets it actually uses; omission from another host is not an exclusion. `@evidenceExclude` means that no host in that claim population owes the target, so never cite and exclude the same target within one claim population.
 
 A review verifies an acknowledgement against the current target; its fingerprint becomes stale when the covered target changes.
 
@@ -31,7 +31,7 @@ A review verifies an acknowledgement against the current target; its fingerprint
 - A reference is the population it owes.
 - Every claim-reference pair is an independent coverage obligation.
 - Lineage references require one parent per host and allow no exclusion.
-- Foundation references allow multiple truthful citations and concrete scope exclusions. Within one claim population, never cite and exclude the same target.
+- Foundation references allow multiple truthful citations and concrete scope exclusions. An exclusion is population-wide, never per host: a host that simply does not use a target stays silent, and only a target no host in the population owes is excluded — once.
 - Checklist references (all principle files) are answered item by item: every file host answers every anchored H2 item with its own citation, a whole-file citation is refused as an aggregate, and one host's answer never discharges another host. Every principle reference refuses exclusions: each item binds wherever its condition applies, the citation asserts that conditional compliance, and a file that cannot honestly assert it is defective rather than excludable.
 
 Permissive coverage can compile dishonestly. Do not let one host cite everything, use a blanket exclusion, or rely on a sibling's acknowledgement to hide an omission. A reason such as “this host uses this setting,” “this summary follows the constraint,” or a target-name paraphrase is not evidence: name the host event, decision, limit, or changed state that would become false without the target. For a principle item, name what in this file does what the item requires. If no such operation exists in the host, do not cite it there.
@@ -65,4 +65,4 @@ Place file-level principle checklist answers in one HTML comment before the docu
 
 Treat each error as a question about evidence, hierarchy, canon, causality, or content. Fix the owning artifact; do not manufacture a tag. A checklist shortfall lists exactly the unanswered items; answer each item with its own reason, never a copied one.
 
-Work by complete claim batches with `pnpm --filter <package-name> ttsc`. Before handoff, run root `pnpm ttsc` and `git diff --check`.
+Work by complete claim batches with `pnpm --filter <package-name> build`. Before handoff, run root `pnpm build` and `git diff --check`.

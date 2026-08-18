@@ -13,7 +13,7 @@ Write the finished novel. A manuscript preserves the scenario's decisive action,
 
 ## Craft
 
-This document owns what a manuscript is and how it is produced; `config/docs/principles/manuscripts.md` owns the prose obligations — scene realization from the script, prose control, viewpoint, pacing, reader orientation, dialogue voice, emotional resonance, descriptive function, and tonal contrast. Read it before drafting and read every scene against its items.
+This document owns what a manuscript is and how it is produced; `config/docs/principles/common.md` and `narratives.md` own the shared narrative obligations, and `config/docs/principles/manuscripts.md` owns the prose obligations — scene realization from the script, prose control, viewpoint, pacing, reader orientation, dialogue voice, emotional resonance, descriptive function, and tonal contrast. Read all three before drafting and read every scene against their items.
 
 ## Evidence
 
@@ -46,7 +46,7 @@ Place setting and cross-layer lineage acknowledgements directly below the H2, H3
 - H2 cites the matching scenario H2 and storyline H2.
 - H3 cites the matching scenario H3 and matching storyline H3.
 - H4 cites the matching scenario H4 and matching storyline H4.
-- Every unit also cites applicable settings or gives a concrete `@evidenceExclude` reason.
+- Every unit cites the settings it actually uses and stays silent about the rest; a setting no host in the population uses takes one concrete population-wide `@evidenceExclude`.
 
 Markdown hierarchy already determines each manuscript H3's H2 parent and each H4's H3 parent. Do not duplicate that same-layer parentage with evidence tags.
 

@@ -22,7 +22,7 @@ stateDiagram-v2
   review --> review: change requires renewed review
 ```
 
-- `disabled`: disable the layer's principle checklists and its H2/H3/H4 setting and lineage claims. Finish the first version without compiler pressure.
+- `disabled`: disable the layer's principle checklists and, for the three narrative layers, its H2/H3/H4 setting and lineage claims. Finish the first version without compiler pressure.
 - `evidence`: enable claims without `requireReview`. Resolve graph errors and revise content.
 - `review`: enable `requireReview`. Independently check and fingerprint every acknowledgement, including each principle item answer.
 

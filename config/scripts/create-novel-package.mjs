@@ -118,10 +118,8 @@ function createFiles(slug, title, description) {
     main: "./src/index.ts",
     type: "commonjs",
     scripts: {
-      build: "ttsc --noEmit",
-      check: "ttsc --noEmit",
-      ttsc: "ttsc --noEmit",
-      watch: "ttsc --noEmit --watch",
+      build: "ttsc",
+      dev: "ttsc --watch",
     },
     devDependencies: {
       "@samchon/novel-config": "workspace:*",
@@ -239,7 +237,7 @@ function main() {
 
   writeAtomically(target, directories, files);
   process.stdout.write(`Created ${packageName} at ${target}\n`);
-  process.stdout.write("Next: run pnpm install, then pnpm ttsc.\n");
+  process.stdout.write("Next: run pnpm install, then pnpm build.\n");
 }
 
 try {

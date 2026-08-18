@@ -6,9 +6,6 @@
   "packageManager": "pnpm@11.17.0",
   "scripts": {
     "build": "pnpm --filter=./packages/** -r build",
-    "check": "pnpm --filter=./packages/** -r check",
-    "create:novel": "node config/scripts/create-novel-package.mjs",
-    "ttsc": "pnpm --filter=./packages/** -r ttsc",
-    "watch": "pnpm --filter=./packages/** -r --parallel watch"
+    "create:novel": "node config/scripts/create-novel-package.mjs"
   }
 }

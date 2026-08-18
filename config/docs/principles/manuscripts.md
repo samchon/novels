@@ -1,6 +1,6 @@
 # Manuscript Principles
 
-Principles for the layer that contains finished literary prose. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance.
+Principles for the layer that contains finished literary prose. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance. Where a file holds no unit an item governs, the citation states that scope fact.
 
 ## Scene realization {#scene-realization}
 
@@ -8,11 +8,15 @@ The prose preserves the scenario's earned order of pressure, action, reaction, a
 
 The prose may make a scene richer, stranger, funnier, more painful, or more ambiguous than the script. It may not solve a conflict the script left unresolved, grant knowledge unavailable to its focal mode, skip the scenario's cost, or turn a hard-won choice into a summary verdict; when that feels necessary, the earliest owning scenario, storyline, or setting is repaired first.
 
+Sources: [Detailed Outline Control](https://arxiv.org/abs/2212.10077), [Dynamic Hierarchical Outlining](https://arxiv.org/abs/2412.13575)
+
 ## Prose control {#prose-control}
 
-Sentence length, syntax, repetition, and narrative distance follow the scene's pace, focus, and intended effect. Choose between close experience and distant observation, compression and expansion, according to the work's narrative mode.
+Sentence length, syntax, repetition, and narrative distance follow the scene's focus and intended effect. Choose between close experience and distant observation, compression and expansion, according to the work's narrative mode. This item owns the sentence and the narrating voice; narrated time belongs to pacing and rhythm, and the relation between consecutive units to tonal contrast.
 
-Avoid unintended duplication; when repetition is used, give it a function among rhythm, emphasis, and variation. Do not substitute abstract evaluative words for change or intensity, and do not imitate one effect with a single sentence shape.
+Avoid unintended duplication; when repetition is used, give it a function among rhythm, emphasis, and variation. Do not imitate one effect with a single sentence shape.
+
+Sources: [University of Nevada, Reno on psychic distance](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/psychic-distance-in-creative-writing)
 
 ## Point of view {#point-of-view}
 
@@ -26,9 +30,9 @@ Sources: [Oregon State University on point of view](https://liberalarts.oregonst
 
 Narrated time follows the importance the work gives each moment and the intensity the reader should experience. Unfold as scene the moments whose duration matters; compress or transform passage with summary, ellipsis, and iteration.
 
-Pace is controlled not by sentence length alone but by information density, paragraphing, repetition, the ratio of dialogue to action and of scene to summary, and narrative distance. Whatever is chosen — speed, slowness, stillness — its relation to neighboring units and its intended reading effect must be explainable.
+Pace is controlled not by sentence length alone but by information density, paragraphing, repetition, and the ratio of dialogue to action and of scene to summary. Whatever is chosen — speed, slowness, stillness — its relation to neighboring units and its intended reading effect must be explainable.
 
-Sources: [Purdue OWL on scene and summary](https://owl.purdue.edu/owl/resources/writing_tutors/tutoring_creative_writing_students/documents/working-with-creative-writing-students-09152025.pdf), [University of Nevada, Reno on psychic distance](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/psychic-distance-in-creative-writing)
+Sources: [Purdue OWL on scene and summary](https://owl.purdue.edu/owl/resources/writing_tutors/tutoring_creative_writing_students/documents/working-with-creative-writing-students-09152025.pdf)
 
 ## Reader orientation {#reader-orientation}
 
@@ -42,7 +46,7 @@ Sources: [Harvard College Writing Center on transitions](https://writingcenter.f
 
 Speech in prose becomes voice and subtext: idiom, rhythm, evasion, and silence particular to each speaker and situation, without reproducing the scenario's speaker labels or beat numbers. The decisive exchanges the scenario fixed keep their force and consequence; what changes is how the words live inside the focal perception.
 
-Attribution, gesture, and interiority around speech are chosen for clarity and pressure, not habit. A scene with no speech is outside this principle's scope.
+Attribution, gesture, and interiority around speech are chosen for clarity and pressure, not habit. Scenes with no speech do not trigger this item.
 
 Sources: [Center for Fiction on writing dialogue](https://centerforfiction.org/writing-tools/tips-for-writing-dialogue/)
 
@@ -50,7 +54,7 @@ Sources: [Center for Fiction on writing dialogue](https://centerforfiction.org/w
 
 A unit that intends emotional effect first gives the reader cues to experience the emotion's object and context. Choose between naming an emotion directly and presenting it indirectly through action, sensation, thought, speech, and form; scale intensity to the meaning accumulated so far and the present change.
 
-Emotion can be produced not only by sympathy with a character but by distance, numbness, absence, environment, contrast, and rhythm. After an important emotional change, leave behind what differs among perception, judgment, action, and reader interpretation. A unit with no emotional responsibility is outside this principle's scope.
+Emotion can be produced not only by sympathy with a character but by distance, numbness, absence, environment, contrast, and rhythm. After an important emotional change, leave behind what differs among perception, judgment, action, and reader interpretation. Units with no emotional responsibility do not trigger this item.
 
 Sources: [Oatley on emotion and identification in narrative](https://doi.org/10.1016/0304-422X(94)P4296-S), [experimental work on narrative absorption and empathy](https://doi.org/10.1016/j.paid.2011.10.005)
 
@@ -64,8 +68,8 @@ Sources: [Oregon State University on setting](https://liberalarts.oregonstate.ed
 
 ## Tonal contrast {#tonal-contrast}
 
-Arrange deliberately the emotional intensity, sentence speed, narrative distance, and sensory density of consecutive units.
+Arrange deliberately the emotional intensity, tonal register, and sensory density of consecutive units.
 
-When contrast is chosen, the differing units must sharpen each other's effects; when one tone is sustained, control the pressure, calm, numbness, or self-awareness that repetition produces. A transition must not accidentally erase the consequence and resonance of the preceding emotion. A standalone unit with no rhythmic relation to its neighbors is outside this principle's scope.
+When contrast is chosen, the differing units must sharpen each other's effects; when one tone is sustained, control the pressure, calm, numbness, or self-awareness that repetition produces. A transition must not accidentally erase the consequence and resonance of the preceding emotion. Standalone units with no rhythmic relation to their neighbors do not trigger this item.
 
-Sources: [University of Nevada, Reno on psychic distance, pace, and dramatic effect](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/psychic-distance-in-creative-writing), [Purdue OWL on scene and summary](https://owl.purdue.edu/owl/resources/writing_tutors/tutoring_creative_writing_students/documents/working-with-creative-writing-students-09152025.pdf)
+Sources: [University of Nevada, Reno on psychic distance, pace, and dramatic effect](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/psychic-distance-in-creative-writing), [Brewer & Lichtenstein's structural-affect theory](https://doi.org/10.1017/S0140525X00017568)

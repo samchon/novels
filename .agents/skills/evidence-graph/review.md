@@ -36,6 +36,6 @@ One item, one check: a fingerprint covers that item alone, and a review sentence
 - Never invent or copy a fingerprint.
 - On expiry, repeat the substantive review; do not replace only the token.
 
-Finish when package graph and review diagnostics are clean. Run root `pnpm ttsc` and `git diff --check`.
+Finish when package graph and review diagnostics are clean. Run root `pnpm build` and `git diff --check`.
 
 This proves current evidence review, not literary completion. After all layers pass, follow the novel skill's [review.md](../novel/review.md).
