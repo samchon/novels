@@ -4,7 +4,7 @@ Write `docs/storylines` with ordered filenames and `H2 sequence → H3 chapter �
 
 ## Scope
 
-A storyline is a **detailed narrative treatment**, not a causal card and not a preliminary screenplay. It must let a careful reader understand the novel's movement before a scenario or manuscript exists. This document owns what a treatment is; `config/docs/principles/common.md`, `narratives.md`, and `storylines.md` own the craft it must satisfy. Read all three before drafting.
+A storyline is a **detailed narrative treatment**, not a causal card and not a preliminary screenplay. It must let a careful reader understand the work's movement before a scenario or manuscript exists. This document owns what a treatment is; `config/docs/principles/common.md`, `narratives.md`, and `storylines.md` own the craft it must satisfy. Read all three before drafting.
 
 Each H4 writes the actual dramatic development in connected prose. It establishes the inherited pressure or question that makes the reader enter, the people or forces able to act, the material and social conditions that constrain them, the attempt and resistance, the meaningful choice or discovery, and the changed condition that makes a later scene necessary. Name emotions only through their cause, decision, expression, or changed relationship; do not replace action with a label such as “trust deepens.”
 
@@ -18,7 +18,7 @@ Reject and rewrite any H4 that is only a premise, a lore dump, an event ledger, 
 
 ## Granularity
 
-Decide before drafting how much narrated time and event one H4 carries, and record that decision beside the work's intended scale. The choice is not free: every scene written here becomes a scene to stage and a scene to realize as prose, so the scene count fixes the size of both later layers before either is started.
+Decide before drafting how much narrated time and event one H4 carries, and record that decision beside the work's intended scale. The choice is not free: every scene written here becomes a scene to stage and a scene to realize in the finished work, so the scene count fixes the size of both later layers before either is started.
 
 A count the later layers cannot realize is never solved by thinning every scene toward a report of its own events; that trades a visible shortfall for an invisible one. Change the granularity so a chapter carries fewer and heavier scenes, or change the scope the work claims — and say which one was changed.
 

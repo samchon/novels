@@ -2,27 +2,21 @@
 
 Principles shared by the three narrative layers. Every storyline, scenario, and manuscript file answers them on top of `common.md` and its own layer's file. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance. Where a file holds no unit an item governs, the citation states that scope fact.
 
+Only the manuscript layer commits to a medium. The same reviewed scenario could become a film, a stage play, a game, or a novel, so "reader" below names whoever receives the finished work in whatever form it takes.
+
 ## Unit handover {#unit-handover}
 
-Every sequence, chapter, and scene inherits and transforms one of the questions, desires, pressures, relationships, or changes the work holds over time. When a unit has a direct successor, the earlier unit's exit state operates as the next unit's entry condition.
+Every sequence, chapter, and scene inherits and transforms one of the questions, desires, pressures, relationships, or changes the work holds over time. When a unit has a direct successor, the earlier unit's exit state operates as the next unit's entry condition, and unresolved pressure persists, worsens, transforms, resolves at a cost, or is deliberately replaced — it never disappears without account.
 
-Unresolved pressure persists, worsens, transforms, resolves at a cost, or is deliberately replaced; it never disappears without account.
+The join carries a relation the reader can name: a "therefore", a "but", a "nevertheless", or an "at this price". A bare "and then" is not a transition, and neither is a date or a place name standing in for one; the relation must be legible from the units themselves — a consequence taken up, an obstruction met, a cost paid — not from a connective the narration merely asserts.
 
-Sources: [Trabasso & van den Broek on causal networks](https://doi.org/10.1016/0749-596X(85)90049-X), [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
-
-## Transition relation {#transition-relation}
-
-Every move from one unit to the next carries a relation the reader can name: a "therefore", a "but", a "nevertheless", or an "at this price". A bare "and then" is not a transition, and neither is a date or a place name standing in for one.
-
-The relation must be legible from the units themselves — a consequence taken up, an obstruction met, a cost paid — not from a connective the narration merely asserts.
-
-Sources: [Harvard College Writing Center on transitions](https://writingcenter.fas.harvard.edu/transitions), [UW–Madison Writing Center on cohesion](https://writing.wisc.edu/handbook/style/connectingideas/)
+Sources: [Trabasso & van den Broek on causal networks](https://doi.org/10.1016/0749-596X(85)90049-X), [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x), [Harvard College Writing Center on transitions](https://writingcenter.fas.harvard.edu/transitions)
 
 ## Leap continuity {#leap-continuity}
 
-A unit that opens a new character, place, era, or event connects to the reader's already-formed investment: a continuing goal, another character carrying an earlier consequence, a moved object or piece of information, a repeated image with altered meaning, or a cause answered by its delayed effect. The work may leap decades, continents, and focal characters, or show a result before returning to its cause.
+A unit that opens a new figure, place, era, or event connects to the reader's already-formed investment: a continuing goal, another figure carrying an earlier consequence, a moved object or piece of information, a repeated image with altered meaning, or a cause answered by its delayed effect. The work may leap decades, continents, and focal figures, or show a result before returning to its cause.
 
-A leap earns itself by revealing, early, which question, object, emotion, relationship, or consequence the reader carries into the new time and place — not by filling the calendar with explanation. If, after the jump, the reader is still reading the next transformation of the same work, the leap is a connection; if characters and pressures are all abandoned and a new premise must be learned from zero, it is a break.
+A leap earns itself by revealing, early, which question, object, emotion, relationship, or consequence the reader carries into the new time and place — not by filling the calendar with explanation. If, after the jump, the reader is still following the next transformation of the same work, the leap is a connection; if figures and pressures are all abandoned and a new premise must be learned from zero, it is a break.
 
 Sources: [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x), [Harvard College Writing Center on transitions](https://writingcenter.fas.harvard.edu/transitions)
 
@@ -30,7 +24,7 @@ Sources: [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.
 
 The three levels differ in kind, not in length. In event-driven work an H2 owns a promise and an irreversible change in the whole work, an H3 owns the options its predecessor's outcome altered, and an H4 owns the actions in which a choice collides — and an H4 is also one continuous scene, whose time, place, active focal mode, and dramatic function run unbroken, so a real change in any of them splits it instead of extending it. A work built on accumulation, recurrence, or contemplation keeps the distinction and changes its currency: what a sequence permanently alters in the reader's understanding, what a chapter reconfigures within it, what a scene enacts in the reader's presence.
 
-Three levels that differ only in length are one level typeset three ways. Test a unit against the whole work rather than against its neighbour: if deleting it or moving it far away leaves the surrounding comprehension, pressure, judgment, and the ending's meaning almost unchanged, strengthen its coupling, merge it, or cut it.
+Three levels that differ only in length are one level typeset three ways. Test a unit against the whole work rather than against its neighbour: if deleting it or moving it far away leaves the surrounding comprehension, pressure, judgement, and the ending's meaning almost unchanged, strengthen its coupling, merge it, or cut it.
 
 Sources: [Trabasso & Sperry on causal relatedness and importance](https://doi.org/10.1016/0749-596X(85)90048-8), [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
 
@@ -52,19 +46,11 @@ Sources: [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.
 
 ## Causal chain {#causal-chain}
 
-A significant event follows intelligibly from earlier choices, conditions, chance, or change, and connects to its neighbors through at least one of cause, obstruction, reaction, or consequence; the work's central changes belong to one causal chain from opening to ending.
+A significant event follows intelligibly from earlier choices, conditions, chance, or change, and connects to its neighbours through at least one of cause, obstruction, reaction, or consequence; the work's central changes belong to one causal chain from opening to ending. Conflict may arise not only from malice but from incompatible desires, values, information, resources, environment, and time, and where chance produces a decisive result it must match the plausibility the work has promised — a core problem is never deleted by sudden convenience.
 
 Test the local link rather than the unit's worth to the whole: if deleting or swapping the immediately preceding unit would leave this unit's comprehension, pressure, choice, and consequence almost unchanged, the link is weak, and the order or the function is redesigned.
 
-Sources: [Trabasso & Sperry on causal relatedness and importance](https://doi.org/10.1016/0749-596X(85)90048-8), [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
-
-## Conflict and chance {#conflict-and-chance}
-
-Conflict may arise not only from malice but from incompatible desires, values, information, resources, environment, and time.
-
-When chance produces a decisive result, match it to the degree of plausibility and contingency the work has promised, and never delete a core problem by sudden convenience.
-
-Sources: [Purdue OWL on goals and conflict](https://owl.purdue.edu/owl/subject_specific_writing/creative_writing/writers/fiction-basics/writing_compelling_characters.html), [UC San Diego on conflict, crisis, and foreshadowing](https://extendedstudies.ucsd.edu/news-events/extended-studies-blog/the-call-to-creative-writing-finding-your-voice-telling-your-story)
+Sources: [Trabasso & Sperry on causal relatedness and importance](https://doi.org/10.1016/0749-596X(85)90048-8), [UC San Diego on conflict, crisis, and foreshadowing](https://extendedstudies.ucsd.edu/news-events/extended-studies-blog/the-call-to-creative-writing-finding-your-voice-telling-your-story)
 
 ## Expositional entry {#expositional-entry}
 
@@ -74,11 +60,11 @@ A prologue, a framing unit, or a period preamble earns its place only by doing w
 
 Sources: [Sternberg on delayed and distributed exposition](https://archive.org/details/expositionalmode0000ster), [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
 
-## Reader question {#reader-question}
+## Reader investment {#reader-investment}
 
-Information volume and crisis size never substitute for the reader's reason to read the next unit. Where a work runs on tellable event, build that reason as a concrete question the reader holds, an outcome the reader wants changed, and a choice not yet settled.
+Information volume and crisis size never substitute for the reader's reason to continue. Where a work runs on tellable event, build that reason as a concrete question the reader holds, an outcome the reader wants changed, and a choice not yet settled; a work may instead make its art out of the untellable — the uneventful, the withheld, the merely accumulating — which changes what does the holding, not whether anything does.
 
-A work may instead make its art out of the untellable — the uneventful, the withheld, the merely accumulating. That does not release it from holding a reader; it changes what does the holding. Sustain whichever axis of investment the work needs — comprehension, attention, emotional involvement, or presence in the story world — by the work's own means, and never by announcing that a reason exists.
+Sustain whichever axis of investment the work needs — comprehension, attention, emotional involvement, or presence in the story world — by the work's own means, never by announcing that a reason exists. Waiting, labour, humour, observation, and recovery all contribute when they change what the reader is holding or a figure's situation; exposition, procedure, and event summary that change neither a figure's judgement nor the world's response cannot justify a unit by information alone.
 
 Sources: [Green & Brock on narrative transportation](https://doi.org/10.1037/0022-3514.79.5.701), [Busselle & Bilandzic's narrative engagement scale](https://doi.org/10.1080/15213260903287259), [Baroni on tellability and the art of the not-tellable](https://www-archiv.fdm.uni-hamburg.de/lhn/node/30.html)
 
@@ -96,15 +82,7 @@ The reader's model accumulates unit by unit: a new choice confirms or complicate
 
 Place an emotional peak or a loss only after the reader has experienced the value and the ordinary state of what is at stake, and scale it to the accumulated meaning.
 
-Sources: [reading of character goal shifts](https://pmc.ncbi.nlm.nih.gov/articles/PMC4266429/), [Cohen on identification with characters](https://doi.org/10.1207/S15327825MCS0403_01)
-
-## Investment beyond crisis {#investment-beyond-crisis}
-
-Waiting, labor, humor, observation, and recovery contribute to investment when they change what the reader is holding or the figure's situation.
-
-Exposition, procedure, and event summary that change neither a character's judgment nor the world's response cannot justify a scene by information alone.
-
-Sources: [Green & Brock on narrative transportation](https://doi.org/10.1037/0022-3514.79.5.701), [Busselle & Bilandzic's narrative engagement scale](https://doi.org/10.1080/15213260903287259)
+Sources: [reading of character goal shifts](https://pmc.ncbi.nlm.nih.gov/articles/PMC4266429/), [Palmer on social and intermental minds in fiction](https://muse.jhu.edu/book/24307)
 
 ## Realization depth {#realization-depth}
 
@@ -118,7 +96,7 @@ Sources: [Purdue OWL on scene and summary](https://owl.purdue.edu/owl/resources/
 
 Use canon exactly as the settings declare it: never contradict a declared fact, never resolve a matter the settings leave open, and never promote an undecided matter to fact by inference alone.
 
-When a draft needs a new fact, do not smuggle it into prose: fix it first in the work package's `docs/settings`, then use it.
+When a draft needs a new fact, do not smuggle it into the work: fix it first in the work package's `docs/settings`, then use it.
 
 Sources: [Laterpress on the series bible as continuity record](https://www.laterpress.com/craft-of-writing/series-bible/), [Jane Friedman's principles for historical fiction](https://janefriedman.com/dos-and-donts-of-writing-historical-fiction/)
 

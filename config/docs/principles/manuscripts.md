@@ -1,6 +1,6 @@
 # Manuscript Principles
 
-Principles for the layer that contains finished literary prose. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance. Where a file holds no unit an item governs, the citation states that scope fact.
+Principles for the layer that contains finished literary prose. This is the only layer that commits to a medium: everything above it could equally become a film, a stage play, or a game. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance. Where a file holds no unit an item governs, the citation states that scope fact.
 
 ## Scene realization {#scene-realization}
 
@@ -12,7 +12,7 @@ Sources: [Detailed Outline Control](https://arxiv.org/abs/2212.10077), [Dynamic 
 
 ## Prose control {#prose-control}
 
-Sentence length, syntax, repetition, and narrative distance follow the scene's focus and intended effect. Choose between close experience and distant observation, compression and expansion, according to the work's narrative mode. This item owns the sentence and the narrating voice; narrated time belongs to pacing and rhythm, and the relation between consecutive units to tonal contrast.
+Sentence length, syntax, repetition, and narrative distance follow the scene's focus and intended effect. Choose between close experience and distant observation, compression and expansion, according to the work's narrative mode. This item owns the sentence and the narrating voice; narrated time and the relation between consecutive units belong to pacing and rhythm.
 
 Avoid unintended duplication; when repetition is used, give it a function among rhythm, emphasis, and variation. Do not imitate one effect with a single sentence shape.
 
@@ -28,11 +28,11 @@ Sources: [Oregon State University on point of view](https://liberalarts.oregonst
 
 ## Pacing and rhythm {#pacing-rhythm}
 
-Narrated time follows the importance the work gives each moment and the intensity the reader should experience. Unfold as scene the moments whose duration matters; compress or transform passage with summary, ellipsis, and iteration.
+Narrated time follows the importance the work gives each moment and the intensity the reader should experience. Unfold as scene the moments whose duration matters; compress or transform passage with summary, ellipsis, and iteration. Pace is controlled not by sentence length alone but by information density, paragraphing, repetition, and the ratio of dialogue to action and of scene to summary.
 
-Pace is controlled not by sentence length alone but by information density, paragraphing, repetition, and the ratio of dialogue to action and of scene to summary. Whatever is chosen — speed, slowness, stillness — its relation to neighboring units and its intended reading effect must be explainable.
+Arrange consecutive units deliberately in emotional intensity, tonal register, and sensory density. Where contrast is chosen the differing units must sharpen each other; where one tone is sustained, control the pressure, calm, numbness, or self-awareness that repetition produces. A transition must not accidentally erase the consequence and resonance of the preceding emotion, and whatever is chosen — speed, slowness, stillness — its relation to neighbouring units and its intended reading effect must be explainable.
 
-Sources: [Purdue OWL on scene and summary](https://owl.purdue.edu/owl/resources/writing_tutors/tutoring_creative_writing_students/documents/working-with-creative-writing-students-09152025.pdf)
+Sources: [Purdue OWL on scene and summary](https://owl.purdue.edu/owl/resources/writing_tutors/tutoring_creative_writing_students/documents/working-with-creative-writing-students-09152025.pdf), [University of Nevada, Reno on psychic distance, pace, and dramatic effect](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/psychic-distance-in-creative-writing)
 
 ## Reader orientation {#reader-orientation}
 
@@ -54,22 +54,14 @@ Sources: [Center for Fiction on writing dialogue](https://centerforfiction.org/w
 
 A unit that intends emotional effect first gives the reader cues to experience the emotion's object and context. Choose between naming an emotion directly and presenting it indirectly through action, sensation, thought, speech, and form; scale intensity to the meaning accumulated so far and the present change.
 
-Emotion can be produced not only by sympathy with a character but by distance, numbness, absence, environment, contrast, and rhythm. After an important emotional change, leave behind what differs among perception, judgment, action, and reader interpretation. Units with no emotional responsibility do not trigger this item.
+Emotion can be produced not only by sympathy with a figure but by distance, numbness, absence, environment, contrast, and rhythm. After an important emotional change, leave behind what differs among perception, judgement, action, and reader interpretation. Units with no emotional responsibility do not trigger this item.
 
 Sources: [Oatley on emotion and identification in narrative](https://doi.org/10.1016/0304-422X(94)P4296-S), [experimental work on narrative absorption and empathy](https://doi.org/10.1016/j.paid.2011.10.005)
 
 ## Descriptive function {#descriptive-function}
 
-Description follows what the chosen narrator or focalization would plausibly notice and in what order; impersonal narration still keeps its own principle of observation. Let description alter pace, desire, dread, intimacy, shame, humour, or understanding — not delay every decision.
+Description earns its place by acting on perception, emotion, atmosphere, or theme in this scene, and by altering pace, desire, dread, intimacy, shame, humour, or understanding rather than delaying every decision.
 
-Do not fill senses like a checklist or halt the narrative for unrelated explanation. Detail earns its place by acting on perception, emotion, atmosphere, or theme in this scene.
+Do not fill senses like a checklist or halt the narrative for unrelated explanation. What is noticed, and in what order, follows the scene's active focus; impersonal narration keeps its own principle of observation rather than none.
 
 Sources: [Oregon State University on setting](https://liberalarts.oregonstate.edu/wlf/what-setting)
-
-## Tonal contrast {#tonal-contrast}
-
-Arrange deliberately the emotional intensity, tonal register, and sensory density of consecutive units.
-
-When contrast is chosen, the differing units must sharpen each other's effects; when one tone is sustained, control the pressure, calm, numbness, or self-awareness that repetition produces. A transition must not accidentally erase the consequence and resonance of the preceding emotion. Standalone units with no rhythmic relation to their neighbors do not trigger this item.
-
-Sources: [University of Nevada, Reno on psychic distance, pace, and dramatic effect](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/psychic-distance-in-creative-writing), [Brewer & Lichtenstein's structural-affect theory](https://doi.org/10.1017/S0140525X00017568)

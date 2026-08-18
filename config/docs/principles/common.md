@@ -10,19 +10,13 @@ The aim binds selection, not vocabulary. It decides which facts are worth establ
 
 Sources: [Jakobson on the dominant as the component that rules and transforms the rest](https://archive.org/details/readingsinrussia0000mate)
 
-## Layered refinement {#layered-refinement}
+## Layer order {#layer-order}
 
-The work refines in one direction: settings and principles ground storylines, storylines ground scenarios, scenarios ground manuscripts. Each layer adds only its own kind of decision — facts and constraints, then causes and events, then executable scene progression, then finished prose — and never pre-makes a downstream one.
+The work refines in one direction: settings and principles ground storylines, storylines ground scenarios, scenarios ground manuscripts. Each layer adds only its own kind of decision — facts and constraints, then causes and events, then executable scene progression, then the finished work — and never pre-makes a downstream one.
 
-Sources: [Plan-and-Write](https://doi.org/10.1609/aaai.v33i01.33017378), [Detailed Outline Control](https://arxiv.org/abs/2212.10077), [Dynamic Hierarchical Outlining](https://arxiv.org/abs/2412.13575)
+Revision runs the same order backwards, from large decisions to small expressions: structure first, then chapter and scene function, last sentences and diction. A changed world fact starts at settings, a changed cause at storylines, a changed scene execution at scenarios, a changed expression in the manuscript alone. A discovery made downstream updates the layer that owns it and comes back down, rather than being patched where it was noticed.
 
-## Revision order {#revision-order}
-
-Revise from large decisions to small expressions: first structure, then chapter and scene function, last sentences and diction. When a world fact changes, start from settings; an event's cause, from storylines; scene execution, from scenarios; expression alone, in the manuscript.
-
-A lower-layer discovery that changes an upper decision updates the upper document first and comes back down.
-
-Sources: [University College Dublin on revising fiction](https://www.ucd.ie/writingcentre/t4media/Creative%20Writing%20Revising%20and%20Editing%20Fiction.pdf)
+Sources: [Plan-and-Write](https://doi.org/10.1609/aaai.v33i01.33017378), [Detailed Outline Control](https://arxiv.org/abs/2212.10077), [Dynamic Hierarchical Outlining](https://arxiv.org/abs/2412.13575), [University College Dublin on revising fiction](https://www.ucd.ie/writingcentre/t4media/Creative%20Writing%20Revising%20and%20Editing%20Fiction.pdf)
 
 ## Evidence discipline {#evidence-discipline}
 
