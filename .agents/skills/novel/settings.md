@@ -12,6 +12,12 @@ Run the research; do not write canon from recall. Search and browse for every cl
 
 Record each externally checkable fact with the source that supports it, and record disagreement between sources rather than picking the tidier one. A claim written from memory is a defect even when it happens to be true; the evidence graph checks structure, never external truth.
 
+## Fact form
+
+`principles/settings.md` requires every fact to carry its standing; this document fixes where that standing appears, so a downstream citation inherits it instead of guessing. Open each H2 with the marker and keep one marker set across every settings file in a package — a standing stated explicitly in one file and dissolved into prose in the next cannot be read from a citation.
+
+Close each H2 with the sources supporting its externally checkable claims.
+
 ## Revise upstream
 
 Settings are authoritative, not frozen. When later work finds a contradiction, omission, implausible constraint, or stronger choice:

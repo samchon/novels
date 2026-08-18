@@ -14,9 +14,9 @@ Start only when the layer is in `review`. Missing or stale review diagnostics ar
 ## Review a principle item
 
 1. Read the principle item in full.
-2. Reread the whole host file asking only that item's question.
-3. Fix the file when it does not do what the item requires; never soften the answer instead.
-4. Write `@evidenceReview` naming what in the file was checked against the item.
+2. Reread the whole host file asking only that item's question, unit by unit.
+3. Find the weakest unit the item governs. Fix the file when that unit falls short; never answer from a stronger one instead.
+4. Write `@evidenceReview` naming what was checked, including the weakest unit it held against.
 
 One item, one check: a fingerprint covers that item alone, and a review sentence reused across items or files records nothing.
 

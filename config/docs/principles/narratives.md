@@ -98,6 +98,14 @@ Exposition, procedure, and event summary that change neither a character's judgm
 
 Sources: [Green & Brock on narrative transportation](https://doi.org/10.1037/0022-3514.79.5.701), [Busselle & Bilandzic's narrative engagement scale](https://doi.org/10.1080/15213260903287259)
 
+## Realization depth {#realization-depth}
+
+Every unit in a file is realized to the depth its layer promises, not only the units that open it. A unit whose actors are unnamed roles, whose objects cannot be handled, whose pressure costs nobody anything, or whose outcome is asserted rather than reached has been summarized; a file that realizes its first units and summarizes its later ones is defective even when each unit is individually intelligible.
+
+Judge a file by its weakest unit. When a unit cannot carry the depth its siblings carry, give it that depth or merge it into the unit whose consequence it actually belongs to. This item does not forbid summary — compressing narrated time on purpose belongs to the manuscript layer's pacing item. It forbids a unit that was meant to be realized and was not.
+
+Sources: [Purdue OWL on scene and summary](https://owl.purdue.edu/owl/resources/writing_tutors/tutoring_creative_writing_students/documents/working-with-creative-writing-students-09152025.pdf), [Trabasso & Sperry on causal relatedness and importance](https://doi.org/10.1016/0749-596X(85)90048-8)
+
 ## Canon integrity {#canon-integrity}
 
 Use canon exactly as the settings declare it: never contradict a declared fact, never resolve a matter the settings leave open, and never promote an undecided matter to fact by inference alone.

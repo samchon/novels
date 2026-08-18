@@ -16,6 +16,12 @@ Storylines may contain short quoted speech when its wording, lie, refusal, or si
 
 Reject and rewrite any H4 that is only a premise, a lore dump, an event ledger, a future promise, or a generic “therefore” handoff. Do not pad with scenery or historical research that has no effect on choice, perception, power, or cost.
 
+## Granularity
+
+Decide before drafting how much narrated time and event one H4 carries, and record that decision beside the work's intended scale. The choice is not free: every scene written here becomes a scene to stage and a scene to realize as prose, so the scene count fixes the size of both later layers before either is started.
+
+A sequence that spans decades tempts a scene into becoming a chronicle entry — a date, a decision, an outcome, nobody named and nothing handled. When the material genuinely holds that many events, compress at H3 by giving a chapter fewer and heavier scenes, never by thinning every scene toward a ledger line. Splitting a long span across separate works is better than a scene count no later layer can carry.
+
 ## Evidence
 
 ```mermaid
