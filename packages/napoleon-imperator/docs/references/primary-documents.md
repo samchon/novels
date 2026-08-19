@@ -6,6 +6,10 @@ Texts the period itself produced, and the digitised editions that carry them: th
 
 - <https://www.napoleon.org>
   - cited by: settings/002-chronology.md#chron-brumaire
+- <https://www.napoleon.org/FR/salle_lecture/articles/files/decretBlocus_nov1806.asp>
+  - cited by: settings/021-the-continental-system.md#continental-legal-architecture
+- <https://www.napoleon.org/FR/salle_lecture/articles/files/document_blocus_2emedecretmilan_17decembre1807.asp>
+  - cited by: settings/021-the-continental-system.md#continental-legal-architecture
 - <https://www.napoleon.org/en/history-of-the-two-empires/articles/a-visit-to-longwood/>
   - cited by: settings/020-saint-helena.md#sthelena-longwood
 - <https://www.napoleon.org/en/history-of-the-two-empires/articles/bullet-point-32-did-napoleon-really-intend-to-invade-britain/>

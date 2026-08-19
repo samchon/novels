@@ -8,8 +8,10 @@ Eyewitness memoirs and full book scans. Every memoir carries a reliability probl
   - cited by: settings/012-austerlitz.md#austerlitz-weather
 - <https://archive.org/details/correspondancede11napouoft>
   - cited by: settings/007-foreign-crowns-and-commanders.md#dolgorukov, settings/011-third-coalition-and-1805-campaign.md#coalition-diplomatic-feint, settings/011-third-coalition-and-1805-campaign.md#coalition-tabor-bridge, settings/011-third-coalition-and-1805-campaign.md#coalition-trafalgar, settings/011-third-coalition-and-1805-campaign.md#coalition-vienna-moravia, settings/012-austerlitz.md#austerlitz-weather
+- <https://archive.org/details/correspondancede15napouoft>
+  - cited by: settings/004-family-and-relations.md#family-louis
 - <https://archive.org/details/cu31924027923410>
-  - cited by: settings/011-third-coalition-and-1805-campaign.md#coalition-trafalgar
+  - cited by: settings/011-third-coalition-and-1805-campaign.md#coalition-trafalgar, settings/011-third-coalition-and-1805-campaign.md#coalition-villeneuve
 - <https://archive.org/details/gazettenationale1794panc>
   - cited by: settings/014-sources-and-historiography.md#source-moniteur
 - <https://archive.org/details/la-campagne-de-1805-en-allemagne-vol.-4>
@@ -32,6 +34,8 @@ Eyewitness memoirs and full book scans. Every memoir carries a reliability probl
   - cited by: settings/015-the-russian-campaign-of-1812.md#russia-retreat
 - <https://archive.org/details/vol1historyofexp00segu>
   - cited by: settings/012-austerlitz.md#austerlitz-weather
+- <https://archive.org/download/continentalsyste00heck/continentalsyste00heck_djvu.txt>
+  - cited by: settings/021-the-continental-system.md#continental-legal-architecture
 - <https://archive.org/stream/in.ernet.dli.2015.58850/2015.58850.With-Napoleon-In-Russia-The-Memoirs-Of-General-De-Caulaincourt-Duke-Of-Vicenza_djvu.txt>
   - cited by: settings/006-court-and-ministers.md#relation-napoleon-caulaincourt
 - <https://archive.org/stream/in.ernet.dli.2015.81167/2015.81167.The-Letters-Of-Napoleon-To-Marie-louise_djvu.txt>

@@ -6,9 +6,9 @@ This directory holds no canon. Nothing in `docs/settings` cites it, and it answe
 
 | Tier | Distinct sources | Citations |
 | --- | --- | --- |
-| [Primary documents and archival editions](primary-documents.md) | 77 | 89 |
-| [Memoirs and digitised book editions](memoirs-and-editions.md) | 22 | 35 |
-| [Scholarship and peer-reviewed work](scholarship.md) | 12 | 16 |
-| [Specialist institutions and research societies](specialist-institutions.md) | 40 | 48 |
-| [Reference works still relied on](reference-works.md) | 238 | 288 |
-| [Unclassified hosts](unclassified.md) | 36 | - |
+| [Primary documents and archival editions](primary-documents.md) | 79 | 91 |
+| [Memoirs and digitised book editions](memoirs-and-editions.md) | 24 | 38 |
+| [Scholarship and peer-reviewed work](scholarship.md) | 13 | 17 |
+| [Specialist institutions and research societies](specialist-institutions.md) | 41 | 49 |
+| [Reference works still relied on](reference-works.md) | 239 | 289 |
+| [Unclassified hosts](unclassified.md) | 35 | - |

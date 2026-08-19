@@ -350,6 +350,8 @@ Encyclopaedias and general history sites. These are tertiary summaries. Each ent
   - cited by: settings/002-chronology.md#chron-birth, settings/004-family-and-relations.md#family-parents
 - <https://www.britannica.com/biography/Napoleon-I>
   - cited by: settings/003-napoleon.md#napoleon-origins
+- <https://www.britannica.com/biography/Pius-VII>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#pius-vii
 - <https://www.britannica.com/event/Battle-of-Austerlitz>
   - cited by: settings/012-austerlitz.md#austerlitz-casualties, settings/012-austerlitz.md#austerlitz-oob-french
 - <https://www.britannica.com/event/Battle-of-Borodino>
