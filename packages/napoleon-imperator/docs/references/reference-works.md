@@ -1,0 +1,503 @@
+# Reference works still relied on
+
+Encyclopaedias and general history sites. These are tertiary summaries. Each entry here is a citation the canon has not yet replaced with a primary or scholarly source, so this file doubles as the outstanding sourcing debt.
+
+## en.wikipedia.org
+
+- <https://en.wikipedia.org/wiki/%C3%89douard_Mortier>
+  - cited by: settings/008-grande-armee.md#imperial-guard-1805
+- <https://en.wikipedia.org/wiki/%C3%89l%C3%A9onore_Denuelle_de_La_Plaigne>
+  - cited by: settings/004-family-and-relations.md#relation-napoleon-josephine
+- <https://en.wikipedia.org/wiki/13_Vend%C3%A9miaire>
+  - cited by: settings/002-chronology.md#chron-vendemiaire
+- <https://en.wikipedia.org/wiki/1800_French_constitutional_referendum>
+  - cited by: settings/009-institutions-and-economy.md#empire-transition
+- <https://en.wikipedia.org/wiki/1804_French_constitutional_referendum>
+  - cited by: settings/009-institutions-and-economy.md#empire-transition
+- <https://en.wikipedia.org/wiki/Abdications_of_Bayonne>
+  - cited by: settings/002-chronology.md#chron-peninsular-begins
+- <https://en.wikipedia.org/wiki/Alexander_Mikaberidze>
+  - cited by: settings/014-sources-and-historiography.md#source-modern-scholarship
+- <https://en.wikipedia.org/wiki/Alexander_Tormasov>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-advance-vitebsk
+- <https://en.wikipedia.org/wiki/Armand-Augustin-Louis_de_Caulaincourt>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-departure
+- <https://en.wikipedia.org/wiki/Armistice_of_Pl%C3%A4switz>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-armistice-plaswitz
+- <https://en.wikipedia.org/wiki/Arthur_Wellesley>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#wellington
+- <https://en.wikipedia.org/wiki/August_von_Gneisenau>
+  - cited by: settings/019-waterloo.md#waterloo-oob-prussian
+- <https://en.wikipedia.org/wiki/Auguste_Marmont>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-fall-paris
+- <https://en.wikipedia.org/wiki/Bagration_fl%C3%A8ches>
+  - cited by: settings/016-borodino.md#borodino-terrain
+- <https://en.wikipedia.org/wiki/Battle_of_Arcis-sur-Aube>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-campaign-france-1814
+- <https://en.wikipedia.org/wiki/Battle_of_Austerlitz>
+  - cited by: settings/005-marshals-and-command.md#general-rapp, settings/006-court-and-ministers.md#savary, settings/012-austerlitz.md#austerlitz-chronology
+- <https://en.wikipedia.org/wiki/Battle_of_Austerlitz_order_of_battle>
+  - cited by: settings/012-austerlitz.md#austerlitz-oob-french
+- <https://en.wikipedia.org/wiki/Battle_of_Bautzen_(1813>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-lutzen-bautzen
+- <https://en.wikipedia.org/wiki/Battle_of_Berezina>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-berezina
+- <https://en.wikipedia.org/wiki/Battle_of_Borodino>
+  - cited by: settings/016-borodino.md#borodino-terrain
+- <https://en.wikipedia.org/wiki/Battle_of_Cape_Finisterre_(1805>
+  - cited by: settings/011-third-coalition-and-1805-campaign.md#coalition-villeneuve
+- <https://en.wikipedia.org/wiki/Battle_of_Dresden>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-dresden-kulm-katzbach
+- <https://en.wikipedia.org/wiki/Battle_of_Hanau>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-hanau
+- <https://en.wikipedia.org/wiki/Battle_of_Haslach-Jungingen>
+  - cited by: settings/011-third-coalition-and-1805-campaign.md#coalition-ulm
+- <https://en.wikipedia.org/wiki/Battle_of_Katzbach>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-dresden-kulm-katzbach
+- <https://en.wikipedia.org/wiki/Battle_of_Krasnoi>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-retreat
+- <https://en.wikipedia.org/wiki/Battle_of_Kulm>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-dresden-kulm-katzbach
+- <https://en.wikipedia.org/wiki/Battle_of_L%C3%BCtzen_(1813>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-lutzen-bautzen
+- <https://en.wikipedia.org/wiki/Battle_of_La_Roti%C3%A8re>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-campaign-france-1814
+- <https://en.wikipedia.org/wiki/Battle_of_Leipzig>
+  - cited by: settings/013-later-campaigns-and-death.md#later-leipzig, settings/017-the-collapse-and-first-abdication.md#collapse-elster-bridge
+- <https://en.wikipedia.org/wiki/Battle_of_Ligny>
+  - cited by: settings/018-the-hundred-days-and-the-belgian-campaign.md#hundred-days-ligny
+- <https://en.wikipedia.org/wiki/Battle_of_Maloyaroslavets>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-retreat-decision
+- <https://en.wikipedia.org/wiki/Battle_of_Mir_(1812>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-advance-vitebsk
+- <https://en.wikipedia.org/wiki/Battle_of_Paris_(1814>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-fall-paris
+- <https://en.wikipedia.org/wiki/Battle_of_Quatre_Bras>
+  - cited by: settings/018-the-hundred-days-and-the-belgian-campaign.md#hundred-days-quatre-bras
+- <https://en.wikipedia.org/wiki/Battle_of_Saltanovka>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-advance-vitebsk
+- <https://en.wikipedia.org/wiki/Battle_of_Shevardino_Redoubt>
+  - cited by: settings/016-borodino.md#borodino-terrain
+- <https://en.wikipedia.org/wiki/Battle_of_Smolensk_(1812>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-vitebsk-halt
+- <https://en.wikipedia.org/wiki/Battle_of_Valutino>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-valutino
+- <https://en.wikipedia.org/wiki/Battle_of_Vitebsk_(1812>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-advance-vitebsk
+- <https://en.wikipedia.org/wiki/Battle_of_Vyazma>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-retreat
+- <https://en.wikipedia.org/wiki/Battle_of_Wagram>
+  - cited by: settings/013-later-campaigns-and-death.md#later-fifth-coalition
+- <https://en.wikipedia.org/wiki/Battle_of_Waterloo>
+  - cited by: settings/002-chronology.md#chron-waterloo, settings/007-foreign-crowns-and-commanders.md#wellington, settings/019-waterloo.md#waterloo-terrain
+- <https://en.wikipedia.org/wiki/Battle_of_Wavre>
+  - cited by: settings/005-marshals-and-command.md#marshal-grouchy, settings/018-the-hundred-days-and-the-belgian-campaign.md#hundred-days-grouchy-detachment
+- <https://en.wikipedia.org/wiki/Battle_of_the_Nile>
+  - cited by: settings/002-chronology.md#chron-egypt
+- <https://en.wikipedia.org/wiki/Canon_de_12_Gribeauval>
+  - cited by: settings/008-grande-armee.md#artillery-organization
+- <https://en.wikipedia.org/wiki/Canon_de_4_Gribeauval>
+  - cited by: settings/008-grande-armee.md#artillery-organization
+- <https://en.wikipedia.org/wiki/Canon_de_8_Gribeauval>
+  - cited by: settings/008-grande-armee.md#artillery-organization
+- <https://en.wikipedia.org/wiki/Carlo_Buonaparte>
+  - cited by: settings/002-chronology.md#chron-birth, settings/002-chronology.md#chron-corsica-annexation
+- <https://en.wikipedia.org/wiki/Caroline_Bonaparte>
+  - cited by: settings/004-family-and-relations.md#family-caroline
+- <https://en.wikipedia.org/wiki/Charles_Lucien_Bonaparte>
+  - cited by: settings/004-family-and-relations.md#family-lucien
+- <https://en.wikipedia.org/wiki/Charles_Tristan_de_Montholon>
+  - cited by: settings/006-court-and-ministers.md#montholon
+- <https://en.wikipedia.org/wiki/Charles_XIV_John_of_Sweden>
+  - cited by: settings/005-marshals-and-command.md#relation-napoleon-bernadotte
+- <https://en.wikipedia.org/wiki/Charleville_musket>
+  - cited by: settings/008-grande-armee.md#weapons
+- <https://en.wikipedia.org/wiki/Christian_Friedrich_Wilhelm_von_Ompteda>
+  - cited by: settings/019-waterloo.md#waterloo-oob-allied
+- <https://en.wikipedia.org/wiki/Christian_von_Haugwitz>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#prussia-frederick-william
+- <https://en.wikipedia.org/wiki/Concordat_of_1801>
+  - cited by: settings/009-institutions-and-economy.md#concordat-1801
+- <https://en.wikipedia.org/wiki/Constitution_of_the_Year_VIII>
+  - cited by: settings/009-institutions-and-economy.md#consulate-offices
+- <https://en.wikipedia.org/wiki/Constitution_of_the_Year_XII>
+  - cited by: settings/002-chronology.md#chron-empire-proclaimed
+- <https://en.wikipedia.org/wiki/Coronation_of_Napoleon>
+  - cited by: settings/002-chronology.md#chron-coronation, settings/009-institutions-and-economy.md#concordat-1801
+- <https://en.wikipedia.org/wiki/D%C3%A9sir%C3%A9e_Clary>
+  - cited by: settings/005-marshals-and-command.md#relation-napoleon-bernadotte
+- <https://en.wikipedia.org/wiki/David_G._Chandler>
+  - cited by: settings/014-sources-and-historiography.md#source-modern-scholarship
+- <https://en.wikipedia.org/wiki/Demi-brigade>
+  - cited by: settings/008-grande-armee.md#infantry-organization
+- <https://en.wikipedia.org/wiki/Dominique_Jean_Larrey>
+  - cited by: settings/008-grande-armee.md#battlefield-medicine
+- <https://en.wikipedia.org/wiki/Dominique_Vivant>
+  - cited by: settings/006-court-and-ministers.md#denon
+- <https://en.wikipedia.org/wiki/Duchy_of_Warsaw>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-vilnius
+- <https://en.wikipedia.org/wiki/Elizabeth_Patterson_Bonaparte>
+  - cited by: settings/004-family-and-relations.md#family-jerome
+- <https://en.wikipedia.org/wiki/Emmanuel_de_Grouchy>
+  - cited by: settings/005-marshals-and-command.md#marshal-grouchy, settings/018-the-hundred-days-and-the-belgian-campaign.md#hundred-days-grouchy-detachment
+- <https://en.wikipedia.org/wiki/Ferdinand_von_Tiesenhausen>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#kutuzov
+- <https://en.wikipedia.org/wiki/Fire_of_Moscow_(1812>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-fire-moscow
+- <https://en.wikipedia.org/wiki/First_Western_Army>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-advance-vitebsk
+- <https://en.wikipedia.org/wiki/Francis_II>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#francis-ii-i
+- <https://en.wikipedia.org/wiki/Franz_von_Weyrother>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#weyrother
+- <https://en.wikipedia.org/wiki/French_Imperial_Army_(1804%E2%80%931815>
+  - cited by: settings/008-grande-armee.md#infantry-organization, settings/008-grande-armee.md#rank-structure
+- <https://en.wikipedia.org/wiki/French_Penal_Code_of_1791>
+  - cited by: settings/006-court-and-ministers.md#cambaceres
+- <https://en.wikipedia.org/wiki/French_campaign_in_Egypt_and_Syria>
+  - cited by: settings/002-chronology.md#chron-egypt
+- <https://en.wikipedia.org/wiki/French_conquest_of_Corsica>
+  - cited by: settings/002-chronology.md#chron-corsica-annexation
+- <https://en.wikipedia.org/wiki/French_invasion_of_Russia>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-niemen-crossing
+- <https://en.wikipedia.org/wiki/French_occupation_of_Moscow>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-moscow-occupation
+- <https://en.wikipedia.org/wiki/Friedrich_Wilhelm_von_Buxhoeveden>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#buxhowden
+- <https://en.wikipedia.org/wiki/Fyodor_Rostopchin>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-fire-moscow
+- <https://en.wikipedia.org/wiki/Gaspard_Gourgaud>
+  - cited by: settings/014-sources-and-historiography.md#source-segur
+- <https://en.wikipedia.org/wiki/Gebhard_Leberecht_von_Bl%C3%BCcher>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#blucher
+- <https://en.wikipedia.org/wiki/German_campaign_of_1813>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-rebuild-1813
+- <https://en.wikipedia.org/wiki/Grand_Duke_Konstantin_Pavlovich_of_Russia>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#constantine-pavlovich
+- <https://en.wikipedia.org/wiki/Guillaume_Philibert_Duhesme>
+  - cited by: settings/019-waterloo.md#waterloo-chronology
+- <https://en.wikipedia.org/wiki/Henri_Gatien_Bertrand>
+  - cited by: settings/006-court-and-ministers.md#bertrand
+- <https://en.wikipedia.org/wiki/Hougoumont>
+  - cited by: settings/019-waterloo.md#waterloo-terrain
+- <https://en.wikipedia.org/wiki/Hundred_Days>
+  - cited by: settings/005-marshals-and-command.md#marshal-ney, settings/018-the-hundred-days-and-the-belgian-campaign.md#hundred-days-army-reconstitution
+- <https://en.wikipedia.org/wiki/Imperial_Guard_(Napoleon_I>
+  - cited by: settings/008-grande-armee.md#imperial-guard-1805
+- <https://en.wikipedia.org/wiki/Invasion_of_Hanover_(1803>
+  - cited by: settings/011-third-coalition-and-1805-campaign.md#coalition-amiens-collapse
+- <https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Bonaparte>
+  - cited by: settings/004-family-and-relations.md#family-jerome, settings/015-the-russian-campaign-of-1812.md#russia-advance-vitebsk
+- <https://en.wikipedia.org/wiki/J%C3%B3zef_Poniatowski>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-elster-bridge
+- <https://en.wikipedia.org/wiki/Jacques_MacDonald>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-advance-vitebsk
+- <https://en.wikipedia.org/wiki/Jean-Baptiste_Drouet>
+  - cited by: settings/018-the-hundred-days-and-the-belgian-campaign.md#hundred-days-quatre-bras
+- <https://en.wikipedia.org/wiki/Jean-Baptiste_Eblé>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-berezina
+- <https://en.wikipedia.org/wiki/Jean-Jacques-R%C3%A9gis_de_Cambac%C3%A9r%C3%A8s>
+  - cited by: settings/006-court-and-ministers.md#cambaceres
+- <https://en.wikipedia.org/wiki/Jean-Martin_Petit>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-farewell-guard
+- <https://en.wikipedia.org/wiki/Jean-de-Dieu_Soult>
+  - cited by: settings/005-marshals-and-command.md#marshal-soult, settings/018-the-hundred-days-and-the-belgian-campaign.md#hundred-days-command-friction
+- <https://en.wikipedia.org/wiki/Jos%C3%A9phine_de_Beauharnais>
+  - cited by: settings/004-family-and-relations.md#relation-napoleon-josephine
+- <https://en.wikipedia.org/wiki/Karl_August_von_Hardenberg>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#prussia-frederick-william
+- <https://en.wikipedia.org/wiki/Karl_Philipp>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-advance-vitebsk
+- <https://en.wikipedia.org/wiki/L%C3%A9gion_d%27honneur>
+  - cited by: settings/009-institutions-and-economy.md#legion-of-honor
+- <https://en.wikipedia.org/wiki/La_Haye_Sainte>
+  - cited by: settings/019-waterloo.md#waterloo-terrain
+- <https://en.wikipedia.org/wiki/Le_Moniteur_Universel>
+  - cited by: settings/014-sources-and-historiography.md#source-moniteur
+- <https://en.wikipedia.org/wiki/List_of_Marshals_of_the_First_French_Empire>
+  - cited by: settings/008-grande-armee.md#marshalate-1804
+- <https://en.wikipedia.org/wiki/Lithuanian_Provisional_Governing_Commission>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-vilnius
+- <https://en.wikipedia.org/wiki/Longwood_House>
+  - cited by: settings/020-saint-helena.md#sthelena-longwood
+- <https://en.wikipedia.org/wiki/Louis-Alexandre_Berthier>
+  - cited by: settings/005-marshals-and-command.md#berthier-visconti, settings/018-the-hundred-days-and-the-belgian-campaign.md#hundred-days-command-friction
+- <https://en.wikipedia.org/wiki/Louis-Nicolas_Davout>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-advance-vitebsk
+- <https://en.wikipedia.org/wiki/Marshal_of_the_Empire>
+  - cited by: settings/008-grande-armee.md#marshalate-1804
+- <https://en.wikipedia.org/wiki/Michel_Ney>
+  - cited by: settings/005-marshals-and-command.md#marshal-ney, settings/017-the-collapse-and-first-abdication.md#collapse-fontainebleau-abdication
+- <https://en.wikipedia.org/wiki/Military_Household_of_the_Emperor>
+  - cited by: settings/008-grande-armee.md#command-staff
+- <https://en.wikipedia.org/wiki/Napoleon>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-fall-paris
+- <https://en.wikipedia.org/wiki/Napoleon%27s_exile_to_Saint_Helena>
+  - cited by: settings/013-later-campaigns-and-death.md#later-st-helena
+- <https://en.wikipedia.org/wiki/Napoleon%27s_exile_to_St._Helena>
+  - cited by: settings/020-saint-helena.md#sthelena-daily-regime
+- <https://en.wikipedia.org/wiki/Napoleon%27s_planned_invasion_of_the_United_Kingdom>
+  - cited by: settings/002-chronology.md#chron-boulogne, settings/011-third-coalition-and-1805-campaign.md#coalition-boulogne-camp
+- <https://en.wikipedia.org/wiki/Napoleon's_first_abdication>
+  - cited by: settings/002-chronology.md#chron-1813-1814
+- <https://en.wikipedia.org/wiki/Napoleon_II>
+  - cited by: settings/002-chronology.md#chron-divorce-remarriage
+- <https://en.wikipedia.org/wiki/Nikolai_Repnin-Volkonsky>
+  - cited by: settings/005-marshals-and-command.md#general-rapp
+- <https://en.wikipedia.org/wiki/Nikolay_Tuchkov>
+  - cited by: settings/016-borodino.md#borodino-chronology
+- <https://en.wikipedia.org/wiki/Obusier_de_6_pouces_Gribeauval>
+  - cited by: settings/008-grande-armee.md#artillery-organization
+- <https://en.wikipedia.org/wiki/Order_of_battle_at_the_Austerlitz_campaign>
+  - cited by: settings/008-grande-armee.md#imperial-guard-1805
+- <https://en.wikipedia.org/wiki/Order_of_battle_of_the_Waterloo_Campaign>
+  - cited by: settings/019-waterloo.md#waterloo-oob-french
+- <https://en.wikipedia.org/wiki/Papelotte>
+  - cited by: settings/019-waterloo.md#waterloo-terrain
+- <https://en.wikipedia.org/wiki/Pauline_Bonaparte>
+  - cited by: settings/004-family-and-relations.md#family-pauline
+- <https://en.wikipedia.org/wiki/Peter_Petrovich_Dolgorukov_(general>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#dolgorukov
+- <https://en.wikipedia.org/wiki/Peter_Wittgenstein>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-lutzen-bautzen
+- <https://en.wikipedia.org/wiki/Pistolet_mod%C3%A8le_An_IX>
+  - cited by: settings/008-grande-armee.md#weapons
+- <https://en.wikipedia.org/wiki/Principality_of_Lucca_and_Piombino>
+  - cited by: settings/004-family-and-relations.md#family-elisa
+- <https://en.wikipedia.org/wiki/Pyotr_Bagration>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-advance-vitebsk, settings/016-borodino.md#borodino-chronology
+- <https://en.wikipedia.org/wiki/Ranks_of_the_French_Imperial_Army_(1804%E2%80%931815>
+  - cited by: settings/008-grande-armee.md#rank-structure
+- <https://en.wikipedia.org/wiki/Reinstatement_of_slavery_by_Napoleon>
+  - cited by: settings/009-institutions-and-economy.md#slavery-reinstatement
+- <https://en.wikipedia.org/wiki/Reserve_Cavalry_Corps_(Grande_Arm%C3%A9e>
+  - cited by: settings/008-grande-armee.md#cavalry-organization
+- <https://en.wikipedia.org/wiki/Retour_des_cendres>
+  - cited by: settings/013-later-campaigns-and-death.md#later-retour-des-cendres
+- <https://en.wikipedia.org/wiki/Royal_Scots_Greys>
+  - cited by: settings/019-waterloo.md#waterloo-oob-allied
+- <https://en.wikipedia.org/wiki/Sabre_de_cuirassier_mod%C3%A8le_An_IX>
+  - cited by: settings/008-grande-armee.md#weapons
+- <https://en.wikipedia.org/wiki/Second_Western_Army>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-advance-vitebsk
+- <https://en.wikipedia.org/wiki/Siege_of_Toulon_(1793>
+  - cited by: settings/002-chronology.md#chron-toulon
+- <https://en.wikipedia.org/wiki/Six_Days%27_Campaign>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-campaign-france-1814
+- <https://en.wikipedia.org/wiki/The_Death_of_Nelson>
+  - cited by: settings/002-chronology.md#chron-ulm-austerlitz
+- <https://en.wikipedia.org/wiki/The_Memorial_of_Saint_Helena>
+  - cited by: settings/014-sources-and-historiography.md#source-lascases
+- <https://en.wikipedia.org/wiki/Thomas_Picton>
+  - cited by: settings/019-waterloo.md#waterloo-oob-allied
+- <https://en.wikipedia.org/wiki/Treaty_of_Fontainebleau_(1814>
+  - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-fontainebleau-abdication
+- <https://en.wikipedia.org/wiki/Treaty_of_Saint_Petersburg_(1805>
+  - cited by: settings/011-third-coalition-and-1805-campaign.md#coalition-formation
+- <https://en.wikipedia.org/wiki/Treaty_of_Sch%C3%B6nbrunn_(1805>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#prussia-frederick-william
+- <https://en.wikipedia.org/wiki/Ulm_campaign>
+  - cited by: settings/011-third-coalition-and-1805-campaign.md#coalition-march-danube, settings/011-third-coalition-and-1805-campaign.md#coalition-ulm
+- <https://en.wikipedia.org/wiki/Uniforms_of_the_Grande_Arm%C3%A9e>
+  - cited by: settings/008-grande-armee.md#uniforms-1805
+- <https://en.wikipedia.org/wiki/Valley_of_the_Tomb>
+  - cited by: settings/013-later-campaigns-and-death.md#later-retour-des-cendres
+- <https://en.wikipedia.org/wiki/Venus_Victrix_(Canova>
+  - cited by: settings/004-family-and-relations.md#family-pauline
+- <https://en.wikipedia.org/wiki/Vivandi%C3%A8re>
+  - cited by: settings/008-grande-armee.md#logistics-marching
+- <https://en.wikipedia.org/wiki/Voltigeurs>
+  - cited by: settings/008-grande-armee.md#infantry-organization
+- <https://en.wikipedia.org/wiki/Waterloo_campaign>
+  - cited by: settings/002-chronology.md#chron-waterloo, settings/005-marshals-and-command.md#marshal-grouchy, settings/013-later-campaigns-and-death.md#later-hundred-days-waterloo, settings/018-the-hundred-days-and-the-belgian-campaign.md#hundred-days-charleroi-crossing, settings/019-waterloo.md#waterloo-aftermath
+
+## fr.wikipedia.org
+
+- <https://fr.wikipedia.org/wiki/Auguste_Jean-Gabriel_de_Caulaincourt>
+  - cited by: settings/016-borodino.md#borodino-chronology
+- <https://fr.wikipedia.org/wiki/Bataille_de_la_Moskova>
+  - cited by: settings/016-borodino.md#borodino-terrain
+- <https://fr.wikipedia.org/wiki/Bulletin_de_la_Grande_Arm%C3%A9e>
+  - cited by: settings/014-sources-and-historiography.md#source-bulletins
+- <https://fr.wikipedia.org/wiki/Bulletin_de_la_Grande_Armée>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-departure
+- <https://fr.wikipedia.org/wiki/Le_M%C3%A9morial_de_Sainte-H%C3%A9l%C3%A8ne>
+  - cited by: settings/014-sources-and-historiography.md#source-lascases
+- <https://fr.wikipedia.org/wiki/Le_Moniteur_universel>
+  - cited by: settings/014-sources-and-historiography.md#source-moniteur
+- <https://fr.wikipedia.org/wiki/Loi_sur_la_traite_des_noirs_et_le_r%C3%A9gime_des_colonies_du_20_mai_1802>
+  - cited by: settings/009-institutions-and-economy.md#slavery-reinstatement
+- <https://fr.wikipedia.org/wiki/Longwood_House>
+  - cited by: settings/020-saint-helena.md#sthelena-longwood
+- <https://fr.wikipedia.org/wiki/Louis_Antoine_Fauvelet_de_Bourrienne>
+  - cited by: settings/014-sources-and-historiography.md#source-bourrienne
+- <https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Versailles_(1768>
+  - cited by: settings/002-chronology.md#chron-corsica-annexation
+
+## britannica.com
+
+- <https://britannica.com/print/article/174344>
+  - cited by: settings/006-court-and-ministers.md#duroc
+- <https://www.britannica.com/biography/Alexander-I-emperor-of-Russia>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#alexander-i
+- <https://www.britannica.com/biography/Carlo-Maria-Buonaparte>
+  - cited by: settings/002-chronology.md#chron-birth, settings/004-family-and-relations.md#family-parents
+- <https://www.britannica.com/biography/Elisa-Bonaparte>
+  - cited by: settings/004-family-and-relations.md#family-elisa
+- <https://www.britannica.com/biography/Joachim-Murat>
+  - cited by: settings/005-marshals-and-command.md#marshal-murat
+- <https://www.britannica.com/biography/Letizia-Buonaparte>
+  - cited by: settings/002-chronology.md#chron-birth, settings/004-family-and-relations.md#family-parents
+- <https://www.britannica.com/biography/Napoleon-I>
+  - cited by: settings/003-napoleon.md#napoleon-origins
+- <https://www.britannica.com/event/Battle-of-Austerlitz>
+  - cited by: settings/012-austerlitz.md#austerlitz-casualties, settings/012-austerlitz.md#austerlitz-oob-french
+- <https://www.britannica.com/event/Battle-of-Borodino>
+  - cited by: settings/016-borodino.md#borodino-terrain
+- <https://www.britannica.com/event/Battle-of-Leipzig>
+  - cited by: settings/013-later-campaigns-and-death.md#later-leipzig
+- <https://www.britannica.com/event/Battle-of-Marengo>
+  - cited by: settings/002-chronology.md#chron-marengo
+- <https://www.britannica.com/event/Battle-of-Waterloo>
+  - cited by: settings/002-chronology.md#chron-waterloo
+- <https://www.britannica.com/event/Coup-of-18-19-Brumaire>
+  - cited by: settings/002-chronology.md#chron-brumaire
+- <https://www.britannica.com/event/French-invasion-of-Russia>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-niemen-crossing
+- <https://www.britannica.com/event/Napoleonic-Wars/The-Third-and-Fourth-Coalitions-1803-07>
+  - cited by: settings/002-chronology.md#chron-amiens, settings/011-third-coalition-and-1805-campaign.md#coalition-amiens-collapse
+- <https://www.britannica.com/event/Siege-of-Acre-1799>
+  - cited by: settings/002-chronology.md#chron-egypt
+- <https://www.britannica.com/event/Siege-of-Toulon>
+  - cited by: settings/002-chronology.md#chron-toulon
+- <https://www.britannica.com/event/Treaty-of-Amiens-1802>
+  - cited by: settings/002-chronology.md#chron-amiens, settings/011-third-coalition-and-1805-campaign.md#coalition-amiens-collapse
+- <https://www.britannica.com/event/Treaty-of-Pressburg-1805>
+  - cited by: settings/012-austerlitz.md#austerlitz-aftermath
+- <https://www.britannica.com/place/Corsica>
+  - cited by: settings/010-geography-and-distances.md#geography-corsica
+- <https://www.britannica.com/topic/Napoleonic-Code>
+  - cited by: settings/009-institutions-and-economy.md#napoleonic-code
+
+## historyofwar.org
+
+- <http://www.historyofwar.org/articles/treaty_znaim.html>
+  - cited by: settings/012-austerlitz.md#austerlitz-aftermath
+- <https://www.historyofwar.org/articles/battles_arcola.html>
+  - cited by: settings/002-chronology.md#chron-italian-campaign
+- <https://www.historyofwar.org/articles/battles_aspern_essling.html>
+  - cited by: settings/013-later-campaigns-and-death.md#later-fifth-coalition
+- <https://www.historyofwar.org/articles/battles_austerlitz.html>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#alexander-i, settings/011-third-coalition-and-1805-campaign.md#coalition-diplomatic-feint, settings/012-austerlitz.md#austerlitz-casualties, settings/012-austerlitz.md#austerlitz-chronology, settings/012-austerlitz.md#austerlitz-oob-allied, settings/012-austerlitz.md#austerlitz-oob-french, settings/012-austerlitz.md#austerlitz-terrain, settings/012-austerlitz.md#austerlitz-weather
+- <https://www.historyofwar.org/articles/battles_castiglione.html>
+  - cited by: settings/002-chronology.md#chron-italian-campaign
+- <https://www.historyofwar.org/articles/battles_durnstein.html>
+  - cited by: settings/011-third-coalition-and-1805-campaign.md#coalition-vienna-moravia
+- <https://www.historyofwar.org/articles/battles_leipzig.html>
+  - cited by: settings/013-later-campaigns-and-death.md#later-leipzig
+- <https://www.historyofwar.org/articles/battles_lodi.html>
+  - cited by: settings/002-chronology.md#chron-italian-campaign
+- <https://www.historyofwar.org/articles/battles_marengo.html>
+  - cited by: settings/002-chronology.md#chron-marengo
+- <https://www.historyofwar.org/articles/battles_smolensk_1812.html>
+  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-smolensk
+- <https://www.historyofwar.org/articles/battles_ulm.html>
+  - cited by: settings/011-third-coalition-and-1805-campaign.md#coalition-ulm
+- <https://www.historyofwar.org/articles/battles_wagram.html>
+  - cited by: settings/013-later-campaigns-and-death.md#later-fifth-coalition
+- <https://www.historyofwar.org/articles/battles_waterloo.html>
+  - cited by: settings/013-later-campaigns-and-death.md#later-hundred-days-waterloo
+- <https://www.historyofwar.org/articles/combat_hollabrunn_1805.html>
+  - cited by: settings/005-marshals-and-command.md#relation-napoleon-murat, settings/007-foreign-crowns-and-commanders.md#bagration
+- <https://www.historyofwar.org/articles/combat_reichenbach.html>
+  - cited by: settings/006-court-and-ministers.md#duroc
+- <https://www.historyofwar.org/articles/people_bagration_peter.html>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#bagration
+- <https://www.historyofwar.org/articles/people_buxhowden.html>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#buxhowden
+- <https://www.historyofwar.org/articles/people_caulaincourt_armand.html>
+  - cited by: settings/006-court-and-ministers.md#caulaincourt
+- <https://www.historyofwar.org/articles/people_davout.html>
+  - cited by: settings/005-marshals-and-command.md#marshal-davout
+- <https://www.historyofwar.org/articles/people_lannes.html>
+  - cited by: settings/005-marshals-and-command.md#marshal-lannes, settings/005-marshals-and-command.md#relation-lannes-murat, settings/005-marshals-and-command.md#relation-napoleon-lannes
+- <https://www.historyofwar.org/articles/people_marmont.html>
+  - cited by: settings/005-marshals-and-command.md#marshal-marmont
+- <https://www.historyofwar.org/articles/people_murat.html>
+  - cited by: settings/005-marshals-and-command.md#marshal-murat, settings/005-marshals-and-command.md#relation-lannes-murat, settings/008-grande-armee.md#cavalry-organization
+- <https://www.historyofwar.org/articles/people_savary.html>
+  - cited by: settings/006-court-and-ministers.md#savary
+- <https://www.historyofwar.org/articles/wars_french_egypt.html>
+  - cited by: settings/002-chronology.md#chron-egypt
+
+## worldhistory.org
+
+- <https://www.worldhistory.org>
+  - cited by: settings/010-geography-and-distances.md#geography-rhine-danube
+- <https://www.worldhistory.org/Hundred_Days/>
+  - cited by: settings/002-chronology.md#chron-elba-hundred-days
+- <https://www.worldhistory.org/War_of_the_Third_Coalition/>
+  - cited by: settings/011-third-coalition-and-1805-campaign.md#coalition-formation
+- <https://www.worldhistory.org/article/2249/ulm-campaign/>
+  - cited by: settings/011-third-coalition-and-1805-campaign.md#coalition-march-danube
+- <https://www.worldhistory.org/article/2253/battle-of-austerlitz/>
+  - cited by: settings/007-foreign-crowns-and-commanders.md#constantine-pavlovich, settings/012-austerlitz.md#austerlitz-casualties, settings/012-austerlitz.md#austerlitz-oob-allied
+
+## napoleon-empire.org
+
+- <https://www.napoleon-empire.org/en/battles/aspern-essling.php>
+  - cited by: settings/013-later-campaigns-and-death.md#later-fifth-coalition
+- <https://www.napoleon-empire.org/en/battles/austerlitz.php>
+  - cited by: settings/003-napoleon.md#napoleon-capabilities, settings/011-third-coalition-and-1805-campaign.md#coalition-diplomatic-feint, settings/012-austerlitz.md#austerlitz-aftermath, settings/012-austerlitz.md#austerlitz-casualties, settings/012-austerlitz.md#austerlitz-weather
+- <https://www.napoleon-empire.org/en/battles/egyptian-campaign.php>
+  - cited by: settings/002-chronology.md#chron-egypt
+- <https://www.napoleon-empire.org/en/battles/leipzig.php>
+  - cited by: settings/013-later-campaigns-and-death.md#later-leipzig
+- <https://www.napoleon-empire.org/en/battles/pyramids.php>
+  - cited by: settings/002-chronology.md#chron-egypt
+- <https://www.napoleon-empire.org/en/battles/trafalgar.php>
+  - cited by: settings/003-napoleon.md#napoleon-limits
+- <https://www.napoleon-empire.org/en/battles/wagram.php>
+  - cited by: settings/013-later-campaigns-and-death.md#later-fifth-coalition
+- <https://www.napoleon-empire.org/en/counter-revolution/13_vendemiaire.php>
+  - cited by: settings/001-aim-and-conventions.md#calendar-conventions, settings/002-chronology.md#chron-vendemiaire
+- <https://www.napoleon-empire.org/en/counter-revolution/toulon.php>
+  - cited by: settings/002-chronology.md#chron-toulon
+- <https://www.napoleon-empire.org/en/institutions/list-senators-first-french-empire.php>
+  - cited by: settings/004-family-and-relations.md#family-joseph
+- <https://www.napoleon-empire.org/en/napoleon-bonaparte-in-auxonne.php>
+  - cited by: settings/002-chronology.md#chron-early-commission
+- <https://www.napoleon-empire.org/en/napoleon-bonaparte-in-valence.php>
+  - cited by: settings/002-chronology.md#chron-early-commission
+- <https://www.napoleon-empire.org/en/napoleon-bonaparte-on-the-island-of-elba.php>
+  - cited by: settings/013-later-campaigns-and-death.md#later-first-abdication-elba
+- <https://www.napoleon-empire.org/en/official-texts/treaty-of-fontainebleau-1814.php>
+  - cited by: settings/013-later-campaigns-and-death.md#later-first-abdication-elba
+- <https://www.napoleon-empire.org/en/personalities/caulaincourt.php>
+  - cited by: settings/006-court-and-ministers.md#caulaincourt
+- <https://www.napoleon-empire.org/en/personalities/charles_bonaparte.php>
+  - cited by: settings/002-chronology.md#chron-birth, settings/002-chronology.md#chron-corsica-annexation
+- <https://www.napoleon-empire.org/en/personalities/fouche.php>
+  - cited by: settings/006-court-and-ministers.md#fouche
+- <https://www.napoleon-empire.org/en/personalities/laetitia_ramolino.php>
+  - cited by: settings/002-chronology.md#chron-birth, settings/004-family-and-relations.md#family-parents
+- <https://www.napoleon-empire.org/en/personalities/lowe.php>
+  - cited by: settings/020-saint-helena.md#sthelena-lowe-relationship
+- <https://www.napoleon-empire.org/en/personalities/soult.php>
+  - cited by: settings/005-marshals-and-command.md#marshal-soult
+
+## frenchempire.net
+
+- <https://www.frenchempire.net/biographies/bonaparte3/>
+  - cited by: settings/004-family-and-relations.md#family-jerome
+- <https://www.frenchempire.net/biographies/lannes/>
+  - cited by: settings/005-marshals-and-command.md#marshal-lannes, settings/005-marshals-and-command.md#relation-napoleon-lannes
+- <https://www.frenchempire.net/biographies/savary/>
+  - cited by: settings/006-court-and-ministers.md#savary
+
+## distancebetween2.com
+
+- <https://distancebetween2.com/paris/vienna>
+  - cited by: settings/010-geography-and-distances.md#geography-vienna-moravia
+- <https://distancebetween2.com/ulm/vienna>
+  - cited by: settings/010-geography-and-distances.md#geography-vienna-moravia
