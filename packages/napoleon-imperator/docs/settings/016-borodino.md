@@ -1,6 +1,6 @@
 # Borodino
 
-This file records the terrain, order of battle, chronology, and aftermath of the Battle of Borodino (7 September 1812) at the standard `settings/012-austerlitz.md` sets, so that a storyline reaching 1812 needs to invent nothing of the battle's setting or mechanics, per `settings/001-aim-and-conventions.md#execution-neutrality`. Campaign lead-up (the advance, Smolensk, the push to Moscow) is at `settings/015-the-russian-campaign-of-1812.md`; the occupation, fire, and retreat that follow are at the same file. Figure-level detail for commanders is at `settings/005-marshals-and-command.md` and `settings/007-foreign-crowns-and-commanders.md`.
+This file records the terrain, order of battle, chronology, and aftermath of the Battle of Borodino (7 September 1812) at the standard `settings/012-austerlitz.md` sets, so that a storyline reaching 1812 needs to invent nothing of the battle's setting or mechanics, per `principles/settings.md#execution-neutrality`. Campaign lead-up (the advance, Smolensk, the push to Moscow) is at `settings/015-the-russian-campaign-of-1812.md`; the occupation, fire, and retreat that follow are at the same file. Figure-level detail for commanders is at `settings/005-marshals-and-command.md` and `settings/007-foreign-crowns-and-commanders.md`.
 
 ## Terrain {#borodino-terrain}
 
