@@ -139,6 +139,8 @@ Texts the period itself produced, and the digitised editions that carry them: th
   - cited by: settings/014-sources-and-historiography.md#source-lascases
 - <https://en.wikisource.org/wiki/1911_Encyclopædia_Britannica/Soult>
   - cited by: settings/005-marshals-and-command.md#marshal-soult
+- <https://en.wikisource.org/wiki/A_Sketch_of_the_Battle_of_Waterloo/Despatch_from_field-marshal_the_duke_of_Wellington_to_earl_Bathurst>
+  - cited by: settings/019-waterloo.md#waterloo-terrain
 - <https://en.wikisource.org/wiki/Dictionary_of_National_Biography>
   - cited by: settings/013-later-campaigns-and-death.md#later-first-abdication-elba
 - <https://en.wikisource.org/wiki/Napoleon%27s_Addresses/Part_V>

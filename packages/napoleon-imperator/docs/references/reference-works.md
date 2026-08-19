@@ -21,7 +21,7 @@ Encyclopaedias and general history sites. These are tertiary summaries. Each ent
 - <https://en.wikipedia.org/wiki/Alexander_Tormasov>
   - cited by: settings/015-the-russian-campaign-of-1812.md#russia-advance-vitebsk
 - <https://en.wikipedia.org/wiki/Armand-Augustin-Louis_de_Caulaincourt>
-  - cited by: settings/015-the-russian-campaign-of-1812.md#russia-departure
+  - cited by: settings/006-court-and-ministers.md#caulaincourt, settings/015-the-russian-campaign-of-1812.md#russia-departure
 - <https://en.wikipedia.org/wiki/Armistice_of_Pl%C3%A4switz>
   - cited by: settings/017-the-collapse-and-first-abdication.md#collapse-armistice-plaswitz
 - <https://en.wikipedia.org/wiki/Arthur_Wellesley>
