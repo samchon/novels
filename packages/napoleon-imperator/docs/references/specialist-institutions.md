@@ -34,6 +34,8 @@ Bodies that curate this subject and publish sourced research: the Fondation Napo
   - cited by: settings/008-grande-armee.md#imperial-guard-1805
 - <https://www.napoleon-series.org/military-info/organization/c_armycorps.html>
   - cited by: settings/008-grande-armee.md#corps-system
+- <https://www.napoleon-series.org/military-info/organization/c_ranks.html>
+  - cited by: settings/008-grande-armee.md#rank-structure
 - <https://www.napoleon-series.org/military-info/virtual/austerlitz/c_pratzen.html>
   - cited by: settings/012-austerlitz.md#austerlitz-terrain
 - <https://www.napoleon-series.org/military-info/virtual/austerlitz/c_santon.html>

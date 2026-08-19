@@ -82,11 +82,6 @@ Cited sources that no tier above claims. Each is a decision waiting to be made: 
 - <https://histoire-en-citations.fr/WP/madame-mere-pourvu-que-cela-dure/>
   - cited by: settings/004-family-and-relations.md#family-parents
 
-## historyofroyalwomen.com
-
-- <https://www.historyofroyalwomen.com/hortense-de-beauhairnais/the-bonaparte-women-hortense-de-beauharnais-part-1/>
-  - cited by: settings/004-family-and-relations.md#family-louis
-
 ## legifrance.gouv.fr
 
 - <https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000571354>

@@ -21,6 +21,8 @@ Journal articles, DOI-resolved papers, medical literature, and critical reviews.
   - cited by: settings/009-institutions-and-economy.md#empire-transition
 - <https://www.persee.fr/doc/ahrf_0003-4436_1994_num_295_1_1608_t1_0136_0000_2>
   - cited by: settings/009-institutions-and-economy.md#franc-germinal
+- <https://www.persee.fr/doc/reco_0035-2764_1959_num_10_2_407355>
+  - cited by: settings/021-the-continental-system.md#continental-economic-effects
 
 ## pmc.ncbi.nlm.nih.gov
 
