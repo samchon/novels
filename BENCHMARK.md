@@ -1,5 +1,34 @@
 # Novel Benchmark Campaigns
 
+## Campaign 2 — two GPT-5.6-Luna owners, opened 2026-08-21
+
+### Contract
+
+- **Lineup and ownership**: `napoleon-imperator` and `after-school-conquest` run in parallel, each under one persistent GPT-5.6-Luna writing owner with exclusive write authority over that package. The coordinator alone owns shared config, skills, workspace files, campaign records, and cross-work audits. The other three packages are outside this campaign and remain held.
+- **Language**: English throughout, including settings, evidence documents, treatments, scripts, and manuscripts.
+- **Layer order and meaning**: `settings → storylines → scenarios → manuscripts`; each layer advances `disabled → evidence → review`. Settings are executable canon, storylines are reader-complete detailed treatments, scenarios are production-capable initial scripts, and manuscripts are finished literary prose.
+- **Scale**: *Imperator* retains its existing multi-volume-equivalent biographical scope from Toulon to Saint Helena, with the three committed scene-level periods defined in its canon. *The After-School World Conquest Club* delivers one complete standalone light-novel comedy whose playful first-person surface accrues real personal and civic costs without abandoning comic control.
+- **Creative authority**: each owner may decide canon, plot, voice, and ending within its title, premise, genre, language, scale, and experiment axis. New canon is recorded in settings before use. Package-local typed claims are permitted only for a real work-specific evidence need; shared graph changes are escalated.
+- **Completion**: all four layers at `review`, clean package and root builds, then at least two consecutive complete full-work reviews with no finding and no content edit.
+- **Experiment limit**: the works differ simultaneously in subject, genre, research burden, scale, and voice, and there is no control arm. Findings are exploratory, not causal evidence about the model.
+
+Campaign 1 is preserved below as history. Its sequential five-work contract was superseded before literary completion by the user's two-owner directive and the synchronized wrtn harness merged in PR #14.
+
+### Planned observations
+
+Elapsed layer transitions; compiler diagnostics and substantive repairs; upstream revisions; stale reviews renewed; package-local claim changes; literary findings and interventions; clean full-review rounds. Counts and speed are process measures, never literary merit.
+
+### Progress
+
+| Package | Layer | Stage | H2/H3/H4 | Package build | Review rounds | Next action |
+| --- | --- | --- | --- | --- | --- | --- |
+| `napoleon-imperator` | settings | `disabled` | 30 files, 365 H2 | clean | 0 | owner audits the inherited canon, closes sourcing debt, then advances settings through evidence and review |
+| `after-school-conquest` | settings | `disabled` | no authored units | clean | 0 | owner researches and writes the complete first settings version |
+
+### Findings
+
+Recorded during the run as shared-harness defects, work-specific defects, and benchmark-design limits.
+
 ## Campaign 1 — five English works, opened 2026-08-18
 
 ### Contract

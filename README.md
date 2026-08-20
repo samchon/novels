@@ -38,13 +38,13 @@ A compiling work is not a finished work: after all layers pass review, repeated 
 
 ## Works
 
-Five works run under one harness as the current benchmark campaign, logged in [`BENCHMARK.md`](BENCHMARK.md). Each was chosen for a different genre, research burden, narrating voice, and audience. The first is written alone and to completion, so that what it exposes is repaired in the shared principles and skills before the other four inherit it.
+Two works run in parallel as the current exploratory benchmark campaign, logged in [`BENCHMARK.md`](BENCHMARK.md). Each has one persistent GPT-5.6-Luna owner and a deliberately different genre, research burden, scale, voice, and audience; the remaining scaffolded works are held outside the campaign.
 
 | Package | Title | Subject | Genre | Experiment axis | Status |
 | --- | --- | --- | --- | --- | --- |
-| [`napoleon-imperator`](packages/napoleon-imperator) | *Imperator* | Napoleon Bonaparte's life and age, opened at Austerlitz | Long-form historical biography | Documentary rigor beside limited focalization | in progress, settings `disabled` |
+| [`napoleon-imperator`](packages/napoleon-imperator) | *Imperator* | Napoleon Bonaparte's life and age, opened at Austerlitz | Long-form historical biography | Documentary rigor beside limited focalization | active, settings `disabled` |
 | [`abyss-regressor`](packages/abyss-regressor) | *Abyss Regressor* | A regressor's repeated descent into a world-eating Abyss | Progression fantasy | Serial momentum joined to long-form causality | scaffolded, held |
-| [`after-school-conquest`](packages/after-school-conquest) | *The After-School World Conquest Club* | A suburban high school club plays at conquering the world | Light-novel comedy | A light first person accruing real costs | scaffolded, held |
+| [`after-school-conquest`](packages/after-school-conquest) | *The After-School World Conquest Club* | A suburban high school club plays at conquering the world | Light-novel comedy | A light first person accruing real costs | active, settings `disabled` |
 | [`long-night-voyager`](packages/long-night-voyager) | *The Long Night Voyager* | Generational turnover aboard a failing closed system | Generation-ship hard SF | Engineering limits driving social change | scaffolded, held |
 | [`pale-lantern`](packages/pale-lantern) | *The Pale Lantern* | The reliability of memory and testimony | Psychological thriller | Unreliable narration under fair clue control | scaffolded, held |
 

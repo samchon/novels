@@ -1,6 +1,3 @@
 node_modules/
 
-# Locally packed ttsc 0.28.0 builds that pnpm-workspace.yaml overrides point at.
-# Regenerate with the bootstrap command in README.md; delete both once 0.28.0
-# is published to the registry.
 artifacts/
