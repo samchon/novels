@@ -1,8 +1,8 @@
 # Settings
 
-Keep canon in `<work-package>/docs/settings`. Use Markdown only, ordered filenames, and one stable anchored H2 per addressable fact.
+Keep canon in `<work-package>/docs/settings`. Use Markdown only, ordered filenames, and one stable anchored H2 per addressable fact or constraint.
 
-The work's governing aim and its intended scale are settings facts of their own. Record them in the first settings file, before the world facts that serve them, so every later layer can be held to both.
+The work's delivery scope, promise, and reader access are settings constraints of their own. Record them in the first settings file, before the world facts that serve them, so every later layer can be held to all three.
 
 ## Craft
 
@@ -38,10 +38,11 @@ Do not rewrite canon merely to excuse a downstream mistake. Compare research, dr
 flowchart LR
   CM["common.md H2 items"] --> SF["settings file"]
   P["settings.md H2 items"] --> SF
+  O["obligations/settings.md H2"] -->|"coverage or exclusion"| S2["settings H2"]
   SF -. "H2 facts become downstream evidence" .-> D["storylines / scenarios / manuscripts"]
 ```
 
-Settings files answer `principles/common.md` and `principles/settings.md` and cite nothing else — their H2 facts are the evidence downstream layers consume.
+Settings files answer `principles/common.md` and `principles/settings.md`. Each `obligations/settings.md` role may receive concrete evidence from multiple settings H2s that materially realize it; when none does, record one concrete population-wide exclusion. A package lint config may add further evidence relationships; follow their selected host scope rather than assuming settings cite nothing else. Settings H2 facts and constraints remain the evidence downstream layers consume.
 
 `$evidence-graph` owns tag grammar, roots, coverage, and exclusions. Load its [staging](../evidence-graph/staging.md) before changing state and its [review procedure](../evidence-graph/review.md) for fingerprints.
 

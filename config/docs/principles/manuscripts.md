@@ -1,83 +1,79 @@
 # Manuscript Principles
 
-Principles for the layer that contains finished literary prose. This is the only layer that commits to a medium: everything above it could equally become a film, a stage play, or a game. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance. Where a file holds no unit an item governs, the citation states that scope fact.
+Criteria for manuscript files containing finished English-language prose for readers.
 
-## Scene realization {#scene-realization}
+## Prose voice {#prose-voice}
 
-The prose preserves the scenario's earned order of pressure, action, reaction, and consequence, then transforms it through a chosen consciousness, diction, syntax, rhythm, image, implication, and emotional aftereffect. It is literary prose, not an expanded beat list, a transcript of stage directions, or ornamental language pasted over missing causality.
+Choose diction, sentence structure, narrative distance, and repetition to suit the narrator, focalization, pressure of the scene, and tone of the work. Do not continue the same sentence frame or ending pattern without purpose.
 
-The prose may make a scene richer, stranger, funnier, more painful, or more ambiguous than the script. It may not solve a conflict the script left unresolved, grant knowledge unavailable to its focal mode, skip the scenario's cost, or turn a hard-won choice into a summary verdict; when that feels necessary, the earliest owning scenario, storyline, or setting is repaired first.
+Give repetition a function in emphasis, rhythm, or variation. Do not pursue brevity or ornament for itself; write sentences suited to the experience being conveyed.
 
-Sources: [Detailed Outline Control](https://arxiv.org/abs/2212.10077), [Dynamic Hierarchical Outlining](https://arxiv.org/abs/2412.13575)
+This item asks about the linguistic voice of the prose. Pacing and rhythm governs the page space and narrated time assigned to events.
 
-## Prose control {#prose-control}
+Sources: [University of Nevada, Reno on psychic distance and narrative effect](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/psychic-distance-in-creative-writing), [Purdue OWL on repeated sentence patterns and rhythms](https://owl.purdue.edu/owl/general_writing/academic_writing/sentence_variety/similar_sentence_patterns_or_rhythms.html)
 
-Sentence length, syntax, repetition, and narrative distance follow the scene's focus and intended effect. Choose between close experience and distant observation, compression and expansion, according to the work's narrative mode. This item owns the sentence and the narrating voice; narrated time and the relation between consecutive units belong to pacing and rhythm.
+## Paragraph continuity {#paragraph-continuity}
 
-Avoid unintended duplication; when repetition is used, give it a function among rhythm, emphasis, and variation. Do not imitate one effect with a single sentence shape.
+Within a scene, connect each paragraph so it is reachable from the previous paragraph in time, position, action, and attention. When movement, elapsed time, the acting subject, or the handled object changes, give the reader a cue to follow the change.
 
-Sources: [University of Nevada, Reno on psychic distance](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/psychic-distance-in-creative-writing)
+Ellipsis, juxtaposition, and abrupt cutting remain available. Mark them sufficiently to distinguish an intended cut from a missing connection.
 
-## Continuous telling {#continuous-telling}
+This item asks whether paragraphs are mutually reachable. Reader orientation governs whether objects and positions are identifiable in the current sentence.
 
-Inside one unit each paragraph is reachable from the one before it in time, position, and attention. What the narration turns to next follows a movement, a look, an answer, a consequence, or a break the prose marks as a break. A paragraph that resumes somewhere else without marking the move, advances the clock unannounced, restores a position the unit had already left, or handles an object that was never picked up assembles blocks that each read well and do not compose one continuous experience.
+Sources: [Zwaan, Langston, and Graesser on situation change and comprehension cost](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x), [Harvard Writing Center on transitions](https://writingcenter.fas.harvard.edu/transitions)
 
-Ellipsis, juxtaposition, and abrupt cutting within a unit stay available; what they require is that a reader can tell a cut from a slip. This item owns the join between paragraphs inside a unit — the sentence and the narrating voice belong to prose control, narrated time and the arrangement of consecutive units belong to pacing and rhythm, and the exit-to-entry inheritance between units belongs to unit handover. A unit written as a single unbroken movement does not trigger this item.
+## Perspective control {#perspective-control}
 
-Sources: [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x), [UW–Madison Writing Center on cohesion](https://writing.wisc.edu/handbook/style/connectingideas/), [Harvard College Writing Center on transitions](https://writingcenter.fas.harvard.edu/transitions)
+Each scene respects what its narrator and focal subject can see, know, and interpret. When perspective changes, give the reader a legible boundary and reason.
 
-## Point of view {#point-of-view}
+Withhold information for a reason available inside the chosen perspective, such as failure to see, lack of knowledge, or refusal to face it. Do not omit for convenience a fact plainly known to the narrator or focal character.
 
-Each scene fixes its narrator, the scope of focalization, and the information allowed to the reader. A limited viewpoint keeps the boundaries of observation, inference, and memory; omniscient, objective, collective, and mixed viewpoints operate their transitions and narrative authority consistently. Even an unpeopled place is presented through the chosen narrative focus.
+This item asks what the scene's narration may access. Settings reader-access obligation governs the complete work's access rules, and reader orientation governs whether the reader has enough cues to follow the current sentence.
 
-Make shifts of viewpoint or focus identifiable in intent and boundary, and ground everything the reader learns in observation, inference, memory, or narrative authority.
-
-Sources: [Oregon State University on point of view](https://liberalarts.oregonstate.edu/wlf/what-point-of-view), [Oregon State University on free indirect discourse](https://liberalarts.oregonstate.edu/wlf/what-free-indirect-discourse)
-
-## Narrated withholding {#narrated-withholding}
-
-A telling that keeps something back keeps it back by means its focal mode already owns: what the consciousness does not notice, cannot see, will not think about, or has no words for. Narration that steps around a fact its chosen mode is plainly holding — cutting away at the moment of the thought, naming everything in a memory except its subject, reporting an act while suppressing the motive its actor knows — buys surprise against the reader's trust, and loses it on the first rereading.
-
-The same control governs stress. A portent lending a moment weight the unit has not produced, an interiority stating the recognition the unit was built to let the reader reach, or an emphasis no present purpose explains marks a significance the telling has not earned and spends the later unit's work early. Which information the work withholds, and when it pays that withholding off, belongs to the storyline layer's disclosure item; what the reader is given and the authority it arrives on belongs to point of view. This item owns whether the narration's silences and stresses are honest to the mode it chose. A unit that neither withholds nor marks significance does not trigger this item.
-
-Sources: [Sternberg on delayed and distributed exposition](https://archive.org/details/expositionalmode0000ster), [Brewer & Lichtenstein's structural-affect theory](https://doi.org/10.1017/S0140525X00017568), [University of Minnesota on plot, suspense, and surprise](https://manifold.open.umn.edu/read/c10-plot-rodak-storey/section/d89285f2-a958-4caa-9c4d-7f0f612724b8)
+Sources: [Genette on the distinction between voice and focalization](https://archive.org/details/narrativediscour0000gene), [Burton and Poster on viewpoint choice and transitions](https://www.cambridge.org/core/books/abs/prompts-you-need-to-help-you-write-the-book-you-want-to-write/point-of-view/9E9D1AA8E2841E6508D5864791DDE0FE), [Oregon State University on point of view](https://liberalarts.oregonstate.edu/wlf/what-point-of-view)
 
 ## Pacing and rhythm {#pacing-rhythm}
 
-Narrated time follows the importance the work gives each moment and the intensity the reader should experience. Unfold as scene the moments whose duration matters; compress or transform passage with summary, ellipsis, and iteration. Pace is controlled not by sentence length alone but by information density, paragraphing, repetition, and the ratio of dialogue to action and of scene to summary.
+Match page space to the importance of an event and the intensity the reader must experience. Unfold moments whose duration matters; compress passage through summary, ellipsis, and repetition.
 
-Arrange consecutive units deliberately in emotional intensity, tonal register, and sensory density. Where contrast is chosen the differing units must sharpen each other; where one tone is sustained, control the pressure, calm, numbness, or self-awareness that repetition produces. A transition must not accidentally erase the consequence and resonance of the preceding emotion, and whatever is chosen — speed, slowness, stillness — its relation to neighbouring units and its intended reading effect must be explainable.
+Control pace not only through sentence length but also through information density, paragraphs, dialogue and action, and the ratio of scene to summary. Arrange the intensity and tone of neighbouring units as well.
 
-Sources: [Purdue OWL on scene and summary](https://owl.purdue.edu/owl/resources/writing_tutors/tutoring_creative_writing_students/documents/working-with-creative-writing-students-09152025.pdf), [University of Nevada, Reno on psychic distance, pace, and dramatic effect](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/psychic-distance-in-creative-writing)
+This item asks about page space and narrated time assigned to events. Prose voice governs whether individual sentences suit narrator and work.
+
+Sources: [Purdue OWL on the different functions of scene and summary](https://owl.purdue.edu/owl/resources/writing_tutors/tutoring_creative_writing_students/documents/working-with-creative-writing-students-09152025.pdf), [University of Nevada, Reno on psychic distance and pace](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/psychic-distance-in-creative-writing)
 
 ## Reader orientation {#reader-orientation}
 
-Give the reader, at the needed moments, enough narrator, focus, time, place, and current situation to follow the work as intended. Connect new names, terms, and rules to interpretable context; keep pronouns, agents of action, and spatial relations identifiable to the needed degree.
+At the needed moment, give enough cues to identify who acts, when and where the action occurs, what is happening, and what pronouns and demonstratives refer to.
 
-Mystery, omission, fragmentation, and confusion can be intended reading experiences, but what is hidden and what is held must be controlled. Distinguish intended uncertainty from accidental reference errors and causal gaps, and prefer timely cues over added explanation.
+Riddle, confusion, and fragmentation may be intended. In that case, leave the reader something to hold so that intended uncertainty can be distinguished from error.
 
-Sources: [Harvard College Writing Center on transitions](https://writingcenter.fas.harvard.edu/transitions), [Seton Hill University on concrete setting and clarity](https://jerz.setonhill.edu/writing/creative1/shortstory/), [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
+This item asks whether the current reading remains identifiable. Narrative information entry governs how new names and rules first appear, and perspective control governs what narrator and focalization can know.
+
+Sources: [Harvard Writing Center on transitions and reader guidance](https://writingcenter.fas.harvard.edu/transitions), [Seton Hill University on concrete setting and clarity](https://jerz.setonhill.edu/writing/creative1/shortstory/)
 
 ## Dialogue voice {#dialogue-voice}
 
-Speech in prose becomes voice and subtext: idiom, rhythm, evasion, and silence particular to each speaker and situation, without reproducing the scenario's speaker labels or beat numbers. The decisive exchanges the scenario fixed keep their force and consequence; what changes is how the words live inside the focal perception.
+When a scene has dialogue, distinguish characters and relationships through each speaker's idiolect, rhythm, register, dialect, forms of address, evasion, and silence. Preserve the purpose and result of the exchange fixed by the scenario while choosing utterances within the work's range from naturalistic to theatrical speech.
 
-Attribution, gesture, and interiority around speech are chosen for clarity and pressure, not habit. Scenes with no speech do not trigger this item.
+Choose surrounding gesture, interiority, and speech attribution only as far as needed to clarify speaker and pressure. Because English literary dialect is a selective construction rather than a transcript, use its social and regional signals deliberately; do not reduce a community or class to an unexamined stereotype.
 
-Sources: [Center for Fiction on writing dialogue](https://centerforfiction.org/writing-tools/tips-for-writing-dialogue/)
+This item asks how dialogue distinguishes characters and relationships. Common work language governs the suitability of English expression, and scenario dialogue action governs what the exchange does.
 
-## Emotional resonance {#emotional-resonance}
+Sources: [Cambridge Companion to Narrative on character voice and fictional dialogue](https://www.cambridge.org/core/books/abs/cambridge-companion-to-narrative/dialogue/DA260BBCE7DBBA9BCB4196CE7F35ABDC), [Locher and Jucker on naturalism and stylization in fictional dialogue](https://www.cambridge.org/core/elements/fiction-and-pragmatics/D198C6EEF1402A67B259E53221B1CD16), [Hodson on place, class, and the conventions of literary dialect](https://www.cambridge.org/core/journals/english-language-and-linguistics/article/talking-to-peasants-language-place-and-class-in-british-fiction-18001836/58ACB34F3F670618BDE3FF2F61CFF358), [Center for Fiction on dialogue and subtext](https://centerforfiction.org/writing-tools/tips-for-writing-dialogue/)
 
-A unit that intends emotional effect first gives the reader cues to experience the emotion's object and context. Choose between naming an emotion directly and presenting it indirectly through action, sensation, thought, speech, and form; scale intensity to the meaning accumulated so far and the present change.
+## Emotional grounding {#emotional-grounding}
 
-Emotion can be produced not only by sympathy with a figure but by distance, numbness, absence, environment, contrast, and rhythm. After an important emotional change, leave behind what differs among perception, judgement, action, and reader interpretation. Units with no emotional responsibility do not trigger this item.
+When a scene intends emotional effect, first give the reader cues to experience the emotion's object, context, and change. Match intensity to the meaning accumulated so far and the change left by the present event.
 
-Sources: [Oatley on emotion and identification in narrative](https://doi.org/10.1016/0304-422X(94)P4296-S), [experimental work on narrative absorption and empathy](https://doi.org/10.1016/j.paid.2011.10.005)
+Emotion may be named directly or revealed through action, sensation, thought, distance, and rhythm. Whichever mode is chosen, let it actually affect perception, judgment, action, or reader interpretation.
 
-## Descriptive function {#descriptive-function}
+Sources: [Oatley on emotion and identification in narrative](https://doi.org/10.1016/0304-422X%2894%29P4296-S), [Bal and Veltkamp on narrative absorption and empathy](https://doi.org/10.1016/j.paid.2011.10.005)
 
-Description earns its place by acting on perception, emotion, atmosphere, or theme in this scene, and by altering pace, desire, dread, intimacy, shame, humour, or understanding rather than delaying every decision.
+## Descriptive selection {#descriptive-selection}
 
-Do not fill senses like a checklist or halt the narrative for unrelated explanation. What is noticed, and in what order, follows the scene's active focus; impersonal narration keeps its own principle of observation rather than none.
+Select from what the current perspective can perceive the details that change action, atmosphere, relationship, theme, or reader understanding. Do not fill sensory categories like a checklist or stop the scene for irrelevant explanation.
 
-Sources: [Oregon State University on setting](https://liberalarts.oregonstate.edu/wlf/what-setting)
+Give readers cues from which they can form images and implications without explaining every meaning for them. Distinguish a gap without cues from deliberate space.
+
+Sources: [Oregon State University on setting acting upon character, conflict, and theme](https://liberalarts.oregonstate.edu/wlf/what-setting), [Ingarden on indeterminacy and reader concretization](https://plato.stanford.edu/entries/ingarden/), [Iser on gaps and the reader's imaginative activity](https://doi.org/10.2307/468316)

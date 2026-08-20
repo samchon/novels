@@ -1,6 +1,6 @@
-import { createLintConfig } from "@samchon/novel-config";
+import { createNovelConfig } from "@samchon/novel-config";
 
-export default createLintConfig({
+export default createNovelConfig({
   location: __dirname,
 
   // disabled defers complete coverage but permits obvious truthful evidence.
@@ -18,4 +18,9 @@ export default createLintConfig({
   // Keep disabled until the reviewed scenario supports a complete manuscript;
   // then pass "evidence" and finally "review".
   manuscripts: "disabled",
+
+  // Add only this work's claims; additions extend, never replace, the shared graph.
+  // Put checklist targets in docs/principles and distributed roles in docs/obligations.
+  // Use a descriptive docs/<lower-kebab-case> family only for a different target type.
+  claims: [],
 });

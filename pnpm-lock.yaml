@@ -38,6 +38,9 @@ importers:
       '@types/node':
         specifier: catalog:utils
         version: 26.2.0
+      ttsc:
+        specifier: catalog:typescript
+        version: 0.28.0
       typescript:
         specifier: catalog:typescript
         version: 7.0.2

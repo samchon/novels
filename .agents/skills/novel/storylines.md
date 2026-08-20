@@ -29,12 +29,13 @@ flowchart LR
   CM["common.md H2 items"] --> SF["storyline file"]
   PC["narratives.md H2 items"] --> SF
   PL["storylines.md H2 items"] --> SF
+  O["obligations/storylines.md H2"] -->|"coverage or exclusion"| S2
   F["settings H2"] --> S2["storyline H2"]
   F --> S3["storyline H3"]
   F --> S4["storyline H4"]
 ```
 
-This layer answers `principles/common.md`, `principles/narratives.md`, and `principles/storylines.md`. It has no cross-layer parent: storylines are where the settings catalog is first accounted for, so each H2, H3, and H4 cites the settings it uses and nothing else.
+This layer answers `principles/common.md`, `principles/narratives.md`, and `principles/storylines.md`. It has no cross-layer parent: storylines are where the settings catalog is first accounted for, so each H2, H3, and H4 cites the settings it uses. Each `obligations/storylines.md` role may receive concrete evidence from multiple storyline H2s that materially realize it; when none does, record one concrete population-wide exclusion. Every H2 that realizes a role continues it through the matching scenario and manuscript H2 lineage. Follow any further package claims selected by `lint.config.ts`.
 
 `$evidence-graph` owns tag grammar, roots, coverage, and exclusions. Load its [staging](../evidence-graph/staging.md) before changing state and its [review procedure](../evidence-graph/review.md) for fingerprints.
 

@@ -1,43 +1,51 @@
 # Scenario Principles
 
-Principles for the layer that specifies detailed executable scene progression. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance. Where a file holds no unit an item governs, the citation states that scope fact.
+Criteria for scenario files that turn storylines into executable scene progression.
 
-## Stageability {#stageability}
+## Scene entry state {#scene-entry-state}
 
-A scenario scene is a production-capable initial script: a director, stage maker, game writer, or novelist must be able to adapt it without inventing the scene's essential order, confrontation, or exit. If a competent maker would still have to invent who moves first, where people stand, what the crucial exchange says, what blocks the action, or what creates the next scene's condition, the scene is still a storyline and must be rewritten.
+At the opening of each scene, establish time, place, participants, active focus or range of observation, and the physical and social pressure inherited from the preceding scene. Establish the trigger that starts the scene as well.
 
-Make visible the immediate want, opposition, tactic, and counter-tactic of each active force, in the scene's actual progression. An optional numbered beat may separate genuine changes of pressure, but a fixed template, a list of intended feelings, a camera-shot list, or a repeated entry-reaction-turn-result shell is not staging. Give sound, lighting, camera, or staging instructions only when the work's action depends on them.
+Do not merely list planning fields; make clear where and under what conditions the first action is possible.
 
-Sources: [BubbleCow on scene structure: goal, conflict, and outcome](https://bubblecow.com/blog/writing-craft/pacing-and-scenes/scene-structure-goal-conflict-and-outcome/), [Fiction University on what qualifies as a scene](http://blog.janicehardy.com/2019/08/how-to-write-scenes-and-what-qualifies.html)
+This item governs the current scene's starting conditions. Narrative state continuity governs whether those conditions accurately inherit earlier units and settings.
 
-## Entry and exit {#entry-and-exit}
+Sources: [Oregon State University on the effect of concrete time and place in a scene](https://liberalarts.oregonstate.edu/wlf/what-setting), [Zacks and colleagues on event boundaries across changes in time, causality, character, place, and goal](https://pmc.ncbi.nlm.nih.gov/articles/PMC8710938/), [BubbleCow on scene goal, conflict, and outcome](https://bubblecow.com/blog/writing-craft/pacing-and-scenes/scene-structure-goal-conflict-and-outcome/)
 
-Open each scene with a compact dramatic orientation written as running prose, never as generic planning-field labels: the current time and place, the active focal presence and participants, the physical or social condition inherited from the prior scene, and the pressure that begins this encounter. A later scene may cut sharply and need not continue the last minute of its predecessor, but it must orient its audience early to what carries across the cut.
+## Scene exit state {#scene-exit-state}
 
-Specify the precise turn that makes the old plan impossible, expensive, dangerous, or newly possible — the moment after which the scene cannot return to its opening state — then close on the observable final condition: what is carried away, damaged, promised, lost, or newly required when the next scene starts. A scene that ends exactly where it began, with the same options at the same prices, has not earned its place. The exit is workable fact for the next scene's entry, not a mood.
+Leave what changed at the end of each scene as an observable state. Establish the change in choice, relationship, knowledge, resources, position, emotion, or reader interpretation that the next scene inherits.
 
-Sources: [Harvard College Writing Center on transitions](https://writingcenter.fas.harvard.edu/transitions), [Seton Hill University on concrete setting and clarity](https://jerz.setonhill.edu/writing/creative1/shortstory/), [BubbleCow on scene structure: goal, conflict, and outcome](https://bubblecow.com/blog/writing-craft/pacing-and-scenes/scene-structure-goal-conflict-and-outcome/)
+A scene may return to conditions like those at its opening, but the result that this repetition or stasis adds to the work must be clear.
 
-## Physical progression {#physical-progression}
+This item governs the state the current scene leaves behind. Narrative unit connection governs the meaningful relation that state forms with the next unit.
 
-Write the scene's events in causal order as concrete movement, handling, work, concealment, refusal, mistake, and bodily response. Record arrivals, positions, exits, objects, documents, tools, injuries, terrain, weather, sound, light, procedure, authority, and crowd conditions wherever they govern what people can attempt or perceive; an environment that never resists, enables, or reveals anything is decoration, so make it operative or reduce it.
+Sources: [Zacks and colleagues on event boundaries across changes in time, causality, character, place, and goal](https://pmc.ncbi.nlm.nih.gov/articles/PMC8710938/), [BubbleCow on scene outcomes creating later conditions](https://bubblecow.com/blog/writing-craft/pacing-and-scenes/scene-structure-goal-conflict-and-outcome/), [Harvard Writing Center on transitions showing the relation between what precedes and follows](https://writingcenter.fas.harvard.edu/transitions)
 
-Test the progression for physical possibility, knowledge, motive, timing, and resources: no one acts on information not yet available, crosses space that costs time the scene does not have, or spends a resource the settings deny. A scene without a single acting person still needs perceivable dramatic progression — an event, trace, record, sound, object, or altered environment must change what someone can know or do. Do not hide missing execution in lyrical summary.
+## Action progression {#action-progression}
 
-Sources: [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x), [Oregon State University on setting](https://liberalarts.oregonstate.edu/wlf/what-setting)
+Write who attempts what, what obstructs the attempt, and how the active forces respond, so that temporal and causal relations are legible in presentation order. Make movement, objects, environment, procedure, bodily limits, and required time operate in the actual action.
+
+Do not solve a problem with information or resources absent from settings. Leave concrete changes in force across the scene rather than a fixed beat template or shot list.
+
+This item asks how action executes inside one scene. Narrative unit connection governs relations between scenes.
+
+Sources: [Zwaan, Langston, and Graesser on continuity across time, space, causation, protagonists, and intentions](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x), [Oregon State University on environment acting upon character and conflict](https://liberalarts.oregonstate.edu/wlf/what-setting)
 
 ## Dialogue action {#dialogue-action}
 
-Dialogue operates relationship, attitude, emotion, rhythm, or situation, never only information transfer. Include enough of the actual exchanges — in speaker-labelled blocks — that later writers do not have to invent the decisive accusation, bargain, lie, plea, refusal, or silence, whenever exact wording, interruption, evasion, overlap, or a failed answer changes power, relationship, knowledge, or action.
+When a scene has dialogue, write what each speaker seeks to obtain or avoid and how the other party responds in the progression. Make decisive questions, lies, bargains, refusals, and silences concrete enough that the next layer need not invent their content or result.
 
-Choose the agreement or gap between what is said and what is meant, and the placement of silence and topic shifts, by figure and situation. Do not make participants unnaturally recite facts they already share only to inform the audience, and do not transcribe harmless chatter merely to look like a script. Scenes with no speech do not trigger this item.
+Do not repeat shared facts merely to explain them to the audience, and do not fill the script with harmless chatter solely to resemble a screenplay.
 
-Sources: [Center for Fiction on writing dialogue](https://centerforfiction.org/writing-tools/tips-for-writing-dialogue/)
+Sources: [Center for Fiction on dialogue moving character and event](https://centerforfiction.org/writing-tools/tips-for-writing-dialogue/), [Cambridge Companion to Narrative on the function and selection of fictional dialogue](https://www.cambridge.org/core/books/abs/cambridge-companion-to-narrative/dialogue/DA260BBCE7DBBA9BCB4196CE7F35ABDC)
 
-## Information state {#information-state}
+## Knowledge state {#knowledge-state}
 
-Fix what each participant knows, believes falsely, suspects, and can verify when the scene opens, and what has changed for each of them when it closes — gained, lost, concealed, misread, or newly provable. Name the carrier through which each change actually travels: the document, the overheard sentence, the absence, the gesture, the silence.
+Track what each participant knows, believes, suspects, and misunderstands before and after a scene. Changed information must travel through an actual carrier such as a document, observation, speech, silence, or absence.
 
-A later scene inherits this ledger as fact, so an unrecorded change becomes an invention downstream. Where a scene deliberately leaves the audience ahead of or behind a participant, state which, and until when. This item owns the executable ledger; which knowledge the work withholds and when it pays that withholding off belongs to the storyline layer. A scene in which nobody's knowledge, belief, or access is at stake does not trigger this item.
+Where the reader remains ahead of or behind a participant, define the difference and how long it persists.
 
-Sources: [Brewer & Lichtenstein's structural-affect theory](https://doi.org/10.1017/S0140525X00017568), [Zwaan, Langston & Graesser's event-indexing model](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
+This item asks how information moves inside a scene. Narrative state continuity governs whether knowledge survives across scenes, and storyline information design governs when to disclose it to the reader.
+
+Sources: [Brewer and Lichtenstein on information order and suspense, curiosity, and surprise](https://doi.org/10.1017/S0140525X00017568), [Zwaan, Langston, and Graesser on continuity of character, goal, and causality](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)

@@ -3,7 +3,7 @@
 Each package declares one state per authored layer:
 
 ```ts
-createLintConfig({
+createNovelConfig({
   location: __dirname,
   settings: "disabled",
   storylines: "disabled",
@@ -22,7 +22,7 @@ stateDiagram-v2
   review --> review: change requires renewed review
 ```
 
-- `disabled`: disable the layer's principle checklists and, for the three narrative layers, its H2/H3/H4 setting and lineage claims. Finish the first version without compiler pressure.
+- `disabled`: disable the layer's principle checklists, shared obligations, and H2/H3/H4 setting and lineage claims. Finish the first version without compiler pressure.
 - `evidence`: enable claims without `requireReview`. Resolve graph errors and revise content.
 - `review`: enable `requireReview`. Independently check and fingerprint every acknowledgement, including each principle item answer.
 
@@ -35,7 +35,7 @@ The state names the active harness, not completed history. Leave a successful la
 Move to `evidence` only after the full layer has:
 
 - a complete first version;
-- stable H2/H3/H4 structure and ordered filenames (settings: stable anchored H2 facts);
+- stable H2/H3/H4 structure and ordered filenames (settings: stable anchored H2 facts and constraints);
 - units realized at a consistent depth, with none left as a summary of itself;
 - no placeholders;
 - a manual omission pass.
@@ -48,7 +48,7 @@ For a settings foundation pass, make a target-to-host map before inserting tags.
 
 Never lower or skip a state. Do not activate a layer before its immediate upstream layer has a clean review build; the pipeline is `settings → storylines → scenarios → manuscripts`.
 
-The `settings` stage owns only the principle checklists on settings files. The settings H2 catalog has no stage of its own: settle it before storylines, revise it when later work exposes a defect, and propagate every consequence; each consuming layer's stage decides whether its settings citations need review.
+The `settings` stage owns the principle checklists on settings files and `obligations/settings.md`. The `storylines` stage owns `obligations/storylines.md`. Each obligation may be cited by multiple H2 hosts that materially realize it, or excluded once when the complete owning population has no such role. The remaining settings H2 catalog has no stage of its own: settle it before storylines, revise it when later work exposes a defect, and propagate every consequence; each consuming layer's stage decides whether its settings citations need review.
 
 Keep package comments focused on transition conditions. Do not copy claims into wrappers or create phase-specific configs.
 

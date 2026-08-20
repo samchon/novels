@@ -1,27 +1,33 @@
 # Common Principles
 
-Principles every authored file of every layer answers — settings, storylines, scenarios, and manuscripts alike. No item may be excluded; each item binds wherever its condition applies, and citing it asserts that compliance. Where a file holds no unit an item governs, the citation states that scope fact.
+Criteria shared by every settings, storyline, scenario, and manuscript file.
 
-## Governing aim {#governing-aim}
+## Purpose fit {#purpose-fit}
 
-A work has one governing aim — the affect it means to earn, the understanding it means to produce, the pleasure it means to give, or the argument it means to press — and records it in its settings so every layer can be held to it. Other goods may be served, but one leads and orders the rest; a work that pursues every good equally pursues none.
+The file's facts, events, scenes, and expressions must contribute to the experience the work promises and to the scope of the current delivery. Connect material that does not contribute to another element or remove it.
 
-The aim binds selection, not vocabulary. It decides which facts are worth establishing, which events are worth staging, and which effects are worth their cost, and it is judged by what the work spends its space on rather than by what it declares about itself.
+Judge this by selection, not declaration. The writer must be able to explain what was included and omitted and how those choices serve the work's promise.
 
-Sources: [Jakobson on the dominant as the component that rules and transforms the rest](https://archive.org/details/readingsinrussia0000mate)
+This item asks why the file as a whole is needed. Narrative unit function governs the necessity of individual units inside it.
 
-## Layer order {#layer-order}
+Sources: [Jakobson on the dominant that governs the remaining elements](https://archive.org/details/readingsinrussia0000mate), [Burton and Poster on testing the function of each chapter](https://www.cambridge.org/core/books/abs/book-you-need-to-read-to-write-the-book-you-want-to-write/beginnings-and-endings-tension-and-pace/7B84CB546C696FD1B6A8AB753522B42C)
 
-The work refines in one direction: settings and principles ground storylines, storylines ground scenarios, scenarios ground manuscripts. Each layer adds only its own kind of decision — facts and constraints, then causes and events, then executable scene progression, then the finished work — and never pre-makes a downstream one.
+## Layer boundary {#layer-boundary}
 
-Revision runs the same order backwards, from large decisions to small expressions: structure first, then chapter and scene function, last sentences and diction. A changed world fact starts at settings, a changed cause at storylines, a changed scene execution at scenarios, a changed expression in the manuscript alone. A discovery made downstream updates the layer that owns it and comes back down, rather than being patched where it was noticed.
+A file settles only the decisions owned by its layer. Settings own facts and constraints, storylines own causes, choices, and changes, scenarios own executable scene progression, and manuscripts own finished prose.
 
-Sources: [Plan-and-Write](https://doi.org/10.1609/aaai.v33i01.33017378), [Detailed Outline Control](https://arxiv.org/abs/2212.10077), [Dynamic Hierarchical Outlining](https://arxiv.org/abs/2412.13575), [University College Dublin on revising fiction](https://www.ucd.ie/writingcentre/t4media/Creative%20Writing%20Revising%20and%20Editing%20Fiction.pdf)
+When a needed decision is absent upstream, repair that layer first. Do not put scene order in settings, detailed blocking in storylines, or planning labels in manuscripts.
 
-## Evidence discipline {#evidence-discipline}
+This item asks what kind of decision the file makes. Other principles for each layer decide whether that decision is complete enough.
 
-Each file answers its principle checklists at file scope. A narrative H2, H3, or H4 directly cites the same-level upstream units it inherits and the settings it actually uses; an `@evidence` states what is inherited and how it is realized, and an `@evidenceReview` states what was actually verified, with the current fingerprint.
+Sources: [Plan-and-Write on separating planning from realization](https://doi.org/10.1609/aaai.v33i01.33017378), [Detailed Outline Control on controlling long-form generation through detailed outlines](https://arxiv.org/abs/2212.10077), [University College Dublin on revising from large levels downward](https://www.ucd.ie/teaching/t4media/revising_and_editing_fiction.pdf)
 
-An exclusion is a statement about a whole claim population, not about one host: a setting that no host in the population uses is excluded once, with a concrete scope reason, while a host that simply does not use a setting stays silent rather than excluding it. Lineage and principle items can never be excluded at all. False citations written to pass compilation and meaningless "not applicable" notes are forbidden.
+## Work language {#work-language}
 
-Sources: [`@ttsc/evidence` documentation](https://github.com/samchon/ttsc/tree/master/packages/evidence)
+The default language of authored documents and manuscripts is English that the intended readership can understand as designed. Where the work chooses a standardized variety, preserve its grammar, spelling, capitalization, punctuation, and dialogue conventions; keep recurring choices consistent with the English variety and medium fixed in settings.
+
+Other English varieties, dialect, code-switching, foreign-language quotation, and deliberate departures from a standard remain available. Give English-language readers enough context to understand their meaning and function, and fix the scope and effect of any recurring departure in settings. Do not treat a character's nonstandard variety as broken grammar: its selected features, social meaning, and readability are artistic decisions that require the same consistency as standard prose.
+
+This item asks whether English expression and notation fit the work and remain coherent. Dialogue voice governs how manuscript speech distinguishes characters and relationships.
+
+Sources: [Shaw on standards and varieties of English](https://onlinelibrary.wiley.com/doi/10.1002/9781405198431.wbeal1426.pub2), [Cambridge Grammar on multiple standard and nonstandard varieties of English](https://dictionary.cambridge.org/grammar/british-grammar/standard-and-non-standard-language), [Chicago Manual of Style on English punctuation and deliberate fictional choices](https://www.chicagomanualofstyle.org/qanda/data/faq/topics/Punctuation.html), [Hodson on literary dialect as selective social representation](https://www.cambridge.org/core/journals/english-language-and-linguistics/article/talking-to-peasants-language-place-and-class-in-british-fiction-18001836/58ACB34F3F670618BDE3FF2F61CFF358)
