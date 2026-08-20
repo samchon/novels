@@ -29,7 +29,7 @@ flowchart TD
 
 ## Each round
 
-1. Build a fresh sorted manifest of settings, storylines, scenarios, manuscripts, and principles.
+1. Build a fresh sorted manifest of settings, storylines, scenarios, manuscripts, shared principles and obligations, and every package-local evidence document selected by `lint.config.ts`.
 2. Read every file completely in that order.
 3. Keep findings until the full read ends; do not stop to edit.
 4. Fix every finding at its earliest owning layer.

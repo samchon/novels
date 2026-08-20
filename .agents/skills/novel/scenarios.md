@@ -6,7 +6,7 @@ Scenarios are **production-capable initial scripts**. They are neither causal su
 
 ## Craft
 
-This document owns what an initial script is and how it is produced; `config/docs/principles/common.md` and `narratives.md` own the shared narrative obligations, and `config/docs/principles/scenarios.md` owns the scene obligations — entry and exit, physical progression, decisive dialogue, the information ledger, and the stageability test that decides whether a draft is still a storyline. Read all three before drafting and test every H4 against their items. When a scenario unit reads no more concretely than the storyline unit it refines, it has been restated rather than staged: find the positions, objects, exchanges, and timings the storyline left to this layer.
+This document owns what an initial script is and how it is produced; `config/docs/principles/common.md` and `narratives.md` own the shared checklists, and `config/docs/principles/scenarios.md` owns the scenario checklist. Read all three before drafting and test every H4 against their items; do not restate them here. When a scenario unit reads no more concretely than the storyline unit it refines, it has been restated rather than staged: find the positions, objects, exchanges, and timings the storyline left to this layer.
 
 ## Evidence
 
@@ -23,7 +23,7 @@ flowchart LR
   T4["matching storyline H4"] --> C4
 ```
 
-This layer answers `principles/common.md`, `principles/narratives.md`, and `principles/scenarios.md`. Each unit cites the settings it uses and its matching storyline unit at the same level:
+This layer answers `principles/common.md`, `principles/narratives.md`, and `principles/scenarios.md`. Each unit cites the settings it uses and exactly one matching storyline unit at the same level, plus any additional relationship whose package claim selects that unit:
 
 ```text
 <!--

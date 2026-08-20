@@ -22,13 +22,15 @@ The three narrative layers share one `H2 sequence → H3 chapter → H4 scene` h
 
 Shared literary principles live in [`config/docs/principles`](config/docs/principles) as [`common.md`](config/docs/principles/common.md) answered by every layer, [`narratives.md`](config/docs/principles/narratives.md) answered by the three narrative layers, and one file per authored layer. Each principle is one anchored H2, and each principle reference is a compiler **checklist**: every file answers every item with its own citation — a whole-file citation is refused, no file's answer covers another file, and no item may be excluded, because each principle binds wherever its condition applies. In the `review` stage every answer carries the fingerprint of that single item, so editing one principle expires exactly the answers to that item across all works.
 
+Shared roles live in [`config/docs/obligations`](config/docs/obligations). Settings H2s account for delivery scope, work promise, and reader access; storyline H2s assign the reader's entry and ending and any prologue or epilogue role. A role may be realized by several H2s or excluded once when the complete owning population has no such role. Packages may append typed claims for evidence contracts unique to one work or experiment, but those claims only extend the shared graph.
+
 A compiling work is not a finished work: after all layers pass review, repeated literal full-work reviews continue until two consecutive rounds find nothing.
 
 ## Workspace
 
 | Path | Role |
 | --- | --- |
-| [`config`](config) | Shared private package: the evidence-graph factory ([`createLintConfig.ts`](config/src/createLintConfig.ts)), the principle checklists, and the package generator. |
+| [`config`](config) | Shared private package: the evidence-graph factory ([`createNovelConfig.ts`](config/src/createNovelConfig.ts)), principles, obligations, typed custom-claim API, templates, and package generator. |
 | `packages/*` | One novel work per package. |
 | [`AGENTS.md`](AGENTS.md) | The shared writing and evidence contract. |
 | [`.agents/skills`](.agents/skills) | Repository skills: `novel`, `evidence-graph`, `benchmark`, `edit-agent-instructions`. |
@@ -48,22 +50,11 @@ Five works run under one harness as the current benchmark campaign, logged in [`
 
 ## Usage
 
-The evidence graph compiles the principle checklists with `@ttsc/evidence`'s `checklist` reference, which no published release carries yet — the newest on the registry is 0.27.0. Until 0.28.0 publishes, bootstrap once from a local [`ttsc`](https://github.com/samchon/ttsc) checkout, whose tarballs the `overrides` block in [`pnpm-workspace.yaml`](pnpm-workspace.yaml) points at:
-
-```bash
-# from a ttsc checkout at version 0.28.0
-for p in evidence lint ttsc ttsc-win32-x64; do
-  (cd packages/$p && pnpm pack --pack-destination /path/to/novels/artifacts)
-done
-```
-
-Then work from this repository:
-
 ```bash
 pnpm install
 
 # create a new work package
-pnpm create:novel winter-orbit --title "Winter Orbit" --description "A generation-ship mystery"
+pnpm create:novel winter-orbit
 
 # compile one work's evidence graph
 pnpm --filter @samchon/novel-winter-orbit build

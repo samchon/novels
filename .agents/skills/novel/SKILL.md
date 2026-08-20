@@ -5,7 +5,7 @@ description: Design, research, write, revise, or fully review an evidence-compil
 
 # Novel
 
-Identify the package under `packages/*`. Read `AGENTS.md`, its `package.json`, `lint.config.ts`, every earlier narrative layer, and all `config/docs/principles/*.md`.
+Identify the package under `packages/*`. Read `AGENTS.md`, its `package.json`, `lint.config.ts`, every earlier narrative layer, and every shared or package-local evidence document selected by that lint config.
 
 ```mermaid
 flowchart LR
@@ -20,6 +20,8 @@ flowchart LR
   PL -. "checklist per file" .-> T
   PL -. "checklist per file" .-> S
   PL -. "checklist per file" .-> M
+  OW["obligations/settings.md H2"] -->|"coverage or exclusion"| F
+  OD["obligations/storylines.md H2"] -->|"coverage or exclusion"| T
   F -. "ground exact units" .-> T
   F -. "ground exact units" .-> S
   F -. "ground exact units" .-> M
@@ -28,13 +30,13 @@ flowchart LR
   T -->|"direct lineage check"| M
 ```
 
-Principles are checklists answered once at file scope: every file answers `common.md` and its layer's principle file, and every narrative file also answers `narratives.md`. Settings ground the exact H2, H3, and H4 units that use them. Matching H2, H3, and H4 units preserve lineage across layers; Markdown hierarchy already owns same-layer parentage, so do not cite it again.
+Principles are checklists answered once at file scope: every file answers `common.md` and its layer's principle file, and every narrative file also answers `narratives.md`. Shared obligations may be cited by every H2 that materially realizes the role, or excluded once when the complete owning population has no such role. Settings ground the exact H2, H3, and H4 units that use them. Matching H2, H3, and H4 units preserve one-to-one lineage across layers; Markdown hierarchy already owns same-layer parentage, so do not cite it again. Package lint may append further claims, whose configured host and reference populations govern their placement.
 
 Apply this workflow without subject-matter exceptions. Historical, biographical, real-world, familiar, or heavily researched material still requires explicit package canon and the full lineage, evidence, staging, and review workflow; external knowledge never substitutes for them.
 
 ## [Settings](settings.md)
 
-Research and define detailed canonical facts and constraints. Keep them revisable when later writing exposes a better or necessary choice.
+Define the work-wide constraints, then research and define detailed canonical world facts. Keep them revisable when later writing exposes a better or necessary choice.
 
 ## [Storylines](storylines.md)
 

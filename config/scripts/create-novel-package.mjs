@@ -7,32 +7,23 @@ import { fileURLToPath } from "node:url";
 const HELP = `Create an evidence-compiled novel package.
 
 Usage:
-  pnpm create:novel <slug> --title <title> --description <description>
+  pnpm create:novel <slug>
 
 Options:
-  --title <title>              Human-facing work title (required)
-  --description <description>  Short human-facing description (required)
-  --dry-run                    Validate and print the files without writing
-  -h, --help                   Show this help
+  --dry-run   Validate and print the files without writing
+  -h, --help  Show this help
 
 Example:
-  pnpm create:novel winter-orbit --title "Winter Orbit" --description "A generation-ship mystery"
+  pnpm create:novel winter-orbit
 `;
 
-const packageDirectory = path.dirname(fileURLToPath(import.meta.url));
-const workspaceRoot = path.resolve(packageDirectory, "../..");
+const scriptDirectory = path.dirname(fileURLToPath(import.meta.url));
+const workspaceRoot = path.resolve(scriptDirectory, "../..");
 const packagesRoot = path.resolve(workspaceRoot, "packages");
-const scaffoldDirectories = ["docs/settings"];
+const templateRoot = path.resolve(scriptDirectory, "../template");
 
 function fail(message) {
   throw new Error(message);
-}
-
-function takeOptionValue(args, index, option) {
-  const value = args[index + 1];
-  if (value === undefined || value.startsWith("--"))
-    fail(`${option} requires a value.`);
-  return value;
 }
 
 function parseArguments(args) {
@@ -40,11 +31,9 @@ function parseArguments(args) {
     return { help: true };
 
   const result = {
-    description: undefined,
     dryRun: false,
     help: false,
     slug: undefined,
-    title: undefined,
   };
 
   for (let index = 0; index < args.length; index += 1) {
@@ -52,20 +41,6 @@ function parseArguments(args) {
     if (argument === "--dry-run") {
       if (result.dryRun) fail("--dry-run was provided more than once.");
       result.dryRun = true;
-    } else if (argument === "--title" || argument === "--description") {
-      const key = argument.slice(2);
-      if (result[key] !== undefined)
-        fail(`${argument} was provided more than once.`);
-      result[key] = takeOptionValue(args, index, argument);
-      index += 1;
-    } else if (argument.startsWith("--title=")) {
-      if (result.title !== undefined)
-        fail("--title was provided more than once.");
-      result.title = argument.slice("--title=".length);
-    } else if (argument.startsWith("--description=")) {
-      if (result.description !== undefined)
-        fail("--description was provided more than once.");
-      result.description = argument.slice("--description=".length);
     } else if (argument.startsWith("-")) {
       fail(`Unknown option: ${argument}`);
     } else if (result.slug === undefined) {
@@ -76,14 +51,6 @@ function parseArguments(args) {
   }
 
   return result;
-}
-
-function validateText(name, value) {
-  if (value === undefined) fail(`--${name} is required.`);
-  if (value.length === 0) fail(`--${name} must not be empty.`);
-  if (value.trim() !== value)
-    fail(`--${name} must not have leading or trailing whitespace.`);
-  if (/[\r\n]/u.test(value)) fail(`--${name} must be a single line.`);
 }
 
 function assertInside(parent, target, label) {
@@ -108,69 +75,42 @@ function packageNamesInWorkspace() {
     .filter((name) => typeof name === "string");
 }
 
-function createFiles(slug, title, description) {
-  const packageName = `@samchon/novel-${slug}`;
-  const manifest = {
-    private: true,
-    name: packageName,
-    version: "0.1.0",
-    description: `${title}: ${description}`,
-    main: "./src/index.ts",
-    type: "commonjs",
-    scripts: {
-      build: "ttsc",
-      dev: "ttsc --watch",
-    },
-    devDependencies: {
-      "@samchon/novel-config": "workspace:*",
-      "@ttsc/evidence": "catalog:typescript",
-      "@ttsc/lint": "catalog:typescript",
-      "@types/node": "catalog:utils",
-      ttsc: "catalog:typescript",
-      typescript: "catalog:typescript",
-    },
+function listTemplate() {
+  if (!fs.existsSync(templateRoot))
+    fail(`Template directory does not exist: ${templateRoot}`);
+
+  const directories = [];
+  const files = [];
+  const visit = (directory, relativeDirectory = "") => {
+    const entries = fs
+      .readdirSync(directory, { withFileTypes: true })
+      .sort((left, right) => left.name.localeCompare(right.name));
+    for (const entry of entries) {
+      const relative = path.join(relativeDirectory, entry.name);
+      if (entry.isDirectory()) {
+        directories.push(relative);
+        visit(path.join(directory, entry.name), relative);
+      } else if (entry.isFile()) {
+        files.push(relative);
+      } else {
+        fail(`Template entry must be a file or directory: ${relative}`);
+      }
+    }
   };
 
-  return new Map([
-    ["package.json", `${JSON.stringify(manifest, null, 2)}\n`],
-    [
-      "tsconfig.json",
-      `${JSON.stringify(
-        {
-          extends: "../../config/tsconfig.json",
-          include: ["src"],
-        },
-        null,
-        2,
-      )}\n`,
-    ],
-    ["src/index.ts", ""],
-    [
-      "lint.config.ts",
-      `import { createLintConfig } from "@samchon/novel-config";
+  visit(templateRoot);
+  if (!files.includes("package.json"))
+    fail(`Template must contain package.json: ${templateRoot}`);
+  const manifest = JSON.parse(
+    fs.readFileSync(path.join(templateRoot, "package.json"), "utf8"),
+  );
+  if (manifest === null || Array.isArray(manifest) || typeof manifest !== "object")
+    fail(`Template package.json must contain a JSON object: ${templateRoot}`);
+  return { directories, files };
+}
 
-export default createLintConfig({
-  location: __dirname,
-
-  // disabled defers complete coverage but permits obvious truthful evidence.
-  // Finish the settings canon, then pass "evidence" and finally "review".
-  settings: "disabled",
-
-  // Keep disabled until the reviewed settings support a complete storyline;
-  // then pass "evidence" and finally "review".
-  storylines: "disabled",
-
-  // Keep disabled until the reviewed storyline supports a complete scenario;
-  // then pass "evidence" and finally "review".
-  scenarios: "disabled",
-
-  // Keep disabled until the reviewed scenario supports a complete manuscript;
-  // then pass "evidence" and finally "review".
-  manuscripts: "disabled",
-});
-`,
-    ],
-  ]);
+function displayPath(relative) {
+  return relative.split(path.sep).join("/");
 }
 
 function validateRequest(options) {
@@ -179,8 +119,6 @@ function validateRequest(options) {
     fail(
       "The package slug must contain only lowercase letters, digits, and single hyphens.",
     );
-  validateText("title", options.title);
-  validateText("description", options.description);
 
   const target = path.resolve(packagesRoot, options.slug);
   assertInside(packagesRoot, target, "The package target");
@@ -190,28 +128,30 @@ function validateRequest(options) {
   if (packageNamesInWorkspace().includes(packageName))
     fail(`Workspace package name already exists: ${packageName}`);
 
-  const files = createFiles(options.slug, options.title, options.description);
-  for (const relative of scaffoldDirectories)
-    assertInside(target, path.resolve(target, relative), `Directory ${relative}`);
-  for (const relative of files.keys())
+  const template = listTemplate();
+  for (const relative of [...template.directories, ...template.files])
     assertInside(target, path.resolve(target, relative), `File ${relative}`);
 
-  return { directories: scaffoldDirectories, files, packageName, target };
+  return { packageName, target, template };
 }
 
-function writeAtomically(target, directories, files) {
+function writeAtomically(target, packageName) {
   fs.mkdirSync(packagesRoot, { recursive: true });
   const temporary = fs.mkdtempSync(
     path.join(packagesRoot, ".create-novel-package-"),
   );
   try {
-    for (const relative of directories)
-      fs.mkdirSync(path.join(temporary, relative), { recursive: true });
-    for (const [relative, contents] of files) {
-      const destination = path.join(temporary, relative);
-      fs.mkdirSync(path.dirname(destination), { recursive: true });
-      fs.writeFileSync(destination, contents, { encoding: "utf8", flag: "wx" });
-    }
+    fs.cpSync(templateRoot, temporary, {
+      errorOnExist: true,
+      force: false,
+      recursive: true,
+    });
+
+    const manifestPath = path.join(temporary, "package.json");
+    const manifest = JSON.parse(fs.readFileSync(manifestPath, "utf8"));
+    manifest.name = packageName;
+    fs.writeFileSync(manifestPath, `${JSON.stringify(manifest, null, 2)}\n`, "utf8");
+
     if (fs.existsSync(target)) fail(`Package directory already exists: ${target}`);
     fs.renameSync(temporary, target);
   } catch (error) {
@@ -227,15 +167,17 @@ function main() {
     return;
   }
 
-  const { directories, files, packageName, target } = validateRequest(options);
+  const { packageName, target, template } = validateRequest(options);
   if (options.dryRun) {
     process.stdout.write(`Dry run: would create ${packageName} at ${target}\n`);
-    for (const relative of directories) process.stdout.write(`  ${relative}/\n`);
-    for (const relative of files.keys()) process.stdout.write(`  ${relative}\n`);
+    for (const relative of template.directories)
+      process.stdout.write(`  ${displayPath(relative)}/\n`);
+    for (const relative of template.files)
+      process.stdout.write(`  ${displayPath(relative)}\n`);
     return;
   }
 
-  writeAtomically(target, directories, files);
+  writeAtomically(target, packageName);
   process.stdout.write(`Created ${packageName} at ${target}\n`);
   process.stdout.write("Next: run pnpm install, then pnpm build.\n");
 }

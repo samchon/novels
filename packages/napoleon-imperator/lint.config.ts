@@ -1,12 +1,10 @@
-import { createLintConfig } from "@samchon/novel-config";
+import { createNovelConfig } from "@samchon/novel-config";
 
-export default createLintConfig({
+export default createNovelConfig({
   location: __dirname,
 
-  // Hold at disabled: the canon is drafted here without compiler pressure,
-  // and the evidence transition waits for a published @ttsc/evidence 0.28.0
-  // because the graph currently resolves through workspace overrides onto a
-  // locally packed build. Then pass "evidence" and finally "review".
+  // disabled defers complete coverage but permits obvious truthful evidence.
+  // Finish the settings canon, then pass "evidence" and finally "review".
   settings: "disabled",
 
   // Keep disabled until the reviewed settings support a complete storyline;
@@ -20,4 +18,9 @@ export default createLintConfig({
   // Keep disabled until the reviewed scenario supports a complete manuscript;
   // then pass "evidence" and finally "review".
   manuscripts: "disabled",
+
+  // Add only this work's claims; additions extend, never replace, the shared graph.
+  // Put checklist targets in docs/principles and distributed roles in docs/obligations.
+  // Use a descriptive docs/<lower-kebab-case> family only for a different target type.
+  claims: [],
 });

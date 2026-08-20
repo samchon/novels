@@ -10,3 +10,15 @@ catalogs:
     typescript: ^7.0.2
   utils:
     "@types/node": ^26.2.0
+
+minimumReleaseAgeExclude:
+  - "@ttsc/darwin-arm64@0.28.0"
+  - "@ttsc/darwin-x64@0.28.0"
+  - "@ttsc/evidence@0.28.0"
+  - "@ttsc/lint@0.28.0"
+  - "@ttsc/linux-arm64@0.28.0"
+  - "@ttsc/linux-arm@0.28.0"
+  - "@ttsc/linux-x64@0.28.0"
+  - "@ttsc/win32-arm64@0.28.0"
+  - "@ttsc/win32-x64@0.28.0"
+  - "ttsc@0.28.0"
