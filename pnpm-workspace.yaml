@@ -12,16 +12,13 @@ catalogs:
     "@types/node": ^26.2.0
 
 minimumReleaseAgeExclude:
-  - '@typia/interface@14.0.0'
-  - '@typia/utils@14.0.0'
-
-# The principle checklists compile against `checklist`, which no published
-# @ttsc/evidence carries yet; npm's newest release is 0.27.0. Until 0.28.0 is
-# published, the catalog above states the real requirement and these overrides
-# bind it to locally packed builds under `artifacts`. Delete this block once
-# 0.28.0 resolves from the registry.
-overrides:
-  ttsc: file:./artifacts/ttsc-0.28.0.tgz
-  "@ttsc/lint": file:./artifacts/ttsc-lint-0.28.0.tgz
-  "@ttsc/evidence": file:./artifacts/ttsc-evidence-0.28.0.tgz
-  "@ttsc/win32-x64": file:./artifacts/ttsc-win32-x64-0.28.0.tgz
+  - '@ttsc/darwin-arm64@0.28.0'
+  - '@ttsc/darwin-x64@0.28.0'
+  - '@ttsc/evidence@0.28.0'
+  - '@ttsc/lint@0.28.0'
+  - '@ttsc/linux-arm64@0.28.0'
+  - '@ttsc/linux-arm@0.28.0'
+  - '@ttsc/linux-x64@0.28.0'
+  - '@ttsc/win32-arm64@0.28.0'
+  - '@ttsc/win32-x64@0.28.0'
+  - ttsc@0.28.0
