@@ -37,7 +37,10 @@ A compiling work is not a finished work: after all layers pass review, repeated 
 
 ## Works
 
-No novel work package is currently present. Create the next work with `pnpm create:novel` after its scope is authorized.
+| Package | Work | Declared delivery |
+| --- | --- | --- |
+| `@samchon/novel-napoleon-imperator` | *Napoleon Imperator* | Complete twenty-volume English historical novel |
+| `@samchon/novel-after-school-conquest` | *After-School Conquest* | Complete twenty-volume English novel |
 
 ## Usage
 
