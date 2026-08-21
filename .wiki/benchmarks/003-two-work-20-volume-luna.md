@@ -5,7 +5,7 @@ Opened: 2026-08-21
 ## Shared harness
 
 - Base harness: merged PR #15 at `b0e8fad9abf5a35984f8fb8b06eedf7053d88c7d`.
-- Run branch: `benchmark/two-novels-20-volumes`; the draft PR is opened before authorship.
+- Run branch: `benchmark/two-novels-20-volumes`; draft PR #16 was opened before authorship.
 - Lineup: `napoleon-imperator` and `after-school-conquest`, one persistent GPT-5.6-Luna owner per package with exclusive write authority.
 - Output language: English.
 - Declared delivery scale: each work is one complete twenty-volume novel. File, H2/H3/H4, authored-body, distribution, and research-breadth counts are regression alarms; they do not certify literary quality.
@@ -21,7 +21,7 @@ Opened: 2026-08-21
 
 ## Napoleon Imperator
 
-- Owner: pending launch, GPT-5.6-Luna, exclusive package authority.
+- Owner: `/root/napoleon_20v_owner`, GPT-5.6-Luna, exclusive package authority.
 - Current phase: official scaffold; all four layers `disabled`; no authored document yet.
 - User-confirmed rules: deliver a complete twenty-volume English novel; create very detailed settings, context-rich storylines, immediately visualizable near-screenplay scenarios, and finished highest-quality literary prose; open at the Battle of Austerlitz, reach the peak of victory, and only then return to Napoleon's childhood.
 - Canonical contract action: record scale and quality promises in settings. Record the one-time opening/return order as a package-local storyline obligation and activate it through an additive storyline-stage claim before bulk settings authorship.
@@ -31,7 +31,7 @@ Opened: 2026-08-21
 
 ## After-School Conquest
 
-- Owner: pending launch, GPT-5.6-Luna, exclusive package authority.
+- Owner: `/root/after_school_20v_owner`, GPT-5.6-Luna, exclusive package authority.
 - Current phase: official scaffold; all four layers `disabled`; no authored document yet.
 - User-confirmed rules: deliver a complete twenty-volume English novel; create very detailed settings, context-rich storylines, immediately visualizable near-screenplay scenarios, and finished highest-quality literary prose.
 - Canonical contract action: record scale and quality promises in settings; audit the title/seed for work-specific formal or genre targets before deciding whether `claims: []` is truthful.
