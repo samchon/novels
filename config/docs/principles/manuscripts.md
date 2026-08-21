@@ -1,14 +1,14 @@
 # Manuscript Principles
 
-Criteria for manuscript files containing finished English-language prose for readers.
+Criteria for manuscript files containing finished English-language literary prose for readers.
 
 ## Prose voice {#prose-voice}
 
-Choose diction, sentence structure, narrative distance, and repetition to suit the narrator, focalization, pressure of the scene, and tone of the work. Do not continue the same sentence frame or ending pattern without purpose.
+Choose diction, sentence structure, narrative distance, and repetition to suit the work's chosen voice and access, the scene's pressure, and its tone. Do not continue the same sentence frame or ending pattern without purpose.
 
 Give repetition a function in emphasis, rhythm, or variation. Do not pursue brevity or ornament for itself; write sentences suited to the experience being conveyed.
 
-This item asks about the linguistic voice of the prose. Pacing and rhythm governs the page space and narrated time assigned to events.
+This item asks about the linguistic voice of the prose. Pacing and rhythm govern the page space and narrated time assigned to events.
 
 Sources: [University of Nevada, Reno on psychic distance and narrative effect](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/psychic-distance-in-creative-writing), [Purdue OWL on repeated sentence patterns and rhythms](https://owl.purdue.edu/owl/general_writing/academic_writing/sentence_variety/similar_sentence_patterns_or_rhythms.html)
 
@@ -24,11 +24,11 @@ Sources: [Zwaan, Langston, and Graesser on situation change and comprehension co
 
 ## Perspective control {#perspective-control}
 
-Each scene respects what its narrator and focal subject can see, know, and interpret. When perspective changes, give the reader a legible boundary and reason.
+Each scene respects the range its narrator, focal subject, or other chosen access can show and make known. When access changes, give the reader a legible boundary and reason.
 
-Withhold information for a reason available inside the chosen perspective, such as failure to see, lack of knowledge, or refusal to face it. Do not omit for convenience a fact plainly known to the narrator or focal character.
+Withhold information for a reason available inside the chosen mode, such as failure to see, lack of knowledge, refusal to face it, or limits of a document. Do not omit for convenience a fact the mode should already reveal.
 
-This item asks what the scene's narration may access. Settings reader-access obligation governs the complete work's access rules, and reader orientation governs whether the reader has enough cues to follow the current sentence.
+This item asks what the scene's narration may access. The settings reader-access obligation governs the complete work's access rules, and reader orientation governs whether the reader has enough cues to follow the current sentence.
 
 Sources: [Genette on the distinction between voice and focalization](https://archive.org/details/narrativediscour0000gene), [Burton and Poster on viewpoint choice and transitions](https://www.cambridge.org/core/books/abs/prompts-you-need-to-help-you-write-the-book-you-want-to-write/point-of-view/9E9D1AA8E2841E6508D5864791DDE0FE), [Oregon State University on point of view](https://liberalarts.oregonstate.edu/wlf/what-point-of-view)
 
@@ -38,7 +38,7 @@ Match page space to the importance of an event and the intensity the reader must
 
 Control pace not only through sentence length but also through information density, paragraphs, dialogue and action, and the ratio of scene to summary. Arrange the intensity and tone of neighbouring units as well.
 
-This item asks about page space and narrated time assigned to events. Prose voice governs whether individual sentences suit narrator and work.
+This item asks about page space and narrated time assigned within the manuscript. The common proportionate-development obligation governs unit count, granularity, and authored-body allocation across a complete layer, and prose voice governs whether individual sentences suit the work.
 
 Sources: [Purdue OWL on the different functions of scene and summary](https://owl.purdue.edu/owl/resources/writing_tutors/tutoring_creative_writing_students/documents/working-with-creative-writing-students-09152025.pdf), [University of Nevada, Reno on psychic distance and pace](https://www.unr.edu/writing-speaking-center/writing-speaking-resources/psychic-distance-in-creative-writing)
 
@@ -48,7 +48,7 @@ At the needed moment, give enough cues to identify who acts, when and where the 
 
 Riddle, confusion, and fragmentation may be intended. In that case, leave the reader something to hold so that intended uncertainty can be distinguished from error.
 
-This item asks whether the current reading remains identifiable. Narrative information entry governs how new names and rules first appear, and perspective control governs what narrator and focalization can know.
+This item asks whether the current reading remains identifiable. Narrative information entry governs how new names and rules first appear, and perspective control governs what the narrator or focal mode can know.
 
 Sources: [Harvard Writing Center on transitions and reader guidance](https://writingcenter.fas.harvard.edu/transitions), [Seton Hill University on concrete setting and clarity](https://jerz.setonhill.edu/writing/creative1/shortstory/)
 
@@ -72,7 +72,7 @@ Sources: [Oatley on emotion and identification in narrative](https://doi.org/10.
 
 ## Descriptive selection {#descriptive-selection}
 
-Select from what the current perspective can perceive the details that change action, atmosphere, relationship, theme, or reader understanding. Do not fill sensory categories like a checklist or stop the scene for irrelevant explanation.
+Select from what the current perspective or access can present the details that change action, atmosphere, relationship, theme, or reader understanding. Do not fill sensory categories like a checklist or stop the scene for irrelevant explanation.
 
 Give readers cues from which they can form images and implications without explaining every meaning for them. Distinguish a gap without cues from deliberate space.
 

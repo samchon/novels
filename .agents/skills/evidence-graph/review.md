@@ -27,7 +27,7 @@ One item, one check: a fingerprint covers that item alone, and a review sentence
 3. If the layer owes missing work, delete the exclusion and repair the artifact.
 4. Write `@evidenceExcludeReview` only after deciding the exclusion is true.
 
-“Checked”, “confirmed”, and “not applicable” do not describe a check. Name the rule boundary, facts, causality, or scene behavior examined.
+“Checked”, “confirmed”, and “not applicable” do not describe a check. Name the rule boundary, facts, narrative connection, or scene behavior examined.
 
 ## Fingerprints
 
@@ -36,6 +36,6 @@ One item, one check: a fingerprint covers that item alone, and a review sentence
 - Never invent or copy a fingerprint.
 - On expiry, repeat the substantive review; do not replace only the token.
 
-Finish when package graph and review diagnostics are clean. Run root `pnpm build` and `git diff --check`.
+Finish when package graph and review diagnostics are clean. Follow the final repository completion gates in `AGENTS.md`.
 
 This proves current evidence review, not literary completion. After all layers pass, follow the novel skill's [review.md](../novel/review.md).

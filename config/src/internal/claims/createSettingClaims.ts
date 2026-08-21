@@ -1,6 +1,7 @@
 import type { ITtscEvidenceGraphClaim } from "@ttsc/evidence";
 
 import type { INovelConfigProps } from "../../INovelConfigProps";
+import { createCommonObligationReference } from "../references/createCommonObligationReference";
 import { createPrincipleReferences } from "../references/createPrincipleReferences";
 import { createSettingObligationReference } from "../references/createSettingObligationReference";
 import { PACKAGE_DOCS_ROOT } from "../utilities/PACKAGE_DOCS_ROOT";
@@ -8,7 +9,7 @@ import { PACKAGE_DOCS_ROOT } from "../utilities/PACKAGE_DOCS_ROOT";
 /**
  * Creates claims for settings files.
  *
- * They check file principles and setting obligations.
+ * They check file principles, common unit obligations, and setting roles.
  */
 export function createSettingClaims(
   props: INovelConfigProps,
@@ -29,16 +30,16 @@ export function createSettingClaims(
       ),
     },
     {
-      name: "settings H2 facts account for each setting obligation",
+      name: "settings H2 facts and constraints answer common unit obligations and account for setting roles",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["settings/**/*.md"],
       symbol: "h2",
       disabled: props.settings === "disabled",
-      reference: createSettingObligationReference(
-        props.location,
-        requireReview,
-      ),
+      reference: [
+        createCommonObligationReference(props.location, requireReview),
+        createSettingObligationReference(props.location, requireReview),
+      ],
     },
   ];
 }

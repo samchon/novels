@@ -4,6 +4,7 @@ import type {
 } from "@ttsc/evidence";
 
 import type { INovelConfigProps } from "../../INovelConfigProps";
+import { createCommonObligationReference } from "../references/createCommonObligationReference";
 import { createLineageReference } from "../references/createLineageReference";
 import { createPrincipleReferences } from "../references/createPrincipleReferences";
 import { PACKAGE_DOCS_ROOT } from "../utilities/PACKAGE_DOCS_ROOT";
@@ -11,7 +12,7 @@ import { PACKAGE_DOCS_ROOT } from "../utilities/PACKAGE_DOCS_ROOT";
 /**
  * Creates claims for manuscript files.
  *
- * They check file principles and links to scenarios, storylines, and settings.
+ * They check file principles, common unit obligations, lineage, and settings.
  */
 export function createManuscriptClaims(
   props: INovelConfigProps,
@@ -33,13 +34,14 @@ export function createManuscriptClaims(
       ),
     },
     {
-      name: "manuscript H2 sequences realize plans and recheck settings",
+      name: "manuscript H2 sequences answer common unit obligations, preserve lineage, and recheck settings",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["manuscripts/**/*.md"],
       symbol: "h2",
       disabled: props.manuscripts === "disabled",
       reference: [
+        createCommonObligationReference(props.location, requireReview),
         createLineageReference(
           ["scenarios/**/*.md"],
           "h2",
@@ -54,13 +56,14 @@ export function createManuscriptClaims(
       ],
     },
     {
-      name: "manuscript H3 chapters preserve cross-layer lineage",
+      name: "manuscript H3 chapters answer common unit obligations, preserve lineage, and recheck settings",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["manuscripts/**/*.md"],
       symbol: "h3",
       disabled: props.manuscripts === "disabled",
       reference: [
+        createCommonObligationReference(props.location, requireReview),
         createLineageReference(
           ["scenarios/**/*.md"],
           "h3",
@@ -75,13 +78,14 @@ export function createManuscriptClaims(
       ],
     },
     {
-      name: "manuscript H4 scenes preserve cross-layer lineage",
+      name: "manuscript H4 scenes answer common unit obligations, preserve lineage, and recheck settings",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["manuscripts/**/*.md"],
       symbol: "h4",
       disabled: props.manuscripts === "disabled",
       reference: [
+        createCommonObligationReference(props.location, requireReview),
         createLineageReference(
           ["scenarios/**/*.md"],
           "h4",

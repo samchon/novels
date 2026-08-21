@@ -4,6 +4,7 @@ import type {
 } from "@ttsc/evidence";
 
 import type { INovelConfigProps } from "../../INovelConfigProps";
+import { createCommonObligationReference } from "../references/createCommonObligationReference";
 import { createLineageReference } from "../references/createLineageReference";
 import { createPrincipleReferences } from "../references/createPrincipleReferences";
 import { PACKAGE_DOCS_ROOT } from "../utilities/PACKAGE_DOCS_ROOT";
@@ -11,7 +12,7 @@ import { PACKAGE_DOCS_ROOT } from "../utilities/PACKAGE_DOCS_ROOT";
 /**
  * Creates claims for scenario files.
  *
- * They check file principles and links to storylines and settings.
+ * They check file principles, common unit obligations, storylines, and settings.
  */
 export function createScenarioClaims(
   props: INovelConfigProps,
@@ -33,13 +34,14 @@ export function createScenarioClaims(
       ),
     },
     {
-      name: "scenario H2 sequences refine storylines and recheck settings",
+      name: "scenario H2 sequences answer common unit obligations, refine storylines, and recheck settings",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["scenarios/**/*.md"],
       symbol: "h2",
       disabled: props.scenarios === "disabled",
       reference: [
+        createCommonObligationReference(props.location, requireReview),
         createLineageReference(
           ["storylines/**/*.md"],
           "h2",
@@ -49,13 +51,14 @@ export function createScenarioClaims(
       ],
     },
     {
-      name: "scenario H3 chapters refine matching storyline chapters",
+      name: "scenario H3 chapters answer common unit obligations, refine storylines, and recheck settings",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["scenarios/**/*.md"],
       symbol: "h3",
       disabled: props.scenarios === "disabled",
       reference: [
+        createCommonObligationReference(props.location, requireReview),
         createLineageReference(
           ["storylines/**/*.md"],
           "h3",
@@ -65,13 +68,14 @@ export function createScenarioClaims(
       ],
     },
     {
-      name: "scenario H4 scenes refine matching storyline scenes",
+      name: "scenario H4 scenes answer common unit obligations, refine storylines, and recheck settings",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["scenarios/**/*.md"],
       symbol: "h4",
       disabled: props.scenarios === "disabled",
       reference: [
+        createCommonObligationReference(props.location, requireReview),
         createLineageReference(
           ["storylines/**/*.md"],
           "h4",

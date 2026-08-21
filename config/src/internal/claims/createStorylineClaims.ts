@@ -4,6 +4,7 @@ import type {
 } from "@ttsc/evidence";
 
 import type { INovelConfigProps } from "../../INovelConfigProps";
+import { createCommonObligationReference } from "../references/createCommonObligationReference";
 import { createPrincipleReferences } from "../references/createPrincipleReferences";
 import { createStorylineObligationReference } from "../references/createStorylineObligationReference";
 import { PACKAGE_DOCS_ROOT } from "../utilities/PACKAGE_DOCS_ROOT";
@@ -11,7 +12,7 @@ import { PACKAGE_DOCS_ROOT } from "../utilities/PACKAGE_DOCS_ROOT";
 /**
  * Creates claims for storyline files.
  *
- * They check file principles, shared roles, and links to settings.
+ * They check file principles, common unit obligations, shared roles, and settings.
  */
 export function createStorylineClaims(
   props: INovelConfigProps,
@@ -33,16 +34,16 @@ export function createStorylineClaims(
       ),
     },
     {
-      name: "storyline H2 sequences assign or exclude each storyline obligation",
+      name: "storyline H2 sequences answer common unit obligations and assign storyline roles",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["storylines/**/*.md"],
       symbol: "h2",
       disabled: props.storylines === "disabled",
-      reference: createStorylineObligationReference(
-        props.location,
-        requireReview,
-      ),
+      reference: [
+        createCommonObligationReference(props.location, requireReview),
+        createStorylineObligationReference(props.location, requireReview),
+      ],
     },
     {
       name: "storyline H2 sequences account for the settings catalog",
@@ -54,22 +55,28 @@ export function createStorylineClaims(
       reference: [...settingReferences],
     },
     {
-      name: "storyline H3 chapters account for settings",
+      name: "storyline H3 chapters answer common unit obligations and account for settings",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["storylines/**/*.md"],
       symbol: "h3",
       disabled: props.storylines === "disabled",
-      reference: [...settingReferences],
+      reference: [
+        createCommonObligationReference(props.location, requireReview),
+        ...settingReferences,
+      ],
     },
     {
-      name: "storyline H4 scenes account for settings",
+      name: "storyline H4 scenes answer common unit obligations and account for settings",
       type: "markdown",
       root: PACKAGE_DOCS_ROOT,
       files: ["storylines/**/*.md"],
       symbol: "h4",
       disabled: props.storylines === "disabled",
-      reference: [...settingReferences],
+      reference: [
+        createCommonObligationReference(props.location, requireReview),
+        ...settingReferences,
+      ],
     },
   ];
 }

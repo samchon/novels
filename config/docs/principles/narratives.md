@@ -4,78 +4,78 @@ Criteria shared by storylines, scenarios, and manuscripts.
 
 ## Unit function {#unit-function}
 
-Each H2, H3, and H4 performs at least one identifiable function in the complete work. Removing or moving the unit must change the event, understanding, relationship, emotion, rhythm, or meaning of the ending.
+Each H2, H3, and H4 performs one or more identifiable functions in the complete work. Removing or moving the unit must alter event, understanding, relationship, emotion, rhythm, or the meaning of the ending.
 
-When neighbouring units only repeat the same work, differentiate or merge them. Set a unit boundary by the result it leaves in the work, not by its length or title.
+When neighbouring units merely repeat the same function, differentiate or merge them. Define a boundary by the result it leaves in the work, not by length or title.
 
-This item asks why an individual unit is necessary. Common purpose fit asks why the whole file is necessary.
+This item asks why an existing individual unit is needed. The common scope-preservation obligation governs who owns missing material, and common purpose fit governs the role of the file as a whole.
 
-Sources: [Burton and Poster on testing the function of each chapter](https://www.cambridge.org/core/books/abs/book-you-need-to-read-to-write-the-book-you-want-to-write/beginnings-and-endings-tension-and-pace/7B84CB546C696FD1B6A8AB753522B42C), [Trabasso and Sperry on causal connectedness and judgments of importance](https://doi.org/10.1016/0749-596X%2885%2990048-8)
+Sources: [Burton and Poster on testing the function of each chapter](https://www.cambridge.org/core/books/abs/book-you-need-to-read-to-write-the-book-you-want-to-write/beginnings-and-endings-tension-and-pace/7B84CB546C696FD1B6A8AB753522B42C), [Trabasso and Sperry on causal connections and judgments of importance](https://doi.org/10.1016/0749-596X%2885%2990048-8)
+
+## Unit addressability {#unit-addressability}
+
+Give each independent sequence, chapter, and minimum narrative unit its own H2, H3, or H4 address and lineage identity. An H4 begins from one entry state, carries one central progression or formal operation, and leaves one identifiable exit state. Split it when it contains two or more developments with distinct goals, causal progressions, or formal operations and their own exits, or when one part can be moved or removed while the remainder still stands as an independent unit. H2 and H3 units also organize their actual descendants instead of covering several independent ranges with a name alone.
+
+Changes in time, place, focal access, participants, or expressive form are boundary clues rather than automatic split rules. A continuous central progression may remain one unit; split when a separate progression begins after the change. Montage, epistolary sequence, stream of consciousness, and parallel forms are likewise addressed as minimum units with their own formal identity and change of state or effect. Several characters, objects, or actions inside one scene do not by themselves require a split.
+
+This item asks whether the address structure contains no hidden independent unit. Unit function governs whether an addressed unit is needed, and the common substantive-completion obligation governs whether its body is sufficiently developed.
+
+Sources: [Zacks and colleagues on temporal, causal, character, location, and goal changes as event boundaries](https://pmc.ncbi.nlm.nih.gov/articles/PMC8710938/), [DOME on hierarchical outlines organizing long-form units](https://aclanthology.org/2025.naacl-long.63/), [Fiction University on the minimum qualifications of a scene](http://blog.janicehardy.com/2019/08/how-to-write-scenes-and-what-qualifies.html)
 
 ## Unit connection {#unit-connection}
 
-Each unit inherits an earlier state and either continues or changes it. Make the connection concrete through cause and effect, question and answer, action and reaction, or expectation and reversal.
+Each unit inherits an earlier state and sustains or changes it. Make the selected connection concrete, such as cause and effect, question and answer, action and response, expectation and reversal.
 
-Nonlinear, episodic, and fragmentary works may accumulate viewpoint, place, image, procedure, or a formal rule instead of event causality. Whatever mode is chosen, changing the order must change comprehension or effect.
+Nonlinear, episodic, or fragmentary works may accumulate perspective, place, image, procedure, or a formal rule instead of event causality. Whatever mode is chosen, reordering the units must alter understanding or effect.
 
-This item asks how units change one another. State continuity asks whether inherited facts such as time, objects, and knowledge remain correct.
+This item asks about the change relationship among units. State continuity governs whether inherited facts such as time, objects, and knowledge remain accurate.
 
-Sources: [Trabasso and van den Broek on causal networks and recall](https://doi.org/10.1016/0749-596X%2885%2990049-X), [Zwaan, Langston, and Graesser on continuity across time, space, causation, protagonists, and intentions](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x), [Wisconsin Writing Center on cohesion beyond causality](https://writing.wisc.edu/handbook/style/connectingideas/)
+Sources: [Trabasso and van den Broek on causal networks and recall](https://doi.org/10.1016/0749-596X%2885%2990049-X), [Zwaan, Langston, and Graesser on continuity of time, space, causality, protagonist, and intention](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x), [UW–Madison on cohesion beyond causality](https://writing.wisc.edu/handbook/style/connectingideas/)
 
 ## State continuity {#state-continuity}
 
-Inherit the time, place, knowledge, injury, objects, resources, status, relationships, and promises established by settings and earlier units. Show the cause and moment of any change in the work.
+Inherit the time, place, knowledge, injuries, objects, resources, status, relationships, and promises established by settings and earlier units. Show the grounds and moment of any change inside the work.
 
-Do not conceal a contradiction in a lower-layer sentence. When a new fact is needed, repair the first layer that owns it.
+Do not hide a contradiction in downstream phrasing. When a new fact is needed, repair the layer that first owns it.
 
-This item asks whether verifiable facts and states are preserved. Unit connection governs meaning created by arrangement, and character continuity governs whether a figure's internal logic leads to action.
+This item asks about preservation of verifiable facts and states. Unit connection governs the meaning created by sequence, and character continuity governs whether an agent's internal logic produces action.
 
 Sources: [Zwaan, Langston, and Graesser on event boundaries and situation models](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x), [Laterpress on the series bible as a continuity record](https://www.laterpress.com/craft-of-writing/series-bible/)
 
 ## Reader investment {#reader-investment}
 
-Each unit gives the reader a concrete reason to keep investing attention. That reason comes from what the work actually provides: a question, desired result, choice, observation, emotion, humour, or formal accumulation.
+Each unit gives the reader a concrete reason to continue paying attention. That reason comes from what the work actually provides: a question, desired outcome, choice, observation, emotion, humour, or accumulating formal effect.
 
-Large events and abundant information do not substitute for interest. A form without suspense or character identification must move the reader's attention through its own means.
+Do not substitute large events or abundant information for interest. A form without suspense or character identification must still move attention through its own means.
 
-This item asks why the reader continues. Information entry and storyline information design govern the order and amount of information given to the reader.
+This item asks why the reader continues. Information entry and storyline information design govern the order and quantity of information given to the reader.
 
-Sources: [Green and Brock on narrative transportation](https://doi.org/10.1037/0022-3514.79.5.701), [Busselle and Bilandzic on dimensions of narrative engagement](https://doi.org/10.1080/15213260903287259), [Baroni on tellability and uneventful narrative](https://www-archiv.fdm.uni-hamburg.de/lhn/node/30.html)
+Sources: [Green and Brock on narrative transportation](https://doi.org/10.1037/0022-3514.79.5.701), [Busselle and Bilandzic on dimensions of narrative engagement](https://doi.org/10.1080/15213260903287259), [Baroni on tellability and non-eventful narrative](https://www-archiv.fdm.uni-hamburg.de/lhn/node/30.html)
 
 ## Character continuity {#character-continuity}
 
-A unit with a character or other agent inherits the desires, beliefs, habits of interpretation, and experience already revealed, and makes them the logic of present action. A choice against that pattern shows the new pressure, recognition, or change that made it possible.
+A unit with characters or agents inherits previously shown desires, beliefs, interpretive habits, and experiences to make present action intelligible. A choice against that model shows the new pressure, recognition, or change that made it possible.
 
-Collective, anonymous, nonhuman, and non-interior forms remain possible. Make the chosen character model distinguishable from omission and let later actions cause the reader to reinterpret earlier presentation.
+Collective, anonymous, nonhuman, or externally presented forms remain available. Make the chosen character model distinguishable from omission and let later action retrospectively interpret earlier presentation.
 
-This item asks how character models relate to action. State continuity governs whether knowledge, relations, and other states themselves remain consistent.
+This item asks about the relation between the character model and action. State continuity governs whether knowledge, relationships, and other states themselves remain consistent.
 
-Sources: [Jannidis on character as a model constructed by the reader](https://www-archiv.fdm.uni-hamburg.de/lhn/node/41.html), [Magliano and colleagues on readers tracking character goals](https://pmc.ncbi.nlm.nih.gov/articles/PMC4266429/), [Palmer on social and intermental minds](https://muse.jhu.edu/book/24307)
+Sources: [Jannidis on character as a model constructed by readers](https://www-archiv.fdm.uni-hamburg.de/lhn/node/41.html), [Magliano and colleagues on tracking character goals in narrative comprehension](https://pmc.ncbi.nlm.nih.gov/articles/PMC4266429/), [Palmer on social minds and relationships](https://muse.jhu.edu/book/24307)
 
 ## Information entry {#information-entry}
 
-Attach a new name, rule, relationship, or background fact to a consequence or context the reader can understand at the moment it is needed. Do not list many at once or demand memorization before they matter.
+Attach each new name, rule, relationship, and background fact to a consequence or context the reader can understand when it becomes necessary. Do not present them as a list or require memorization before they matter.
 
-Distinguish information needed to follow the current unit from information deliberately delayed. Storylines decide what to disclose when; this item governs only whether information is intelligible when it enters.
+Distinguish information needed to follow the present unit from information deliberately withheld. The storyline decides when to reveal; this item asks only whether information is intelligible when it enters.
 
-Sources: [Sternberg on delayed and distributed exposition](https://archive.org/details/expositionalmode0000ster), [Zwaan, Langston, and Graesser on the comprehension cost of situation changes](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
-
-## Realization depth {#realization-depth}
-
-Each unit completes the depth promised by its layer. Storylines provide causes and changes, scenarios provide execution order, and manuscripts provide prose for readers, far enough that a later layer does not have to invent the missing decision.
-
-Deepen a unit markedly shallower than its siblings or merge it into the unit that owns its result. Summary and abstraction remain available, but not as means of hiding decisions that were never made.
-
-This item asks whether a decision is complete. Common layer boundary governs which layer owns that decision.
-
-Sources: [Purdue OWL on the different functions of scene and summary](https://owl.purdue.edu/owl/resources/writing_tutors/tutoring_creative_writing_students/documents/working-with-creative-writing-students-09152025.pdf), [Detailed Outline Control on detailed outlines and long-form coherence](https://arxiv.org/abs/2212.10077)
+Sources: [Sternberg on the delay and distribution of exposition](https://archive.org/details/expositionalmode0000ster), [Zwaan, Langston, and Graesser on the comprehension cost of situation changes](https://doi.org/10.1111/j.1467-9280.1995.tb00513.x)
 
 ## Specificity {#specificity}
 
-Choose events, actions, images, and details that arise from this work's situation and voice. Do not substitute familiar labels or stock gestures for a decision the work must make.
+Let chosen events, actions, images, and details arise from this work's situation and voice. Do not substitute familiar labels or stock gestures for decisions the work must make.
 
-Specificity is not an amount of detail. Keep only details that distinguish the work's elements and perform the current unit's function.
+Specificity is not abundance of detail. Keep only details that distinguish the work's elements and perform the current unit's function.
 
-This item asks whether a choice belongs specifically to this work. Manuscript descriptive selection governs which sensory details prose presents.
+This item asks whether a choice belongs specifically to this work. Manuscript descriptive selection governs which sensory details are shown in prose.
 
-Sources: [Boston University on building tension through concrete action](https://www.bu.edu/articles/2019/how-to-create-suspense/), [Purdue OWL on revealing character through action and speech](https://owl.purdue.edu/owl/subject_specific_writing/creative_writing/writers/fiction_writing_basics/characters_and_fiction_writing1/building_and_revealing_characters.html)
+Sources: [Boston University on creating tension through concrete action](https://www.bu.edu/articles/2019/how-to-create-suspense/), [Purdue OWL on revealing character through action and speech](https://owl.purdue.edu/owl/subject_specific_writing/creative_writing/writers/fiction_writing_basics/characters_and_fiction_writing1/building_and_revealing_characters.html)

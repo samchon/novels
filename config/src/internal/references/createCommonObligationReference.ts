@@ -3,20 +3,20 @@ import type { ITtscEvidenceGraphReference } from "@ttsc/evidence";
 import { createSharedDocsRoot } from "../utilities/createSharedDocsRoot";
 
 /**
- * Creates the reference to storyline obligations.
+ * Creates the common unit-obligation checklist.
  *
- * Each required role is covered wherever storyline H2 sequences realize it.
- * A complete work may not exclude one.
+ * Every selected H2, H3, or H4 answers every item and may not exclude one.
  */
-export function createStorylineObligationReference(
+export function createCommonObligationReference(
   location: string,
   requireReview: boolean,
 ): ITtscEvidenceGraphReference {
   return {
     type: "markdown",
     root: createSharedDocsRoot(location),
-    files: ["obligations/storylines.md"],
+    files: ["obligations/common.md"],
     symbol: "h2",
+    checklist: true,
     noEvidenceExclude: true,
     requireReview,
   };

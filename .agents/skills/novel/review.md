@@ -34,7 +34,7 @@ flowchart TD
 3. Keep findings until the full read ends; do not stop to edit.
 4. Fix every finding at its earliest owning layer.
 5. Propagate all consequences and renew affected evidence reviews.
-6. Restore package and root gates.
+6. Restore the package gate; reserve the root gate for final completion under `AGENTS.md`.
 7. Start the next round from a fresh manifest.
 
 Searches, diffs, compiler output, summaries, and earlier partial readings do not replace the full read.
@@ -42,7 +42,7 @@ Searches, diffs, compiler output, summaries, and earlier partial readings do not
 ## Lenses
 
 - canon, chronology, geography, arithmetic, resources, and knowledge;
-- causality, agency, stakes, reversals, setup, payoff, and aftermath;
+- chosen narrative connection, applicable agency and stakes, reversals where used, setup, payoff, and aftermath;
 - information preserved or lost across all layers;
 - scene boundaries, viewpoint, pacing, repetition, and transitions;
 - dialogue action, prose rhythm, cliché, exposition, and earned emotion;
