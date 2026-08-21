@@ -1,0 +1,267 @@
+# Volume Time Boundaries
+
+This file divides the delivery interval into twenty inclusive chronological containers. A volume container owns dates, institutional status, seasonal resources, and the boundaries that later layers must inherit; it does not own plot, reveal, event order, character arcs, climaxes, chapters, or scenes. The dates below are fictional Haneul scheduling decisions unless the referenced legal school-year rule is explicitly identified in `030-chronology-baseline.md`. Every container begins the day after the previous container ends, and every date belongs to exactly one container.
+
+## Volume 01 — First term opening {#volume-01-first-term-opening}
+
+**Status:** Work decision; inclusive container 2027-03-02 through 2027-04-30.
+
+This volume begins Tuesday, 2027-03-02 and ends Friday, 2027-04-30. It lies in academic year 2027–28, first semester, and first-year status. The legal year began Monday, 2027-03-01; that date is outside this container and remains a year boundary rather than a student instructional date. The first examination window inside is Monday–Friday, 2027-04-26–30, ending on the container’s final day. No birthday falls inside: Jae-won’s 2011-06-02, Do-yun’s 2011-09-09, Minseo’s 2011-11-18, and Lila’s 2012-01-27 birthdays are outside.
+
+March begins with short daylight, cold surfaces, and a school route still being learned. By late April the work decision is longer usable daylight but rain can turn paper notices soft and make bus transfers less predictable. The accessible route must be checked for puddles, curb clearance, shelter, and the time needed to cross before a signal changes. Family work remains a live resource boundary: an adult opening a shop or caring for a sibling cannot be presumed available for every after-school pickup or signature.
+
+Haneul is operating instructionally from 2027-03-02 through 2027-07-20, so the volume contains ordinary classes and the April assessment period. The examination window protects teacher-controlled assessment time; it does not make the students' preceding weeks unlimited preparation time. The school office has the authority to publish schedules and room restrictions, while the education office and city retain separate records. Outside this container are 2027-05-01, the next day and next volume, and the remaining summer and winter windows.
+
+The first-year calendar is still being translated between household and institution. A paper notice may arrive after a parent has left for work, while a portal notice may be inaccessible on a shared phone. The authoritative date remains the issued date and the school’s record, but practical participation depends on how the information reaches a household. This container preserves both the office’s scheduling resource and the family’s limited attention, without assigning either one a narrative outcome.
+
+April 30 is also the last examination Friday in this container, so the end date carries both an assessment boundary and a volume boundary. The next morning is not an accidental continuation of the examination record; it is a new container with its own work, transport, and family-resource classification.
+
+## Volume 02 — Spring instruction to summer edge {#volume-02-spring-instruction-to-summer-edge}
+
+**Status:** Work decision; inclusive container 2027-05-01 through 2027-07-20.
+
+This volume begins Saturday, 2027-05-01 and ends Tuesday, 2027-07-20. It remains academic year 2027–28, first semester, first year. The 2027-04-30 examination Friday belongs to Volume 01; the next date, 2027-05-01, begins this container even though it is a weekend. The examination period inside is Monday, 2027-06-28 through Friday, 2027-07-02. The first instructional window ends on 2027-07-20, the final date here; summer recess begins outside, on 2027-07-21.
+
+Jae-won’s birthday is Wednesday, 2027-06-02 and falls inside. Age changes on that date, but grade, room authority, and school-record authority do not change with it. Longer late-spring daylight creates more usable travel time, while rain, wet stairs, and a crowded bus-loop alter the practical cost of carrying equipment. The 35-minute accessible flood detour from the 2019 legacy remains a resource constraint whenever warning conditions apply; no seasonal assumption cancels it.
+
+The school office controls the examination timetable, classroom access, and any after-school restrictions. Family schedules become especially important near the end of the instructional window because paid shifts, care, and transport may collide with hotter afternoons or a late return. The summer recess is outside this volume, as are the 2027-08-20 semester boundary and 2027-08-21 second-semester opening. The next container begins Wednesday, 2027-07-21.
+
+The June examination begins on a Monday and ends on a Friday, so the adjacent weekend is not part of the protected assessment range even though recovery, marking, and family transport may still consume time. The volume closes on an instructional Tuesday, not on the first day of recess. Any request dated July 20 is therefore a first-semester, instructional-window request; any request dated July 21 belongs to recess administration and must not be backdated for convenience.
+
+## Volume 03 — First summer recess {#volume-03-first-summer-recess}
+
+**Status:** Work decision; inclusive container 2027-07-21 through 2027-08-20.
+
+This volume begins Wednesday, 2027-07-21 and ends Friday, 2027-08-20. It belongs to academic year 2027–28, first semester, first year, but its entire span is the planned summer-recess window. No examination window or founder birthday falls inside. The first instructional window ended Tuesday, 2027-07-20, outside this container; second semester begins Saturday, 2027-08-21, outside it as well. The date is therefore semester 1 membership without ordinary classroom instruction.
+
+Summer daylight is long in this Work decision, but heat, sudden rain, wet pavement, and the need for shade or water change the usable part of a day. The accessible route may be longer when the lower passage is closed, and a covered walkway can become crowded during a storm. The city’s yellow gauge and 1.2-metre closure threshold continue to control the flood passage; the youth-centre coordinator controls basement restrictions. A student task may be cancelled by the school adviser, never converted into permission to enter a warning area.
+
+The school office has reduced instructional demand but does not lose responsibility for a confirmed school facility. City facilities and youth-centre staff have their own opening hours and maintenance conditions. Family-work resources are variable: vacation does not mean a guardian is free, a student has spare money, or a household can absorb a longer trip. Outside this container are the 2027-08-21 second-semester start, the October examination period, and all autumn birthdays. Volume 04 begins the next day without a gap.
+
+The summer boundary also changes which adult can answer a question. A school adviser can communicate a cancellation, a youth-centre coordinator can restrict a basement, and the municipal flood-response office can close a route; none may silently inherit the others’ authority. A family may choose not to travel even while the city route is open. That choice is a resource fact and does not become an attendance violation merely because the school calendar labels the date as recess.
+
+## Volume 04 — Second semester and autumn assessment {#volume-04-second-semester-and-autumn-assessment}
+
+**Status:** Work decision; inclusive container 2027-08-21 through 2027-10-29.
+
+This volume begins Saturday, 2027-08-21 and ends Friday, 2027-10-29. It is academic year 2027–28, second semester, first year. The legal second semester begins on the first date; the second instructional window begins on that same date and continues through 2028-02-08. The protected examination window inside is Monday–Friday, 2027-10-25–29. Do-yun’s birthday, Thursday, 2027-09-09, also falls inside; the birthday changes completed age only.
+
+Late August carries summer heat and storm disruption, while September and October bring earlier darkness and cooler travel. These are Work decisions about resources, not claims about real weather averages. A bus missed in heavy rain, a route made narrow by flood controls, or a student who must leave before dark reduces available after-school time. The covered passage remains governed by the gauge and municipal closure; the school does not have power to reopen it.
+
+The school office must distinguish a weekend opening, ordinary instruction, and protected examination use. The facilities office owns room and key conditions; teachers own assessment administration; families own their work and care commitments. Outside this container are 2027-10-30, the next Saturday and Volume 05 opening, the 2027-11-18 Minseo birthday, and the December examination window. No winter recess is inside this volume.
+
+The September birthday and the second-semester opening occur in the same container but are independent boundaries. A revised age field can be entered without revising the grade field, and a room closure can be logged without changing semester membership. This separation lets later records compare a calendar fact, a personal date, and an institutional decision without collapsing them into one unexplained timestamp.
+
+October 29 is a Friday, and the following Saturday is deliberately outside. A late notice that names the examination week cannot be extended into October 30 merely because a teacher or family needs more time. Any extension would be a separately dated institutional decision, not an invisible part of this time container.
+
+## Volume 05 — Autumn to winter assessment {#volume-05-autumn-to-winter-assessment}
+
+**Status:** Work decision; inclusive container 2027-10-30 through 2027-12-17.
+
+This volume begins Saturday, 2027-10-30 and ends Friday, 2027-12-17. It remains academic year 2027–28, second semester, first year. Minseo’s birthday, Thursday, 2027-11-18, is inside. The protected examination period is Monday–Friday, 2027-12-13–17 and ends at the volume boundary. The preceding October examination period belongs to Volume 04; winter recess begins outside on 2028-02-09.
+
+November begins with shortening daylight and colder waits at bus shelters. By December, darkness arrives before many voluntary activities would otherwise end, so the usable resource is safe, supervised travel rather than the nominal after-school clock. Wet paper notices can lose legibility; digital notices still require access, interpretation, and a device. Family work near year-end is not presumed to pause, and a student's need to leave for a shift or care duty is a scheduling fact.
+
+The school office publishes assessment rooms, accommodations, and protected periods. The rebuilt audiovisual booth remains limited to twelve seats, adult-present charging, two breakers, and a logged key. The School Governance Committee may deliberate applicable school-rule or budget frameworks but cannot replace facilities authority. Outside this volume are 2027-12-18, the next day, Lila’s 2028-01-27 birthday, and the winter recess beginning 2028-02-09.
+
+December 17 is both the fifth examination Friday and the container boundary. A room may be reserved for assessment until the published close, but an after-school equipment request cannot assume that the examination schedule has ended at noon or that a winter arrangement begins before the next date. The volume keeps that distinction available to the office, the families, and the records clerk without prescribing what anyone decides.
+
+## Volume 06 — Winter recess and leap-day close {#volume-06-winter-recess-and-leap-day-close}
+
+**Status:** Work decision; inclusive container 2027-12-18 through 2028-02-29.
+
+This volume begins Saturday, 2027-12-18 and ends Tuesday, 2028-02-29. It is academic year 2027–28, second semester, first year. Lila’s birthday falls on Thursday, 2028-01-27. The planned second instructional window continues through Tuesday, 2028-02-08; first-year winter recess and ordinary year-end administration occupy 2028-02-09–29. The leap day, Tuesday, 2028-02-29, is inside and is not a duplicate of February 28.
+
+The container crosses the calendar year while remaining one academic year. Winter daylight is short and travel surfaces can be wet or icy under the Work decision; the school cannot infer a safe route from a timetable alone. The 35-minute accessible detour, the flood gauge, and the basement restriction remain available constraints even outside ordinary instruction. Holiday and family-work pressures are treated as variable resources, not universal leave. A closed office may defer a request without changing the date on which it was filed.
+
+The school office handles second-semester records, room closure, and first-year year-end administration; city and education records remain separate. No exam window from 030 falls inside this volume. Outside this container are 2028-03-01, the new academic year, 2028-03-02, the first instructional day of Volume 07, and all second-year exam windows. Volume 07 begins on the next day, not after an invented leap-day extension.
+
+The leap day makes the closing ledger especially exact. A February 29 key return, notice, or archive entry is a real date in this academic year and cannot be normalized to February 28. Conversely, a request created on March 1 belongs to the next academic year even if its subject line says “winter.” The office therefore needs the full ISO date and the academic-year label, while families may use an ordinary seasonal description.
+
+## Volume 07 — Second-year opening assessment {#volume-07-second-year-opening-assessment}
+
+**Status:** Work decision; inclusive container 2028-03-01 through 2028-04-28.
+
+This volume begins Wednesday, 2028-03-01 and ends Friday, 2028-04-28. It is academic year 2028–29, first semester, second year. The legal year begins on the first date; the first instructional day is Thursday, 2028-03-02. The protected examination period inside is Monday–Friday, 2028-04-24–28. Volume 06’s leap day is outside, and the next date, 2028-04-29, starts Volume 08.
+
+The opening contains one administrative boundary and one instructional boundary. A timetable may be prepared on March 1 even though students first receive instruction on March 2. Early spring daylight grows during the container, but morning cold, wet crossings, and shifting bus demand affect travel and the time available after school. The Haneul office must label whether a record concerns the academic year, the instructional day, or a room booking; a single date can carry all three labels without making them identical.
+
+The second-year grade is a school-record classification, not a birthday consequence. Family care, paid work, and access needs continue from the first year and cannot be erased by promotion. The school office controls examination rooms and accommodations; city hall controls municipal routes; the education office oversees the school side. Outside this volume are 2028-04-29, the next day, Jae-won’s 2028-06-02 birthday, and the June examination period.
+
+The opening is still being translated between household and institution. A paper notice may arrive after a parent has left for work, while a portal notice may be inaccessible on a shared phone. The authoritative date remains the issued date and the school’s record, but practical participation depends on how the information reaches a household. This container preserves both the office’s scheduling resource and the family’s limited attention, without assigning either one a narrative outcome.
+
+April 28 closes the second-year opening examination on a Friday. The next date, April 29, is a Saturday and begins a new volume even though the first semester continues. The calendar thus separates a tested date, a weekend boundary, and the next volume’s spring resources without treating any of them as a narrative turn.
+
+## Volume 08 — Second-year spring examination {#volume-08-second-year-spring-examination}
+
+**Status:** Work decision; inclusive container 2028-04-29 through 2028-06-30.
+
+This volume begins Saturday, 2028-04-29 and ends Friday, 2028-06-30. It remains academic year 2028–29, first semester, second year. Jae-won’s birthday is Friday, 2028-06-02 and falls inside. The examination window is Monday–Friday, 2028-06-26–30, ending on the final date. The April examination period belongs to Volume 07; the next date, 2028-07-01, belongs to Volume 09.
+
+Late spring and early summer supply longer daylight but also rain, heat, and crowded shelter conditions. These seasonal conditions alter the cost of carrying maps, paper, or equipment; they do not change the official date. The accessible detour remains thirty-five minutes in ordinary conditions and may be longer during a warning. A student’s birthday changes age arithmetic, not school grade, authority, consent, or the records office’s disclosure rules.
+
+The school office protects the June examination window and teacher-controlled assessment. The facilities office controls the audiovisual booth’s twelve-seat limit, inspection status, and adult-present charging. Family-work schedules may make the final week more expensive in time and transport; the volume does not assume that exam preparation occurs at home under ideal conditions. Outside are 2028-07-01 and the summer-recess window beginning 2028-07-20.
+
+The birthday falls on a Friday, inside the ordinary school week. Age arithmetic changes on the date, while the school office may record the change through its normal weekday process; neither the birthday nor its record changes the grade, examination authority, or room access. The date remains a personal boundary inside the volume’s spring examination calendar, not a reason to invent a special appointment or alter the published assessment window.
+
+## Volume 09 — Second summer recess {#volume-09-second-summer-recess}
+
+**Status:** Work decision; inclusive container 2028-07-01 through 2028-08-20.
+
+This volume begins Saturday, 2028-07-01 and ends Sunday, 2028-08-20. It is academic year 2028–29, first semester, second year. The planned first instructional window ends Wednesday, 2028-07-19; summer recess runs Thursday, 2028-07-20 through Sunday, 2028-08-20. No examination window or founder birthday falls inside. The second semester begins Monday, 2028-08-21, outside the container.
+
+The first nineteen days retain the boundary between instructional operation and recess even though the volume itself begins during the June examination’s aftermath. Summer recess is not an empty calendar: daylight is long, heat and rain alter safe travel, and family schedules may become more rather than less constrained. The youth-centre basement remains barred during a flood warning, and municipal closure remains triggered at 1.2 metres on the yellow gauge. A school adviser may cancel a student task but cannot reopen a city route.
+
+School-office capacity changes from ordinary classes to maintenance, notices, room checks, and limited summer administration. City facilities have separate staff and opening conditions. The 2019 flood detour remains a narrow accessible alternative; no one may assume that vacation makes a thirty-five-minute walk harmless. Outside are 2028-08-21, the second-semester opening, the September birthday, and the October examination window. Volume 10 begins on the next day.
+
+The summer container includes July 1–19, when the first instructional window has not yet ended, and July 20–August 20, when it has. This internal shift is why a single volume cannot be treated as one undifferentiated vacation block. A dated request, booking, or cancellation must first be classified against the actual day, then against its semester and instructional state. The volume boundary does not erase that internal distinction.
+
+## Volume 10 — Second-year autumn examination {#volume-10-second-year-autumn-examination}
+
+**Status:** Work decision; inclusive container 2028-08-21 through 2028-10-27.
+
+This volume begins Monday, 2028-08-21 and ends Friday, 2028-10-27. It is academic year 2028–29, second semester, second year. The second instructional window begins on the first date and continues through 2029-02-08. Do-yun’s birthday is Saturday, 2028-09-09, inside. The protected examination window is Monday–Friday, 2028-10-23–27, ending at the boundary.
+
+The container opens in late-summer heat and moves toward earlier autumn darkness. Rain may lengthen the flood detour and reduce the time between the final bell and a family shift. The school’s route cards, the city’s gauge, and the youth-centre’s facility plan are different controls. A current weather warning can close the covered passage without cancelling an unrelated school record, and an open school cannot guarantee that every student's departure route is safe.
+
+The school office controls the examination rooms, assessment accommodations, and daily facility queues. The birthday changes Do-yun’s completed age only; it does not grant a key or alter grade. The volume ends before 2028-10-28, which begins Volume 11. Outside are Minseo’s 2028-11-18 birthday, the December examination window, and winter recess beginning 2029-02-09.
+
+The October examination’s Friday close leaves Saturday, October 28 outside the container. A school notice issued for the protected week can therefore carry an end date of October 27 without implying that the next day is an examination day. The autumn birthday is similarly a personal boundary inside a school boundary; no roster, grade, room assignment, or access rule is recalculated merely because the date has changed.
+
+The final October Friday is also the last day before the Volume 11 boundary. A transport disruption on October 27 belongs to this container; one recorded on October 28 belongs to the next. That distinction matters when a family shift, office queue, or accessible route is reconstructed from dated records rather than from a broad label such as “late October.”
+
+## Volume 11 — Second-year winter examination {#volume-11-second-year-winter-examination}
+
+**Status:** Work decision; inclusive container 2028-10-28 through 2028-12-15.
+
+This volume begins Saturday, 2028-10-28 and ends Friday, 2028-12-15. It remains academic year 2028–29, second semester, second year. Minseo’s birthday is Saturday, 2028-11-18. The protected examination window is Monday–Friday, 2028-12-11–15, ending at the container boundary. The preceding October window is outside in Volume 10; 2028-12-16 begins Volume 12.
+
+Daylight decreases through the container, so an after-school resource is defined by supervised departure, lit routes, and transport reliability rather than by the clock alone. Rain or cold can make a notice unreadable or a curb difficult to use. Family-work obligations near the end of the calendar year remain independent constraints. The volume does not assert a public holiday or a real-world weather average; it uses seasonal access choices adopted for Haneul.
+
+The school office protects assessment time and the facilities office protects the audiovisual booth. Twelve seats, two breakers, key logging, adult-present charging, and inspection status remain fixed. The School Governance Committee can deliberate school-rule and budget framework but cannot certify wiring. Outside are 2028-12-16, Lila’s 2029-01-27 birthday, and the winter recess from 2029-02-09 through 2029-02-28.
+
+The winter assessment dates are not a proxy for the whole December. October 28 through December 10 remains ordinary second-semester chronology, December 11–15 is protected assessment, and December 16 begins a different volume even though the academic year continues. This partition gives record owners a precise date range for any room, key, notice, or family-work constraint without turning the range into a narrative instruction.
+
+## Volume 12 — Second-year winter close {#volume-12-second-year-winter-close}
+
+**Status:** Work decision; inclusive container 2028-12-16 through 2029-02-28.
+
+This volume begins Saturday, 2028-12-16 and ends Wednesday, 2029-02-28. It is academic year 2028–29, second semester, second year. Lila’s birthday is Saturday, 2029-01-27. The planned second instructional window ends Thursday, 2029-02-08; winter recess and administrative conditions run Friday, 2029-02-09 through Wednesday, 2029-02-28. No examination window from 030 falls inside this container.
+
+The interval crosses from 2028 into 2029 without changing academic-year identity. Winter daylight, transport delays, and family care or paid work affect access during the instructional portion and the recess. A school office may process records during closure conditions, but processing is not classroom instruction. The city and education office retain distinct ledgers, and a youth-centre closure does not become a school closure by implication.
+
+Outside are 2029-03-01, the new academic year, and 2029-03-02, the fictional office-preparation day that is outside Volume 13. The third-year first instructional day, Monday, 2029-03-05, is also outside. The container therefore closes second-year standing on the final day without narrating a promotion event; grade classification is an institutional fact owned by the school records process.
+
+The January birthday is inside a winter interval but does not create a new school year or grade. February 28 is the final day of the second academic year, and March 1 is the next legal year boundary. A form signed on February 28 can therefore close a second-year record, while a March 1 form must identify the third-year container even if the same room, people, and project are named.
+
+## Volume 13 — Third-year opening and spring assessment {#volume-13-third-year-opening-and-spring-assessment}
+
+**Status:** Work decision; inclusive container 2029-03-01 through 2029-04-27.
+
+This volume begins Thursday, 2029-03-01 and ends Friday, 2029-04-27. It is academic year 2029–30, first semester, third year. Friday, 2029-03-02 is fictional office preparation and falls inside; Saturday and Sunday, 2029-03-03–04, are outside instructional operation but inside the volume. The first instructional day is Monday, 2029-03-05. The protected examination window inside is Monday–Friday, 2029-04-23–27, ending at the boundary.
+
+This is the only opening with a four-day preparation gap between legal year start and first instruction. Early spring daylight is increasing, but morning cold, rain, and office preparation affect which routes, keys, notices, and rooms are actually ready. The school office controls readiness for school operations; city hall controls municipal routes; neither authority may silently relabel the other’s record. Family-work and care schedules cannot be assumed to begin on March 5 merely because instruction does.
+
+The founders’ third-year status is a grade record, not a plot allocation. Outside are 2029-04-28, the next Saturday and start of Volume 14; Jae-won’s 2029-06-02 birthday; and the June examination window. The final-year winter administrative period is far outside this container and remains reserved for Volume 17.
+
+The office-preparation date is inside the volume precisely because it has a different operational owner from the first instructional day. A staff checklist may be complete before students arrive, while a student-facing notice may not be complete until the first teaching day. The chronology preserves both dates and refuses to make preparation a disguised lesson, attendance day, or event sequence.
+
+The April 27 examination close is a Friday; April 28 begins a new volume on Saturday. A third-year record may therefore cite the same semester while still assigning a different volume owner to each date. No public-holiday list is needed to make that adjacency exact.
+
+## Volume 14 — Third-year spring examination {#volume-14-third-year-spring-examination}
+
+**Status:** Work decision; inclusive container 2029-04-28 through 2029-06-29.
+
+This volume begins Saturday, 2029-04-28 and ends Friday, 2029-06-29. It is academic year 2029–30, first semester, third year. Jae-won’s birthday is Saturday, 2029-06-02. The protected examination window is Monday–Friday, 2029-06-25–29, ending on the last date. The April window belongs to Volume 13; 2029-06-30 begins Volume 15.
+
+Late spring daylight is useful for travel but does not remove rain, heat, route congestion, or the thirty-five-minute accessible detour. The flood gauge and municipal closure rule remain active resources. A family shift can begin before an examination ends, and a caregiver’s availability cannot be inferred from a student's third-year standing. The school office protects assessment rooms and records; city hall and the education office retain separate authority and timekeeping.
+
+The birthday changes completed age, not grade or access. No public-holiday date is invented here. Outside are 2029-06-30, the next Sunday, the summer-recess start on 2029-07-20, and the first-semester end on 2029-08-19. Volume 15 includes the remaining end-of-semester and recess dates but no June examination dates.
+
+The June 29 boundary is a Friday examination close, not the start of recess. June 30 is outside and begins the next container on a Sunday, while the first-semester endpoint and summer recess remain weeks away. That separation lets a household plan a weekend, an employer plan a shift, and a school office close an assessment ledger without moving the legal semester boundary.
+
+## Volume 15 — Third-year summer edge {#volume-15-third-year-summer-edge}
+
+**Status:** Work decision; inclusive container 2029-06-30 through 2029-08-19.
+
+This volume begins Sunday, 2029-06-30 and ends Sunday, 2029-08-19. It is academic year 2029–30, first semester, third year. The first instructional window continues through Thursday, 2029-07-19. Summer recess runs Friday, 2029-07-20 through Sunday, 2029-08-19, and the semester ends on that final date. No founder birthday or examination window falls inside.
+
+The container deliberately starts on the day after the June examination closes, then crosses from instruction into recess without changing academic-year identity. Summer daylight, heat, storms, and travel load affect safe use of city routes and school facilities. The 2019 flood legacy still requires the yellow gauge, 1.2-metre closure, pumps, three raised cabinets, and the narrow accessible alternative. The school adviser may cancel a task, while the municipal flood-response office owns road or passage closure.
+
+School-office resources shift from instruction to maintenance, records, and reopening preparation. Family-work constraints may intensify during recess; a student is not automatically available because classes pause. Outside are 2029-08-20, the second-semester opening and Volume 16 start, the September birthday, and the October examination window. Volume 15 contains no final-year administrative interval.
+
+The final first-semester date is Sunday, August 19. The next day belongs to semester 2 even if the building is not used for a full instructional schedule. Any maintenance note dated August 19 remains first-semester evidence; any reopening or second-semester note dated August 20 belongs to the next container. This is a calendar distinction, not a forecast of a future national policy.
+
+## Volume 16 — Third-year second-semester assessment {#volume-16-third-year-second-semester-assessment}
+
+**Status:** Work decision; inclusive container 2029-08-20 through 2029-10-26.
+
+This volume begins Monday, 2029-08-20 and ends Friday, 2029-10-26. It is academic year 2029–30, second semester, third year. The second semester and second instructional window both begin on the first date. Do-yun’s birthday is Sunday, 2029-09-09. The protected examination period is Monday–Friday, 2029-10-22–26, ending at the boundary.
+
+The one-day movement of the semester boundary from the prior year is intentional: 2029–30 semester 1 ends August 19 and semester 2 begins August 20. Late summer transitions toward earlier darkness and cooler travel; seasonal weather is a Work decision about resource pressure, not an average claim. A warning may close the lower passage while school facilities remain open, and an open room does not guarantee a safe route home.
+
+The third-year grade remains until the 2030-02-28 graduation boundary. Do-yun’s birthday changes age only. The school office controls assessment and room queues; facilities controls the rebuilt booth; family work and transport remain external constraints. Outside are 2029-10-27, the next day and Volume 17 start, Minseo’s 2029-11-18 birthday, the December examination window, and the February final-year administrative period.
+
+The September birthday is a Sunday and therefore cannot be used to invent a school appointment. It remains relevant to exact age records, consent forms, and any adult-access calculation that genuinely depends on date. The October examination ends on Friday, October 26, leaving October 27 outside and available only under whatever ordinary institutional conditions its own volume establishes.
+
+October 26 is the final protected examination date in the third-year autumn window. October 27 is not a hidden examination day; it is the first date owned by Volume 17. A family, teacher, or facilities record dated on that Saturday must therefore be evaluated under the longer final-year container rather than appended to this one.
+
+## Volume 17 — Final school-year close and graduation administration {#volume-17-final-school-year-close}
+
+**Status:** Work decision; inclusive container 2029-10-27 through 2030-02-28.
+
+This volume begins Saturday, 2029-10-27 and ends Thursday, 2030-02-28. It is academic year 2029–30, second semester, third year, and it contains the final student-status boundary. Minseo’s birthday is Sunday, 2029-11-18. The protected examination window is Monday–Friday, 2029-12-10–2029-12-14. The planned second instructional window ends Thursday, 2030-02-07; winter recess and graduation administration run Friday, 2030-02-08 through Thursday, 2030-02-28. Graduation boundary is the inclusive final date.
+
+This container is longer because the final school-year calendar includes both assessment and administrative closure. Winter daylight, transport, family work, records checks, key return, archive transfer, and access notices are resources with different owners. The school office determines student records and daily access; the education office holds its oversight records; city hall holds municipal records. A former student’s future alumni access begins only after the boundary, not during the winter administration window.
+
+Lila’s birthday, 2030-01-27, falls inside. The exact third-year birthdays and the graduation ages remain those calculated in 030. No plot, ceremony order, or reveal is assigned here. Outside are 2030-03-01, the first alumni date and Volume 18 start, and the entire post-graduation interval. The next volume cannot borrow current-student authority backward into this container.
+
+February 8 is the first day of the winter and graduation-administration interval, but it is not the graduation boundary. February 28 remains the final student-status date and is a Thursday. The next morning, March 1, is outside and begins alumni chronology. A record may be prepared before that transition, yet its authority must still state whether it concerns a current student, a graduating student, or an alumnus.
+
+The final container’s endpoint is inclusive: a key, record, notice, or supervised access decision dated February 28 remains a current-student-era matter even if it is processed after office hours. March 1 is not a retrospective correction to that status; it is the first date of the separate alumni container.
+
+## Volume 18 — First post-graduation quarter {#volume-18-first-post-graduation-quarter}
+
+**Status:** Work decision; inclusive container 2030-03-01 through 2030-06-30.
+
+This volume begins Friday, 2030-03-01 and ends Sunday, 2030-06-30. It is outside the high-school academic-year progression: the founders are alumni or young adults, and no current-student grade applies. The 2030-02-28 graduation boundary is outside, as is the school’s third-year winter administration. The container is the opening quarter of the post-graduation interval, not a fourth school term.
+
+Jae-won’s birthday is Sunday, 2030-06-02 and falls inside this alumni container. It changes completed age arithmetic but does not reopen student authority, create an academic grade, or alter the school’s records boundary.
+
+March daylight grows into late spring, but alumni access depends on invitation, approved volunteer status, public event, contract, or another current rule. A former key, student roster, or room familiarity is not continuing permission. The rebuilt audiovisual booth remains a school facility with twelve seats, logged keys, adult-present charging, two breakers, and inspection conditions. City offices and education offices continue to retain separate records.
+
+Family work, job or study schedules, transport costs, and changed living arrangements are now adult-resource constraints rather than student attendance categories. The school office may process an alumni request; it cannot treat a former student as enrolled. No 030 examination or school recess window applies to alumni status inside this volume. Outside are 2030-07-01, the next date and Volume 19 start, and the 2030–31 winter conditions reserved for Volume 20.
+
+The first post-graduation container begins on a Friday, not on a school holiday selected by the institution. The founders’ ages on this date are those in 030’s graduation endpoint arithmetic, and their access changes because the student-status boundary has passed, not because a birthday occurs here. An alumni record therefore needs an access basis and a current contact purpose rather than a copied student identifier.
+
+June 30 closes this first alumni quarter on a Sunday. July 1 is outside and starts the next volume on a Monday, so a job schedule, municipal booking, or school invitation cannot be carried across the boundary without its own dated continuation. The post-graduation interval remains continuous, but its volume ownership is not.
+
+## Volume 19 — Post-graduation summer and autumn {#volume-19-post-graduation-summer-and-autumn}
+
+**Status:** Work decision; inclusive container 2030-07-01 through 2030-10-31.
+
+This volume begins Monday, 2030-07-01 and ends Thursday, 2030-10-31. It remains inside the post-graduation interval, with alumni or young-adult standing throughout. No high-school semester, grade, examination window, or graduation boundary from 030 falls inside. The school’s 2030–31 legal academic year begins on 2030-03-01, but that academic-year boundary is outside this volume and does not make the founders enrolled students.
+
+Do-yun’s birthday is Monday, 2030-09-09 and falls inside. The weekday date changes his completed age only; it does not create a school appointment, alumni entitlement, or municipal access. The container remains governed by employment, study, transport, and current invitation conditions.
+
+Summer-to-autumn daylight and weather change the cost of travel, storage, outdoor work, and waiting for a municipal office. These are Haneul Work decisions rather than real-world averages. The yellow flood gauge, 1.2-metre closure, pumps, and 35-minute accessible detour remain relevant to municipal routes; alumni status grants no authority to bypass them. A youth-centre coordinator still controls basement response, and the school adviser cannot revoke a city closure.
+
+Employment, study, rent, family care, and variable pay periods are the dominant resource changes. An alumni request may require a new form, supervisor, insurance or safeguarding condition, and records purpose. Outside are 2030-11-01, the next day and Volume 20 start, Lila’s 2031-01-27 birthday, and the final delivery date 2031-02-28.
+
+The post-graduation academic year exists as a city and school administrative backdrop, but it does not restore student standing. A school facility may have term-based maintenance or budget dates while the founders’ work is governed by an invitation or contract. No exact public-holiday list is assumed. The container instead records daylight, transport, employment, and facility-access resources that a later layer can use without inventing a national calendar.
+
+## Volume 20 — Post-graduation winter close {#volume-20-post-graduation-winter-close}
+
+**Status:** Work decision; inclusive container 2030-11-01 through 2031-02-28.
+
+This volume begins Friday, 2030-11-01 and ends Friday, 2031-02-28. It is the final post-graduation container; the founders remain alumni or young adults, never current high-school students by chronology. Lila’s birthday is Monday, 2031-01-27. No high-school examination, semester, or winter-recess window is imported into this volume. The delivery boundary is the final Friday, 2031-02-28, and the next date is outside the novel’s fixed interval.
+
+Minseo’s birthday is Monday, 2030-11-18 and falls inside, as does Lila’s Monday, 2031-01-27 birthday. Both are personal date boundaries in an alumni year; neither changes school grade, access basis, or the final delivery endpoint.
+
+Late-autumn and winter daylight is a resource constraint: safe departure, lit routes, transport reliability, and family or employment schedules may reduce time available after work. The city’s flood controls remain standing infrastructure even when the season is colder; the school’s audiovisual booth remains subject to inspection and adult-present charging. An alumni invitation cannot reopen a sealed room, disclose a student record, or substitute for a current facilities decision.
+
+The post-graduation year closes as a calendar container, not as a claim that Haneul’s civic work is finished. School, education-office, city-hall, youth-centre, employer, and family records retain their own owners and dates. The final date is outside any future volume and outside any later unapproved legal forecast. All plot, reveal, event, chapter, and scene allocation remains downstream; this H2 fixes only the time, status, resources, and boundary inherited by the final narrative layers.
+
+The final February birthday inside the delivery is Lila’s Monday, 2031-01-27; the other founders’ birthday dates are outside this container’s span. February 28 is a Friday and closes the fixed delivery interval, while March 1, 2031 is outside the novel’s chronology. A final record may describe an open question or a continuing civic obligation, but its date must remain no later than the inclusive endpoint unless a separately authorized settings revision changes the delivery scope.
+
+November 1, 2030 is a Friday and the first date of the final container, while February 28, 2031 is a Friday and its inclusive endpoint. The interval contains no school assessment schedule because alumni status is not a school grade. Any later date would require a revised delivery scope rather than an implied continuation of Volume 20.
