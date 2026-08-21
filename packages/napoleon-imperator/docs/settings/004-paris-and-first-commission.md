@@ -1,0 +1,89 @@
+# Paris and First Commission
+
+This file owns the transition from Brienne to the Paris École militaire, Charles Bonaparte's death, Napoleon's first artillery commission, and the material conditions of early service. It does not own the later revolutionary storyline or the detailed Auxonne and Corsican political sequences.
+
+<!-- principles/common.md#purpose-fit principles/common.md#layer-boundary principles/common.md#work-language -->
+
+## Paris École militaire and compressed training {#paris-ecole-militaire-and-compressed-training}
+
+**Status:** Source-verified for Napoleon's attendance at the Paris École militaire from 22 October 1784 to 28 October 1785; bounded in the exact examination syllabus, class rank, and daily encounters.
+
+After Brienne, Napoleon moves to the central military school in Paris. The Fondation's institutional history gives the dates 22 October 1784 to 28 October 1785 and identifies his exit as a second lieutenant in the artillery, assigned to the La Fère regiment at Valence. Paris is not simply a larger Brienne. It concentrates examination, state patronage, technical instruction, urban information, and a professional threshold into a short period.
+
+The school was created for young gentlemen without sufficient means, so its purpose and Napoleon's status remain linked. A student receives institutional opportunity while being measured by inspectors and the needs of the service. The setting distinguishes school achievement from a guaranteed career: a commission depends on examination, vacancies, administrative approval, and the army's demand for officers.
+
+The Champ-de-Mars provides a material training ground capable of holding large formations, but a parade space is not a battlefield. A scene may use its flat ground, drills, horses, guns, and crowds when the source and date support them; it must not transfer later revolutionary festivals or imperial ceremonies into Napoleon's student period. The school’s later history belongs to a different layer of memory.
+
+Sources: Fondation Napoléon, “Ecole Militaire—Champs-de-Mars Military School,” direct institutional history, https://www.napoleon.org/en/magazine/places/ecole-militaire-champs-de-mars-military-school/; Fondation Napoléon, “1769–1793: Napoleon Bonaparte's early years,” direct chronology, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/; Fondation Napoléon, “The Boyhood and Youth of Napoleon,” direct publication, https://www.napoleon.org/en/magazine/publications/the-boyhood-and-youth-of-napoleon/.
+
+## Artillery as a technical profession {#artillery-as-a-technical-profession}
+
+**Status:** Source-supported for Napoleon's selection into artillery and for the technical character of the arm; bounded in the exact weapons and drill he handled before joining La Fère.
+
+Artillery combines mathematics, metallurgy, powder, transport, horses, terrain, and trained crews. The officer must choose a position, understand a gun's limits, direct fire, protect ammunition, and move the pieces when the infantry line changes. A school exercise can teach parts of this chain; it cannot substitute for service experience under enemy fire.
+
+Napoleon's Brienne performance in mathematics and his Paris training make artillery a plausible professional fit, but the canon rejects a single-cause explanation. Family finances, the structure of the royal school, available commissions, and the prestige of technical competence all matter. A later storyline may show a young officer learning that a gun's theoretical range is useless if the road cannot carry the limber or if smoke hides the target.
+
+The army's artillery system includes regiments, arsenals, magazines, horses, artificers, and administrative records. The junior officer does not command all of these. His authority begins with a company or battery role and grows through assignments. Settings later owning La Fère and Auxonne must preserve that hierarchy and avoid giving a newly commissioned lieutenant the staff powers of a general.
+
+Sources: Fondation Napoléon, “The life of Napoleon I: a timeline for 6 years old +,” artillery and early-service chronology, https://www.napoleon.org/en/young-historians/napodoc/chrono-consulat-1er-empire/; Fondation Napoléon, “Les institutions de l'Instruction publique du Consulat et de l'Empire,” artillery-school overview, https://www.napoleon.org/histoire-des-2-empires/articles/les-institutions-de-linstruction-publique-de-la-france-du-consulat-et-de-lempire/; Fondation Napoléon, “Ecole Militaire—Champs-de-Mars Military School,” direct institutional history, https://www.napoleon.org/en/magazine/places/ecole-militaire-champs-de-mars-military-school/.
+
+## Charles Bonaparte's illness and death {#charles-bonapartes-illness-and-death}
+
+**Status:** Source-verified for Charles's deteriorating health, his 1785 journey and treatment at Montpellier, and his death on 24 February 1785; contested in the motives assigned to his travel and in later family dramatizations.
+
+Charles's illness interrupts the family's plans while Napoleon is at the Paris school. The Fondation biography records that Charles travelled in early 1785, reached Montpellier after becoming too ill to continue toward Paris, was diagnosed with a serious gastric disease, arranged his affairs, and died on 24 February 1785. He was assisted by clergy and buried in the church of the Cordeliers. These facts locate the death away from Napoleon's school and make the letter, messenger, and family response more important than a fabricated bedside scene.
+
+The source also records a dispute about why Charles travelled with Joseph: some later accounts say he intended to help with mathematical preparation, while the critical biography considers it more likely that illness made independent travel impossible. The setting retains both claims with the second labelled as the critical assessment. No downstream scene may state the purpose as settled without choosing and citing its source.
+
+Charles's death changes household resources. Letizia becomes responsible for younger children and property claims; Joseph's educational path and Napoleon's income acquire new urgency. The child at the Paris school receives news through letters or intermediaries, not through omniscient access to the Montpellier room. His grief can be staged from the evidence of correspondence and later conduct, but no exact private speech is invented.
+
+Sources: Fondation Napoléon, “Charles-Marie Bonaparte (1746–1785), father of Napoleon,” direct critical biography, https://www.napoleon.org/histoire-des-2-empires/biographies/bonaparte-charles-marie-pere-de-napoleon/; Napoleon Bonaparte, “Letter to Archdeacon Lucien Bonaparte on the death of Charles Bonaparte,” direct primary-source presentation, https://www.napoleon.org/en/history-of-the-two-empires/articles/letter-from-napoleon-bonaparte-to-archdeacon-lucien-bonaparte-his-great-uncle-on-the-death-of-charles-bonaparte-n4-march-1785/; Fondation Napoléon, correspondence chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/chronology-of-the-general-correspondence-of-napoleon-bonaparte-volume-one-the-learnings-1784-1797/.
+
+## Family remittances and the first adult obligation {#family-remittances-and-the-first-adult-obligation}
+
+**Status:** Source-supported for the family's financial constraint and for Charles's death making the children dependent on Letizia and relatives; bounded in exact debts, monthly allowances, and the contents of private household accounts not directly cited here.
+
+The young officer's salary and commission do not instantly secure the Bonaparte household. Letizia has younger children, property disputes, travel costs, schooling, and medical expenses. Napoleon's education was supported by state and family resources; after Charles's death, the same education becomes part of a wider calculation about who can be fed, clothed, and advanced.
+
+The setting treats money as a flow. A remittance requires a payer, a route, a currency, a trustworthy intermediary, and a date; a promise is not cash. A letter can request help without proving that help arrived. A property dispute can delay income even when the family is legally entitled to it. Later scenes should show receipts, borrowed clothing, delayed travel, or a family member sacrificing an opportunity only when a source supports the particular fact.
+
+The first adult obligation is therefore administrative as well as emotional. Napoleon must remain in service, write home, and decide whether a professional step advances or threatens the family. This does not make him the sole provider in 1785; it makes family need a persistent constraint on the decisions that later settings own.
+
+Sources: Fondation Napoléon, “Charles-Marie Bonaparte (1746–1785), father of Napoleon,” direct biography, https://www.napoleon.org/histoire-des-2-empires/biographies/bonaparte-charles-marie-pere-de-napoleon/; Fondation Napoléon, “Document: Letter to his father, Charles Bonaparte (September 1784),” direct correspondence presentation, https://www.napoleon.org/en/history-of-the-two-empires/articles/document-letter-to-napoleon-bonaparte-to-his-father-charles-bonaparte-september-1784/; Fondation Napoléon, *Correspondance générale*, volume I chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/chronology-of-the-general-correspondence-of-napoleon-bonaparte-volume-one-the-learnings-1784-1797/.
+
+## Second lieutenant in La Fère at Valence {#second-lieutenant-in-la-fere-at-valence}
+
+**Status:** Source-verified for the 28 October 1785 exit as a second lieutenant of artillery with assignment to the La Fère regiment at Valence; bounded in the precise date of arrival, company routine, and the first independent field decisions.
+
+The commission is a legal and logistical state. Napoleon leaves the Paris school with a rank, an arm, a regiment, and a destination. He does not leave as a general or as an anonymous student. La Fère's regiment supplies a chain of command, senior officers, a company assignment, barracks, technical work, and the expectation that a junior officer learns by serving.
+
+Valence is a garrison city, not a symbolic blank space. The journey from Paris, the regiment's quarters, the artillery park, local markets, and the Rhône environment determine what the young officer can see and afford. The narrative can make the arrival concrete through paperwork, uniform, lodging, horses, tools, and introductions, but it must not import later revolutionary crowds or Bonapartist fame into 1785.
+
+The first commission creates a tension between authority and dependence. A second lieutenant can command within a defined sphere, issue or repeat orders under superiors, and be corrected by experienced officers. He may possess technical confidence without social power. That tension is the professional foundation for later scenes in which rapid decisions meet institutional resistance.
+
+Sources: Fondation Napoléon, “Ecole Militaire—Champs-de-Mars Military School,” direct institutional history, https://www.napoleon.org/en/magazine/places/ecole-militaire-champs-de-mars-military-school/; Fondation Napoléon, “The life of Napoleon I: a timeline for 6 years old +,” direct chronology, https://www.napoleon.org/en/young-historians/napodoc/chrono-consulat-1er-empire/; Fondation Napoléon, “Les institutions de l'Instruction publique du Consulat et de l'Empire,” artillery-school overview, https://www.napoleon.org/histoire-des-2-empires/articles/les-institutions-de-linstruction-publique-du-consulat-et-de-lempire/.
+
+## Valence as garrison and social laboratory {#valence-as-garrison-and-social-laboratory}
+
+**Status:** Source-supported for Valence as the destination of the La Fère regiment; bounded in the exact street, lodging, and social encounters of Napoleon's first posting.
+
+Valence joins military routine to provincial society. The young lieutenant's life includes rolls, drill, guard duties, artillery maintenance, correspondence, meals, debts, leave, and contact with civilians. A garrison is neither a battlefield nor a monastery: officers negotiate with merchants, landlords, administrators, and families while remaining accountable to the regiment.
+
+The setting gives material priority to the gun and the ledger. A battery's usefulness depends on powder, shot, horses, carriages, artificers, weather, and roads. An officer can study tactics in a book while discovering that a wheel is cracked, a horse is sick, or a requisition has not arrived. These details later explain why a technically gifted commander can still fail when institutions or resources resist him.
+
+The young officer's social position changes again. He is no longer a king's scholar, but his pay and rank do not make him rich. He can wear authority in uniform and still owe money or rely on family letters. The novel may later stage romance, friendship, or political conversation in Valence, but each relationship requires its own source and boundary; this file does not invent a named partner or a complete private biography.
+
+Sources: Fondation Napoléon, “Ecole Militaire—Champs-de-Mars Military School,” direct history of the commission and destination, https://www.napoleon.org/en/magazine/places/ecole-militaire-champs-de-mars-military-school/; Fondation Napoléon, “The Boyhood and Youth of Napoleon,” direct publication, https://www.napoleon.org/en/magazine/publications/the-boyhood-and-youth-of-napoleon/; Fondation Napoléon, *Correspondance générale*, volume I chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/chronology-of-the-general-correspondence-of-napoleon-bonaparte-volume-one-the-learnings-1784-1797/.
+
+## Boundary to Auxonne and the Revolution {#boundary-to-auxonne-and-the-revolution}
+
+**Status:** Work boundary grounded in the dated commission. Auxonne's advanced artillery practice, the French Revolution, Corsican politics, and Napoleon's first operational commands require separate settings owners.
+
+The La Fère posting is the bridge between formal education and professional formation. Later settings must own Napoleon's movement to Auxonne, technical work under senior artillery officers, publications and letters, leave in Corsica, the 1789 Revolution, and the choices that place him in or against Paolist politics. This file supplies the earlier rank, family pressure, and technical foundation but does not compress those later changes into a concluding school scene.
+
+The boundary protects historical causality. A commission can make later choices possible without determining them. Napoleon still needs time, patrons, information, health, money, and political opportunity. The storyline may later connect these states through explicit events; the scenarios must show the roads, letters, offices, and people through which the connection occurs.
+
+The childhood return therefore has a complete factual ladder: Ajaccio and family, Autun and French, Brienne and technical discipline, Paris and selection, Charles's death and obligation, then Valence and professional authority. None of these stages erases the earlier one. The later emperor at Austerlitz carries a chain of institutions and losses that the opening flashback can reveal without turning history into prophecy.
+
+Sources: Fondation Napoléon, “1769–1793: Napoleon Bonaparte's early years,” direct chronology, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/; Fondation Napoléon, “Charles-Marie Bonaparte (1746–1785), father of Napoleon,” direct biography, https://www.napoleon.org/histoire-des-2-empires/biographies/bonaparte-charles-marie-pere-de-napoleon/; Fondation Napoléon, “Ecole Militaire—Champs-de-Mars Military School,” direct institutional history, https://www.napoleon.org/en/magazine/places/ecole-militaire-champs-de-mars-military-school/.

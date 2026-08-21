@@ -1,0 +1,115 @@
+# Corsica and Family
+
+This file owns the material, familial, linguistic, and political conditions that precede Napoleon's mainland education. It supplies facts for the later childhood return without deciding the storyline's flashback order or dramatizing private scenes that the sources do not document.
+
+<!-- principles/common.md#purpose-fit principles/common.md#layer-boundary principles/common.md#work-language -->
+
+## Corsica transferred between empires {#corsica-transferred-between-empires}
+
+**Status:** Source-verified for the 1768 French acquisition, the 1769 defeat of Paoli's forces, and Napoleon's birth into a newly French-controlled island; contested in the moral vocabulary of “purchase,” “conquest,” and “occupation” used by later national narratives. Corsica is not a decorative birthplace. Its transfer determines the legal language, military presence, and family choices that surround the child.
+
+The Treaty of Versailles of 15 May 1768 transferred Genoese rights in Corsica to France. French troops then confronted the remaining Paolist resistance, with the decisive defeat at Ponte Novu on 9 May 1769. Napoleon was born in Ajaccio on 15 August 1769, after the treaty and in the same year as the defeat. A later setting may therefore call him a French subject by the administrative order he inherited while preserving the island's recent memory of a struggle for autonomy. “French” and “Corsican” are not interchangeable identities in the childhood canon.
+
+The acquisition changes available resources. French administrators, officers, clergy, and schools can provide a route to mainland education; French taxation, garrisons, legal offices, and patronage also impose a power structure on families that had recently negotiated with Genoese and Corsican authorities. Paoli's exile and the defeat of his supporters do not erase local loyalties. They make political affiliation dangerous and make accommodation legible as survival, ambition, betrayal, or all three depending on the speaker.
+
+The file adopts a bounded material picture: Ajaccio is a port and town, the Bonaparte household is connected to local notables, and French authority is visible but not omnipotent. It does not invent a continuously militarized street or imply that every Corsican shared Paoli's position. A scene may use uniforms, customs officials, family talk, church records, and the memory of Ponte Novu as pressure points only when the viewpoint has access to them. The later political conflict between Napoleon and Paoli must not be projected backward as a settled decision in infancy.
+
+Sources: Fondation Napoléon, “1769–1793: Napoleon Bonaparte's early years,” direct chronology, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/; Fondation Napoléon, “Napoleon and the Corsican Dilemma—part 1,” direct critical article, https://www.napoleon.org/en/history-of-the-two-empires/articles/napoleon-and-the-corsican-dilemma-part-1/; Fondation Napoléon, “Napoleon and Corsica,” direct historical itinerary, https://www.napoleon.org/en/magazine/itineraries/napoleon-and-corsica/.
+
+## The Buonaparte household and social standing {#buonaparte-household-and-social-standing}
+
+**Status:** Source-verified for Carlo/Charles Buonaparte and Letizia Ramolino's marriage, their surviving children, and the family's recognized noble status; contested in the elevation implied by later imperial genealogies and in anecdotes that turn a financially constrained provincial family into a miniature court.
+
+Charles Buonaparte married Letizia Ramolino on 1 June 1764; the dotal act is dated 13 May. The couple's surviving children were Joseph (1768), Napoleon (1769), Lucien (1775), Elisa (1777), Louis (1778), Pauline (1780), Caroline (1782), and Jérôme (1784), while the larger family history includes children who did not survive. Napoleon's birth therefore occurs inside a household with an older brother and a mother whose work, pregnancy, discipline, and resource management are part of the child's environment, not background ornament.
+
+In September 1771 the family's noble status was officially recognized. That status mattered because it opened the route to a royal scholarship and later military schooling, but it did not make the household wealthy. The setting distinguishes legal rank, social access, cash, credit, land, and patronage. A noble certificate can open a school door while a shortage of money still governs food, clothing, travel, letters, and the need to seek benefactors. No scene may infer a lavish childhood from the word “noble.”
+
+Charles served as a representative of the nobility in the Corsican Estates General in 1771, 1772, and 1777 according to the Fondation chronology. His political adaptation to French authority becomes a family resource and a later source of argument. The canon does not reduce him to either opportunist or patriot: he had Paolist connections, local obligations, and reasons to work within the French administration. Letizia's authority in the household should be shown through observable care, decisions, and restraint rather than through a fabricated maxim.
+
+Household scale governs the future storyline. Siblings can provide rivalry, affection, witness, dependency, and competing claims on scarce money. Joseph is older and initially a candidate for clerical or intellectual advancement; Napoleon's route through education is not a solitary self-creation. Later relations with Lucien, Louis, Pauline, Caroline, Jérôme, and their spouses must inherit this early hierarchy, but the settings do not prescribe which childhood incidents receive narrative emphasis.
+
+Sources: Fondation Napoléon, “1769–1793: Napoleon Bonaparte's early years,” direct chronology, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/; Bibliothèque nationale de France, “Napoléon à Brienne—Catalogue,” biographical notice, https://pret.bnf.fr/resources/631f3d83ee368700016db908?l=fr; Fondation Napoléon, “Bonaparte, la Corse et les Corses,” direct critical article, https://www.napoleon.org/histoire-des-2-empires/articles/bonaparte-la-corse-et-les-corses/.
+
+## Ajaccio birth house and movement between town and country {#ajaccio-birth-house-and-movement-between-town-and-country}
+
+**Status:** Source-verified for Napoleon's birth in Ajaccio and the Bonaparte family's local sites; bounded in the use of the Maison Bonaparte and Milelli as settings, with later commemorative layers kept separate from the child's exact daily routine.
+
+Napoleon was born in Ajaccio on 15 August 1769 and baptized on 21 July 1771. The birth house, town streets, church records, harbor, and family country property offer different sensory and social spaces. The Maison Bonaparte is not a stage that every family member occupies continuously; the later museum's curated rooms cannot be treated as an untouched transcript of 1769. A childhood scenario may move between a crowded urban household and the rural estate only when the route, purpose, season, and available escort are established.
+
+Ajaccio's port links the family to ships, officials, soldiers, imported goods, and news from the mainland. The nearby hills impose heat, distance, animals, rough paths, and agricultural labor. The child can hear Italianate or Corsican speech in a local context and French in administrative, educational, or patronage contexts; the work-language principle requires English narration to explain the function of a foreign phrase rather than reproduce an unreadable wall of untranslated dialect.
+
+The physical canon tracks what a child can reach and observe. A doorway, stair, courtyard, church, harbor road, and hill path have different degrees of adult supervision and danger. Do not place a famous visitor in the room merely because the family later remembered the house. Commemorative inscriptions and objects can inform a modern researcher while remaining outside the boy's knowledge unless a source places them there at the time.
+
+Sources: Fondation Napoléon, “Napoleon and Corsica,” direct historical itinerary and maps, https://www.napoleon.org/en/magazine/itineraries/napoleon-and-corsica/; Fondation Napoléon, “1769–1793: Napoleon Bonaparte's early years,” direct chronology, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/; Maison Bonaparte, Musée national, official collection and site information, https://musees-nationaux-malmaison.fr/musee-maisonbonaparte/.
+
+## Letizia's household authority and childhood discipline {#letizias-household-authority-and-childhood-discipline}
+
+**Status:** Source-verified for Letizia's role as Napoleon's mother and the family's resource constraints; contested in later memoirs' idealized portrait of her discipline, prophecies, and exact domestic sayings. The canon uses practical authority rather than invented dialogue.
+
+Letizia's work begins with bodily and financial arithmetic: pregnancies, surviving children, food, clothing, illness, household labor, and the decisions required when Charles travels or pursues office. A scene may show her allocating attention or refusing a child's request, but it cannot quote a domestic exchange without a traceable contemporary witness. Her authority is neither sentimental omniscience nor a modern psychological diagnosis; it is the visible power of the adult who controls immediate care and corrects conduct.
+
+The child learns that rank does not remove consequences. A noble household still depends on schedules, instruction, church observance, guests, servants, and the family's reputation. Discipline can be conveyed through work, school preparation, correction, withheld permission, or the redistribution of scarce resources. The later legend that Letizia predicted her son's destiny is treated as retrospective memory unless supported by an earlier record. It may function as a memory object in an older narrator's recollection, never as omniscient childhood fact.
+
+Napoleon's future capacity for command cannot be explained by a single maternal trait. The setting preserves competing inputs: affectionate bonds, sibling friction, financial pressure, public status, displacement, and the knowledge that adults negotiate with stronger institutions. The storyline may later connect these conditions to his habits, but settings does not claim direct psychological causation where the sources only show circumstance.
+
+Sources: Fondation Napoléon, “The Boyhood and Youth of Napoleon,” direct publication and source discussion, https://www.napoleon.org/en/magazine/publications/the-boyhood-and-youth-of-napoleon/; Bibliothèque nationale de France, “Napoléon à Brienne—Catalogue,” direct notice, https://pret.bnf.fr/resources/631f3d83ee368700016db908?l=fr; Fondation Napoléon, “La jeunesse de Napoléon à travers sa correspondance (1784–1793),” direct correspondence study, https://www.napoleon.org/histoire-des-2-empires/articles/la-jeunesse-de-napoleon-a-travers-sa-correspondance-1784-1793/.
+
+## Corsican language and French administrative access {#corsican-language-and-french-administrative-access}
+
+**Status:** Source-supported for Napoleon's Corsican upbringing and his transition to French schooling; the exact language repertoire of each household member is not fully recoverable and must remain bounded rather than invented.
+
+Napoleon's childhood begins in an island whose local speech, Italianate written culture, and French administration coexist. The family name appears as Buonaparte in Italianate contexts and becomes Bonaparte in French usage; a spelling choice is therefore a social and documentary signal, not a trivial correction. English narration uses the chosen historical form consistently while identifying variant spellings when a document requires them.
+
+The family needs French to use the institutions that can change its future: schools, royal scholarships, official correspondence, military administration, and mainland travel. A child can be locally fluent yet institutionally disadvantaged when a teacher or clerk demands another language. The canon does not turn Napoleon's accent into a permanent caricature. It treats pronunciation, vocabulary, and code-switching as historically situated and gives English readers enough context to understand whether a word signals intimacy, authority, education, or exclusion.
+
+The work-language rule applies downstream. A French document may be translated into readable English, with its original office or rank preserved; a Corsican or Italian expression may remain when its social function matters. No modern dialect is substituted for Corsican, and no untraceable “native proverb” is placed in Letizia's or Charles's mouth. Linguistic difference must create a concrete access problem or relationship effect, not decorative exoticism.
+
+Sources: Fondation Napoléon, “Napoleon and the Corsican Dilemma—part 1,” direct critical article, https://www.napoleon.org/en/history-of-the-two-empires/articles/napoleon-and-the-corsican-dilemma-part-1/; Fondation Napoléon, “The Boyhood and Youth of Napoleon,” direct publication, https://www.napoleon.org/en/magazine/publications/the-boyhood-and-youth-of-napoleon/; Shaw, “English Language,” *Wiley Encyclopedia of Language and Linguistics*, https://onlinelibrary.wiley.com/doi/10.1002/9781405198431.wbeal1426.
+
+## Early instruction in Ajaccio {#early-instruction-in-ajaccio}
+
+**Status:** Source-verified for the Beguine lay-sister school and instruction under Abbé Recco; bounded in the contents of each lesson and in claims about extraordinary childhood precocity.
+
+At age five, Napoleon entered the primary boarding school run by Beguine lay sisters in Ajaccio as a day-boy, according to the Fondation chronology. Two years later he studied French under Abbé Recco, who later received a bequest in Napoleon's will. These facts establish a staged entry into formal education: domestic and local instruction first, language preparation later, and mainland schooling after family travel. They do not establish a complete curriculum, a daily timetable, or a teacher's private opinion of his character.
+
+Instruction has material conditions. A day-boy must travel between household and school, arrive with clothing and writing materials, and return to a family that may ask for work or obedience. A French lesson is not only grammar; it is access to future records and institutions. The child may resist, imitate, misunderstand, or improve, but a manuscript should avoid a modern classroom monologue unless the source documents it.
+
+The later school record may remember an early love of history or mathematics, but the settings layer distinguishes documented schooling from retrospective self-fashioning. A book requested years later can illuminate a durable interest without proving that a five-year-old understood the same subject in the same way. The work will use early instruction as a resource and a constraint, not as a supernatural origin story.
+
+Sources: Fondation Napoléon, “1769–1793: Napoleon Bonaparte's early years,” direct chronology, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/; Fondation Napoléon, “The life of Napoleon I: a timeline for 6 years old +,” direct educational chronology, https://www.napoleon.org/en/young-historians/napodoc/chrono-consulat-1er-empire/; Fondation Napoléon, “The Boyhood and Youth of Napoleon,” direct publication, https://www.napoleon.org/en/magazine/publications/the-boyhood-and-youth-of-napoleon/.
+
+## Charles Bonaparte's travel and the 1779 separation {#charles-bonapartes-travel-and-the-1779-separation}
+
+**Status:** Source-verified for Charles's departure with Joseph and Napoleon in December 1778, the brothers' arrival at Autun on 1 January 1779, Napoleon's move to Brienne in May 1779, and the separation's financial and emotional stakes; contested in later memoirs' exact farewell dialogue.
+
+On 16 December 1778 Charles and his two elder sons set out for mainland France. Joseph and Napoleon reached the school at Autun on 1 January 1779 to perfect their French. Napoleon left Autun on 21 April, stayed about three weeks with M. de Champeaux, and entered the Royal Military School at Brienne on 15 May 1779 as a king's scholar. The dates define a chain of departures, not one cinematic threshold.
+
+Travel changes the child's information and dependence. The sea crossing, unfamiliar roads, school rules, and French-speaking environments separate him from Letizia and the younger children. Charles's presence is temporary and purposeful: he is arranging education and patronage, not accompanying the child through every later lesson. A scene may show the brothers sharing uncertainty or competing for adult approval, but it must not manufacture a farewell speech.
+
+The scholarship is a resource with a price. Four degrees of nobility were required for the military school route according to the Fondation chronology; recognized status turns the family's legal position into an educational opening. The school is designed for financially distressed nobility, so “king's scholar” carries both privilege and need. Napoleon's later resentment or ambition must inherit this double condition rather than treating Brienne as either pure charity or an aristocratic luxury.
+
+Sources: Fondation Napoléon, “1769–1793: Napoleon Bonaparte's early years,” direct chronology, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/; Bibliothèque nationale de France, “Napoléon à Brienne—Catalogue,” direct notice, https://pret.bnf.fr/resources/631f3d83ee368700016db908?l=fr; Fondation Napoléon, “Napoleon and the Corsican Dilemma—part 1,” direct critical article, https://www.napoleon.org/en/history-of-the-two-empires/articles/napoleon-and-the-corsican-dilemma-part-1/.
+
+## Paoli as a childhood political image {#paoli-as-a-childhood-political-image}
+
+**Status:** Source-verified for Paoli's importance to Corsican political memory and Napoleon's later correspondence with him; the exact child's private beliefs before adolescence are contested and must not be narrated as settled ideology.
+
+Pascal Paoli was the principal figure of Corsican resistance and a public symbol whose defeat and exile shaped the island's political imagination. Napoleon's later letters show that Paoli remained important to him; one 1789 letter calls on a relationship that began as admiration and political aspiration. The 1784 request for Boswell's *History of Corsica* and “other stories related to this kingdom,” as reported in the critical article, gives a traceable adolescent interest in Corsican history.
+
+The settings distinction is essential. A later letter can prove that Napoleon wanted a book in 1784; it cannot prove that a toddler already possessed a coherent nationalist program. Childhood scenes may show adults naming Paoli, a portrait, a song, a story, or a silence, but the narrator must identify whose memory or document supplies the meaning. Paoli can be a hero image, a family risk, a political absence, or a model of command before he becomes a direct correspondent.
+
+French and Corsican loyalties also need time. Charles's accommodation with French administration and Napoleon's later political choices do not retroactively resolve the child's identity. A storyline may later connect education, family security, and Paolist disappointment to his break with Paoli, but that connection must be staged as a change in knowledge and allegiance.
+
+Sources: Fondation Napoléon, “Napoleon and the Corsican Dilemma—part 1,” direct critical article and correspondence references, https://www.napoleon.org/en/history-of-the-two-empires/articles/napoleon-and-the-corsican-dilemma-part-1/; Fondation Napoléon, “Napoleon and Corsica,” direct historical itinerary and 1789 letter reference, https://www.napoleon.org/en/magazine/itineraries/napoleon-and-corsica/; Fondation Napoléon, “La jeunesse de Napoléon à travers sa correspondance (1784–1793),” direct correspondence study, https://www.napoleon.org/histoire-des-2-empires/articles/la-jeunesse-de-napoleon-a-travers-sa-correspondance-1784-1793/.
+
+## The childhood return's factual inheritance {#the-childhood-returns-factual-inheritance}
+
+**Status:** Work decision grounded in the preceding sourced H2s. The Austerlitz opening may return to childhood only after victory, and the return must inherit the family's actual resources, language, geography, and unresolved political memory rather than inventing a symbolic blank slate.
+
+The childhood section inherits a French-controlled but recently insurgent Corsica; a legally recognized yet financially constrained family; a mother managing a large household; a father navigating offices and patronage; an older brother; local and French language demands; and a staged educational path from Ajaccio to Autun and Brienne. These are constraints that later storylines must consume. They are not a list of themes to recite after the battle.
+
+The temporal return has a reader-access requirement. The reader has just witnessed an adult victory whose official image claims control, concentration, and decisive knowledge. Childhood must reveal earlier dependence and incomplete access without pretending that the adult's later achievements were inevitable. The settings provide the facts; the storyline decides the exact point of return and the manuscript decides the sensory transition.
+
+The canon refuses two false extremes. It will not portray the boy as an empty vessel waiting for destiny, and it will not retrofit every childhood object into a prophecy of empire. A book, a schoolroom, a harbor, a family account, or a name matters when it changes a choice or reveals a relationship. Later memoirs can be used as dated retrospective testimony, never as an all-knowing camera inside the child's mind.
+
+Sources: Fondation Napoléon, “1769–1793: Napoleon Bonaparte's early years,” direct chronology, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/; Fondation Napoléon, “The Boyhood and Youth of Napoleon,” direct publication, https://www.napoleon.org/en/magazine/publications/the-boyhood-and-youth-of-napoleon/; package work decision, `001-foundation-and-delivery.md`, H2 “Layer ownership and Austerlitz boundary.”
