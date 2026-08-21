@@ -22,7 +22,7 @@ Opened: 2026-08-21
 ## Napoleon Imperator
 
 - Owner: `/root/napoleon_20v_owner_v2`, GPT-5.6-Luna, exclusive package authority. The original owner was retired after repeated shallow or source-defective Austerlitz increments.
-- Current phase: full settings first-version authorship; all four layers remain `disabled` until the entire layer is complete.
+- Current phase: full settings first-version authorship; 6 of 50 planned files are present, with 56 H2 owners and about 28,596 authored words. All four layers remain `disabled` until the entire layer is complete.
 - Approved settings checkpoint before disabled-stage autonomy resumed: `001-foundation-and-delivery.md` plus H2 1-13 of `073-austerlitz.md`. The owner may now complete the entire approved settings map without H2-by-H2 coordinator approval; strict evidence and literary adjudication begins after the complete first version advances to `evidence`.
 - User-confirmed rules: deliver a complete twenty-volume English novel; create very detailed settings, context-rich storylines, immediately visualizable near-screenplay scenarios, and finished highest-quality literary prose; open at the Battle of Austerlitz, reach the peak of victory, and only then return to Napoleon's childhood.
 - Canonical contract action: the one-time opening/return order is recorded in `docs/obligations/storylines.md` and activated through an additive storyline-stage claim. Its disabled-stage package build passed before settings authorship resumed.
@@ -30,12 +30,13 @@ Opened: 2026-08-21
 - Approved settings allocation: 50 files, about 520 independently addressable H2 owners, 150,000-210,000 authored-body words, and at least 400 direct retrievable sources. Counts are omission and contraction alarms, not quotas or quality certificates.
 - Research burden: recover or exceed the prior historical breadth using direct primary records, critical editions, and scholarship; distinguish sourced fact, dispute, and work decision under the current settings contract.
 - Principal risks: compressing twenty volumes into famous-event summaries; treating research as inert catalogue; heroic or condemnatory simplification; attaching a childhood flashback before the Austerlitz victory has actually peaked; falsifying evidence to satisfy coverage.
-- Next gate: deliver and inspect all 50 complete settings files together, with a clean package build, before any evidence transition.
+- Latest disabled-stage checkpoint: `001`, `002`, `003`, `004`, `005`, and `073` form a clean-build settings snapshot. `073-austerlitz.md` now covers the Pratzen opening, Russian Guard, northern Lannes-Murat action, southern lakes and dikes, and the post-battle accounting; the early-life files carry the return through Corsica, Brienne, the first commission, and the break with Paoli.
+- Next gate: continue the remaining 44 planned settings files, then inspect all 50 together with a clean package build before any evidence transition.
 
 ## After-School Conquest
 
 - Owner: `/root/after_school_20v_owner_v2`, GPT-5.6-Luna, exclusive package authority. The original owner was retired after repeated rejected batches and chronology source-integrity failures.
-- Current phase: full settings first-version authorship; all four layers remain `disabled` until the entire layer is complete.
+- Current phase: complete settings first version in `disabled`; all 30 planned files and all 376 planned H2 owners are present, totaling about 57,023 authored words. Storylines, scenarios, and manuscripts remain `disabled` and untouched.
 - Approved settings checkpoint before disabled-stage autonomy resumed: `001`, `010`, `020`, `030`, `040`, and `150`. The twenty inclusive volume-time containers in `040` passed a literal calendar audit and an independent package build. The owner may now complete the entire approved settings map without file-by-file coordinator approval; strict evidence and literary adjudication begins after the complete first version advances to `evidence`.
 - User-confirmed rules: deliver a complete twenty-volume English novel; create very detailed settings, context-rich storylines, immediately visualizable near-screenplay scenarios, and finished highest-quality literary prose.
 - Canonical contract action: record scale and quality promises in settings. The completed audit found no independent package target requiring a claim beyond the shared graph; game mechanics and civic constraints remain settings canon. Reopen this decision if an independent formal hard constraint emerges.
@@ -43,7 +44,8 @@ Opened: 2026-08-21
 - Chronology: a conventional three-year Korean high school from March 2027 through February 2030, followed by a post-graduation interval through February 2031. V1-V17 cover enrollment through the graduation boundary; V18-V20 cover the post-graduation interval. The four founders' exact birth dates own all international-age calculations.
 - Research burden: establish the chosen school, family, civic, cultural, legal, technological, and material realities with direct support where externally checkable; avoid generic imitation of school-conquest or light-novel conventions.
 - Principal risks: substituting premise labels for a functioning world; twenty volumes of repeated episodic reset; abrupt tonal escalation without accumulated consequence; shallow scenarios that leave dialogue, blocking, and scene turns to the manuscript.
-- Next gate: deliver and inspect all 30 complete settings files together, with a clean package build, before any evidence transition.
+- Latest disabled-stage checkpoint: the complete 30-file settings population passed the owner's status-form, duplicate-paragraph, encoding, placeholder, `git diff --check`, and package-build audits. Counts record completion of the declared map but do not certify evidence or literary review.
+- Next gate: independently inspect the complete settings population and staging prerequisites, then advance settings as one transaction to `evidence` and treat the resulting diagnostic population as the repair pass.
 
 ## Coordinator observations
 
