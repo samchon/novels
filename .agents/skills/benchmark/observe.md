@@ -2,6 +2,18 @@
 
 At the user-requested cadence, inspect filesystem output and compiler state rather than trusting self-reports. Send concise progress updates during long runs and a substantive critique at the agreed interval.
 
+## Stage-Calibrated Supervision
+
+Judge an artifact at its active evidence state. Do not impose an `evidence` or `review` completion gate on a layer that is still producing its complete first version in `disabled`.
+
+While a layer is `disabled`, let its owner finish the complete coherent first version with real creative authority. Observe samples, builds, scope, and direction, and record suspected defects for the evidence pass, but do not interrupt, delete a batch, require per-file or per-unit approval, or demand complete citations, evidence coverage, exclusions, or review fingerprints merely because an unfinished draft is rough, provisional, disputed, or incomplete. A partial sample does not certify or condemn the whole layer.
+
+Intervene during `disabled` only for failures independent of evidence maturity: an ignored nonzero package build, an unauthorized shared or foreign-package edit, concurrent writers in one package, a stage-order violation, destructive corruption, deliberate harness weakening, or downstream authorship begun before the upstream layer is complete. Preserve sound work when correcting such a failure.
+
+After the owner declares the complete first version and the [staging transition prerequisites](../evidence-graph/staging.md#transitions) pass, advance the whole layer to `evidence` and run the package build to collect the real diagnostic population. That first diagnostic set is input to the evidence pass, not proof that the owner failed. Let the owner resolve it across the complete layer: treat each diagnostic as a question about the artifact, repair canon, hierarchy, substance, or lineage when those are deficient, and only then write the truthful acknowledgement or concrete exclusion that remains. An intermediate failing build is expected while the owner is actively repairing that diagnostic population; proceeding as though it passed, weakening the harness, or replacing repair with false tags is not.
+
+The strong quality intervention begins after the owner has resolved the evidence diagnostics and obtained a clean evidence build. Literally audit the complete layer then. Compiler-green boilerplate, decorative citations, false acknowledgements, incoherent canon, inert settings, skeletal treatment, unstaged scenarios, or weak prose still fails. If the defect is systemic, invalidate the affected coherent scope and require a real rewrite; stop and replace the owner only when the run's authority and observed pattern justify it. `review` adds independent rereading and current fingerprints to that already substantive, evidence-clean artifact; it is not the first literary-quality pass.
+
 Audit samples across every active work:
 
 - settings domain coverage, independent H2 owners, paragraph structure, factual sourcing, unresolved canon, arithmetic, and downstream usability;
@@ -13,7 +25,7 @@ Audit samples across every active work:
 - preservation of user-confirmed work rules, the distinction between those rules and owner decisions, observable realization of the selected work-specific style or form, and stage-aligned package claims;
 - stage direction, package-only ownership, placeholders, probes, status files, diagnostic-silencing edits, or other repository pollution.
 
-Intervene when independent settings hide under an umbrella H2, an H4 is merely a large partition, settings or treatment hides multiple functions in a prose slab, a storyline is an event list or causal card, setting detail is inert or still leaves downstream guessing, a scenario hides mechanics in summary or templated beats, a script buries dialogue in prose or omits a required exchange or operative turn, prose expands field labels, citations are decorative, exclusions use generic layer excuses, reviews say only "checked," or a compiler-green work is dull or incoherent. Do not micromanage sound creative choices, sanitize difficult subject matter, or rank agents by raw counts.
+At the stage-specific gate above, intervene when independent settings hide under an umbrella H2, an H4 is merely a large partition, settings or treatment hides multiple functions in a prose slab, a storyline is an event list or causal card, setting detail is inert or still leaves downstream guessing, a scenario hides mechanics in summary or templated beats, a script buries dialogue in prose or omits a required exchange or operative turn, prose expands field labels, citations are decorative, exclusions use generic layer excuses, reviews say only "checked," or a compiler-green work is dull or incoherent. Do not micromanage sound creative choices, sanitize difficult subject matter, or rank agents by raw counts.
 
 Also intervene when a direct directive survives only in the brief, an owner silently changes its authority, a vague style label substitutes for observable choices, a work-specific role is misfiled as settings canon or a checklist, or a package target exists without an active stage-aligned claim.
 

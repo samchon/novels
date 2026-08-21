@@ -6,6 +6,8 @@ Begin each package with the work-specific contract pass. Before bulk settings au
 
 Follow `$evidence-graph` [staging](../evidence-graph/staging.md) as one package-wide transaction for each layer. After the owner completes its review step, require the coordinator's independent clean package build, complete common-obligation audit, and literal quality audit before activating the next layer.
 
+Calibrate observation, draft autonomy, evidence repair, and strong intervention by [Stage-Calibrated Supervision](observe.md#stage-calibrated-supervision). In particular, a complete `disabled` first version precedes the diagnostic evidence pass; intermediate evidence errors are repaired rather than hidden or treated as a completed gate.
+
 Progress commits may checkpoint work inside one state, but a state-transition commit follows only the complete coherent snapshot required by staging. Never change part of a layer to the next state, start review with unresolved evidence diagnostics, or begin a downstream layer while the required build fails.
 
 Push coherent checkpoints to the draft PR often enough that the coordinator can inspect and recover the run. A checkpoint records work in the current state; it does not certify a partial settings, storyline, scenario, or manuscript layer as complete.

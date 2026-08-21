@@ -16,8 +16,10 @@ Every brief states:
 - every user-confirmed work rule and prohibition, its authority, and any known package-local target or unresolved classification;
 - required readings: repository instructions, `$novel`, `$evidence-graph`, `config/docs/obligations/common.md`, every other shared and package-specific evidence document selected by the lint config, the graph factory, and all existing package documents;
 - research burden, source precision, genre-specific success conditions and failure modes;
+- the result of `$novel` [Subject-Specific Principle Pass](../novel/work-specific.md#subject-specific-principle-pass), including each adopted package checklist and its selected file population;
 - the declared delivery scale, including an exact volume count when specified, and its regression evidence: expected files and H2/H3/H4 structure, authored-body range, research breadth, and any historical baseline; require the owner to record that scale in settings and state explicitly that these measures detect unexplained contraction but do not by themselves certify quality;
 - current layer and lint state, exact package `build` command, and completion report fields;
+- the active oversight cadence from [Stage-Calibrated Supervision](observe.md#stage-calibrated-supervision);
 - the exact applicable `$novel` phase deliverable and its `obligations/common.md` gate, the work-specific content expected under them, and examples of the shallow substitution the owner must detect; never use “write more detail” as a completion condition;
 - persistence: routine uncertainty and status are not reasons to stop while useful authorized work remains.
 
