@@ -35,4 +35,3 @@ Sources: Fondation Napoléon, biography, https://www.napoleon.org/en/history-of-
 Every stage changes who can move, fight, communicate, or care for the wounded. Rear guards, bridges, snow, Cossack pressure, stragglers, and civilian hostility require separate scenario owners. Later memory must not turn every death into a single weather tableau.
 
 Sources: Fondation Napoléon chronology portal, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/.
-

@@ -35,4 +35,3 @@ Sources: Fondation Napoléon, “The correspondence of Napoleon,” https://fond
 This file supplies institutions, not a universal tactical script. Local terrain, allies, enemy doctrine, and supply change how the same organization behaves.
 
 Sources: Nafziger order-of-battle collections, https://www.napoleon-series.org/nafzigger/; Fondation Napoléon chronology portal, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/.
-

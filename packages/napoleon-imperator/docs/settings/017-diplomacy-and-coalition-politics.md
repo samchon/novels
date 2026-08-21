@@ -35,4 +35,3 @@ Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; 
 A ceasefire may leave troops facing one another, prisoners unresolved, and supplies scarce. Peace negotiations can continue while armies prepare. Storylines must not use a treaty signature as an instant emotional or material reset.
 
 Sources: Fondation Napoléon chronology portal, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/.
-

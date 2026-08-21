@@ -35,4 +35,3 @@ Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-
 By the battle threshold, Napoleon has an army operating deep in Central Europe, coalition forces still capable of concentration, and a need to make the enemy commit. The opening novel's Austerlitz scene must begin from this state rather than from an ahistorical isolated battlefield.
 
 Sources: Fondation Napoléon, “Napoleon’s ‘Grande Armée’ (1),” https://www.napoleon.org/en/young-historians/napodoc/napoleons-grande-armee-1/; package `073-austerlitz.md`.
-

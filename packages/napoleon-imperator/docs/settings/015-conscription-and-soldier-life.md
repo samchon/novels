@@ -19,7 +19,6 @@ Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; 
 Discipline is enforced through officers, inspections, punishment, comradeship, pay, food, and shared identity. A battalion that marches well may still be inexperienced under artillery fire. The manuscript must show fatigue, fear, desertion risk, and the practical work of keeping ranks closed.
 
 Sources: Fondation Napoléon, “Napoleon’s ‘Grande Armée’ (1),” https://www.napoleon.org/en/young-historians/napodoc/napoleons-grande-armee-1/.
-
 ## Women families and absent men {#women-families-and-absent-men}
 
 **Status:** Source-required domain. Mobilization moves labor, grief, debt, and care into civilian households.
@@ -35,4 +34,3 @@ Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; 
 Language, pay, oath, religion, command, and political loyalty differ. An allied regiment may fight beside France while pursuing its own state interest. The novel must give these troops names, institutions, and agency rather than treating them as anonymous numbers.
 
 Sources: Fondation Napoléon, “Napoleon’s ‘Grande Armée’ (1),” https://www.napoleon.org/en/young-historians/napodoc/napoleons-grande-armee-1/.
-

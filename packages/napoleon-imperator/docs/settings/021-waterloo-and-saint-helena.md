@@ -11,7 +11,6 @@ This file owns the terminal campaign and captivity boundary for the twenty-volum
 The return reopens an imperial state under pressure from the Bourbon government, European powers, army loyalty, and public fear. Napoleon must reconstruct command, money, legitimacy, and administration before the coalition closes. A proclamation cannot instantly restore the 1812 army.
 
 Sources: Fondation Napoléon, biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
-
 ## Waterloo field and command uncertainty {#waterloo-field-and-command-uncertainty}
 
 **Status:** Source-required domain. Waterloo must distinguish weather, roads, corps arrival, written orders, allied defense, Prussian movement, and contested clock traditions.
@@ -35,4 +34,3 @@ Sources: Fondation Napoléon, “The correspondence of Napoleon,” https://fond
 Saint Helena is an island prison, household, archive, and political theatre. Access, letters, medicine, weather, boredom, staff conflict, and British regulation shape the record. Napoleon's dictated memoirs are evidence of self-fashioning as well as recollection; British reports have their own administrative interests.
 
 Sources: Fondation Napoléon, biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
-

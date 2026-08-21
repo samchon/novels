@@ -35,4 +35,3 @@ Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; 
 An opponent with secure sea supply, local allies, disciplined retreat, and intelligence can deny a decisive French battle. The novel must give allied commanders strategic agency and avoid treating French occupation reports as the whole war.
 
 Sources: Fondation Napoléon chronology portal, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
-

@@ -35,4 +35,3 @@ Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; 
 Every number needs unit, date, category, and source. “Present,” “effective,” “under arms,” “missing,” and “dead” are not synonyms. If a source gives only an estimate, preserve the estimate and disagreement rather than manufacturing precision.
 
 Sources: Fondation Napoléon, “The correspondence of Napoleon,” https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/.
-
