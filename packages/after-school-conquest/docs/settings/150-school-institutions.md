@@ -1,0 +1,107 @@
+# School Institutions
+
+## Principal authority
+
+**Status:** Work decision - fictional Haneul allocation.
+
+Principal Han Mi-rae signs club recognition, controls rooms and staff assignments, and represents Haneul in external agreements. Form H-01 records purpose, adviser, dates, headcount, access, safeguarding, and cost. The secretary stamps receipt the same day; Han decides approve, conditional, defer, or reject within ten school days through the adviser and accessible portal. An immediate safety stop receives written reason and review date within two school days.
+
+Students appeal a principal club-recognition rejection within five school days to the staff Faculty Committee, with Han recused from that review; a continuing rights or statutory dispute goes to the Haneul Metropolitan Office of Education, not back to Han. Han cannot grant grades, erase records, or make an unofficial club a public authority. Haneul procedure, H-01, and the appeal deadline are fictional; the statutory principal and vice-principal duty boundary is Elementary and Secondary Education Act Article 20 at https://www.law.go.kr/법령/초ㆍ중등교육법#제20조. Han decides safety, recognition, discipline, and external representation; other offices do not borrow those powers.
+
+## Vice-principal authority
+
+**Status:** Work decision - fictional Haneul operating procedure.
+
+Vice-principal Kwon Eun-tae owns the daily room-and-timetable queue. Form H-02 names room, time, equipment, key holder, headcount, noise, and accessible route. The office acknowledges next school day and decides confirmed, conditional, conflict, revise, or refuse within five school days. Notice reaches the adviser, applicant, staff board, and screen-reader-compatible portal.
+
+Kwon may refuse for examination, conflict, unsafe equipment, or absent adult responsibility; he cannot punish refusal of voluntary work or demand unrelated health details. Revision is due in five days; a second refusal goes to Han. Emergency closure uses portal, loudspeaker, paper notice, and adviser message.
+
+## Faculty committee
+
+**Status:** Work decision - fictional committee and record.
+
+The staff Faculty Committee has Han, Kwon, counselor Yun Sae-bom, facilities manager Baek Jun, two grade teachers, and one rotating adviser; five form quorum. When Han made the original decision, Han is recused and does not count toward that review quorum. The secretary circulates application, risk plan, budget, access route, and response packet three school days before meeting. The staff Faculty Committee recommends uphold, revise, or withdraw a club decision; it does not make the principal’s final decision.
+
+Minutes list attendance, recusals, motion, vote, conditions, responsible person, and review date. A redacted summary is posted within three school days; the signed minute remains five years. The applicant may send the staff Faculty Committee recommendation to the Haneul Metropolitan Office of Education within five days if the principal does not adopt it. The staff Faculty Committee reviews multi-department risk and club status; it does not schedule rooms, punish students, or represent students.
+
+## School Governance Committee
+
+**Status:** Source-verified statutory structure as at 2026-08-21, with fictional Haneul membership details separated.
+
+Haneul Public High School has the statutory School Governance Committee required for a public school. Under the Korean Elementary and Secondary Education Act, Article 31 provides a committee made up of teacher representatives, parent representatives, and community members, with five to fifteen members; Article 32 assigns deliberation over school rules, budget and settlement, curriculum operation, and after-school and vacation activities. The current-law baseline is the Act text at the National Law Information Center, Articles 31-34: https://www.law.go.kr/법령/초ㆍ중등교육법#제31조 and https://www.law.go.kr/법령/초ㆍ중등교육법#제32조. This baseline is researched as of 2026-08-21; the fiction holds these provisions constant unless a later pre-review research update is adopted.
+
+Haneul has 640 enrolled students, and its statutory School Governance Committee has eleven members: five parent representatives, four teacher representatives (including Principal Han as the ex-officio principal representative), and two community members. This satisfies the fictional application of the current enforcement-decree bands: parent 40–50 percent, teacher 30–40 percent, community 10–30 percent. The current-law baseline is the Enforcement Decree Articles 58–60, researched as at 2026-08-21: https://www.law.go.kr/법령/초ㆍ중등교육법시행령#제58조 and https://www.law.go.kr/법령/초ㆍ중등교육법시행령#제60조.
+
+The statutory School Governance Committee receives an agenda packet five school days before meeting, publishes accessible notice, and records deliberation and recommendation. Under Articles 31–34 it deliberates school rules, budget and settlement, curriculum, and after-school/vacation framework; it does not adjudicate discipline, assign a daily room, or run the student council. The staff Faculty Committee prepares internal risk and club-review matters. Han and the school implement or decline a statutory deliberation result within their lawful authority and give the statutory School Governance Committee written reasons for non-implementation; the statutory School Governance Committee does not itself command an unlawful act. A failed notice or quorum sends the item to the next meeting, not an invented emergency vote.
+
+## Student council
+
+**Status:** Work decision - fictional representative authority.
+
+The council recommends student priorities, allocates its activity budget, and requests assemblies. Agenda form C-01 is due three school days before meeting; the secretary publishes plain-language and accessible notice. Within seven days it publishes motion, vote, dissent, and follow-up. Minutes remain visible for the school year with personal data redacted, then enter its archive.
+
+The council cannot unlock rooms, access records, discipline, approve grants, or speak for Haneul without Han authorization. Procedural exclusion is appealed to the adviser within five days, then Han. Its resource is representative voice and a small budget, not coercive authority.
+
+## Club recognition
+
+**Status:** Work decision - fictional Haneul recognition process.
+
+Applicants file purpose, minimum contacts, adviser consent, calendar, room request, safeguarding route, access plan, budget, and external-contact rule. The adviser checks completeness in three school days; Han decides recognized, conditional, deferred, or refused within ten. Conditions name measurement and review date; refusal names the missing requirement and appeal recipient.
+
+Recognition grants approved room use and scheduled adviser supervision, not funds, records, photography permission, or procurement authority. Annual renewal precedes first-term activity. Suspension follows the principal procedure and receives review within five school days.
+
+## Discipline
+
+**Status:** Work decision bounded by the Korean school-law framework.
+
+The support officer receives an incident report with date, place, conduct, immediate safety action, witnesses, and remedy; receipt is same day and response opportunity precedes a non-urgent decision. Haneul states are no action, guidance, restorative meeting, restitution, club restriction, or formal referral. Refusing voluntary work is not misconduct.
+
+Han decides ordinary club sanctions as original decision-maker. The staff Faculty Committee may review a club-wide restriction only with Han recused when Han imposed it, and sends a recommendation to the Haneul Metropolitan Office of Education; it does not return the matter to Han for a second self-review. Notice is private, accessible, and interpreted on request. Student-rights or statutory appeals go to the education office. Haneul forms and deadlines are fictional applications bounded by the Act at https://www.law.go.kr/법령/초ㆍ중등교육법#제20조.
+
+## Student records
+
+**Status:** Work decision incorporating the Korean Personal Information Protection Act.
+
+The records officer controls grades, attendance, health, counseling, guardian, and discipline files. Request R-01 states requester, purpose, fields, authority, and deletion date; acknowledgment is two school days and answer ten: disclose, partial, deny, or clarify. A club ledger cannot copy a roster or named disability information.
+
+Aggregate counts and anonymous route observations are allowed when consented. Disclosure history is visible to the affected student; the file is not public. Haneul working copies expire when purpose ends or after one term. The current-law baseline is 2026-08-21 and uses the Personal Information Protection Act's purpose and protection provisions; Haneul's form and one-term working-copy limit are fictional. Source: https://www.law.go.kr/법령/개인정보보호법.
+
+## Room booking
+
+**Status:** Work decision - facilities procedure.
+
+The clerk's H-02 queue is authoritative. Confirmation requires receipt number, room, time, key holder, adult supervisor, headcount, equipment, route, and closing inspection. The clerk answers within five days: confirmed, conditional, conflict, cancelled, or closed. Keys are signed out and returned the same day.
+
+The audiovisual booth holds twelve seated students and two supervisors; its door stays clear. Gym, auditorium, and rooftop require separate approval. Examination use, maintenance, warning weather, or absent supervisor cancels. Cancellation uses portal, paper notice, and adviser message; students cannot self-authorize another room.
+
+## Safeguarding
+
+**Status:** Work decision - fictional school route.
+
+Counselor Yun is the safeguarding contact. S-01 records necessary facts; a student may request support person, interpreter, and disclosure explanation. Immediate concerns receive action at once; ordinary concerns are acknowledged next school day. Yun records referral, protection, and review in a restricted file.
+
+Student leaders may listen and contact Yun, but cannot investigate or promise absolute secrecy. Adult meetings with minors require visible space and a second responsible person. A safeguarding concern bypasses club and Faculty Committee review: Yun follows the statutory child-welfare reporting route, while an immediate school safety measure goes to Han. Reference boundary: Korean Child Welfare Act Article 3 and reporting provisions, https://www.law.go.kr/법령/아동복지법.
+
+## Attendance
+
+**Status:** Work decision - voluntary activity is separate from compulsory attendance.
+
+The attendance officer records classes and approved activities; the club records hours only as workload. A-01 states purpose, supervisor, place, and time; the officer answers before class day: approved, after-school only, revise, or refuse. Once the formal school day has ended, any student may withdraw consent to a voluntary club activity and leave; paid work, care, transport delay, disability accommodation, and rest cannot be penalized as disloyalty or misconduct. They are constraints on planning, not permissions the club can withhold.
+
+No seal, token, recommendation, or grade depends on a voluntary shift. Injury or late departure uses adviser and guardian routes. Evacuation uses the school roster. Council and club cannot alter official attendance.
+
+## Examination authority
+
+**Status:** Work decision - school assessment remains teacher and administration controlled.
+
+The coordinator publishes schedule, room, materials, time, and accommodation contact on portal and paper notice. E-01 requests receive acknowledgment in two school days and a decision: accommodate, relocate, reschedule under rule, or deny with reason. The club cannot recruit or survey during protected testing periods.
+
+Teachers control marking and integrity decisions. Appeals go to the coordinator, then Han; council and club have no grade authority. A maintenance-only meeting requires adviser approval and gives no attendance reward. The current-law baseline is researched as at 2026-08-21; the examination form and protected-period rule are fictional Haneul procedure rather than a prediction of future law.
+
+## Graduation authority
+
+**Status:** Work decision - three-year Korean high-school boundary.
+
+Graduation eligibility comes from official academic records, not seals, volunteer hours, council office, or reputation. The graduation officer issues a completion review notice; states are eligible, missing requirement, under review, or not eligible, with contact and appeal route. Han signs the certificate; the records officer handles transfer.
+
+Student authority ends at the February 2030 boundary. Founders return only as alumni or invited participants under current rules. The successor charter names a current student or approved adult custodian. The current-law baseline is researched as at 2026-08-21: Elementary and Secondary Education Act Article 46 fixes a three-year high-school term; Article 24 fixes the March-February academic year; Articles 25-26 own records and grade/graduation operation. This is the Act Article 46, not Enforcement Decree Article 46 on class organization. The February 2030 date is fictional chronology, not a forecast of legal change. Sources: https://www.law.go.kr/법령/초ㆍ중등교육법#제24조, https://www.law.go.kr/법령/초ㆍ중등교육법#제25조, https://www.law.go.kr/법령/초ㆍ중등교육법#제26조, and https://www.law.go.kr/법령/초ㆍ중등교육법#제46조.

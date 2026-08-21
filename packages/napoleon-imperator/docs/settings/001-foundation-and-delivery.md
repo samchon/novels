@@ -1,0 +1,63 @@
+# Foundation and Delivery
+
+This file fixes the package's deliverable and the boundaries between its four authored layers. It does not prescribe the order of narrative disclosure; the opening order is owned by the package-local storyline obligation.
+
+## Complete twenty-volume deliverable {#complete-twenty-volume-deliverable}
+
+**Status:** Work decision, user-confirmed. *Napoleon Imperator* is one complete English historical novel delivered in twenty volumes. The settings interval is Napoleon Bonaparte's life from his birth in Ajaccio on 15 August 1769 to his death at Longwood on 5 May 1821, because the later narrative requires usable canon for childhood, education, family, command, empire, collapse, captivity, and death. The finished work is not a sample, synopsis, outline, or continuation proposal.
+
+The twenty volumes are matching delivery units: `001` through `020` retain the same sequence key and slug in `docs/storylines`, `docs/scenarios`, and `docs/manuscripts`. The target allocation is approximately twelve to eighteen real chapters per volume and 75,000 to 110,000 finished manuscript words per volume. Those numbers are regression alarms for proportion; they do not license padding or replace literary judgment. Major campaigns, institutions, relationships, and consequences receive concrete development in proportion to their historical and dramatic weight.
+
+The settings layer supplies facts, constraints, relationships, resources, authority boundaries, source standings, and material or social mechanics. Storylines will own connections, accumulation, event order, and reader-visible transitions. Scenarios will own executable staging, movement, timing, action, reaction, dialogue, silence, knowledge change, and exits. Manuscripts will own finished English prose. A downstream layer may refine an upstream fact only by returning to its earliest owner and propagating the revision.
+
+Sources: Fondation Napoleon, "Napoleon Bonaparte," biography and chronology, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/; Bibliotheque nationale de France, Gallica Napoleon collections, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
+
+## Historical and geographical boundary {#historical-and-geographical-boundary}
+
+**Status:** Work decision bounded by source-verified chronology. The canon includes Corsica and metropolitan France; revolutionary and consular institutions; Italy, Egypt, Europe, Iberia, Russia, Elba, and Saint Helena where they affect Napoleon's choices or the lives subjected to them. It includes French, allied, occupied, and opposing populations rather than treating the imperial system as a single French viewpoint.
+
+The work does not attempt an encyclopedic history of every country or event. A fact enters the canon when it changes an available decision, a relationship, an institution, a resource flow, a physical possibility, or a consequence that a later layer must stage. Unrelated events remain outside scope rather than being mentioned as decorative background.
+
+The canon uses dated correspondence, official orders, laws, dispatches, registers, and critical historical editions as its controlling source procedure. Each setting owner states whether a date, strength, casualty count, quotation, or private report is exact, approximate, contested, or selected for the fiction; a downstream scene may depend only on a marked and bounded claim.
+
+Sources: Fondation Napoleon chronology portal, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Archives nationales, research and citation guidance, https://www.archives-nationales.culture.gouv.fr/; Gallica, *Correspondance de Napoleon Ier*, https://gallica.bnf.fr/ark:/12148/bpt6k6297683v.
+
+## Reader promise {#reader-promise}
+
+**Status:** Work decision. The novel gives the reader a physically and administratively intelligible experience of power: how Napoleon gathers information, turns it into orders, recruits or coerces people and resources, receives reports, corrects or refuses correction, and leaves consequences in bodies, households, law, and memory. Battle spectacle, court ceremony, romance, and landscape are included when they reveal an exercise or cost of power.
+
+The governing question is not whether Napoleon can be reduced to hero or villain. It is how a specific temperament—rapid calculation, appetite for total information, charisma, impatience with uncertainty, and cruelty through neglect—meets the opportunities and limits of revolutionary Europe. The promise does not neutralize moral judgment. Enslavement, occupation, censorship, legal subordination, requisition, and mass death remain concrete harms even when an institution was administratively effective.
+
+Every setting H2 therefore answers, where applicable: who can know the fact; who can authorize action; what material, legal, or social resource makes it possible; what limit or exception applies; and what downstream consequence changes when the fact changes.
+
+Sources: this is an authorial work decision. Evidence for particular institutions, laws, and harms belongs to their independent settings owners.
+
+## Reader access and English delivery language {#reader-access-and-english-delivery-language}
+
+**Status:** Work decision. The manuscript uses close third-person past tense. Napoleon is the principal sustained focal figure. Berthier, Josephine de Beauharnais, Marie-Louise of Austria, and Armand de Caulaincourt are sustained secondary focal figures where their documented presence and knowledge permit. Other figures can receive temporary focal access at a clear chapter or sequence boundary, never inside a scene without an observable transition.
+
+Narration and ordinary dialogue are written in English for the intended reader. French, German, Italian, Russian, and military terms remain untranslated when translation would erase rank, office, or institutional force; the surrounding sentence supplies enough context. A documented utterance may be translated from a named edition. A popular quotation without a traceable contemporary witness is treated as disputed or omitted, not silently presented as verbatim.
+
+No focal figure receives historical hindsight as present knowledge. The reader may know an outcome, but the active consciousness receives only the letters, orders, observations, rumors, memories, and bodily signals available at that time. A later memoir is a later document with its own date and bias, not a license to give an earlier character foreknowledge.
+
+Sources: Gerard Genette, *Narrative Discourse*, chapters on voice and focalization, Internet Archive edition, https://archive.org/details/narrativediscour0000gene; Living Handbook of Narratology, "Narrator," https://www-archiv.fdm.uni-hamburg.de/lhn/node/44.html.
+
+## Layer ownership and Austerlitz boundary {#layer-ownership-and-austerlitz-boundary}
+
+**Status:** Work decision with user-confirmed formal rule routed to the package-local storyline obligation. Settings owns the historical fact that Austerlitz occurred on 2 December 1805, its people, terrain, orders, weather, resources, and consequences. Settings does not own the reader's opening, flashback schedule, chapter reveal, or transition device.
+
+The package-local storyline target requires the first storyline H2 to open at the Battle of Austerlitz, carry the opening through Napoleon's achieved victory peak, and only at that peak return to his childhood. That target is not duplicated here. The first storyline H2 must consume this file's Austerlitz facts and the childhood facts owned by later settings files; scenario and manuscript layers must inherit the transition mechanics from the storyline rather than inventing them.
+
+The rule's success boundary is formal and reader-visible: Austerlitz is not a teaser, a general prologue, or a battle summary; victory is reached before childhood begins. Its failure condition is any earlier childhood return or any downstream layer forced to decide where, why, or how the temporal transition occurs.
+
+Sources: the formal order is user-confirmed and package-local. Historical support for Austerlitz and childhood is supplied by the independent H2 owners cited in those files.
+
+## Canon coverage and revision protocol {#canon-coverage-and-revision-protocol}
+
+**Status:** Work decision. The fifty-file settings map separates chronology; Corsica and family; education; state, law, church, and colonial policy; agents and relationships; court and ministries; army organization; logistics and medicine; geography and material culture; diplomacy; each major campaign; captivity; and source conflict. A person, institution, battle, relationship, resource, capability, or uncertainty receives an independent anchored H2 whenever it has a separate consumer, factual standing, change path, or review path.
+
+The disabled-stage canon requires every H2 to carry current `Status` syntax, direct support for externally checkable claims, a complete boundary and downstream consequence, and no downstream-dependent unresolved matter. Historical claims from the deleted predecessor have no evidentiary standing; only a direct record, critical edition, official collection, or named scholarship identified in the owning H2 can support admission.
+
+If later writing exposes a contradiction or omission, the earliest owning settings H2 changes first. Every cited storyline, scenario, and manuscript descendant is then reread and repaired. A clean compiler cannot authorize a false source statement or a missing historical mechanic.
+
+Sources: United States National Archives, item-level citation guidance, https://www.archives.gov/legislative/research/citation.html; W3C PROV-O provenance model, https://www.w3.org/TR/prov-o/; ttsc evidence claims documentation, https://ttsc.dev/docs/evidence/claims/.
