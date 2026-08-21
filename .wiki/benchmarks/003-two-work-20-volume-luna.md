@@ -22,7 +22,7 @@ Opened: 2026-08-21
 ## Napoleon Imperator
 
 - Owner: `/root/napoleon_20v_owner_v2`, GPT-5.6-Luna, exclusive package authority. The original owner was retired after repeated shallow or source-defective Austerlitz increments.
-- Current phase: full settings first-version authorship; 14 of 50 planned files are present, with 97 H2 owners and about 33,579 authored words. All four layers remain `disabled` until the entire layer is complete.
+- Current phase: full settings first-version authorship; 22 of 50 planned files are present, with 129 H2 owners and about 36,748 authored words. All four layers remain `disabled` until the entire layer is complete.
 - Approved settings checkpoint before disabled-stage autonomy resumed: `001-foundation-and-delivery.md` plus H2 1-13 of `073-austerlitz.md`. The owner may now complete the entire approved settings map without H2-by-H2 coordinator approval; strict evidence and literary adjudication begins after the complete first version advances to `evidence`.
 - User-confirmed rules: deliver a complete twenty-volume English novel; create very detailed settings, context-rich storylines, immediately visualizable near-screenplay scenarios, and finished highest-quality literary prose; open at the Battle of Austerlitz, reach the peak of victory, and only then return to Napoleon's childhood.
 - Canonical contract action: the one-time opening/return order is recorded in `docs/obligations/storylines.md` and activated through an additive storyline-stage claim. Its disabled-stage package build passed before settings authorship resumed.
@@ -30,8 +30,8 @@ Opened: 2026-08-21
 - Approved settings allocation: 50 files, about 520 independently addressable H2 owners, 150,000-210,000 authored-body words, and at least 400 direct retrievable sources. Counts are omission and contraction alarms, not quotas or quality certificates.
 - Research burden: recover or exceed the prior historical breadth using direct primary records, critical editions, and scholarship; distinguish sourced fact, dispute, and work decision under the current settings contract.
 - Principal risks: compressing twenty volumes into famous-event summaries; treating research as inert catalogue; heroic or condemnatory simplification; attaching a childhood flashback before the Austerlitz victory has actually peaked; falsifying evidence to satisfy coverage.
-- Latest disabled-stage checkpoint: `001` through `013`, plus `073`, form a clean-build settings snapshot. The latest domain batch carries Napoleon from Auxonne and Toulon through Italy, Egypt, the coup, family politics, the Civil Code and administrative state, and slavery and colonial policy; `073-austerlitz.md` retains the victory-peak opening foundation.
-- Next gate: continue the remaining 36 planned settings files, then inspect all 50 together with a clean package build before any evidence transition.
+- Latest disabled-stage checkpoint: `001` through `021`, plus `073`, form a clean-build settings snapshot. The latest domain batch adds army command, conscription, logistics and medicine, coalition diplomacy, the 1805 campaign approach, Iberian occupation, the 1812 retreat, Waterloo, and Saint Helena; `073-austerlitz.md` retains the victory-peak opening foundation.
+- Next gate: continue the remaining 28 planned settings files, then inspect all 50 together with a clean package build before any evidence transition.
 
 ## After-School Conquest
 
