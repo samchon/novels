@@ -1,0 +1,101 @@
+# Fire, Flood, and Emergency
+
+This file fixes emergency states and authority boundaries for Haneul. It inherits the 2019 flood and 2022 school fire records from `030`; it does not assign culprits, discoveries, or future incidents.
+
+## Emergency vocabulary
+
+**Status:** Work decision — safety canon.
+
+The setting distinguishes hazard, warning, closure, evacuation, shelter, all-clear, and recovery. Hazard is a dangerous condition; warning is an authorized notice; closure denies access to a specified place; evacuation directs people away; shelter directs them to a safer place; all-clear is issued by the responsible authority; recovery restores and audits.
+
+A founder’s observation can trigger a report but cannot silently become an official warning or all-clear. Every public instruction names issuer, place, effective time, action, update channel, and accessible alternative where possible.
+
+## Flood legacy and threshold
+
+**Status:** Work decision — inherited chronology canon.
+
+On 2019-07-27, severe monsoon rain overtopped the fictional Seongnae flood channel. The lower market passage, bus-loop ramp, and youth-centre basement storage flooded. The city maintains pumps, raised three electrical cabinets, and installed a yellow flood-level gauge. At 1.2 metres, the affected covered/lower passage and ramp close; the municipal flood-response office owns that closure.
+
+The accessible alternative is a narrow detour taking approximately 35 minutes on foot under ordinary conditions. Rain, crowding, darkness, and mobility need can make it unsuitable, so it is not a promise of equal access. Volunteers and students remain barred from the channel and basement during a warning.
+
+## Flood observation and safe position
+
+**Status:** Work decision — emergency procedure.
+
+The observer stays away from water, electrical cabinets, channel edges, barriers, and basement entrances. They report location, direction, visible gauge reading if safely observable, current route, people affected, and time to the municipal office or host. A photograph is optional and never worth entering danger.
+
+The youth-centre coordinator handles centre response; the city office handles city closure; the school adviser can cancel a student task but cannot revoke the closure. The group uses the current official notice and does not test the depth by walking into it.
+
+## Fire legacy and rebuilt booth
+
+**Status:** Work decision — inherited school canon.
+
+On 2022-11-04, an electrical fire in Haneul Public High School’s old audiovisual store damaged the west annex and smoke-sealed the original club room. The Education Office funded reconstruction; city hall did not own the school building. The rebuilt booth has a wired-glass door, two circuit breakers, twelve-seat capacity, a key log, no unsupervised charging and adult-present charging only, and a fire-rated paper archive cabinet separate from batteries.
+
+Facilities inspection precedes public use. The principal and school facilities office own daily access. The School Governance Committee may deliberate applicable school-rule or budget framework but never substitutes for facilities authority. The setting contains no culprit or discovery claim.
+
+## Fire alarm and evacuation
+
+**Status:** Work decision — school safety canon.
+
+On alarm, people follow the host’s evacuation instruction, use the accessible route where safe, leave belongings, and report to the designated assembly or staff. The founders do not re-enter for a phone, archive, map, or friend without authorized direction. A blocked route is reported, not improvised through smoke.
+
+The responsible school or facility owner accounts for people and communicates with responders. Students may help a person who has requested assistance when safe but do not lift, unlock, or override a fire door. An all-clear comes from the responsible authority after inspection.
+
+## Electrical smell, heat, and breaker trip
+
+**Status:** Work decision — equipment boundary.
+
+Burning smell, smoke, unusual heat, sparks, exposed wiring, or repeated breaker trips cause a stop and adult/facilities report. Students unplug only when the action is clearly safe and instructed; they never open a panel or reset an unexplained breaker.
+
+The report identifies room, device, outlet, time, sound or smell, visible effect, and people moved away. The audiovisual booth’s two breakers are not student controls. A facilities inspection determines whether the room can reopen, not a successful test by the club.
+
+## Earthquake, structural, and falling-object state
+
+**Status:** Work decision — emergency boundary.
+
+If shaking, cracking, falling material, unstable furniture, or a blocked exit appears, people protect themselves as instructed, move to a safer location when possible, and await the host or responders. The founders do not enter a damaged room to assess it.
+
+The facilities office or public owner controls inspection, cordon, repair, and reopening. A visible crack can be reported without a student diagnosing structural cause. Maps are updated only after the owner confirms the route.
+
+## Severe weather and lightning
+
+**Status:** Work decision — environmental response.
+
+Current warnings are checked through the relevant official channel; KMA public safety pages provide current hazard guidance, including the [KMA warning status page](https://www.weather.go.kr/weather/warning/status.jsp?printable=true). The page is a current public reference, while Haneul’s cancellation and shelter decision belongs to the host or city authority.
+
+Outdoor equipment, athletic field use, market loading, and exposed routes pause when the responsible host judges lightning, wind, visibility, or surface conditions unsafe. Students do not interpret a distant sound as an all-clear. The group provides a sheltered exit and communication fallback.
+
+## Emergency communication hierarchy
+
+**Status:** Work decision — communication canon.
+
+In immediate danger, the local emergency service and on-site responsible adult take priority. For school facilities, contact school administration or facilities; for youth-centre conditions, the coordinator; for city flood closure, the municipal flood-response office. A club chat is a secondary relay.
+
+The message states place, condition, people at risk, access point, time, caller, and requested action. A translation preserves urgency and uncertainty. The sender avoids a public post that could draw people toward a hazard.
+
+## Shelter, reunification, and transport
+
+**Status:** Work decision — care logistics.
+
+A shelter has host, capacity, toilets, water, access route, quiet option, supervision, and communication. Reunification records who may collect a student or participant and how identity is checked. A bus route may be delayed or closed; no student is sent alone through a blocked route to satisfy a timetable.
+
+The host keeps a current attendance or participant count within its lawful record process. Family contact is made through the responsible adult. A person can request a support person or different communication channel.
+
+## Recovery, cleanup, and evidence
+
+**Status:** Work decision — recovery canon.
+
+Recovery begins only after the owner declares the area safe for the relevant task. Cleanup identifies water, smoke, electrical, mould, structural, paper, battery, and waste risks. Students and volunteers do not enter restricted flood or fire areas for salvage.
+
+The record preserves date, authority, affected asset, inspection, disposal, repair, and reopening. A wet paper, smoke odour, or broken device is isolated and reported. Historical evidence is stored by its owner; the club does not become an unofficial incident archive.
+
+## Drill, training, and real emergency distinction
+
+**Status:** Work decision — preparedness rule.
+
+A drill states that it is a drill, its scope, start and stop signal, accessibility accommodation, observers, and debrief owner. A real alarm is treated as real until the responsible authority says otherwise. Drill performance is not used to shame a student or certify a building.
+
+After a drill, the host records blocked routes, unheard announcements, inaccessible assembly, missing equipment, and corrective owner. A drill cannot substitute for a facilities inspection, and a facilities inspection cannot substitute for practicing communication.
+
+Once immediate danger ends, the responsible institution names incident owner, affected people’s support route, public-information contact, repair owner, record custodian, and review date. The founders may provide a factual observation and then return control. No later narrative convenience erases a closure, repair cost, displacement, or privacy duty. The setting keeps emergency work bounded: notice, safe movement, adult referral, truthful record, and accountable recovery.

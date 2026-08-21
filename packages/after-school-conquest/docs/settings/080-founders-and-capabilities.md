@@ -1,0 +1,99 @@
+# Founders and Capabilities
+
+This file fixes the four founders as usable setting constraints. It does not allocate scenes, revelations, or volume beats. A capability is an available or unavailable resource with a cost; it is not a personality verdict. Dates and school standing remain owned by `030-chronology-baseline.md` and `040-volume-time-boundaries.md`.
+
+## Minseo Han: map-first capacity
+
+**Status:** Work decision — package canon.
+
+Minseo Han was born on 2011-11-18. During the school interval she is a student of Haneul Public High School, and after 2030-02-28 she is an alumna rather than a current student. She can read a plan quickly, compare measured distances, and turn an untidy request into named spaces, entrances, deadlines, and dependencies. Her working medium is a hand-marked map: she uses scale bars, arrows, colour blocks, and revision dates rather than treating a sketch as decoration.
+
+Her map competence has limits. A map records a chosen viewpoint and time; it cannot prove that a door is unlocked, a person consented, a ramp is dry, or an office will answer. Minseo must distinguish surveyed fact, another person's report, and a proposed route. When she has no measurement she may use a provisional line, but it must be visibly labelled provisional and carry an owner for verification. Her attention tends to privilege geometry over fatigue and social hesitation, so the canon gives those latter facts independent standing.
+
+## Jae-won Park: social-velocity capacity
+
+**Status:** Work decision — package canon.
+
+Jae-won Park was born on 2011-06-02. He can make a room respond quickly: he uses jokes, compressed explanations, demonstrations, and well-timed questions to lower the cost of joining a task. He is comfortable addressing peers and can translate a bureaucratic sentence into an immediately actionable request without pretending that the request has already been approved.
+
+Velocity is not authority. Jae-won cannot sign for school property, promise a city office's service, disclose another person's record, or turn a joke into consent. His quick speech can hide an unanswered question; therefore a public commitment attributed to him must have an identifiable issuer, date, audience, and scope. His capability also depends on voice and access: a loud room, a broken microphone, a tired listener, or a person who prefers writing changes what he can accomplish.
+
+## Lila Reyes: language-and-context capacity
+
+**Status:** Work decision — package canon.
+
+Lila Reyes was born on 2012-01-27. She can move between contemporary international English, Korean school terminology, and family or community expressions without making translation look like a neutral mechanical act. She notices when a form's polite wording hides a decision, when a translation omits a condition, and when two speakers use the same word for different obligations.
+
+Lila's translation is accountable work. A paraphrase must preserve who may act, by when, with what evidence, and with what appeal. If a phrase has no exact equivalent, she may retain the source term and explain it through surrounding action. She cannot infer a person's immigration status, class, belief, or private feeling from accent or vocabulary. A translated notice remains subject to the issuing office's authority and the recipient's right to ask for clarification.
+
+## Do-yun Choi: access-and-material capacity
+
+**Status:** Work decision — package canon.
+
+Do-yun Choi was born on 2011-09-09. He can inspect reach, clearance, slope, glare, signal, weight, and fatigue as connected constraints. He treats a space as usable only when a person can enter, orient, act, pause, and leave with the available body, device, weather, and supervision. He can maintain a measurement ledger and identify which dimension is legally specified, which is a design choice, and which still needs a user test.
+
+Do-yun is not a universal accessibility oracle. A measurement does not replace asking the person who will use it; one wheelchair, cane, sensory profile, or energy level does not represent everyone. He must not disclose a person's diagnosis to justify a design. His strongest contribution is making hidden friction legible and assigning a repair owner, not deciding who deserves access.
+
+## Shared age and school-standing envelope
+
+**Status:** Work decision — chronology-dependent canon.
+
+The four founders begin first year in the 2027–28 academic year and remain students through the 2029–30 graduation boundary. Their ages are calculated from the exact birth dates in `030-chronology-baseline.md`, not from a generic school-grade assumption. On 2030-03-01 the group has alumni standing even if a school record, club archive, or adult meeting still uses their former class label.
+
+A document may use a grade label for historical indexing, but a current request must identify whether it is addressed to a student, alumna or alumnus, visitor, employee, or member of the public. The founders' shared age never authorizes them to access restricted records, supervise younger students alone, operate hazardous equipment, or bind a public institution. Adult supervision and institutional permission remain separate constraints.
+
+## Capability ledger and confidence classes
+
+**Status:** Work decision — executable canon.
+
+Every setting that relies on a founder capability labels the input as one of four classes: observed, reported, inferred, or proposed. Observed means a founder directly checked it under a stated condition; reported means a named person or office supplied it; inferred means the founder drew a limited conclusion; proposed means a future arrangement awaiting permission or test. A map, message, or recollection cannot silently move from proposed to observed.
+
+The ledger records subject, date, location, conditions, owner, confidence class, and expiry trigger. A route observation made during daylight does not establish night visibility. A translation made for one audience does not establish a public notice. A successful lift trip does not establish service during a power interruption. Downstream work may choose a fictional outcome, but it must preserve the ledger's distinction.
+
+## Complementarity without compulsory harmony
+
+**Status:** Work decision — relationship constraint.
+
+The founders are useful together because their capacities overlap imperfectly: Minseo structures space, Jae-won mobilizes attention, Lila preserves meaning across language and institution, and Do-yun tests bodily and material access. No one is a permanent leader, spokesperson, translator, conscience, or technician. A task may be completed by one founder, by a pair, by an adult office, or by no one if the cost exceeds available authority.
+
+The group cannot treat disagreement as a defect to be edited out. Each founder may refuse a role, correct a measurement, withdraw consent to publication, or request adult help. A shared ledger records unresolved disagreement rather than averaging it into a false consensus. Cooperation is an available practice with maintenance cost, not a setting fact that erases individual boundaries.
+
+## Stress, fatigue, and recovery capacity
+
+**Status:** Work decision — embodied constraint.
+
+Attention, hearing, speech, translation, and fine measurement degrade under hunger, heat, cold, wet clothing, crowding, noise, and sleep loss. The setting does not prescribe a medical diagnosis or a fixed symptom list. It does require any demanding task to identify a pause location, water access, communication fallback, and a person who can stop the task without penalty.
+
+Recovery is not a reward for productivity. A founder who says “not now” has supplied a valid operational boundary. A later task may be rescheduled, narrowed, handed to an authorized adult, or abandoned. No capability ledger may treat exhaustion as evidence of character, and no group plan may depend on an unnamed person absorbing unpaid care.
+
+## Equipment ownership and handoff
+
+**Status:** Work decision — material canon.
+
+The founders may use ordinary notebooks, pencils, phones, chargers, tape measures, umbrellas, reflective markers, and school-approved shared equipment. Ownership is recorded at handoff: personal, club-held, school-owned, civic-office-owned, borrowed, or disposable. A person who carries an item is not automatically its owner or custodian.
+
+Handoffs state condition, accessories, return point, and damage-report route. A device containing a person's contact, image, translation, or location data cannot be loaned merely because it is convenient. Batteries are charged only under the applicable adult-present and facilities rules in `030` and `150`; no capability description overrides the rebuilt audiovisual booth's restrictions.
+
+## Adult referral and safety boundary
+
+**Status:** Work decision — safeguarding canon.
+
+The founders can notice a hazard, preserve a truthful record, move people away from immediate danger when safe, and notify the responsible adult or office. They cannot investigate suspected abuse alone, enter a closed flood channel or fire-damaged room, bypass a lock, perform electrical repair, certify an evacuation route, or promise confidentiality where safeguarding requires referral. The school principal, facilities office, youth-centre coordinator, municipal flood-response office, emergency services, and family adults retain their defined authority.
+
+Referral records the time, observable condition, recipient, and requested action without speculative accusation. A founder's good intention never converts an unauthorized intervention into an approved one. The setting therefore gives downstream writing a clean boundary between youth initiative, adult duty, and emergency response.
+
+## Alumni continuity and changed access
+
+**Status:** Work decision — post-graduation canon.
+
+After the 2030-02-28 graduation boundary, the founders retain memory, personal copies of permitted work, and alumni relationships, but lose automatic student access. School rooms, student records, official channels, keys, supervision roles, and club budgets require a current host and current permission. An alumna or alumnus may be invited, employed, contracted, or admitted as a visitor; none of those statuses is implied by nostalgia.
+
+An alumni contribution identifies the receiving institution, scope, data boundary, insurance or safety requirement where applicable, and return or deletion condition. A former student may describe how a route used to work, but current facilities staff own current access. This distinction preserves continuity without allowing the past to impersonate present authority.
+
+## Contact, schedule, and availability register
+
+**Status:** Work decision — executable coordination canon.
+
+Each founder has a current contact route, ordinary school hours, recurring unavailable periods, emergency contact boundary, and preferred channel. The register stores functional availability rather than a full home schedule: “reachable after 17:00 by text” is sufficient where an exact address or family routine is not needed. A channel marked available is not a promise that the founder is free to accept a task.
+
+Before a group relies on one founder, it checks the date, transport, weather, care duty, device charge, and recovery need. The register records who may update it, when it expires, and what happens if no response arrives. Graduation, a changed family obligation, a lost phone, or a new job invalidates old availability without implying a change in affection or competence.
