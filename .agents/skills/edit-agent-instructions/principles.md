@@ -5,7 +5,7 @@
 ## Form
 
 - Use one H1, brief scope prose, and one fixed-anchor H2 per item. Add no deeper heading.
-- Ask one actionable question per item. If the same host reason answers two items, merge them or state their boundary.
+- Ask one independently falsifiable, actionable question per item. Conditional facets may stay together only when they test the same target; split a second target that can be applied, refuted, changed, repaired, or reviewed independently. If the same host reason necessarily answers two items, merge them or state their boundary.
 - End every H2 with a `Sources:` line. Use [references.md](references.md) first, then verify each link separately.
 
 ## Admission

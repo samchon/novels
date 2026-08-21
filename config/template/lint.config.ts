@@ -19,8 +19,8 @@ export default createNovelConfig({
   // then pass "evidence" and finally "review".
   manuscripts: "disabled",
 
-  // Add only this work's claims; additions extend, never replace, the shared graph.
-  // Put checklist targets in docs/principles and distributed roles in docs/obligations.
-  // Use a descriptive docs/<lower-kebab-case> family only for a different target type.
+  // Before leaving settings disabled, keep this empty only if the
+  // work-specific contract audit finds no independent package target.
+  // Add only adopted targets; additions extend, never replace, the shared graph.
   claims: [],
 });

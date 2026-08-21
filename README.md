@@ -14,7 +14,7 @@ disabled → evidence → review                            (per-layer stage)
 ```
 
 - **Settings** state the work's canon: facts, constraints, institutions, people, and conventions, one anchored H2 per addressable fact.
-- **Storylines** own causes, choices, events, and changes as detailed narrative treatments.
+- **Storylines** own narrative connections, events or processes, and their changes or accumulations as detailed treatments.
 - **Scenarios** specify executable scene progression — staging, movement, decisive dialogue, turn, and exit.
 - **Manuscripts** are the finished literary prose.
 
@@ -22,7 +22,7 @@ The three narrative layers share one `H2 sequence → H3 chapter → H4 scene` h
 
 Shared literary principles live in [`config/docs/principles`](config/docs/principles) as [`common.md`](config/docs/principles/common.md) answered by every layer, [`narratives.md`](config/docs/principles/narratives.md) answered by the three narrative layers, and one file per authored layer. Each principle is one anchored H2, and each principle reference is a compiler **checklist**: every file answers every item with its own citation — a whole-file citation is refused, no file's answer covers another file, and no item may be excluded, because each principle binds wherever its condition applies. In the `review` stage every answer carries the fingerprint of that single item, so editing one principle expires exactly the answers to that item across all works.
 
-Shared roles live in [`config/docs/obligations`](config/docs/obligations). Settings H2s account for delivery scope, work promise, and reader access; storyline H2s assign the reader's entry and ending and any prologue or epilogue role. A role may be realized by several H2s or excluded once when the complete owning population has no such role. Packages may append typed claims for evidence contracts unique to one work or experiment, but those claims only extend the shared graph.
+Shared unit duties and distributed roles live in [`config/docs/obligations`](config/docs/obligations). Every settings H2 and every narrative H2/H3/H4 answers each item in [`common.md`](config/docs/obligations/common.md) as a no-exclusion checklist: scope preservation, substantive completion, proportionate development, and evidence-content conformance are checked per unit rather than averaged across a file. Settings H2s additionally cover delivery scope, work promise, reader access, and the canon coverage map; storyline H2s cover reader entry and ending position. These distributed roles may span several H2 hosts, but every shared role is required and cannot be excluded. Packages may append typed claims for evidence contracts unique to one work or experiment, but those claims only extend the shared graph.
 
 A compiling work is not a finished work: after all layers pass review, repeated literal full-work reviews continue until two consecutive rounds find nothing.
 
@@ -34,19 +34,10 @@ A compiling work is not a finished work: after all layers pass review, repeated 
 | `packages/*` | One novel work per package. |
 | [`AGENTS.md`](AGENTS.md) | The shared writing and evidence contract. |
 | [`.agents/skills`](.agents/skills) | Repository skills: `novel`, `evidence-graph`, `benchmark`, `edit-agent-instructions`. |
-| [`BENCHMARK.md`](BENCHMARK.md) | Multi-package experiment log. |
 
 ## Works
 
-Two works run in parallel as the current exploratory benchmark campaign, logged in [`BENCHMARK.md`](BENCHMARK.md). Each has one persistent GPT-5.6-Luna owner and a deliberately different genre, research burden, scale, voice, and audience; the remaining scaffolded works are held outside the campaign.
-
-| Package | Title | Subject | Genre | Experiment axis | Status |
-| --- | --- | --- | --- | --- | --- |
-| [`napoleon-imperator`](packages/napoleon-imperator) | *Imperator* | Napoleon Bonaparte's life and age, opened at Austerlitz | Long-form historical biography | Documentary rigor beside limited focalization | active, settings `disabled` |
-| [`abyss-regressor`](packages/abyss-regressor) | *Abyss Regressor* | A regressor's repeated descent into a world-eating Abyss | Progression fantasy | Serial momentum joined to long-form causality | scaffolded, held |
-| [`after-school-conquest`](packages/after-school-conquest) | *The After-School World Conquest Club* | A suburban high school club plays at conquering the world | Light-novel comedy | A light first person accruing real costs | active, settings `disabled` |
-| [`long-night-voyager`](packages/long-night-voyager) | *The Long Night Voyager* | Generational turnover aboard a failing closed system | Generation-ship hard SF | Engineering limits driving social change | scaffolded, held |
-| [`pale-lantern`](packages/pale-lantern) | *The Pale Lantern* | The reliability of memory and testimony | Psychological thriller | Unreliable narration under fair clue control | scaffolded, held |
+No novel work package is currently present. Create the next work with `pnpm create:novel` after its scope is authorized.
 
 ## Usage
 
