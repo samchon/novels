@@ -10,8 +10,8 @@
 <!-- @evidenceReview principles/settings.md#information-structure #10ff424 Reread every Status-to-Sources block for garrison, actor, object, route, language, risk, and consequence. -->
 <!-- @evidence principles/settings.md#fact-status Status distinguishes critical civilian scholarship, institutional history, source conflict, bounded inference, and regional boundary. -->
 <!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Compared labels with Hagemann, prefectural history, police scholarship, and correspondence limits. -->
-<!-- @evidence principles/settings.md#source-support Claims use direct critical civilian-war research and institutional occupation mechanisms with locators. -->
-<!-- @evidenceReview principles/settings.md#source-support #2462844 Reopened Hagemann's abstract and notes, departmental administration lines 77-93, and police jurisdiction lines 53-69. -->
+<!-- @evidence principles/settings.md#source-support Claims use direct critical civilian-war research and institutional occupation mechanisms with retrievable sections or line ranges; bounded work rules retain source limits. -->
+<!-- @evidenceReview principles/settings.md#source-support #b4e71c2 Reopened Hagemann's abstract and notes, departmental lines 67-84, prefect formation lines 67-79, police lines 47-68, Oxford's civilian-war abstract lines 378-382, and correspondence lines 95-121; each historical assertion now has a direct locator while work decisions remain labelled. -->
 <!-- @evidence principles/settings.md#constraint-sufficiency The setting fixes authority, garrison, patrol, official, document, language, household, season, goods, route, and remedy. -->
 <!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Tested every unit for bodies, buildings, food, paper, power, information, and cost. -->
 <!-- @evidence principles/settings.md#minimal-departure The file rejects fortress-as-control, requisition-as-delivery, label-as-truth, translation-as-understanding, and civilian-as-scenery. -->
@@ -55,7 +55,7 @@ Sources: Karen Hagemann, “Reconstructing ‘Front’ and ‘Home’,” War in
 
 **Status:** Work canon grounded in administrative mechanics. Mayors, clerks, clergy, merchants, landlords, and households negotiate demands through documents, payments, guides, substitution, and delay. The prefectural account shows central officials demanding reports, tax, conscription, and religious information while relying on local administration. Local compliance may protect residents, enrich an intermediary, expose a rival, or simply avoid immediate punishment. A requisition list and a village's actual delivery are separate facts. Later scenes show who signs, transports, hides, substitutes, and bears punishment when demand cannot be met.
 
-Sources: Fondation Napoléon, creation of prefectural corps and local reports, https://www.napoleon.org/histoire-des-2-empires/articles/la-creation-du-corps-prefectoral-en-lan-viii/ (lines 126-130); departmental administration, https://www.napoleon.org/histoire-des-2-empires/articles/institutions-ladministration-departementale-sous-le-consulat-et-lempire/ (lines 77-93).
+Sources: Jacques-Olivier Boudon, “La création du corps préfectoral en l’An VIII,” local administration and reporting sections, https://www.napoleon.org/histoire-des-2-empires/articles/la-creation-du-corps-prefectoral-en-lan-viii/ (lines 67-79 and 126-130); Thierry Lentz, “Institutions. L’administration départementale sous le Consulat et l’Empire,” departmental offices and hierarchy, https://www.napoleon.org/histoire-des-2-empires/articles/institutions-ladministration-departementale-sous-le-consulat-et-lempire/ (lines 67-84).
 
 ## Resistance collaboration and classification {#resistance-collaboration-and-classification}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns report, label, informer, guide, partisan, criminal, civilian, patrol, arrest, reprisal, and protection. -->
@@ -69,7 +69,7 @@ Sources: Fondation Napoléon, creation of prefectural corps and local reports, h
 
 **Status:** Source-critical. French reports may call resistance brigandage while local communities distinguish soldiers, partisans, criminals, clergy, and civilians. Police scholarship shows that reports and surveillance organize authority, while Hagemann demonstrates that later memory can suppress or reshape female and civilian experience. A guide can be indispensable and suspected; a village can provide food under coercion and information under threat. Settings preserve observer interest, evidence, chain of custody, and cost of a mistaken label. An arrest or report is an administrative event, not proof of guilt.
 
-Sources: Revue générale du droit public, police reports and jurisdiction, https://www.revuegeneraledudroit.eu/blog/2021/05/01/la-prefecture-de-police-est-elle-une-institution-napoleonienne/ (lines 53-69); Hagemann, front/home memory, https://journals.sagepub.com/doi/10.1177/0968344508097616 (lines 100-130).
+Sources: Revue générale du droit public, police reports and jurisdiction, https://www.revuegeneraledudroit.eu/blog/2021/05/01/la-prefecture-de-police-est-elle-une-institution-napoleonienne/ (lines 47-68); Karen Hagemann, “Reconstructing the Front and Home,” War in History 16.1 (2009), abstract and notes, https://journals.sagepub.com/doi/10.1177/0968344508097616 (lines 80-130).
 
 ## Language translation and law {#language-translation-and-law}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns interpreter, translated form, legal vocabulary, office, court, regiment, household, and understanding. -->
@@ -83,7 +83,7 @@ Sources: Revue générale du droit public, police reports and jurisdiction, http
 
 **Status:** Work canon with source limits. Multilingual rule requires interpreters, translated forms, local legal vocabulary, and officials who can explain or exploit a gap. An order in French can be misunderstood, deliberately mistranslated, or obeyed in a locally meaningful way. A court, tax office, regiment, and household may use different language conventions. Later settings identify who translates, who benefits, who signs, whether the person understands the imposed obligation, and what remedy exists.
 
-Sources: Fondation Napoléon, correspondence corpus and editorial method, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; departmental administration, https://www.napoleon.org/histoire-des-2-empires/articles/institutions-ladministration-departementale-sous-le-consulat-et-lempire/.
+Sources: Fondation Napoléon, “The Correspondence of Napoleon,” editorial scope and traceability, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/ (lines 95-121); Thierry Lentz, “Institutions. L’administration départementale sous le Consulat et l’Empire,” departmental hierarchy and local offices, https://www.napoleon.org/histoire-des-2-empires/articles/institutions-ladministration-departementale-sous-le-consulat-et-lempire/ (lines 67-84).
 
 ## Women labor and civilian vulnerability {#women-labor-and-civilian-vulnerability}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns women's work, property, mobility, safety, care, information, class, jurisdiction, and remedy. -->
@@ -97,7 +97,7 @@ Sources: Fondation Napoléon, correspondence corpus and editorial method, https:
 
 **Status:** Critical civilian and gender boundary. Occupation changes women's work, property, mobility, safety, and information differently by class and jurisdiction. Hagemann's Hamburg case shows how female war experience could be intertwined with the front and later suppressed in memory; it does not authorize a generic atrocity scene. Military records may omit domestic labor, sexual violence, displacement, and care. Settings identify armed authority, household resource, legal remedy, social protection, and witness position. Civilians are not scenery and cannot be represented solely through an occupying army's report.
 
-Sources: Hagemann, Hamburg civilian and female experience, https://journals.sagepub.com/doi/10.1177/0968344508097616 (lines 100-130); Fondation Napoléon, correspondence source limits, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/.
+Sources: Karen Hagemann, “Reconstructing the Front and Home,” War in History 16.1 (2009), abstract and notes, https://journals.sagepub.com/doi/10.1177/0968344508097616 (lines 100-130); Fondation Napoléon, “The Correspondence of Napoleon,” editorial scope and traceability, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/ (lines 95-121).
 
 ## Requisition ecology and civilian cost {#requisition-ecology-and-civilian-cost}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns food, animals, fuel, buildings, labor, information, quantity, route, season, storage, and household loss. -->
@@ -111,7 +111,7 @@ Sources: Hagemann, Hamburg civilian and female experience, https://journals.sage
 
 **Status:** Work canon. Armies consume food, animals, fuel, buildings, labor, and information from communities whose survival they alter. A requisition has quantity, collector, route, season, storage problem, receipt, and household consequence. Forced delivery can create hunger or flight; cooperation can produce protection or resentment. Later narratives show the physical object taken and the person who loses it, rather than treating extraction as a number alone.
 
-Sources: Leighton, civilian-war overview, https://academic.oup.com/liverpool-scholarship-online/book/23760; Fondation Napoléon, departmental administration and public expenditure, https://www.napoleon.org/histoire-des-2-empires/articles/institutions-ladministration-departementale-sous-le-consulat-et-lempire/ (lines 86-93).
+Sources: Leighton S. James, chapter “Invasion and Occupation: Civilian-Military Relations in Central Europe during the Revolutionary and Napoleonic Wars,” in *Civilians and War in Europe, 1618–1815*, Oxford Academic abstract and contents, https://academic.oup.com/liverpool-scholarship-online/book/23760 (abstract lines 378-382; chapter listing lines 549-560); Thierry Lentz, “Institutions. L’administration départementale sous le Consulat et l’Empire,” departmental services and offices, https://www.napoleon.org/histoire-des-2-empires/articles/institutions-ladministration-departementale-sous-le-consulat-et-lempire/ (lines 77-84).
 
 ## Boundary to regional occupation owners {#boundary-to-regional-occupation-owners}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns handoff to Iberia, Italy, Germany, Egypt, Russia, Low Countries, and other regional histories. -->
@@ -125,4 +125,4 @@ Sources: Leighton, civilian-war overview, https://academic.oup.com/liverpool-sch
 
 **Status:** Work boundary. Iberia, Italy, Germany, Egypt, Russia, and the Low Countries require distinct local histories, laws, languages, institutions, and source chains. This file supplies mechanics of agency and coercion. Downstream units must name population, authority, place, source, language, material object, and consequence; they may not substitute a generic occupied civilian for regional evidence. The handoff succeeds when control, negotiation, classification, labor, and extraction can be traced in one particular locality.
 
-Sources: Fondation Napoléon, departmental administration, https://www.napoleon.org/histoire-des-2-empires/articles/institutions-ladministration-departementale-sous-le-consulat-et-lempire/; Hagemann, locality and memory limits, https://journals.sagepub.com/doi/10.1177/0968344508097616.
+Sources: Thierry Lentz, “Institutions. L’administration départementale sous le Consulat et l’Empire,” departmental hierarchy and local offices, https://www.napoleon.org/histoire-des-2-empires/articles/institutions-ladministration-departementale-sous-le-consulat-et-lempire/ (lines 67-84); Karen Hagemann, “Reconstructing the Front and Home,” locality and memory limits, https://journals.sagepub.com/doi/10.1177/0968344508097616 (abstract and notes, lines 80-130).
