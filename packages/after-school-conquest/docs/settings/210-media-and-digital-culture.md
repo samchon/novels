@@ -4,6 +4,11 @@ This file defines the digital and media environment in which Haneul students coo
 
 ## Devices and ownership
 
+<!-- @evidence obligations/common.md#scope-preservation The Devices and ownership host states n — technology canon. This is the concrete 210 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Devices and ownership host develops its setting through sories, condition, return date, and data wipe. A cracked screen, low battery, missing charger, or incompatible format changes what can be done. No plan depends on an unnamed personal device remaining available.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Devices and ownership host gives 85 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Devices and ownership acknowledgement is grounded in this host's Status and its concrete opening statement 'n — technology canon.'. -->
+
 **Status:** Work decision — technology canon.
 
 Phones, tablets, laptops, school terminals, cameras, audio recorders, printers, and public kiosks have different owners, permissions, batteries, warranties, and data risks. A device borrowed from a friend is not a club asset. School equipment remains subject to the school’s account and facilities rules.
@@ -11,6 +16,11 @@ Phones, tablets, laptops, school terminals, cameras, audio recorders, printers, 
 The equipment ledger names owner, custodian, purpose, accessories, condition, return date, and data wipe. A cracked screen, low battery, missing charger, or incompatible format changes what can be done. No plan depends on an unnamed personal device remaining available.
 
 ## Connectivity and channel hierarchy
+
+<!-- @evidence obligations/common.md#scope-preservation The Connectivity and channel hierarchy host states n — communication canon. This is the concrete 210 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Connectivity and channel hierarchy host develops its setting through imits, shared phones, battery loss, moderation, translation, or family restrictions. The club offers a paper or in-person fallback for consequential information. “Sent” does not mean “received” or “understood.”; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Connectivity and channel hierarchy host gives 83 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Connectivity and channel hierarchy acknowledgement is grounded in this host's Status and its concrete opening statement 'n — communication canon.'. -->
 
 **Status:** Work decision — communication canon.
 
@@ -20,6 +30,11 @@ Connectivity can fail through dead zones, data limits, shared phones, battery lo
 
 ## Account security and handoff
 
+<!-- @evidence obligations/common.md#scope-preservation The Account security and handoff host states n — access boundary. This is the concrete 210 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Account security and handoff host develops its setting through cess, changes recovery, records time and scope, and reports through the applicable school or civic channel. The founders do not retaliate by entering another account or preserve a secret duplicate for leverage.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Account security and handoff host gives 82 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Account security and handoff acknowledgement is grounded in this host's Status and its concrete opening statement 'n — access boundary.'. -->
+
 **Status:** Work decision — access boundary.
 
 Passwords, recovery contacts, multifactor devices, shared drives, and admin roles are assigned to named owners. A student may be a contributor without being an administrator. Account handoff after absence or graduation uses the host’s process, not a private password exchange.
@@ -27,6 +42,11 @@ Passwords, recovery contacts, multifactor devices, shared drives, and admin role
 If credentials are exposed, the owner limits access, changes recovery, records time and scope, and reports through the applicable school or civic channel. The founders do not retaliate by entering another account or preserve a secret duplicate for leverage.
 
 ## Group chat governance
+
+<!-- @evidence obligations/common.md#scope-preservation The Group chat governance host states n — social technology canon. This is the concrete 210 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Group chat governance host develops its setting through , date, scope, and owner. The chat is not used for emergency dispatch, confidential safeguarding, or a city closure. A person leaving the chat receives any necessary handoff through an authorized private route.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Group chat governance host gives 87 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Group chat governance acknowledgement is grounded in this host's Status and its concrete opening statement 'n — social technology canon.'. -->
 
 **Status:** Work decision — social technology canon.
 
@@ -36,6 +56,11 @@ Important decisions are copied to a stable record with issuer, date, scope, and 
 
 ## Maps, photos, and location precision
 
+<!-- @evidence obligations/common.md#scope-preservation The Maps, photos, and location precision host states n — spatial media canon. This is the concrete 210 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Maps, photos, and location precision host develops its setting through and authorized. Home addresses, regular routes, classroom numbers, and disability aids are reduced to the minimum precision needed. The founders record who may see the original and who receives the derived map.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Maps, photos, and location precision host gives 89 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Maps, photos, and location precision acknowledgement is grounded in this host's Status and its concrete opening statement 'n — spatial media canon.'. -->
+
 **Status:** Work decision — spatial media canon.
 
 A digital map can show a route, landmark, timestamp, coordinate, accessibility note, or proposed change. Scale, orientation, update date, and source are visible. A map is not an inspection: it cannot see a locked door, crowd, glare, wet slope, or private person.
@@ -43,6 +68,11 @@ A digital map can show a route, landmark, timestamp, coordinate, accessibility n
 Photos crop or blur identifying details unless exact documentation is necessary and authorized. Home addresses, regular routes, classroom numbers, and disability aids are reduced to the minimum precision needed. The founders record who may see the original and who receives the derived map.
 
 ## Audio, captions, and accessible media
+
+<!-- @evidence obligations/common.md#scope-preservation The Audio, captions, and accessible media host states n — access canon. This is the concrete 210 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Audio, captions, and accessible media host develops its setting through udgement. Colour is not the sole signal. A public media release supplies a text, audio, or tactile alternative where the host and resources allow, and does not require a disabled person to disclose a diagnosis.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Audio, captions, and accessible media host gives 91 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Audio, captions, and accessible media acknowledgement is grounded in this host's Status and its concrete opening statement 'n — access canon.'. -->
 
 **Status:** Work decision — access canon.
 
@@ -52,6 +82,11 @@ Visual material receives alt text that states function and relevant relationship
 
 ## Search, sources, and algorithmic ranking
 
+<!-- @evidence obligations/common.md#scope-preservation The Search, sources, and algorithmic ranking host states n — research canon. This is the concrete 210 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Search, sources, and algorithmic ranking host develops its setting through , effective date when legal, and uncertainty. A summary generated by a platform is checked against the underlying document. Search history can reveal sensitive interests and is not shared as proof of character.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Search, sources, and algorithmic ranking host gives 85 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Search, sources, and algorithmic ranking acknowledgement is grounded in this host's Status and its concrete opening statement 'n — research canon.'. -->
+
 **Status:** Work decision — research canon.
 
 Search results, recommendation feeds, map rankings, and auto-complete suggestions are sorted outputs, not neutral truth. The founders record query, date, language, location setting where relevant, and the source actually opened. A popular result can be stale, sponsored, inaccessible, or outside Haneul jurisdiction.
@@ -59,6 +94,11 @@ Search results, recommendation feeds, map rankings, and auto-complete suggestion
 Research claims cite the source title, issuer, locator, effective date when legal, and uncertainty. A summary generated by a platform is checked against the underlying document. Search history can reveal sensitive interests and is not shared as proof of character.
 
 ## Misinformation and correction
+
+<!-- @evidence obligations/common.md#scope-preservation The Misinformation and correction host states n — epistemic boundary. This is the concrete 210 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Misinformation and correction host develops its setting through states the issuer, and marks unresolved status. A person may be wrong without being a villain; a public office may publish an error without losing all authority. The remedy matches the harm and decision owner.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Misinformation and correction host gives 92 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Misinformation and correction acknowledgement is grounded in this host's Status and its concrete opening statement 'n — epistemic boundary.'. -->
 
 **Status:** Work decision — epistemic boundary.
 
@@ -68,6 +108,11 @@ The record links original and corrected versions when safe, states the issuer, a
 
 ## School media and student publication
 
+<!-- @evidence obligations/common.md#scope-preservation The School media and student publication host states n — school boundary. This is the concrete 210 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The School media and student publication host develops its setting through xist with correction and privacy duties. A subject may request factual correction without controlling a fair opinion. A minor’s image, contact, family detail, or discipline record receives heightened restraint.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The School media and student publication host gives 82 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The School media and student publication acknowledgement is grounded in this host's Status and its concrete opening statement 'n — school boundary.'. -->
+
 **Status:** Work decision — school boundary.
 
 Student newspapers, announcements, displays, yearbooks, and club pages have editors, advisers, publication scope, and correction rules. A school channel can publish a student’s work only under the applicable permission and safeguarding process. The founders do not use a school logo to make an independent claim appear official.
@@ -75,6 +120,11 @@ Student newspapers, announcements, displays, yearbooks, and club pages have edit
 Editorial independence can coexist with correction and privacy duties. A subject may request factual correction without controlling a fair opinion. A minor’s image, contact, family detail, or discipline record receives heightened restraint.
 
 ## Public comments and moderation
+
+<!-- @evidence obligations/common.md#scope-preservation The Public comments and moderation host states n — civic media canon. This is the concrete 210 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Public comments and moderation host develops its setting through n offensive statement for content. They distinguish criticism of a route or institution from harassment of a private individual. Moderation notes record action and reason without exposing protected information.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Public comments and moderation host gives 79 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Public comments and moderation acknowledgement is grounded in this host's Status and its concrete opening statement 'n — civic media canon.'. -->
 
 **Status:** Work decision — civic media canon.
 
@@ -84,6 +134,11 @@ The founders do not bait a person into an offensive statement for content. They 
 
 ## Data after graduation
 
+<!-- @evidence obligations/common.md#scope-preservation The Data after graduation host states n — transition canon. This is the concrete 210 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Data after graduation host develops its setting through obligations, and current replacement contact. Nostalgia is not a data-retention policy. A former account should not continue to receive confidential student notifications merely because no one changed the list.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Data after graduation host gives 89 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Data after graduation acknowledgement is grounded in this host's Status and its concrete opening statement 'n — transition canon.'. -->
+
 **Status:** Work decision — transition canon.
 
 Graduation changes student accounts, school mailing lists, room permissions, group roles, and access to records. A former student’s personal archive may remain theirs, but school-owned files and current student data follow the school’s retention and handoff process. Alumni contact lists have purpose and expiry.
@@ -92,8 +147,25 @@ Before a handoff, the owner identifies active links, admin roles, private media,
 
 ## Digital fatigue and humane availability
 
+<!-- @evidence obligations/common.md#scope-preservation The Digital fatigue and humane availability host states n — embodied technology rule. This is the concrete 210 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Digital fatigue and humane availability host develops its setting through round school, sleep, exams, family work, and recovery. Emergency contact is reserved for actual urgency and identifies the responsible adult. Digital convenience never justifies removing a safer offline option.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Digital fatigue and humane availability host gives 72 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Digital fatigue and humane availability acknowledgement is grounded in this host's Status and its concrete opening statement 'n — embodied technology rule.'. -->
+
 **Status:** Work decision — embodied technology rule.
 
 Notifications, bright screens, audio alerts, constant translation, and rapid replies consume attention. A founder may mute, delay, use paper, or request one consolidated message. A response delay is not evidence of disrespect or agreement.
 
 The club defines quiet periods around school, sleep, exams, family work, and recovery. Emergency contact is reserved for actual urgency and identifies the responsible adult. Digital convenience never justifies removing a safer offline option.
+<!-- @evidence principles/common.md#purpose-fit The file Media and Digital Culture owns 12 H2s in the 210 domain; its overview states "This file defines the digital and media environment in which Haneul students coordinate, learn, remember, and misread one another. It is a capability and risk setting, not a timeline of posts or revelations.", supplying the cultural/material/social conditions required by the civic-school promise. -->
+<!-- @evidence principles/common.md#layer-boundary The file Media and Digital Culture owns 12 H2s in the 210 domain; its overview states "This file defines the digital and media environment in which Haneul students coordinate, learn, remember, and misread one another. It is a capability and risk setting, not a timeline of posts or revelations."; it fixes setting facts and constraints, not narrative order, event causality, or finished prose. -->
+<!-- @evidence principles/common.md#work-language The file Media and Digital Culture owns 12 H2s in the 210 domain; its overview states "This file defines the digital and media environment in which Haneul students coordinate, learn, remember, and misread one another. It is a capability and risk setting, not a timeline of posts or revelations."; it uses readable English to distinguish ritual, social, digital, money, and labour registers without flattening them. -->
+<!-- @evidence principles/settings.md#addressable-canon The file Media and Digital Culture owns 12 H2s in the 210 domain; its overview states "This file defines the digital and media environment in which Haneul students coordinate, learn, remember, and misread one another. It is a capability and risk setting, not a timeline of posts or revelations."; the named cultural/social H2s are independent owners rather than one umbrella account. -->
+<!-- @evidence principles/settings.md#information-structure The file Media and Digital Culture owns 12 H2s in the 210 domain; its overview states "This file defines the digital and media environment in which Haneul students coordinate, learn, remember, and misread one another. It is a capability and risk setting, not a timeline of posts or revelations."; each H2 begins Status and then supplies owner, practice, access, cost, refusal, and continuity conditions. -->
+<!-- @evidence principles/settings.md#fact-status The file Media and Digital Culture owns 12 H2s in the 210 domain; its overview states "This file defines the digital and media environment in which Haneul students coordinate, learn, remember, and misread one another. It is a capability and risk setting, not a timeline of posts or revelations."; Haneul customs, channels, budgets, and social practices are Work decisions, while any inherited authority is cross-referenced. -->
+<!-- @evidence principles/settings.md#source-support The file Media and Digital Culture owns 12 H2s in the 210 domain; its overview states "This file defines the digital and media environment in which Haneul students coordinate, learn, remember, and misread one another. It is a capability and risk setting, not a timeline of posts or revelations."; it contains 0 direct source link(s), and the authored cultural/economic conditions are not falsely presented as external fact. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file Media and Digital Culture owns 12 H2s in the 210 domain; its overview states "This file defines the digital and media environment in which Haneul students coordinate, learn, remember, and misread one another. It is a capability and risk setting, not a timeline of posts or revelations."; it specifies calendar, food, sound, sport, mourning, study, chat, devices, publication, money, labour, debt, accessibility cost, and closure resources. -->
+<!-- @evidence principles/settings.md#minimal-departure The file Media and Digital Culture owns 12 H2s in the 210 domain; its overview states "This file defines the digital and media environment in which Haneul students coordinate, learn, remember, and misread one another. It is a capability and risk setting, not a timeline of posts or revelations."; it explicitly prevents default assumptions that one ritual, channel, popularity system, device, or household budget represents everyone. -->
+<!-- @evidence principles/settings.md#internal-coherence The file Media and Digital Culture owns 12 H2s in the 210 domain; its overview states "This file defines the digital and media environment in which Haneul students coordinate, learn, remember, and misread one another. It is a capability and risk setting, not a timeline of posts or revelations."; its practices connect to 090 consent, 110 domestic time, 150 school institutions, 170 records, 220 budgets, and 230 logistics. -->
+
+# Media and Digital Culture
