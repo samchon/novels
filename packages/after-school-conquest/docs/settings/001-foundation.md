@@ -1,32 +1,31 @@
 <!--
 @evidence principles/common.md#purpose-fit This file fixes the twenty-volume English novel's delivery promise, audience, access contract, and settings-domain allocation, so every later layer has a usable foundation.
-<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa Read the overview and all 12 H2s; the opening and weakest unit “@evidence principles/common.md#purpose-fit This file fixes the twenty-volume English novel's delivery promise, audience, access contract, and settings-domain al” were checked against the delivery promise. -->
 @evidence principles/common.md#layer-boundary The file assigns facts and constraints to settings while reserving causal narrative connection, executable staging, and finished prose for the three later layers.
-<!-- @evidenceReview principles/common.md#layer-boundary #c239986 Read all 12 H2s, including “file overview”; each keeps settings facts and constraints separate from narrative events, staging, and prose. -->
 @evidence principles/common.md#work-language The English variety section fixes contemporary international English, American spelling, dialogue punctuation, Korean name order, and intelligible code-switching.
-<!-- @evidenceReview principles/common.md#work-language #a2dca6c Read all 12 H2s, checking English terminology, dates, labels, and institutional names in “file overview” for consistent reader access. -->
 @evidence principles/settings.md#addressable-canon The delivery, reader, narrator, formal-document, continuity, revision, and coverage decisions each have independent H2 owners rather than being hidden in one overview.
-<!-- @evidenceReview principles/settings.md#addressable-canon #660699f Read all 12 H2 headings and bodies; “file overview” was checked as an independent host rather than an umbrella paragraph. -->
 @evidence principles/settings.md#information-structure Every foundation H2 gives a Status line and then develops its owned decision, operating boundary, consequence, and limitation in separate paragraphs.
-<!-- @evidenceReview principles/settings.md#information-structure #10ff424 Read all 12 H2s; the Status, owner, boundary, and limit structure in weakest host “file overview” was checked. -->
 @evidence principles/settings.md#fact-status The Status lines distinguish user-confirmed scope and quality rules from owner-adopted language, access, continuity, and repair decisions.
-<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Read every Status line and source/work-decision label; “file overview” was the weakest status boundary checked. -->
 @evidence principles/settings.md#source-support This foundation does not present Haneul's fictional institutions as external fact; it requires later externally checkable claims to carry direct source support and records uncertainty as a research decision.
-<!-- @evidenceReview principles/settings.md#source-support #2462844 Read every external claim and link in the file; “file overview” was checked for direct support or an explicit Work decision. -->
 @evidence principles/settings.md#constraint-sufficiency The contract states volume count, dates, focal access, content exclusions, layer deliverables, revision authority, and the build/review completion conditions downstream must obey.
-<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Read all 12 H2s through “file overview”; owners, resources, boundaries, and stopping conditions were checked. -->
 @evidence principles/settings.md#minimal-departure The fictional school-city split, non-lethal conflict boundary, and game-versus-real-world distinction are explicit departures or constraints instead of silent defaults.
-<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 Read all 12 H2s; the explicit fictional departure and ordinary-world limit in “file overview” were checked. -->
 @evidence principles/settings.md#internal-coherence The continuity and coverage sections connect birth dates, school years, graduation, alumni volumes, layer order, and domain ownership into one auditable series-bible structure.
-<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e Read all 12 H2s and cross-file anchors; dates, authorities, terms, and ownership in “file overview” were checked together. -->
 -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa Read the complete foundation overview and all 12 H2s; its delivery, audience, access, and settings allocation were checked against the promise. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 Read all 12 H2s; each keeps settings facts and constraints separate from storyline connections, scenario staging, and manuscript prose. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c Read the complete language contract and every H2; English terminology, Korean institutional names, and reader-facing labels were checked. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f Read all 12 independent H2 owners; delivery, promise, audience, narrator, language, forms, continuity, revision, and coverage were checked as separate hosts. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 Read every Status line and its following decision, boundary, consequence, and limitation paragraphs; the weakest foundation H2 was checked. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Read every Status line and source/work-decision distinction; user-confirmed scope and adopted Haneul decisions were checked separately. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 Read every external-source requirement and fictional-institution boundary; direct support and uncertainty handling were checked. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Read all 12 H2s for volume, dates, access, content, layers, revision, build, and review constraints; the complete contract was checked. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 Read the school-city split, non-lethal boundary, and game/ordinary-world distinction; each fictional departure is explicit. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e Read all 12 H2s and their chronology, graduation, layer-order, and coverage connections; the contract was checked as one system. -->
 
 # After-School Conquest — Foundation Contract
 
 ## Delivery boundary
 
 <!-- @evidence obligations/common.md#scope-preservation The Delivery boundary H2 names the complete March 2027–February 2031 interval, all twenty volumes, the school and alumni periods, inherited volume obligations, and content exclusions. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Delivery boundary” H2 from Status through its final boundary. Its first operating statement is “This package delivers one complete English novel covering the fixed fictional interval March 2027 through February 2031 in twenty numbered volumes. The delivery is not a first volu”; checked the stated owner, boundary, and explicit exclusion against this unit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Delivery boundary H2 settles the required deliverable as four layers across twenty numbered volumes and states what completion and inherited continuity mean. -->
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Delivery boundary” H2 from Status through its final boundary. Its first operating statement is “This package delivers one complete English novel covering the fixed fictional interval March 2027 through February 2031 in twenty numbered volumes. The delivery is not a first volu”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Delivery boundary H2 allocates three school years to Volumes 1–17 and the first post-graduation year to Volumes 18–20, giving the declared scale a concrete distribution. -->
