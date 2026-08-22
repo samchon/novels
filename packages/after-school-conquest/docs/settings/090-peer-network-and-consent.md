@@ -1,39 +1,10 @@
 
-<!-- @evidence principles/common.md#purpose-fit This file fixes the bounded peer population, consent, roles, communication, conflict repair, privacy, translation, accommodation, pressure, safeguarding, participation records, and non-participation. -->
-<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa I reread all twelve H2s; Non-participation as a valid social state is the weakest promise test because it protects agency when the game invites participation. -->
-<!-- @evidence principles/common.md#layer-boundary These H2s establish settings-level social constraints and records, not narrative events, scenes, arcs, or prose. -->
-<!-- @evidenceReview principles/common.md#layer-boundary #c239986 I compared each peer unit with settings ownership; Conflict, apology, and repair fixes conditions rather than event order. -->
-<!-- @evidence principles/common.md#work-language The file uses plain consent, privacy, translation, accommodation, safeguarding, and non-participation language for English readers. -->
-<!-- @evidenceReview principles/common.md#work-language #a2dca6c I checked terminology across the twelve H2s; Translation between peers is the weakest readability boundary. -->
-<!-- @evidence principles/settings.md#addressable-canon Each peer, consent, role, chat, conflict, privacy, translation, access, pressure, safeguarding, record, and refusal owner has a separate H2. -->
-<!-- @evidenceReview principles/settings.md#addressable-canon #660699f I counted twelve independent owners; privacy media remains separate from participation records. -->
-<!-- @evidence principles/settings.md#information-structure Every H2 begins with Status and develops social conditions, limits, records, and consequences by function. -->
-<!-- @evidenceReview principles/settings.md#information-structure #10ff424 I read all twelve units; Participation ledger is the weakest structure anchor. -->
-<!-- @evidence principles/settings.md#fact-status Status lines distinguish fictional peer rules from uncertainty and safeguarding referral. -->
-<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 I checked every Status; no peer trait is presented as diagnosis. -->
-<!-- @evidence principles/settings.md#source-support The file treats peer rules as fictional canon and routes privacy/safety uncertainty to responsible records or adults. -->
-<!-- @evidenceReview principles/settings.md#source-support #2462844 I reread privacy and safeguarding clauses; no unsupported social science source is attached. -->
-<!-- @evidence principles/settings.md#constraint-sufficiency The file fixes consent, roles, communication, privacy, accommodation, pressure, referral, records, and refusal limits. -->
-<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 I compared all peer constraints; Adult contact and safeguarding referral is the narrowest safety boundary. -->
-<!-- @evidence principles/settings.md#minimal-departure Peer-network rules are explicit Haneul work decisions while ordinary consent, privacy, and safety authority remain operative. -->
-<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 I compared fictional peer mechanics with ordinary refusal and referral; no group pressure grants authority. -->
-<!-- @evidence principles/settings.md#internal-coherence Population, consent, roles, chat, repair, privacy, translation, access, pressure, safeguarding, records, and refusal form one social system. -->
-<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e I traced invitation through records and non-participation; consent is the continuity anchor. -->
-
 # Peer Network and Consent
 
 This file defines the social interfaces around the founders. It fixes what a peer relationship can authorize, what a club request must disclose, and how refusal, translation, privacy, and repair remain materially real. It does not assign meetings or plot turns.
 
 ## Class cohort as a bounded population
 
-<!-- @evidence obligations/common.md#scope-preservation This H2 fixes the peer population, class boundary, inclusion, exclusion, and non-generalization conditions. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked population and boundary clauses; classmates are not treated as a limitless social pool. -->
-<!-- @evidence obligations/common.md#substantive-completion The unit gives downstream writers a complete population boundary without assigning an event. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread inclusion and exclusion conditions; new participants require an explicit basis. -->
-<!-- @evidence obligations/common.md#proportionate-development The H2 separates cohort, class, club, host, and nonparticipant populations. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the population classes; nonparticipants are the independent limit. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional cohort scope and makes no demographic claim. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and population wording; no real class roster is implied. -->
 
 **Status:** Work decision — fictional school canon.
 
@@ -43,14 +14,6 @@ Names and personal details are used only for a stated school purpose. A seating 
 
 ## Invitation, consent, and withdrawal
 
-<!-- @evidence obligations/common.md#scope-preservation This H2 fixes invitation, plain-language consent, separate permissions, withdrawal, and no-penalty exit. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked invitation, consent, publicity, data, and withdrawal fields; silence is not participation. -->
-<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete invitation and exit boundary without assigning an event. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the consent and withdrawal rules; a student may leave without losing ordinary standing. -->
-<!-- @evidence obligations/common.md#proportionate-development The H2 separates invitation, understanding, work consent, data consent, publicity consent, and withdrawal. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the permission types; publicity is the independent privacy choice. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional peer consent and avoids unsupported legal claims. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and no statutory consent process is claimed. -->
 
 **Status:** Work decision — executable social rule.
 
@@ -60,14 +23,6 @@ Withdrawal is allowed before or during participation. A person can ask for a pau
 
 ## Peer roles without forced representation
 
-<!-- @evidence obligations/common.md#scope-preservation This H2 fixes peer roles, expertise, representation limits, refusal, rotation, and nonparticipant protection. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked roles, representation, refusal, and rotation boundaries; no peer must speak for a group. -->
-<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete role and representation boundary without assigning an event. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the role and refusal clauses; expertise does not create compulsory representation. -->
-<!-- @evidence obligations/common.md#proportionate-development The H2 separates role, expertise, representation, rotation, refusal, and protection. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the role effects; refusal is the independent agency control. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional peer-role rules and avoids demographic representation claims. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and role wording; no external group claim is made. -->
 
 **Status:** Work decision — role boundary.
 
@@ -77,14 +32,6 @@ When a peer speaks for a group, the record states whether the person is speaking
 
 ## Group chat and message discipline
 
-<!-- @evidence obligations/common.md#scope-preservation This H2 fixes group-chat purpose, membership, posting, forwarding, deletion, consent, and urgent-message boundaries. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked chat membership, forwarding, deletion, and urgency limits; a message channel is not an emergency service. -->
-<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete communication discipline for downstream use without assigning a scene. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread posting and urgent-message rules; participants know when to use an adult or emergency route. -->
-<!-- @evidence obligations/common.md#proportionate-development The H2 separates membership, posting, forwarding, deletion, consent, and emergency escalation. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the message functions; forwarding is the independent privacy control. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional peer communication rules and avoids claims about a real platform. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and platform wording; no external service policy is asserted. -->
 
 **Status:** Work decision — communication canon.
 
@@ -94,14 +41,6 @@ The chat owner sets membership, moderation, retention, and removal rules. Privat
 
 ## Conflict, apology, and repair
 
-<!-- @evidence obligations/common.md#scope-preservation This H2 fixes conflict acknowledgement, apology, repair, mediation, safety separation, and non-retaliation. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked conflict, mediation, repair, and safety boundaries; apology cannot erase a record or force forgiveness. -->
-<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete repair framework without assigning an event. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread acknowledgement and repair conditions; mediation remains voluntary and safety remains separate. -->
-<!-- @evidence obligations/common.md#proportionate-development The H2 separates conflict, apology, mediation, repair, retaliation, and safeguarding. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the response modes; non-retaliation is the independent protection. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional peer repair rules, not a legal dispute process. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and mediation wording; no statutory remedy is claimed. -->
 
 **Status:** Work decision — relationship maintenance rule.
 
@@ -111,14 +50,6 @@ A mediator may facilitate but cannot erase a safety report, force private disclo
 
 ## Privacy and identifiable media
 
-<!-- @evidence obligations/common.md#scope-preservation This H2 fixes recording purpose, subjects, storage, access, retention, deletion/correction, identification risks, event consent, and minor-image authority. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I reread the complete privacy body and checked faces, voices, uniforms, routines, event scope, and adult/school handling. -->
-<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete media-permission and repair boundary without assigning a scene. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I compared purpose, storage, review, deletion, and correction conditions; blurring is not treated as a substitute for consent. -->
-<!-- @evidence obligations/common.md#proportionate-development The H2 separates recording purpose, identification, public visibility, mitigation, event process, and minor authority. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the six media controls; precise routines are the least visible identification risk. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional privacy canon and does not claim a universal media-law rule. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I reread Status and every media restriction; no external statute is presented as proof. -->
 
 **Status:** Work decision — data boundary.
 
