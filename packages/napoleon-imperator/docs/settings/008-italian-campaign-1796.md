@@ -43,3 +43,35 @@ Sources: Fondation Napoléon, “The correspondence of Napoleon,” https://fond
 A dispatch compresses a battle to persuade a superior; a bulletin compresses it to persuade the public. The novel must identify whether a sentence comes from an order, a private letter, a staff return, a later memoir, or a modern synthesis. Exact quotations require the named edition and translation.
 
 Sources: Fondation Napoléon, “The correspondence of Napoleon,” https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Fondation Napoléon, correspondence publication history, https://www.napoleon.org/en/history-of-the-two-empires/articles/publication-of-the-complete-correspondance-of-napoleon-i-initial-results-of-the-fondation-napoleons-grand-project/.
+
+## Piedmont and Austrian separation {#piedmont-and-austrian-separation}
+
+**Status:** Source-supported campaign constraint. Napoleon's early Italian success depends on separating opponents before they can combine, not on defeating one undifferentiated coalition.
+
+The army must move through roads, passes, river crossings, and towns while enemy headquarters exchange orders. A local truce or political collapse changes the road network and releases troops, but a written agreement does not instantly move a corps. The narrative must show the gap between diplomatic news and military effect.
+
+Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Fondation Napoléon, “Napoleon Bonaparte,” https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/.
+
+## Marching army and occupied population {#marching-army-and-occupied-population}
+
+**Status:** Work canon. French movement consumes local grain, animals, carts, housing, and information while producing requisitions and resistance.
+
+An Italian town may provide guides under compulsion, hide food, negotiate payment, or report French movements. Requisition is a transaction backed by force, not neutral logistics. Each later battle setting must inherit the civilian cost of the route that made its concentration possible.
+
+Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
+
+## Dispatches, newspapers, and the army's morale {#dispatches-newspapers-and-the-armys-morale}
+
+**Status:** Source-critical. Proclamations promise wealth and glory; soldiers measure them against pay, food, casualties, and captured material.
+
+Napoleon's correspondence and bulletins address distinct audiences. A commander can motivate by describing future reward while privately requesting shoes or ammunition. The scene must not treat rhetoric as proof that the rank and file believed it.
+
+Sources: Fondation Napoléon, “The correspondence of Napoleon,” https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/.
+
+## Boundary to Egypt and political capital {#boundary-to-egypt-and-political-capital}
+
+**Status:** Work boundary. The Italian victories create fame and leverage that later enable the Egyptian expedition, but the political decision needs its own actors and records.
+
+The army's success produces dispatches, money, trophies, and a public image. It also creates occupied populations and rivals who fear Napoleon's influence. The next settings must connect those resources without claiming that fame alone caused the expedition.
+
+Sources: Fondation Napoléon, “The Boyhood and Youth of Napoleon,” https://www.napoleon.org/en/magazine/publications/the-boyhood-and-youth-of-napoleon/; Fondation Napoléon, chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/.
