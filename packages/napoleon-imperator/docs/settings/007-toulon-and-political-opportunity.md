@@ -1,3 +1,16 @@
+<!-- @evidence principles/common.md#purpose-fit The Toulon and Political Opportunity file fixes the historical and material setting needed by the twenty-volume English novel; its opening scope is This file owns the factual boundary for Napoleon's first public breakthrough at Toulon.. -->
+<!-- @evidence principles/common.md#layer-boundary The Toulon and Political Opportunity file records addressable facts, constraints, source status, and work decisions; it does not prescribe storyline order, scene blocking, or finished manuscript prose. -->
+<!-- @evidence principles/common.md#work-language The Toulon and Political Opportunity file is authored in consistent English and preserves the period names, French institutional terms, and place-name variants needed for a readable historical novel. -->
+<!-- @evidence principles/settings.md#addressable-canon The Toulon and Political Opportunity file assigns its distinct canon to 9 independently anchored H2 owners, so later layers can cite a precise fact rather than a whole-file summary. -->
+<!-- @evidence principles/settings.md#information-structure Each of the 9 Toulon and Political Opportunity H2 owners states Status before developing its fact, operating condition, consequence, and limitation. -->
+<!-- @evidence principles/settings.md#fact-status The Toulon and Political Opportunity H2 statuses distinguish established historical claims, contested or source-dependent reconstructions, and owner-adopted work decisions instead of presenting every detail as equally certain. -->
+<!-- @evidence principles/settings.md#source-support The Toulon and Political Opportunity file carries 17 direct source URL marker(s) and identifies uncertainty where the surviving record does not settle a detail; fictional connective decisions remain marked as such. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The Toulon and Political Opportunity H2 owners specify the actors, institutions, dates, material conditions, information limits, and downstream boundaries required to use this domain without inventing its foundations. -->
+<!-- @evidence principles/settings.md#minimal-departure The Toulon and Political Opportunity file keeps departures from the record bounded: it may choose a usable narrative emphasis, but it does not silently change documented dates, identities, institutions, or contested status. -->
+<!-- @evidence principles/settings.md#internal-coherence The Toulon and Political Opportunity file keeps its 9 owners consistent in chronology, geography, institutional authority, terminology, and the distinction between evidence and narrative-use decisions. -->
+<!-- @evidence principles/common.md#bounded-historical-invention The Toulon and Political Opportunity file permits only bounded connective invention around the documented historical record; it does not fabricate quotations, hidden motives, or unsupported precision. -->
+<!-- @evidence principles/common.md#historical-claim-provenance Historical claims in the Toulon and Political Opportunity file are assigned to their source-bearing H2 owners, with source-dependent details and work decisions visibly separated for downstream checking. -->
+<!-- @evidence principles/common.md#historical-corroboration The Toulon and Political Opportunity file treats source agreement, disagreement, and silence as distinct statuses and requires later prose to preserve those limits rather than laundering one retrospective into certainty. -->
 # Toulon and Political Opportunity
 
 This file owns the factual boundary for Napoleon's first public breakthrough at Toulon.
@@ -5,6 +18,10 @@ This file owns the factual boundary for Napoleon's first public breakthrough at 
 <!-- principles/common.md#purpose-fit principles/common.md#layer-boundary principles/common.md#work-language -->
 
 ## Toulon as port, arsenal, and contested city {#toulon-as-port-arsenal-and-contested-city}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Toulon as port, arsenal, and contested city is marked Source-supported for Toulon's strategic importance in 1793; detailed fort names, batteries, and dates belong to the dedicated battle owner.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Toulon as port, arsenal, and contested city host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Toulon as port, arsenal, and contested city host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Toulon as port, arsenal, and contested city host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-supported for Toulon's strategic importance in 1793; detailed fort names, batteries, and dates belong to the dedicated battle owner.
 
@@ -13,6 +30,10 @@ Toulon combines a harbor, arsenal, naval access, roads, hills, and a divided pol
 Sources: Fondation Napoléon, “1769–1793: Napoleon Bonaparte's early years,” https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/; Fondation Napoléon, “The Boyhood and Youth of Napoleon,” https://www.napoleon.org/en/magazine/publications/the-boyhood-and-youth-of-napoleon/.
 
 ## Fortification harbor and line of sight {#fortification-harbor-and-line-of-sight}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Fortification harbor and line of sight is marked Work boundary grounded in artillery mechanics. Toulon's decisive positions must be mapped by a later battle owner from plans and direct accounts.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Fortification harbor and line of sight host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Fortification harbor and line of sight host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Fortification harbor and line of sight host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work boundary grounded in artillery mechanics. Toulon's decisive positions must be mapped by a later battle owner from plans and direct accounts.
 
@@ -21,6 +42,10 @@ A fort controls more than its parapet: its approaches, magazines, water, communi
 Sources: Fondation Napoléon, “Napoleon’s ‘Grande Armée’ (1),” https://www.napoleon.org/en/young-historians/napodoc/napoleons-grande-armee-1/.
 
 ## Fortification plan versus working battery {#fortification-plan-versus-working-battery}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Fortification plan versus working battery is marked Work canon grounded in artillery practice; exact Toulon positions require direct plans and siege reports.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Fortification plan versus working battery host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Fortification plan versus working battery host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Fortification plan versus working battery host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon grounded in artillery practice; exact Toulon positions require direct plans and siege reports.
 
@@ -31,6 +56,10 @@ The battery also needs workers. Engineers prepare platforms and entrenchments; d
 Sources: Fondation Napoléon, “Napoleon’s ‘Grande Armée’ (1),” https://www.napoleon.org/en/young-historians/napodoc/napoleons-grande-armee-1/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Commissioners, officers, and proposal authority {#commissioners-officers-and-proposal-authority}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Commissioners, officers, and proposal authority is marked Source-supported in institutional relationship; exact Toulon conversations and wording remain contested.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Commissioners, officers, and proposal authority host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Commissioners, officers, and proposal authority host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Commissioners, officers, and proposal authority host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-supported in institutional relationship; exact Toulon conversations and wording remain contested.
 
@@ -41,6 +70,10 @@ The commissioners also receive competing reports. A naval officer sees anchorage
 Sources: Fondation Napoléon, “The correspondence of Napoleon,” https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Toulon civilians and foreign occupation {#toulon-civilians-and-foreign-occupation}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Toulon civilians and foreign occupation is marked Source-required domain. Toulon contains divided civilians, sailors, administrators, and foreign forces whose aims cannot be reduced to a French military map.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Toulon civilians and foreign occupation host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Toulon civilians and foreign occupation host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Toulon civilians and foreign occupation host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-required domain. Toulon contains divided civilians, sailors, administrators, and foreign forces whose aims cannot be reduced to a French military map.
 
@@ -51,6 +84,10 @@ Foreign troops bring their own orders, language, uniforms, and supply needs. The
 Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Promotion as collective result {#promotion-as-collective-result}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Promotion as collective result is marked Source-supported and source-critical. Toulon advances Napoleon's public reputation, but later French narratives can exaggerate singular authorship.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Promotion as collective result host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Promotion as collective result host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Promotion as collective result host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-supported and source-critical. Toulon advances Napoleon's public reputation, but later French narratives can exaggerate singular authorship.
 
@@ -59,6 +96,10 @@ The breakthrough is a convergence of technical contribution, political opportuni
 Sources: Fondation Napoléon, “1769–1793: Napoleon Bonaparte's early years,” https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/; Fondation Napoléon, “The Boyhood and Youth of Napoleon,” https://www.napoleon.org/en/magazine/publications/the-boyhood-and-youth-of-napoleon/.
 
 ## Republican commissioners and military authority {#republican-commissioners-and-military-authority}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Republican commissioners and military authority is marked Work canon. In 1793 political representatives and military commanders overlap without being identical; Napoleon's proposal requires persuasion, resources, and execution.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Republican commissioners and military authority host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Republican commissioners and military authority host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Republican commissioners and military authority host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. In 1793 political representatives and military commanders overlap without being identical; Napoleon's proposal requires persuasion, resources, and execution.
 
@@ -67,6 +108,10 @@ A young artillery officer may identify a decisive position, but commissioners de
 Sources: Fondation Napoléon, *Correspondance générale* chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/chronology-of-the-general-correspondence-of-napoleon-bonaparte-volume-one-the-learnings-1784-1797/; Fondation Napoléon, “The correspondence of Napoleon,” https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/.
 
 ## Artillery proposal and execution constraints {#artillery-proposal-and-execution-constraints}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Artillery proposal and execution constraints is marked Source-supported in broad outline; exact wording of Napoleon's plan and the sequence of every gun movement remain contested.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Artillery proposal and execution constraints host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Artillery proposal and execution constraints host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Artillery proposal and execution constraints host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-supported in broad outline; exact wording of Napoleon's plan and the sequence of every gun movement remain contested.
 
@@ -75,6 +120,10 @@ The operational test is whether guns can reach a commanding point, receive ammun
 Sources: Fondation Napoléon, “1769–1793: Napoleon Bonaparte's early years,” https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonaparte-early-years/; Fondation Napoléon, “Napoleon’s ‘Grande Armée’ (1),” https://www.napoleon.org/en/young-historians/napodoc/napoleons-grande-armee-1/.
 
 ## Promotion and the first public reputation {#promotion-and-the-first-public-reputation}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Promotion and the first public reputation is marked Source-supported for Toulon's role in Napoleon's rise to general; later memoirs and propaganda exaggerate singular authorship.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Promotion and the first public reputation host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Promotion and the first public reputation host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Promotion and the first public reputation host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-supported for Toulon's role in Napoleon's rise to general; later memoirs and propaganda exaggerate singular authorship.
 
