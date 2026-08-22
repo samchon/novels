@@ -30,6 +30,7 @@ This file separates current real-world legal baselines from fictional Haneul ope
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Education-law baseline” H2 from Status through its final boundary. Its first operating statement is “The Korean Elementary and Secondary Education Act Article 24, effective 2026-08-20, and the Enforcement Decree Article 44, effective 2026-05-26, are the current official baselines ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Education-law baseline host gives 131 authored words across 3 paragraphs to its distinct legal/records decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Education-law baseline acknowledgement is grounded in this host's Status and its concrete opening statement 'ne plus work decision for fictional application.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Education-law baseline” H2 from Status through its final boundary. Its first operating statement is “The Korean Elementary and Secondary Education Act Article 24, effective 2026-08-20, and the Enforcement Decree Article 44, effective 2026-05-26, are the current official baselines ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Source-backed baseline plus work decision for fictional application.
 
@@ -45,6 +46,7 @@ The novel does not quote a legal baseline as permission for a student to enter a
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “School record categories” H2 from Status through its final boundary. Its first operating statement is “Haneul records are separated into instructional records, attendance and examination records, student-support or safeguarding records, facilities and booking records, club working r”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The School record categories host gives 97 authored words across 3 paragraphs to its distinct legal/records decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The School record categories acknowledgement is grounded in this host's Status and its concrete opening statement 'n — fictional record canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “School record categories” H2 from Status through its final boundary. Its first operating statement is “Haneul records are separated into instructional records, attendance and examination records, student-support or safeguarding records, facilities and booking records, club working r”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — fictional record canon.
 
@@ -60,6 +62,7 @@ The founders request the category and owner before asking for contents. A public
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Data minimization and purpose” H2 from Status through its final boundary. Its first operating statement is “The club collects the minimum information needed for a stated activity: names or contact routes, consent scope, access function, equipment, time, and responsible host. It does not ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Data minimization and purpose host gives 83 authored words across 3 paragraphs to its distinct legal/records decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Data minimization and purpose acknowledgement is grounded in this host's Status and its concrete opening statement 'n — privacy rule.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Data minimization and purpose” H2 from Status through its final boundary. Its first operating statement is “The club collects the minimum information needed for a stated activity: names or contact routes, consent scope, access function, equipment, time, and responsible host. It does not ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — privacy rule.
 
@@ -75,6 +78,7 @@ Before collection, the holder explains purpose, audience, retention, correction,
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Correction and contested record” H2 from Status through its final boundary. Its first operating statement is “A person may identify a factual error, missing context, wrong name, stale route, or misattributed quote. The record owner states how to request correction, what can be amended, wha”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Correction and contested record host gives 97 authored words across 3 paragraphs to its distinct legal/records decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Correction and contested record acknowledgement is grounded in this host's Status and its concrete opening statement 'n — administrative process.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Correction and contested record” H2 from Status through its final boundary. Its first operating statement is “A person may identify a factual error, missing context, wrong name, stale route, or misattributed quote. The record owner states how to request correction, what can be amended, wha”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — administrative process.
 
@@ -90,6 +94,7 @@ Where two accounts conflict, both are labelled by source and date until the comp
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Consent and minor participation” H2 from Status through its final boundary. Its first operating statement is “Consent requirements vary by activity, risk, data, and host. A student’s willingness to attend does not automatically authorize image publication, public quotation, travel, equipme”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Consent and minor participation host gives 81 authored words across 3 paragraphs to its distinct legal/records decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Consent and minor participation acknowledgement is grounded in this host's Status and its concrete opening statement 'n — safeguarding boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Consent and minor participation” H2 from Status through its final boundary. Its first operating statement is “Consent requirements vary by activity, risk, data, and host. A student’s willingness to attend does not automatically authorize image publication, public quotation, travel, equipme”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — safeguarding boundary.
 
@@ -105,6 +110,7 @@ The founders explain risks in language the participant can understand and provid
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Accessibility legal reference and fictional design” H2 from Status through its final boundary. Its first operating statement is “The official Accessibility Act and its Enforcement Rule Appendix 1 provide technical and legal reference points used in `050`, including route, door, lift, ramp, and toilet dimensi”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Accessibility legal reference and fictional design host gives 121 authored words across 3 paragraphs to its distinct legal/records decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Accessibility legal reference and fictional design acknowledgement is grounded in this host's Status and its concrete opening statement 'ne plus work decision.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Accessibility legal reference and fictional design” H2 from Status through its final boundary. Its first operating statement is “The official Accessibility Act and its Enforcement Rule Appendix 1 provide technical and legal reference points used in `050`, including route, door, lift, ramp, and toilet dimensi”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Source-backed baseline plus work decision.
 
@@ -120,6 +126,7 @@ Haneul’s corridor, lift, ramp, and room dimensions are work decisions aligned 
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Public information and restricted information” H2 from Status through its final boundary. Its first operating statement is “Public information may include a published timetable, closure notice, public budget, or approved meeting record. Restricted information may include student support, contact details”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Public information and restricted information host gives 87 authored words across 3 paragraphs to its distinct legal/records decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Public information and restricted information acknowledgement is grounded in this host's Status and its concrete opening statement 'n — information boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Public information and restricted information” H2 from Status through its final boundary. Its first operating statement is “Public information may include a published timetable, closure notice, public budget, or approved meeting record. Restricted information may include student support, contact details”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — information boundary.
 
@@ -135,6 +142,7 @@ The founders ask for a redacted or aggregate version when individual detail is u
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Images, audio, and location data” H2 from Status through its final boundary. Its first operating statement is “Recording has a purpose, subject, device, storage owner, access list, and deletion or correction path. A face, voice, uniform, route, timestamp, or window view can identify a perso”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Images, audio, and location data host gives 90 authored words across 3 paragraphs to its distinct legal/records decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Images, audio, and location data acknowledgement is grounded in this host's Status and its concrete opening statement 'n — media canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Images, audio, and location data” H2 from Status through its final boundary. Its first operating statement is “Recording has a purpose, subject, device, storage owner, access list, and deletion or correction path. A face, voice, uniform, route, timestamp, or window view can identify a perso”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — media canon.
 
@@ -150,6 +158,7 @@ The founders seek applicable host consent, avoid recording confidential conversa
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Copyright, quotation, and attribution” H2 from Status through its final boundary. Its first operating statement is “The club distinguishes its own map, a public-domain or licensed source, a quotation, a paraphrase, and a screenshot. A source record includes title, issuer or author, date, locator”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Copyright, quotation, and attribution host gives 92 authored words across 3 paragraphs to its distinct legal/records decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Copyright, quotation, and attribution acknowledgement is grounded in this host's Status and its concrete opening statement 'n — research practice.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Copyright, quotation, and attribution” H2 from Status through its final boundary. Its first operating statement is “The club distinguishes its own map, a public-domain or licensed source, a quotation, a paraphrase, and a screenshot. A source record includes title, issuer or author, date, locator”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — research practice.
 
@@ -165,6 +174,7 @@ The English manuscript may quote briefly for a defined purpose and otherwise par
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Contracts, grants, and institutional promises” H2 from Status through its final boundary. Its first operating statement is “A grant, donation, room booking, service order, or partnership has issuer, recipient, scope, amount or in-kind value, term, reporting duty, cancellation, and signature or approval ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Contracts, grants, and institutional promises host gives 80 authored words across 3 paragraphs to its distinct legal/records decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Contracts, grants, and institutional promises acknowledgement is grounded in this host's Status and its concrete opening statement 'n — authority canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Contracts, grants, and institutional promises” H2 from Status through its final boundary. Its first operating statement is “A grant, donation, room booking, service order, or partnership has issuer, recipient, scope, amount or in-kind value, term, reporting duty, cancellation, and signature or approval ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — authority canon.
 
@@ -180,6 +190,7 @@ The founders read conditions before promising public outcomes. Restricted funds 
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Appeals and escalation” H2 from Status through its final boundary. Its first operating statement is “An appeal identifies the decision, issuer, date, affected right or resource, grounds, requested remedy, deadline, and receiving authority. A request for explanation is not always a”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Appeals and escalation host gives 92 authored words across 3 paragraphs to its distinct legal/records decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Appeals and escalation acknowledgement is grounded in this host's Status and its concrete opening statement 'n — procedural access.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Appeals and escalation” H2 from Status through its final boundary. Its first operating statement is “An appeal identifies the decision, issuer, date, affected right or resource, grounds, requested remedy, deadline, and receiving authority. A request for explanation is not always a”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — procedural access.
 
@@ -195,6 +206,7 @@ An appeal does not automatically suspend a safety closure, key restriction, exam
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Legal uncertainty and fictional law” H2 from Status through its final boundary. Its first operating statement is “When a real legal question matters, the owner consults a current official source and records title, article, effective date, and scope. If the source is unavailable, ambiguous, or ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Legal uncertainty and fictional law host gives 96 authored words across 3 paragraphs to its distinct legal/records decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Legal uncertainty and fictional law acknowledgement is grounded in this host's Status and its concrete opening statement 'n — uncertainty protocol.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Legal uncertainty and fictional law” H2 from Status through its final boundary. Its first operating statement is “When a real legal question matters, the owner consults a current official source and records title, article, effective date, and scope. If the source is unavailable, ambiguous, or ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — uncertainty protocol.
 
