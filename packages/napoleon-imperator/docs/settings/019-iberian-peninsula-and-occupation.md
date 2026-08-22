@@ -1,3 +1,16 @@
+<!-- @evidence principles/common.md#purpose-fit The Iberian Peninsula and Occupation file fixes the historical and material setting needed by the twenty-volume English novel; its opening scope is This file owns the long-war conditions in Spain and Portugal.. -->
+<!-- @evidence principles/common.md#layer-boundary The Iberian Peninsula and Occupation file records addressable facts, constraints, source status, and work decisions; it does not prescribe storyline order, scene blocking, or finished manuscript prose. -->
+<!-- @evidence principles/common.md#work-language The Iberian Peninsula and Occupation file is authored in consistent English and preserves the period names, French institutional terms, and place-name variants needed for a readable historical novel. -->
+<!-- @evidence principles/settings.md#addressable-canon The Iberian Peninsula and Occupation file assigns its distinct canon to 8 independently anchored H2 owners, so later layers can cite a precise fact rather than a whole-file summary. -->
+<!-- @evidence principles/settings.md#information-structure Each of the 8 Iberian Peninsula and Occupation H2 owners states Status before developing its fact, operating condition, consequence, and limitation. -->
+<!-- @evidence principles/settings.md#fact-status The Iberian Peninsula and Occupation H2 statuses distinguish established historical claims, contested or source-dependent reconstructions, and owner-adopted work decisions instead of presenting every detail as equally certain. -->
+<!-- @evidence principles/settings.md#source-support The Iberian Peninsula and Occupation file carries 15 direct source URL marker(s) and identifies uncertainty where the surviving record does not settle a detail; fictional connective decisions remain marked as such. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The Iberian Peninsula and Occupation H2 owners specify the actors, institutions, dates, material conditions, information limits, and downstream boundaries required to use this domain without inventing its foundations. -->
+<!-- @evidence principles/settings.md#minimal-departure The Iberian Peninsula and Occupation file keeps departures from the record bounded: it may choose a usable narrative emphasis, but it does not silently change documented dates, identities, institutions, or contested status. -->
+<!-- @evidence principles/settings.md#internal-coherence The Iberian Peninsula and Occupation file keeps its 8 owners consistent in chronology, geography, institutional authority, terminology, and the distinction between evidence and narrative-use decisions. -->
+<!-- @evidence principles/common.md#bounded-historical-invention The Iberian Peninsula and Occupation file permits only bounded connective invention around the documented historical record; it does not fabricate quotations, hidden motives, or unsupported precision. -->
+<!-- @evidence principles/common.md#historical-claim-provenance Historical claims in the Iberian Peninsula and Occupation file are assigned to their source-bearing H2 owners, with source-dependent details and work decisions visibly separated for downstream checking. -->
+<!-- @evidence principles/common.md#historical-corroboration The Iberian Peninsula and Occupation file treats source agreement, disagreement, and silence as distinct statuses and requires later prose to preserve those limits rather than laundering one retrospective into certainty. -->
 # Iberian Peninsula and Occupation
 
 This file owns the long-war conditions in Spain and Portugal.
@@ -5,6 +18,10 @@ This file owns the long-war conditions in Spain and Portugal.
 <!-- principles/common.md#purpose-fit principles/common.md#layer-boundary principles/common.md#work-language -->
 
 ## Peninsula geography and divided authority {#peninsula-geography-and-divided-authority}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Peninsula geography and divided authority is marked Source-required domain. Mountains, roads, cities, ports, languages, local jurisdictions, and seasonal weather frustrate centralized command.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Peninsula geography and divided authority host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Peninsula geography and divided authority host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Peninsula geography and divided authority host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-required domain. Mountains, roads, cities, ports, languages, local jurisdictions, and seasonal weather frustrate centralized command.
 
@@ -13,6 +30,10 @@ An army can occupy a capital while failing to control its roads or countryside. 
 Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Peninsula roads and fragmented sovereignty {#peninsula-roads-and-fragmented-sovereignty}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Peninsula roads and fragmented sovereignty is marked Source-required domain. Mountains, roads, ports, languages, municipal jurisdictions, and seasons prevent a single occupation map from describing Iberia.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Peninsula roads and fragmented sovereignty host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Peninsula roads and fragmented sovereignty host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Peninsula roads and fragmented sovereignty host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-required domain. Mountains, roads, ports, languages, municipal jurisdictions, and seasons prevent a single occupation map from describing Iberia.
 
@@ -21,6 +42,10 @@ An army can hold a capital while losing its roads, couriers, and countryside. Fr
 Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Bayonne dynastic intervention and legitimacy {#bayonne-dynastic-intervention-and-legitimacy}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Bayonne dynastic intervention and legitimacy is marked Work canon. Dynastic replacement affects clergy, municipalities, property, military allegiance, and family identity; a decree cannot manufacture acceptance.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Bayonne dynastic intervention and legitimacy host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Bayonne dynastic intervention and legitimacy host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Bayonne dynastic intervention and legitimacy host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. Dynastic replacement affects clergy, municipalities, property, military allegiance, and family identity; a decree cannot manufacture acceptance.
 
@@ -29,6 +54,10 @@ Ceremony and coercion operate together. A new king requires proclamations, offic
 Sources: Fondation Napoléon biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Insurgency intelligence and reprisal {#insurgency-intelligence-and-reprisal}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Insurgency intelligence and reprisal is marked Source-critical. French reports often describe resistance as brigandage; local fighters, civilians, clergy, informers, and regular troops overlap.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Insurgency intelligence and reprisal host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Insurgency intelligence and reprisal host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Insurgency intelligence and reprisal host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-critical. French reports often describe resistance as brigandage; local fighters, civilians, clergy, informers, and regular troops overlap.
 
@@ -37,6 +66,10 @@ Control depends on guides, hostages, patrols, reprisals, food, and protection. A
 Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## British Portuguese endurance and supply {#british-portuguese-endurance-and-supply}
+<!-- @evidence obligations/common.md#evidence-content-conformance The British Portuguese endurance and supply is marked Work boundary. Allied sea supply, local cooperation, retreat discipline, and Wellington's operations require campaign-specific owners.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The British Portuguese endurance and supply host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The British Portuguese endurance and supply host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The British Portuguese endurance and supply host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work boundary. Allied sea supply, local cooperation, retreat discipline, and Wellington's operations require campaign-specific owners.
 
@@ -45,6 +78,10 @@ An opponent with secure ports, protected magazines, local allies, and a discipli
 Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Bayonne institutions and dynastic intervention {#bayonne-institutions-and-dynastic-intervention}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Bayonne institutions and dynastic intervention is marked Source-supported for Napoleon's intervention in Spanish dynastic politics; exact legal and personal consequences require a dedicated owner.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Bayonne institutions and dynastic intervention host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Bayonne institutions and dynastic intervention host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Bayonne institutions and dynastic intervention host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-supported for Napoleon's intervention in Spanish dynastic politics; exact legal and personal consequences require a dedicated owner.
 
@@ -53,6 +90,10 @@ Dynastic replacement affects legitimacy, clergy, municipal authority, military a
 Sources: Fondation Napoléon biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/.
 
 ## Insurgency and counterinsurgency {#insurgency-and-counterinsurgency}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Insurgency and counterinsurgency is marked Work canon. Local fighters, civilians, clergy, bandits, regular troops, and informers overlap; French reports may collapse them into brigands.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Insurgency and counterinsurgency host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Insurgency and counterinsurgency host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Insurgency and counterinsurgency host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. Local fighters, civilians, clergy, bandits, regular troops, and informers overlap; French reports may collapse them into brigands.
 
@@ -61,6 +102,10 @@ Control depends on intelligence, hostages, reprisals, escorts, food, and protect
 Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Wellington and allied endurance {#wellington-and-allied-endurance}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Wellington and allied endurance is marked Source-supported for British-Portuguese cooperation as a major strategic constraint; individual campaigns require separate owners.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Wellington and allied endurance host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Wellington and allied endurance host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Wellington and allied endurance host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-supported for British-Portuguese cooperation as a major strategic constraint; individual campaigns require separate owners.
 
