@@ -60,6 +60,14 @@ Withdrawal is allowed before or during participation. A person can ask for a pau
 
 ## Peer roles without forced representation
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes peer roles, expertise, representation limits, refusal, rotation, and nonparticipant protection. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked roles, representation, refusal, and rotation boundaries; no peer must speak for a group. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete role and representation boundary without assigning an event. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the role and refusal clauses; expertise does not create compulsory representation. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates role, expertise, representation, rotation, refusal, and protection. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the role effects; refusal is the independent agency control. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional peer-role rules and avoids demographic representation claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and role wording; no external group claim is made. -->
 
 **Status:** Work decision — role boundary.
 
