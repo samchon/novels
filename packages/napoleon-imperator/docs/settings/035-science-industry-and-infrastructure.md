@@ -1,5 +1,5 @@
 <!-- @evidence principles/common.md#purpose-fit This file makes technical change executable as institutions, labor, money, objects, and users. -->
-<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa Reread all eight units; each owns a distinct scientific, industrial, infrastructural, or boundary mechanism. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa Reread the eight anchors from state patronage through technical storyline handoff; each turns technical modernity into a usable institution, object, or limit. -->
 <!-- @evidence principles/common.md#layer-boundary These H2s state material settings and limits; inventions, scenes, and reveals remain downstream. -->
 <!-- @evidenceReview principles/common.md#layer-boundary #c239986 Compared 035 with 016, 031, and 036; it does not take over logistics, education, or communications. -->
 <!-- @evidence principles/common.md#work-language The English file explains patronage, engineer, arsenal, canal, standard, workshop, and maintenance without assuming technical expertise. -->
