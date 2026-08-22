@@ -1,26 +1,8 @@
-<!--
-@evidence principles/common.md#purpose-fit This 030-chronology-baseline settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Its material serves the work's civic-school promise.
-@evidence principles/common.md#layer-boundary This 030-chronology-baseline settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. It records facts and constraints rather than scene order or finished prose.
-@evidence principles/common.md#work-language This 030-chronology-baseline settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Its authored setting text uses consistent readable English and preserves meaningful language context.
-@evidence principles/settings.md#addressable-canon This 030-chronology-baseline settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Its independent setting owners are exposed as stable H2 units.
-@evidence principles/settings.md#information-structure This 030-chronology-baseline settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Each H2 gives status, orientation, conditions, limits, and downstream significance.
-@evidence principles/settings.md#fact-status This 030-chronology-baseline settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. It labels fictional decisions and distinguishes source-backed or uncertain claims.
-@evidence principles/settings.md#source-support This 030-chronology-baseline settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Externally checkable precision is bounded by direct sources or explicitly marked as fictional.
-@evidence principles/settings.md#constraint-sufficiency This 030-chronology-baseline settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. The domain records the resources, authorities, dependencies, costs, and exceptions downstream requires.
-@evidence principles/settings.md#minimal-departure This 030-chronology-baseline settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. It states Haneul-specific departures instead of silently changing ordinary defaults.
-@evidence principles/settings.md#internal-coherence This 030-chronology-baseline settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Its dates, capacities, ownership, routes, and layer boundaries remain consistent with the rest of settings.
--->
-
 # Chronology Baseline
 
 This file fixes the calendar that every later setting, storyline, scenario, and manuscript must use. It distinguishes the legal school-year container from Haneul's fictional instructional calendar, and it records the pre-story conditions that make dates materially consequential. It does not allocate scenes, reveals, chapters, or volume beats; those belong to later layers and to `040-volume-time-boundaries.md`.
 
 ## Opening date
-
-<!-- @evidence obligations/common.md#scope-preservation The Opening date H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Opening date H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Opening date H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Opening date H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Source-verified legal baseline plus Work decision for Haneul's fictional delivery.
 
@@ -33,11 +15,6 @@ The first instructional day has ordinary operational conditions: morning transit
 The opening date is a Work decision because the future Haneul and its founders are fictional. The legal container is not fictional: Article 24 of the Elementary and Secondary Education Act states that a school's academic year begins on March 1 and ends at the end of February. That article also leaves school-term, instructional-day, closure-day, and curriculum-operation details to the Enforcement Decree and related administration. The source was opened directly as the National Law Information Center document “Elementary and Secondary Education Act, Article 24 (Classes, etc.),” effective 2026-08-20; its direct locator is https://www.law.go.kr/LSW/lsLinkCommonInfo.do?lsJoLnkSeq=1032276043. The law is a current-law baseline at 2026-08-21, not a prediction that Korean law will remain unchanged through 2031.
 
 ## School-year rule
-
-<!-- @evidence obligations/common.md#scope-preservation The School-year rule H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The School-year rule H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The School-year rule H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The School-year rule H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Source-verified legal rule with a Work-decision calendar application.
 
@@ -52,11 +29,6 @@ The March 1 rule does not itself require a first class on March 1. In this work 
 The direct source is the National Law Information Center document “Elementary and Secondary Education Act, Article 24 (Classes, etc.),” effective 2026-08-20, at https://www.law.go.kr/LSW/lsLinkCommonInfo.do?lsJoLnkSeq=1032276043. Its legal date is current-law evidence; the specific Haneul instructional windows below are Work decisions.
 
 ## Semester and term boundaries
-
-<!-- @evidence obligations/common.md#scope-preservation The Semester and term boundaries H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Semester and term boundaries H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Semester and term boundaries H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Semester and term boundaries H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Source-verified statutory semester rule plus Work decision for all Haneul dates.
 
@@ -78,11 +50,6 @@ The source is the National Law Information Center document “Elementary and Sec
 
 ## Examination periods
 
-<!-- @evidence obligations/common.md#scope-preservation The Examination periods H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Examination periods H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Examination periods H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Examination periods H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
-
 **Status:** Work decision for Haneul's published calendar; weekday audit completed.
 
 Haneul publishes four Monday-to-Friday examination windows in each of the three high-school years. The windows are protected assessment periods: routine club activity, recruitment, unsupervised room use, and voluntary labour cannot be scheduled as though the students had ordinary after-school capacity. A school notice can assign a room, paper, digital system, accommodation contact, and collection procedure; it cannot erase transport, illness, disability access, family work, or the recovery time needed after an examination.
@@ -100,11 +67,6 @@ The first two windows in each row occur in semester 1 and the last two in semest
 The dates are fictional Haneul scheduling decisions. The legal baseline comes from the school-year and semester rules already identified, not from a claim that national law mandates these exact examination weeks. The school examination authority remains separate from the student council, game club, and city government. If a later layer needs a moved examination, it must record the original window, the authorized reason, the replacement dates, and the affected semester membership; it may not silently replace one date with another.
 
 ## Holidays and vacations
-
-<!-- @evidence obligations/common.md#scope-preservation The Holidays and vacations H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Holidays and vacations H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Holidays and vacations H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Holidays and vacations H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision for recess and closure windows, with legal semester membership preserved.
 
@@ -124,11 +86,6 @@ The first instructional day in 2029–30 is Monday, 2029-03-05. Friday, 2029-03-
 
 ## Founder age arithmetic
 
-<!-- @evidence obligations/common.md#scope-preservation The Founder age arithmetic H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Founder age arithmetic H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Founder age arithmetic H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Founder age arithmetic H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
-
 **Status:** Work decision calculated from fixed birth dates using completed international age.
 
 The founders' birth dates are Minseo Han — 2011-11-18; Jae-won Park — 2011-06-02; Lila Reyes — 2012-01-27; and Do-yun Choi — 2011-09-09. Age is calculated by completed years followed by months and days, not by the former Korean age convention and not by rounding a birth year. On a birthday the year count increases; before that birthday it does not. A school record may display a grade and an age field differently, but the underlying date arithmetic remains this canon.
@@ -140,11 +97,6 @@ At the graduation boundary, 2030-02-28, Minseo is 18 years, 3 months, 10 days; J
 Age does not itself grant room keys, school records, spending authority, or permission to represent Haneul. Those powers belong to the institutional settings and their procedures. Conversely, a person reaching a birthday does not erase an existing commitment, fatigue, injury, or family obligation. Downstream authors must use the exact date when age changes legal access, consent procedure, travel feasibility, or a person's understanding of their own time.
 
 ## Grade progression
-
-<!-- @evidence obligations/common.md#scope-preservation The Grade progression H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Grade progression H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Grade progression H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Grade progression H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision aligned with the three-year high-school structure; no volume or scene allocation is owned here.
 
@@ -164,11 +116,6 @@ The three-year high-school term is supported by the Elementary and Secondary Edu
 
 ## Graduation boundary
 
-<!-- @evidence obligations/common.md#scope-preservation The Graduation boundary H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Graduation boundary H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Graduation boundary H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Graduation boundary H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
-
 **Status:** Work decision bounded by current-law record and graduation provisions.
 
 The third academic year ends on Thursday, 2030-02-28. That date is the final day on which the founders are treated as current Haneul students for the chronology. Graduation administration occupies 2030-02-08 through 2030-02-28 inside semester 2; it may include record checking, certificate preparation, key return, archive transfer, accessibility review, and notices about alumni access. The boundary is a date range for administrative work and a precise end date for student status, not a claim that a ceremony must occur on a particular hour.
@@ -181,11 +128,6 @@ Article 46 of the Elementary and Secondary Education Act provides the three-year
 
 ## Pre-story Haneul city era
 
-<!-- @evidence obligations/common.md#scope-preservation The Pre-story Haneul city era H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Pre-story Haneul city era H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Pre-story Haneul city era H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Pre-story Haneul city era H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
-
 **Status:** Work decision establishing fictional pre-story continuity; not a historical claim about a real city.
 
 Haneul is a fictional metropolitan city whose civic records and education records must not be merged. Before the founders' first instructional day, the city was already an inhabited system of apartment districts, older low-rise streets, a stream corridor, a market, bus interchanges, public libraries, schools, clinics, repair shops, and families whose work begins before school and ends after it. The school sits within the city but is not city hall. The Haneul Metropolitan Office of Education supervises the public-school side; city hall manages municipal roads, drainage, public facilities, and civic records within its lawful boundary.
@@ -197,11 +139,6 @@ The city begins the story with accumulated memory rather than a blank map. Peopl
 No pre-story event is a hidden plot solution. The flood and fire below are standing constraints with surviving records, repairs, habits, and disagreements. The chronology permits downstream narratives to make choices under those conditions, but does not prescribe which character discovers which record or when a reader learns it.
 
 ## 2019 flood legacy
-
-<!-- @evidence obligations/common.md#scope-preservation The 2019 flood legacy H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The 2019 flood legacy H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The 2019 flood legacy H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The 2019 flood legacy H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision for a fictional municipal flood and its continuing material consequences.
 
@@ -216,11 +153,6 @@ Records retain different kinds of truth. The municipal flood-response office own
 During a flood warning, volunteers are barred from the channel and basement. Storage remains restricted until the youth-centre coordinator records inspection and reopening. The school may substitute a remote or above-ground task, but no club leader may turn the yellow gauge into a challenge, move a barrier, or count a cancelled shift as completed. This event and all its repairs, detour costs, notices, and authority boundaries are fictional canon; it carries no claim about a real city.
 
 ## 2022 fire legacy
-
-<!-- @evidence obligations/common.md#scope-preservation The 2022 fire legacy H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The 2022 fire legacy H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The 2022 fire legacy H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The 2022 fire legacy H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision for a fictional school fire and its continuing safety controls.
 
@@ -237,11 +169,6 @@ The booth's twelve-seat limit includes the people actually inside, not merely th
 The fire legacy is therefore a standing chronology constraint: every later date involving the booth carries the rebuilt room's capacity, supervision, charging, key, inspection, and archive boundaries. Students can remember smoke or a sealed door, but memory does not replace the inspection record; an inspection record does not describe every person's fear or lost work. This event, its reconstruction, and its records are fictional Work decisions.
 
 ## Post-graduation interval
-
-<!-- @evidence obligations/common.md#scope-preservation The Post-graduation interval H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Post-graduation interval H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Post-graduation interval H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Post-graduation interval H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision defining the final chronological container after student status ends.
 

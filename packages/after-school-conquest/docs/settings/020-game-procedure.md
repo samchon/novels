@@ -1,24 +1,6 @@
-<!--
-@evidence principles/common.md#purpose-fit This 020-game-procedure settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Its material serves the work's civic-school promise.
-@evidence principles/common.md#layer-boundary This 020-game-procedure settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. It records facts and constraints rather than scene order or finished prose.
-@evidence principles/common.md#work-language This 020-game-procedure settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Its authored setting text uses consistent readable English and preserves meaningful language context.
-@evidence principles/settings.md#addressable-canon This 020-game-procedure settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Its independent setting owners are exposed as stable H2 units.
-@evidence principles/settings.md#information-structure This 020-game-procedure settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Each H2 gives status, orientation, conditions, limits, and downstream significance.
-@evidence principles/settings.md#fact-status This 020-game-procedure settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. It labels fictional decisions and distinguishes source-backed or uncertain claims.
-@evidence principles/settings.md#source-support This 020-game-procedure settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Externally checkable precision is bounded by direct sources or explicitly marked as fictional.
-@evidence principles/settings.md#constraint-sufficiency This 020-game-procedure settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. The domain records the resources, authorities, dependencies, costs, and exceptions downstream requires.
-@evidence principles/settings.md#minimal-departure This 020-game-procedure settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. It states Haneul-specific departures instead of silently changing ordinary defaults.
-@evidence principles/settings.md#internal-coherence This 020-game-procedure settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Its dates, capacities, ownership, routes, and layer boundaries remain consistent with the rest of settings.
--->
-
 # Game Procedure
 
 ## Proposal form
-
-<!-- @evidence obligations/common.md#scope-preservation The Proposal form H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Proposal form H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Proposal form H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Proposal form H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision - fictional Haneul procedure consuming G-L01 ontology.
 
@@ -28,11 +10,6 @@ G-P01 cannot include a private address, diagnosis, grade, family story, or photo
 
 ## Host agreement
 
-<!-- @evidence obligations/common.md#scope-preservation The Host agreement H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Host agreement H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Host agreement H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Host agreement H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
-
 **Status:** Work decision - consent procedure.
 
 The secretary sends the completed G-P01 to the person or office able to authorize the task. The host receives a plain-language explanation of task, schedule, burden, hazard, data, publicity, withdrawal route, and the fact that the club has no ownership power. The host may accept written G-H01, give recorded verbal agreement witnessed by the adviser, request a revision, decline, or stop contact. A response is due within seven school days only as an administrative target; silence is “no agreement,” never acceptance.
@@ -40,11 +17,6 @@ The secretary sends the completed G-P01 to the person or office able to authoriz
 The host selects the smallest necessary contact detail and may approve work while refusing data or publicity. The student reads back the operative sentence before signing. A declined proposal retains “declined” status without a reason and cannot be resubmitted for thirty days unless the host initiates a new conversation. This operationalizes 010's consent and refusal standards and does not convert youth participation into a right to enter another person's space. CRC Article 12 is the external participation framework; the task-specific form is fictional. Source: [UN Convention on the Rights of the Child, Article 12](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child#art12).
 
 ## Task boundary
-
-<!-- @evidence obligations/common.md#scope-preservation The Task boundary H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Task boundary H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Task boundary H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Task boundary H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision - executable scope control.
 
@@ -54,11 +26,6 @@ The task may not involve structural repair, medical care, legal advice, private 
 
 ## Volunteer assignment
 
-<!-- @evidence obligations/common.md#scope-preservation The Volunteer assignment H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Volunteer assignment H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Volunteer assignment H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Volunteer assignment H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
-
 **Status:** Work decision - voluntary staffing rule.
 
 The coordinator posts a shift card listing task, location, time, physical demands, equipment, adult contact, accessibility information, and expected hours. Students volunteer privately through the club channel; the coordinator assigns no one who has not accepted the described burden. A student may withdraw until the shift begins and may leave after formal school hours without loss of membership, token, recommendation, or standing.
@@ -66,11 +33,6 @@ The coordinator posts a shift card listing task, location, time, physical demand
 The shift lead carries the paper G-L01, stop card, first-aid contact, and charged phone. A two-person minimum applies to any off-campus task; one person must be the named adult or host contact. If staffing falls below the safe minimum, the coordinator changes the state to “unfilled” and informs the host rather than pressuring a replacement. Work hours are recorded only after the worker confirms them; material donations and expenses remain receipts in the budget ledger.
 
 ## Accessibility check
-
-<!-- @evidence obligations/common.md#scope-preservation The Accessibility check H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Accessibility check H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Accessibility check H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Accessibility check H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision informed by direct accessibility law, with Haneul values fictional.
 
@@ -80,11 +42,6 @@ The output states “accessible as planned,” “accessible with adjustment,”
 
 ## Verification
 
-<!-- @evidence obligations/common.md#scope-preservation The Verification H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Verification H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Verification H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Verification H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
-
 **Status:** Work decision - evidence-before-seal step.
 
 At the end of a shift, the worker marks each completion test on G-V01: quantity, condition, location, time, materials used, unresolved defect, and host contact. The host inspects the result within the agreed window and chooses accepted, accepted-with-maintenance, revise, or not accepted. A photograph is optional and requires separate publicity consent; a host signature or accessible recorded confirmation is the decisive evidence.
@@ -92,11 +49,6 @@ At the end of a shift, the worker marks each completion test on G-V01: quantity,
 The verifier cannot certify unobserved work. A student who worked but could not complete the task receives hours recorded for work actually done and a failure note; no one receives a seal for a false completion. If host and student disagree, the task becomes “questioned” under 010's dispute states and the adviser appoints a nonparticipant reviewer within three school days. Verification proves a task, never the worth of a person or territory.
 
 ## Two-signature rule
-
-<!-- @evidence obligations/common.md#scope-preservation The Two-signature rule H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Two-signature rule H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Two-signature rule H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Two-signature rule H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision - control on certification and school resources.
 
@@ -106,11 +58,6 @@ The signatures confirm only completed scope, not ownership, legal compliance bey
 
 ## Public report
 
-<!-- @evidence obligations/common.md#scope-preservation The Public report H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Public report H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Public report H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Public report H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
-
 **Status:** Work decision - minimum disclosure output.
 
 The secretary prepares G-R01 within three school days after verification. It states territory category rather than private address, task, date, volunteer-hour aggregate, accepted or unresolved status, maintenance due date, resource cost category, and refusal or correction count if relevant. The host approves the wording before posting. Personal names, exact routes to homes, health details, student IDs, and unconsented images are excluded.
@@ -118,11 +65,6 @@ The secretary prepares G-R01 within three school days after verification. It sta
 The public report appears on the accessible notice board and school portal for one term; the signed G-L01 remains in the restricted ledger. The host can request correction or removal of a public detail without erasing the provenance record. A report with missing consent, unclear scope, or disputed evidence is withheld and marked “not publishable.” The publication is civic accountability, not advertising or a score table.
 
 ## Correction record
-
-<!-- @evidence obligations/common.md#scope-preservation The Correction record H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Correction record H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Correction record H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Correction record H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision - transparent repair of inaccurate procedure.
 
@@ -132,11 +74,6 @@ Within seven school days the reviewer decides confirm, amend, retract, or unreso
 
 ## Appeal
 
-<!-- @evidence obligations/common.md#scope-preservation The Appeal H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Appeal H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Appeal H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Appeal H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
-
 **Status:** Work decision - non-circular escalation.
 
 An appeal challenges process, authority, or an unresolved factual consequence, not a host's right to refuse. The initial reviewer sends G-A03 to the named next authority within five school days. A club secretary decision goes to the adviser; an adviser decision goes to the staff Faculty Committee with the adviser recused; a principal school decision follows 150's education-office route; a municipal permission decision goes to the responsible city office; a privacy or safeguarding matter goes to the designated records or child-welfare route.
@@ -145,11 +82,6 @@ The statutory School Governance Committee deliberates school rules, budget, curr
 
 ## Suspension
 
-<!-- @evidence obligations/common.md#scope-preservation The Suspension H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Suspension H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Suspension H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Suspension H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
-
 **Status:** Work decision - temporary stop with preserved provenance.
 
 The adviser, host, shift lead, facilities office, or emergency authority may suspend a task for danger, withdrawn consent, inaccessible route, missing adult, inaccurate scope, severe weather, or a school closure. The person who calls the stop records G-S01 time, reason category, people moved to safety, unfinished work, and who must be notified. The host and students receive an accessible notice the same day; no one is punished for the stop.
@@ -157,11 +89,6 @@ The adviser, host, shift lead, facilities office, or emergency authority may sus
 Suspension states are immediate, reviewed, resumed-with-change, expired, or dissolved. The adviser reviews ordinary suspension within two school days; a statutory safety or municipal closure follows that authority's timetable. Resumption requires host confirmation, corrected risk/access plan, and a new date. Existing tokens remain records of completed hours, while the seal and public map follow 010's expiry rule. A suspended task cannot be advertised as conquered.
 
 ## Dissolution
-
-<!-- @evidence obligations/common.md#scope-preservation The Dissolution H2 owns its required settings scope and preserves the relevant delivery constraint. -->
-<!-- @evidence obligations/common.md#substantive-completion The Dissolution H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
-<!-- @evidence obligations/common.md#proportionate-development The Dissolution H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
-<!-- @evidence obligations/common.md#evidence-content-conformance The Dissolution H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision - orderly end of a task relationship.
 
