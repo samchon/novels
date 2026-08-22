@@ -1,4 +1,25 @@
 
+<!-- @evidence principles/common.md#purpose-fit This file fixes the physical campus and route envelope—parcels, gates, wings, rooms, services, capacity, accessibility, signage, transport, and measurement uncertainty—so later layers can block movement without inventing geometry. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa I reread all twelve spatial H2s; Stairs, lifts, ramps, and accessible route geometry is the weakest promise test because it must connect everyday school movement with civic access. -->
+<!-- @evidence principles/common.md#layer-boundary These H2s establish spatial facts, capacities, authorities, routes, and uncertainty; they do not assign events, scene blocking, plot discovery, or prose. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 I compared all twelve units with the settings boundary; Administrative boundary and Campus measurements constrain downstream scenes without writing their progression. -->
+<!-- @evidence principles/common.md#work-language The file uses stable spatial nouns, explicit dimensions, access thresholds, capacities, and uncertainty labels in readable English so route and room constraints remain unambiguous. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c I checked each measurement and wayfinding term; Lighting, signage, and wayfinding is the weakest clarity unit because visual, tactile, and verbal guidance must coexist. -->
+<!-- @evidence principles/settings.md#addressable-canon Each independently consumable spatial owner has its own H2, separating parcels, thresholds, wings, rooms, service edges, annex, capacities, geometry, amenities, wayfinding, routes, and measurement. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f I counted twelve H2 owners and reread adjacent boundaries; West annex and audiovisual booth remains separate from campus-wide capacity and route geometry. -->
+<!-- @evidence principles/settings.md#information-structure Each H2 begins with Status and develops geometry, authority, capacity, exceptions, access effects, and uncertainty by function rather than hiding dimensions in a map overview. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 I read all twelve units and compared their paragraph roles; Campus measurements is the weakest structure check because exact values and uncertainty must remain distinct. -->
+<!-- @evidence principles/settings.md#fact-status Status lines distinguish fictional Haneul spatial decisions from inherited legal/access constraints and mark measurements as canonical values or bounded uncertainty. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 I checked every Status and measurement qualifier; no campus dimension is presented as an externally surveyed real site. -->
+<!-- @evidence principles/settings.md#source-support The file records fictional physical decisions and routes while applying direct sources only where the host canon requires them; unsupported real-world precision is reduced to declared uncertainty. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 I reread source/uncertainty statements and the measurement H2; no broad map or portal is used as evidence for fictional Haneul geometry. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file fixes gates, circulation, room envelopes, capacities, slopes/turning, lifts, toilets, light, signs, bus/market approaches, scale, and uncertainty for executable downstream spatial use. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 I compared route, room, access, and uncertainty units; accessible route geometry is the narrowest constraint because it must reconcile slope, turning, lift, obstruction, and detour. -->
+<!-- @evidence principles/settings.md#minimal-departure The campus and route dimensions are explicitly fictional Haneul decisions while ordinary accessibility, school/city authority separation, transport, and safety defaults remain operative. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 I compared physical decisions with ordinary institutional authority; Administrative and service-side boundary is the key departure guard against granting city or student control. -->
+<!-- @evidence principles/settings.md#internal-coherence Parcels, gates, wings, routes, capacities, accessible geometry, signage, bus loop, market passage, and measurement scale form one navigable campus envelope without contradictory access paths. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e I traced gate-to-building-to-route relationships and compared capacities with measurements; Campus measurements is the arithmetic anchor for all spatial consumers. -->
+
 # Campus and Routes
 
 This file fixes the physical envelope through which Haneul Public High School, its adjacent civic spaces, and the ordinary routes between them can be imagined and later blocked. It owns surfaces, dimensions, thresholds, sight lines, noise, circulation, accessibility, and physical uncertainty. It does not grant authority, schedule rooms, approve a club, alter the 2019 flood legacy or the 2022 fire record, or decide what happens in a narrative unit. Those matters remain with `030-chronology-baseline.md`, `150-school-institutions.md`, and the game files.
@@ -7,6 +28,14 @@ All dimensions below are fictional Haneul measurements or conservative operating
 
 ## Campus boundary and adjacent parcels
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes school parcel, neighbouring civic/market/youth-centre edges, ownership boundaries, public/private thresholds, and route consequences. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked every parcel and authority edge; the school-versus-city boundary is the narrowest required scope. -->
+<!-- @evidence obligations/common.md#substantive-completion The parcel rule identifies physical limits, responsible institutions, and what a route may cross without implying shared ownership. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the boundary and adjacent-parcel paragraphs; crossing a route does not transfer authority. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops campus, market, civic, and youth-centre edges as distinct spatial consumers. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the four parcel contexts; youth-centre access is the least school-like and remains separately owned. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks Haneul parcels fictional and preserves 030/010 authority distinctions. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and every ownership assertion; no real cadastral claim is made. -->
 
 **Status:** Work decision for Haneul's fictional physical site, informed by current school-facility and accessibility frameworks.
 
@@ -20,6 +49,14 @@ The legal school-facility frame is the School Facilities Project Promotion Act, 
 
 ## Main gate, side gate, and public thresholds
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes gate locations, opening conditions, visitor thresholds, supervision, keys, and public/private transition points. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked main/side/public thresholds and key authority; visitor access is not collapsed into student access. -->
+<!-- @evidence obligations/common.md#substantive-completion The gate rule gives downstream writers entry conditions, supervision boundaries, and refusal/closure consequences. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread entry and threshold conditions; a public gate does not authorize unsupervised interior access. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates arrival, service, visitor, and student thresholds rather than treating gates as scenery. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the gate functions; side/service access is the least visible operational route and is specified. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional campus access rules, not public security law. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and authority wording; keys and thresholds remain work canon. -->
 
 **Status:** Work decision using source-verified access dimensions as a design floor, not a claim that the fictional campus has been legally certified.
 
@@ -33,6 +70,14 @@ The threshold has three simultaneous readings. Physically, it is the line betwee
 
 ## Building wings and circulation spine
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes wing identities, circulation spine, junctions, dead ends, supervision zones, and route continuity. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked each wing/junction and the circulation boundary; no wing is left as an unnamed shortcut. -->
+<!-- @evidence obligations/common.md#substantive-completion The circulation rule establishes how people move between wings, where sightlines change, and which authority controls closures. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread junction and closure conditions; route continuity is fixed without assigning a scene path. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates ordinary, service, annex, and public circulation functions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the wings and junctions; service circulation is the most easily omitted spatial function. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional building geometry and leaves institutional authority intact. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked the geometry/authority distinction; no real campus plan is claimed. -->
 
 **Status:** Work decision for the main block's physical layout, bounded by current egress and accessibility standards.
 
@@ -46,6 +91,14 @@ The Building Act Enforcement Decree's current Article 34 requires direct stairs 
 
 ## Classroom wing and ordinary-room geometry
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes ordinary classroom dimensions, desk/door clearances, windows, storage, noise, occupancy, and room-use limits. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked room envelope, clearance, occupancy, and storage fields; ordinary rooms remain distinct from high-capacity spaces. -->
+<!-- @evidence obligations/common.md#substantive-completion The room rule gives usable geometry, access, sightline, sound, and booking constraints without prescribing classroom events. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the geometry and booking conditions; downstream blocking has dimensions and limits rather than labels alone. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops desks, doors, windows, storage, occupancy, sound, and booking as separate room mechanics. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the room functions; acoustic spill is the least visible ordinary-room constraint and is retained. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional room geometry and capacity. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and no external building survey claim appears. -->
 
 **Status:** Work decision for ordinary teaching rooms and their physical access; no class timetable or storyline assignment is owned here.
 
@@ -59,6 +112,14 @@ The detailed accessibility source is the official Enforcement Rule Appendix 1, i
 
 ## Administrative and service-side physical boundary
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes office, storage, loading, maintenance, staff-only, and student-facing service boundaries plus responsible access authorities. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked staff/service/student edges; storage and maintenance access are not silently public. -->
+<!-- @evidence obligations/common.md#substantive-completion The service boundary specifies who may enter, what equipment moves there, and how closure or handoff affects routes. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread service access and closure conditions; a convenient route cannot override staff authority. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 distinguishes administration, loading, maintenance, storage, and student service functions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared those five uses; loading access is the least visible downstream constraint. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status records fictional campus service boundaries, not municipal or legal access rules. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and school/city ownership wording; no external facility claim is made. -->
 
 **Status:** Work decision separating public circulation from staff, delivery, and maintenance space; authority remains in 150.
 
@@ -72,6 +133,14 @@ The Education Facilities Safety and Maintenance Standard, effective 2022-01-14, 
 
 ## West annex and audiovisual-booth envelope
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes west-annex separation, booth dimensions, twelve-seat capacity, wired-glass door, breakers, key/supervision, charging, inspection, and archive separation inherited from 030. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked every booth capacity, electrical, key, archive, and inspection field; no city ownership is introduced. -->
+<!-- @evidence obligations/common.md#substantive-completion The booth envelope gives booking, headcount, route, supervisor, breaker, charging, and closing constraints for downstream spatial use. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the access and equipment limits; inspection precedes public use and adult-present charging remains mandatory. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates annex geometry, occupancy, electrical safety, custody, and archive functions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared physical and record controls; archive separation is the least visible but independent envelope constraint. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional school-owned geometry consistent with 030's fire legacy. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked school/education-office/city ownership; no civic annex is invented. -->
 
 **Status:** Work decision physically consistent with 030's 2022 fire legacy and 150's twelve-seat, two-breaker, key, and supervision constraints.
 
@@ -85,6 +154,14 @@ The physical fire history remains the 2022-11-04 electrical fire in the old audi
 
 ## Gymnasium, auditorium, and high-capacity spaces
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes gym/auditorium envelopes, capacity, exits, sound, booking, supervision, and crowd-route limits. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked capacity, exits, and supervision; high-capacity use is not ordinary-room use. -->
+<!-- @evidence obligations/common.md#substantive-completion The space rule gives occupancy, egress, booking, and sound constraints for later staging. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the capacity and exit conditions; no event order is assigned. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates gym, auditorium, crowd, sound, and booking mechanics. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the two large spaces; auditorium sound is the distinct constraint. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional high-capacity geometry. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and no real venue claim is made. -->
 
 **Status:** Work decision for physical envelopes and bottlenecks; booking, supervision, and approval remain with 150.
 
@@ -98,6 +175,14 @@ For high-capacity or assembly conditions, the Building Act Enforcement Decree's 
 
 ## Stairs, lifts, ramps, and accessible route geometry
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes stairs, lift, ramp, turning, slope, obstruction, and accessible-route alternatives. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked each route component and alternative; no ramp is assumed merely from a route label. -->
+<!-- @evidence obligations/common.md#substantive-completion The geometry gives downstream movement limits and identifies when a route is inaccessible or needs detour. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread slope, turning, lift, and obstruction conditions; the route can be rejected without blaming a user. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops vertical, horizontal, turning, and detour mechanics distinctly. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared stairs/lift/ramp/detour; turning clearance is the least visible constraint. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional geometry bounded by the package accessibility contract. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and no legal compliance certification is claimed. -->
 
 **Status:** Source-verified design floor plus Work-decision campus measurements.
 
@@ -111,6 +196,14 @@ The route has physical failure modes. A wet mat can reduce the clear width, a qu
 
 ## Toilets, rest points, shade, and water stations
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes toilets, seating/rest, shade, water, distance, opening, and route-support conditions. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked each amenity and its route relationship; rest access is not reduced to toilet presence. -->
+<!-- @evidence obligations/common.md#substantive-completion The amenity rule gives usable pause, hydration, shelter, and opening constraints. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread amenity locations and access conditions; downstream movement can account for recovery. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates toilet, rest, shade, water, and distance functions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the four support resources; shade is the least obvious non-room resource. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional campus amenities. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and no universal facility standard is asserted. -->
 
 **Status:** Work decision applying source-verified accessibility dimensions to Haneul's physical support spaces.
 
@@ -124,6 +217,14 @@ Appendix 1, item 13 of the official Accessibility Enforcement Rule connects acce
 
 ## Lighting, signage, and wayfinding
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes light zones, signs, tactile/verbal cues, visibility, and wayfinding limits. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked visual and nonvisual guidance; signage does not replace route inspection. -->
+<!-- @evidence obligations/common.md#substantive-completion The wayfinding rule specifies how users locate gates, rooms, exits, and detours under changing light. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread signs, sightlines, and low-light conditions; route knowledge remains bounded. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops illumination, typography, placement, tactile, verbal, and visibility functions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared visual and tactile/verbal wayfinding; low-light placement is the distinct constraint. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional wayfinding design. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and no public signage regulation is claimed. -->
 
 **Status:** Work decision informed by official tactile, visual, audible, and accessible-route requirements.
 
@@ -137,6 +238,14 @@ Appendix 1, items 6, 9, and 13 of the official Enforcement Rule address tactile 
 
 ## Bus loop, market passage, and school-side approach
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes bus loop, market passage, school approach, detour, crossing, closure, and separate municipal/school authority. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked all three route contexts and closure ownership; a school adviser cannot reopen the city passage. -->
+<!-- @evidence obligations/common.md#substantive-completion The approach rule gives route sequence, access risk, transit interface, and closure/detour conditions. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread bus, market, approach, and detour boundaries; routes remain usable only under recorded conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 distinguishes transit, public passage, school threshold, crossing, and flood-detour mechanics. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the three public interfaces; the market passage is the least school-controlled. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional route geometry consistent with 030 flood authority. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked municipal/school separation and no real transit claim is made. -->
 
 **Status:** Work decision for spatial relationships that preserves 030's municipal flood and authority boundaries.
 
@@ -150,6 +259,14 @@ The current Accessibility Enforcement Rule Appendix 1, item 2, requires accessib
 
 ## Campus measurements, map scale, and physical uncertainty
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes map scale, measurement units, survey date, tolerance, unmeasured conditions, and uncertainty handling for every campus route. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked scale, tolerance, date, and unresolved measurement fields; no exact value is silently generalized. -->
+<!-- @evidence obligations/common.md#substantive-completion The measurement rule tells downstream users how to cite, compare, and limit geometry when a value is uncertain. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the uncertainty and map-use rules; a map cannot prove a route's current accessibility without a dated check. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates scale, units, survey, tolerance, uncertainty, and map limitations. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared exact and uncertain measurements; survey date is the key independent provenance field. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional campus measurement canon and explicitly bounds precision. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and uncertainty wording; no broad map source is treated as proof. -->
 
 **Status:** Work decision establishing the measurement protocol and limits of physical canon.
 
