@@ -5,7 +5,7 @@
 <!-- @evidence principles/common.md#work-language The English file explains survey, dispatch, estafette, semaphore, bulletin, local time, and receipt. -->
 <!-- @evidenceReview principles/common.md#work-language #a2dca6c Checked communication vocabulary for readable historical precision. -->
 <!-- @evidence principles/settings.md#addressable-canon The canon separates maps, postal delay, clocks, field signals, edited dispatches, asymmetry, graph handoff, and narrative handoff. -->
-<!-- @evidenceReview principles/settings.md#addressable-canon #660699f Tested every H2 for one information owner and removed instantaneous-command shorthand. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f Re-read all eight H2s, including the weakest graph-review boundary: map and terrain, courier and post, clocks, field signals, document editing, information asymmetry, graph handoff, and narrative handoff each have one stable owner; no independent medium, event, person, or source standing is hidden in overview prose. -->
 <!-- @evidence principles/settings.md#information-structure Each H2 states status, medium, source position, physical limit, uncertainty, and downstream use. -->
 <!-- @evidenceReview principles/settings.md#information-structure #10ff424 Reread every Status-to-Sources block for sender, object, route, time, receiver, and evidence limit. -->
 <!-- @evidence principles/settings.md#fact-status Status distinguishes postal record, technical history, critical synthesis, official bulletin, inference, and boundary. -->
