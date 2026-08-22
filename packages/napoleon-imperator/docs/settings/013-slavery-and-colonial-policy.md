@@ -20,6 +20,38 @@ The expedition's military objective cannot be separated from plantation wealth, 
 
 Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
+## Abolition law and uneven emancipation {#abolition-law-and-uneven-emancipation}
+
+**Status:** Source-required domain. Revolutionary abolition, local enforcement, and later restoration must be dated and separated rather than compressed into one legal gesture.
+
+A decree can alter legal status while plantation owners, soldiers, courts, and local officials resist or reinterpret it. Formerly enslaved people act within the new law, defend families, seek wages, refuse coercion, and confront continued racial violence. The novel must name the authority and enforcement route behind every claimed freedom.
+
+Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
+
+## Saint-Domingue resistance and French reports {#saint-domingue-resistance-and-french-reports}
+
+**Status:** Source-critical. French military reports often classify resistance as disorder and cannot stand alone for Haitian politics or experience.
+
+The expedition's objectives involve plantation wealth, imperial authority, emancipation, and the agency of revolutionary Black leaders. A captured dispatch may establish what a French commander believed, not what occurred everywhere. The evidence plan requires Haitian, abolitionist, and critical scholarship alongside French archives.
+
+Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
+
+## Plantation accounting and human cost {#plantation-accounting-and-human-cost}
+
+**Status:** Work canon. Sugar, coffee, land, shipping, credit, forced labor, disease, and military violence form one colonial economy.
+
+A balance sheet that records exports but not family separation, punishment, hunger, or mortality is materially incomplete. Scenes must identify who owns land, who performs labor, who controls movement, and who can appeal. Neutral economic language must not conceal enslavement.
+
+Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
+
+## Boundary to empire-wide colonial comparison {#boundary-to-empire-wide-colonial-comparison}
+
+**Status:** Work boundary. Egypt, Caribbean islands, Italy, Iberia, and European territories require local law, religion, race, labor, and resistance settings rather than one generic imperial model.
+
+This file fixes a moral and evidentiary minimum: colonized people remain agents, coercion remains visible, and French administrative language is not neutral. Each regional owner must research its own legal and social conditions.
+
+Sources: Fondation Napoléon, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
+
 ## Legal status and racial hierarchy {#legal-status-and-racial-hierarchy}
 
 **Status:** Work canon. The code, military orders, property claims, marriage rules, and colonial decrees can treat people differently by race, status, sex, and location.
