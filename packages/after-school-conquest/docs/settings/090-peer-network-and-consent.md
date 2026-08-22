@@ -77,6 +77,14 @@ When a peer speaks for a group, the record states whether the person is speaking
 
 ## Group chat and message discipline
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes group-chat purpose, membership, posting, forwarding, deletion, consent, and urgent-message boundaries. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked chat membership, forwarding, deletion, and urgency limits; a message channel is not an emergency service. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete communication discipline for downstream use without assigning a scene. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread posting and urgent-message rules; participants know when to use an adult or emergency route. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates membership, posting, forwarding, deletion, consent, and emergency escalation. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the message functions; forwarding is the independent privacy control. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional peer communication rules and avoids claims about a real platform. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and platform wording; no external service policy is asserted. -->
 
 **Status:** Work decision — communication canon.
 
