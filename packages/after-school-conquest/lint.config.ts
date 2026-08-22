@@ -5,7 +5,7 @@ export default createNovelConfig({
 
   // disabled defers complete coverage but permits obvious truthful evidence.
   // Finish the settings canon, then pass "evidence" and finally "review".
-  settings: "disabled",
+  settings: "evidence",
 
   // Keep disabled until the reviewed settings support a complete storyline;
   // then pass "evidence" and finally "review".
