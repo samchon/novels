@@ -10,8 +10,8 @@
 <!-- @evidenceReview principles/settings.md#information-structure #10ff424 Reread each Status-to-Sources block for participant, medium, audience, cost, limit, and transition. -->
 <!-- @evidence principles/settings.md#fact-status Status distinguishes correspondence corpus, biography, chronology, inference, retrospective testimony, and boundary. -->
 <!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Compared labels with the Fondation correspondence, biography, chronology, and critical editorial descriptions. -->
-<!-- @evidence principles/settings.md#source-support Claims use edited letters and dated institutional sources while retaining transmission and memory limits. -->
-<!-- @evidenceReview principles/settings.md#source-support #2462844 Reopened the correspondence project's volume and editorial data and the chronology and biography portals. -->
+<!-- @evidence principles/settings.md#source-support Claims use edited correspondence pages with retrievable line ranges and named biography or timeline entries; work rules and handoffs remain marked as canon or boundary, with transmission and memory limits retained. -->
+<!-- @evidenceReview principles/settings.md#source-support #7b2d91e Reopened the correspondence editorial page at lines 80-121, the Joseph and Josephine biography/timeline entries, and the engineers article sections at lines 69-72 and 115-122; each historical assertion has a retrievable page, section, or line locator, while work decisions remain labelled. -->
 <!-- @evidence principles/settings.md#constraint-sufficiency The setting fixes participant, office, letter, room, money, escort, audience, route, delay, resource, and break condition. -->
 <!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Tested every unit for body, document, space, authority, cost, information, and consequence. -->
 <!-- @evidence principles/settings.md#minimal-departure The file rejects title-as-agency, affection-as-proof, silence-as-rejection, and memoir-as-private transcript. -->
@@ -41,7 +41,7 @@ This file owns the relationship system through which Napoleon's decisions become
 
 **Status:** Work canon grounded in correspondence mechanics. A relationship matters when it changes who may enter a room, receive a letter, obtain money, secure protection, delay an order, or bear a consequence. Affection, fear, debt, kinship, office, and rivalry can coexist without having the same route. The Fondation correspondence project provides a large edited corpus, but survival and selection still constrain what can be claimed. Later owners must name the participant, channel, material support, audience, expectation, and condition that breaks it. A famous title or portrait is never a substitute for an observed act.
 
-Sources: Fondation Napoléon, The Correspondence of Napoleon, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/ (lines 78-105).
+Sources: Fondation Napoléon, “The Correspondence of Napoleon,” §§ “A look back at the editorial adventure” and “The need for a new edition,” https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/ (lines 78-121).
 
 ## Information possession and relay {#information-possession-and-relay}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns source, document, route, delay, audience, secrecy, belief, and relay. -->
@@ -55,7 +55,7 @@ Sources: Fondation Napoléon, The Correspondence of Napoleon, https://fondationn
 
 **Status:** Source-critical. A secretary sees documents, a spouse sees domestic strain, a marshal sees orders and terrain, and a diplomat sees a negotiated audience; their accounts overlap without becoming identical. A report has a source, route, delay, and reason to be believed or concealed. The edited correspondence corpus contains original drafts, later discoveries, annotations, and editorial judgment, so a surviving letter is not a transparent total of a relationship. Downstream scenes must separate what a person knows, suspects, remembers, and chooses to say.
 
-Sources: Fondation Napoléon, correspondence editorial project, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/ (lines 78-105); Fondation Napoléon, correspondence introduction, https://www.napoleon.org/histoire-des-2-empires/articles/introduction-au-vol-1-de-la-correspondance-generale-de-napoleon-bonaparte-les-apprentissages-de-bonaparte/.
+Sources: Fondation Napoléon, “The Correspondence of Napoleon,” §§ “A look back at the editorial adventure” and “The need for a new edition,” https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/ (lines 78-121); Fondation Napoléon, “Introduction au vol. 1 de la Correspondance générale de Napoléon Bonaparte,” named introduction sections, https://www.napoleon.org/histoire-des-2-empires/articles/introduction-au-vol-1-de-la-correspondance-generale-de-napoleon-bonaparte-les-apprentissages-de-bonaparte/.
 
 ## Kinship marriage and patronage {#kinship-marriage-and-patronage}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns family ties, marriage, appointment, gift, dowry, office, silence, and future service. -->
@@ -69,7 +69,7 @@ Sources: Fondation Napoléon, correspondence editorial project, https://fondatio
 
 **Status:** Work canon with source limits. The Bonaparte family, Josephine's household, dynastic marriages, and imperial appointments are distinct networks. A favor can require money, office, marriage, silence, or future service; refusal can cost protection, income, or access. The settings owner must identify who gives, who receives, what object or office changes hands, what is expected, and what happens if the expectation is refused. A family name can open a door without proving that the recipient agreed with the giver.
 
-Sources: Fondation Napoléon, Napoleon biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/; Fondation Napoléon, correspondence corpus, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/.
+Sources: Fondation Napoléon, “BONAPARTE, Joseph,” family, marriage, appointments, and crown sections, https://www.napoleon.org/en/history-of-the-two-empires/biographies/bonaparte-joseph/; Fondation Napoléon, “Life of Josephine (Marie-Joseph-Rose de Tascher de La Pagerie),” dated marriage and household entries, https://www.napoleon.org/en/history-of-the-two-empires/timelines/life-of-josephine-marie-joseph-rose-de-tascher-de-la-pagerie/; Fondation Napoléon, “The Correspondence of Napoleon,” editorial scope, lines 95-121, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/.
 
 ## Rivalry and correction {#rivalry-and-correction}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns correction, delay, flattery, resistance, reinterpretation, meeting, dispatch, and institutional constraint. -->
@@ -83,7 +83,7 @@ Sources: Fondation Napoléon, Napoleon biography, https://www.napoleon.org/en/hi
 
 **Status:** Source-required domain. Rivalry is an information and command condition, not a personality label. A subordinate may correct, delay, flatter, resist, or reinterpret an order, but the act requires a meeting, dispatch, rank, time, and institutional opening. Napoleon's impatience does not erase the ability of a minister, marshal, ally, or clerk to shape an outcome; neither does a later success prove that correction was possible or attempted. Settings must preserve cases where a warning failed, arrived late, or was concealed.
 
-Sources: Fondation Napoléon chronology portal, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Fondation Napoléon, correspondence corpus, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/.
+Sources: Fondation Napoléon, “BONAPARTE, Joseph,” “The Campaign of 1805: Naples, his first crown” (refusal and resulting rift), https://www.napoleon.org/en/history-of-the-two-empires/biographies/bonaparte-joseph/; Fondation Napoléon, “The Correspondence of Napoleon,” editorial scope and traceability, lines 80-121, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/.
 
 ## Absence correspondence and emotional evidence {#absence-correspondence-and-emotional-evidence}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns letters, silence, gifts, quarrels, delay, interception, memoir, and emotional inference. -->
@@ -97,7 +97,7 @@ Sources: Fondation Napoléon chronology portal, https://www.napoleon.org/en/hist
 
 **Status:** Source-critical boundary. An unanswered letter may be delayed, intercepted, lost, withheld, or unanswered. A gift may be recorded without revealing motive; a later memoir may sharpen a line or rationalize a decision. Preserve document date, recipient, transmission state, and retrospective bias before assigning emotional certainty. Finished prose may render silence, waiting, or competing memories, but it may not manufacture private speech from a relationship label.
 
-Sources: Fondation Napoléon, correspondence corpus and editorial method, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Fondation Napoléon, engineers and dispatch routes, https://www.napoleon.org/histoire-des-2-empires/articles/les-ingenieurs-geographes-la-science-au-service-de-lempire/.
+Sources: Fondation Napoléon, “The Correspondence of Napoleon,” editorial scope and traceability, lines 80-121, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Jean-François Brun, “Les ingénieurs géographes. La science au service de l’Empire,” “Introduction” and “Un outil stratégique : le Dépôt de la Guerre,” lines 69-72 and 115-122, https://www.napoleon.org/histoire-des-2-empires/articles/les-ingenieurs-geographes-la-science-au-service-de-lempire/.
 
 ## Relationship change under war and exile {#relationship-change-under-war-and-exile}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns campaign distance, captivity, death, divorce, exile, regime change, resource, and new institution. -->
@@ -111,7 +111,7 @@ Sources: Fondation Napoléon, correspondence corpus and editorial method, https:
 
 **Status:** Work boundary. Campaign distance, captivity, death, divorce, exile, and regime change alter relationships through absence and new institutions. A household separated by war has different information and labor from one in the same room; a marshal's loyalty under victory is not identical to loyalty under defeat; a family member's protection can disappear with a title. Later storylines must specify event, distance, resource, information, and institutional change before declaring a new relationship state.
 
-Sources: Fondation Napoléon, Napoleon biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/; Fondation Napoléon chronology portal, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/.
+Sources: Fondation Napoléon, “BONAPARTE, Joseph,” campaign, office, and exile sections, https://www.napoleon.org/en/history-of-the-two-empires/biographies/bonaparte-joseph/; Fondation Napoléon, “Napoleon’s ‘divorce’,” dated marriage and annulment timeline entries, https://www.napoleon.org/en/history-of-the-two-empires/timelines/napoleons-divorce/.
 
 ## Boundary to character-specific owners {#boundary-to-character-specific-owners}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns handoff of relationship mechanics to character, campaign, court, family, and narrative owners. -->
@@ -125,4 +125,4 @@ Sources: Fondation Napoléon, Napoleon biography, https://www.napoleon.org/en/hi
 
 **Status:** Work boundary. This file supplies relationship mechanics and evidence limits. Downstream units must cite the specific person, document, office, household, or event they use and must not convert the general grammar into unsupported dialogue or motive. The handoff succeeds when an action can be traced from relationship channel through material support and audience to a consequence, including refusal, delay, or rupture.
 
-Sources: Fondation Napoléon, correspondence corpus, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Fondation Napoléon, biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/.
+Sources: Fondation Napoléon, “The Correspondence of Napoleon,” editorial scope and traceability, lines 80-121, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Fondation Napoléon, “BONAPARTE, Joseph,” named biography sections used only for downstream source selection, https://www.napoleon.org/en/history-of-the-two-empires/biographies/bonaparte-joseph/.
