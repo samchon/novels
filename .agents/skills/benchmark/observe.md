@@ -1,6 +1,6 @@
 # Observe and Intervene
 
-At the user-requested cadence, inspect filesystem output and compiler state rather than trusting self-reports. Send concise progress updates during long runs and a substantive critique at the agreed interval.
+At the user-requested cadence, inspect filesystem output and compiler state rather than trusting self-reports. Send one checkpoint at every interval even when nothing changed and no anomaly exists. State the timestamp, actual owner states, package stages, artifact or commit changes (or explicit non-change), compiler or diagnostic movement, dirty/lock/HEAD state, observed anomalies, interventions, and post-intervention running confirmation. Report a discovered anomaly immediately instead of waiting for the next interval; the next regular checkpoint still occurs.
 
 ## Stage-Calibrated Supervision
 
