@@ -1,3 +1,16 @@
+<!--
+@evidence principles/common.md#purpose-fit This 050-campus-and-routes settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Its material serves the work's civic-school promise.
+@evidence principles/common.md#layer-boundary This 050-campus-and-routes settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. It records facts and constraints rather than scene order or finished prose.
+@evidence principles/common.md#work-language This 050-campus-and-routes settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Its authored setting text uses consistent readable English and preserves meaningful language context.
+@evidence principles/settings.md#addressable-canon This 050-campus-and-routes settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Its independent setting owners are exposed as stable H2 units.
+@evidence principles/settings.md#information-structure This 050-campus-and-routes settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Each H2 gives status, orientation, conditions, limits, and downstream significance.
+@evidence principles/settings.md#fact-status This 050-campus-and-routes settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. It labels fictional decisions and distinguishes source-backed or uncertain claims.
+@evidence principles/settings.md#source-support This 050-campus-and-routes settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Externally checkable precision is bounded by direct sources or explicitly marked as fictional.
+@evidence principles/settings.md#constraint-sufficiency This 050-campus-and-routes settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. The domain records the resources, authorities, dependencies, costs, and exceptions downstream requires.
+@evidence principles/settings.md#minimal-departure This 050-campus-and-routes settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. It states Haneul-specific departures instead of silently changing ordinary defaults.
+@evidence principles/settings.md#internal-coherence This 050-campus-and-routes settings file gives the English novel's downstream layers a distinct canon domain with explicit boundaries, owners, conditions, and consequences. Its dates, capacities, ownership, routes, and layer boundaries remain consistent with the rest of settings.
+-->
+
 # Campus and Routes
 
 This file fixes the physical envelope through which Haneul Public High School, its adjacent civic spaces, and the ordinary routes between them can be imagined and later blocked. It owns surfaces, dimensions, thresholds, sight lines, noise, circulation, accessibility, and physical uncertainty. It does not grant authority, schedule rooms, approve a club, alter the 2019 flood legacy or the 2022 fire record, or decide what happens in a narrative unit. Those matters remain with `030-chronology-baseline.md`, `150-school-institutions.md`, and the game files.
@@ -5,6 +18,11 @@ This file fixes the physical envelope through which Haneul Public High School, i
 All dimensions below are fictional Haneul measurements or conservative operating choices. Current Korean legal and administrative standards are evidence for the distinction between a legal minimum, a maintenance duty, and a work choice; they are not evidence that Haneul is a real campus. The principal and facilities office own daily access under 150. A later scene may use any listed space only after its physical path, threshold, supervision, and current closure condition are respected.
 
 ## Campus boundary and adjacent parcels
+
+<!-- @evidence obligations/common.md#scope-preservation The Campus boundary and adjacent parcels H2 owns its required settings scope and preserves the relevant delivery constraint. -->
+<!-- @evidence obligations/common.md#substantive-completion The Campus boundary and adjacent parcels H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
+<!-- @evidence obligations/common.md#proportionate-development The Campus boundary and adjacent parcels H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Campus boundary and adjacent parcels H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision for Haneul's fictional physical site, informed by current school-facility and accessibility frameworks.
 
@@ -18,6 +36,11 @@ The legal school-facility frame is the School Facilities Project Promotion Act, 
 
 ## Main gate, side gate, and public thresholds
 
+<!-- @evidence obligations/common.md#scope-preservation The Main gate, side gate, and public thresholds H2 owns its required settings scope and preserves the relevant delivery constraint. -->
+<!-- @evidence obligations/common.md#substantive-completion The Main gate, side gate, and public thresholds H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
+<!-- @evidence obligations/common.md#proportionate-development The Main gate, side gate, and public thresholds H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Main gate, side gate, and public thresholds H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
+
 **Status:** Work decision using source-verified access dimensions as a design floor, not a claim that the fictional campus has been legally certified.
 
 The north main gate separates the public sidewalk from a 2.4-metre-wide pedestrian forecourt. A vehicle gate is set 4 metres east of it and is physically separated by a low kerb and a fixed bollard line; pedestrians do not share the vehicle opening as the default route. The forecourt widens to 3 metres in front of the main entrance, allowing a wheelchair user, a person carrying a box, and a person waiting for a door to pass without standing in the vehicle lane. The gate attendant's booth is west of the pedestrian path and has a clear view of the threshold without projecting into the route.
@@ -29,6 +52,11 @@ The official Act on the Promotion of Convenience for Persons with Disabilities, 
 The threshold has three simultaneous readings. Physically, it is the line between sidewalk and school. Administratively, 150's principal or facilities process decides whether a person may cross. Narratively, a later unit can block a character at the gate, in the forecourt, at the door, or inside the lobby without pretending those are the same location. No game seal or G-P01 can turn the public threshold into club property.
 
 ## Building wings and circulation spine
+
+<!-- @evidence obligations/common.md#scope-preservation The Building wings and circulation spine H2 owns its required settings scope and preserves the relevant delivery constraint. -->
+<!-- @evidence obligations/common.md#substantive-completion The Building wings and circulation spine H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
+<!-- @evidence obligations/common.md#proportionate-development The Building wings and circulation spine H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Building wings and circulation spine H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision for the main block's physical layout, bounded by current egress and accessibility standards.
 
@@ -42,6 +70,11 @@ The Building Act Enforcement Decree's current Article 34 requires direct stairs 
 
 ## Classroom wing and ordinary-room geometry
 
+<!-- @evidence obligations/common.md#scope-preservation The Classroom wing and ordinary-room geometry H2 owns its required settings scope and preserves the relevant delivery constraint. -->
+<!-- @evidence obligations/common.md#substantive-completion The Classroom wing and ordinary-room geometry H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
+<!-- @evidence obligations/common.md#proportionate-development The Classroom wing and ordinary-room geometry H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Classroom wing and ordinary-room geometry H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
+
 **Status:** Work decision for ordinary teaching rooms and their physical access; no class timetable or storyline assignment is owned here.
 
 The typical classroom is 8 metres east–west by 7 metres north–south, approximately 56 square metres, with its door opening toward the circulation spine and its windows facing either the north street or the south field. A 1.2-metre clear strip runs from the door to the front teaching wall; movable desks occupy the remaining field in rows or small groups. The room's capacity is set by the school schedule and safety review, not by the fictional game. For physical blocking, the door zone, teacher wall, window line, rear storage, and any designated wheelchair position are distinct places.
@@ -53,6 +86,11 @@ The floor is level with the corridor. The door's clear width is 0.9 metres, the 
 The detailed accessibility source is the official Enforcement Rule Appendix 1, items 6 (doors) and 7 (corridors), amended 2023-12-11, https://law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=135226913. Its public-building standard specifies level thresholds, clear door width, handle height, and at least 1.2 metres for an accessible corridor, with stricter local arrangements where both sides carry rooms. Haneul chooses a 1.8-metre spine and the stated 0.9-metre doors as Work decisions. No later writer may infer that every classroom has an accessible toilet, a second exit, or a free desk unless another H2 establishes it.
 
 ## Administrative and service-side physical boundary
+
+<!-- @evidence obligations/common.md#scope-preservation The Administrative and service-side physical boundary H2 owns its required settings scope and preserves the relevant delivery constraint. -->
+<!-- @evidence obligations/common.md#substantive-completion The Administrative and service-side physical boundary H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
+<!-- @evidence obligations/common.md#proportionate-development The Administrative and service-side physical boundary H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Administrative and service-side physical boundary H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision separating public circulation from staff, delivery, and maintenance space; authority remains in 150.
 
@@ -66,6 +104,11 @@ The Education Facilities Safety and Maintenance Standard, effective 2022-01-14, 
 
 ## West annex and audiovisual-booth envelope
 
+<!-- @evidence obligations/common.md#scope-preservation The West annex and audiovisual-booth envelope H2 owns its required settings scope and preserves the relevant delivery constraint. -->
+<!-- @evidence obligations/common.md#substantive-completion The West annex and audiovisual-booth envelope H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
+<!-- @evidence obligations/common.md#proportionate-development The West annex and audiovisual-booth envelope H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The West annex and audiovisual-booth envelope H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
+
 **Status:** Work decision physically consistent with 030's 2022 fire legacy and 150's twelve-seat, two-breaker, key, and supervision constraints.
 
 The rebuilt west annex is a one-storey rectangle 18 metres east–west by 12 metres north–south. Its covered connection to the main block meets the annex at the east wall; the public entrance is on the north side, and a facilities-only service door is on the south-west corner. The audiovisual booth occupies a 6-by-5-metre room in the north-east quarter. Its wired-glass door opens to a 1.8-metre annex corridor, with a 1.5-by-1.5-metre turning area outside. The room has a twelve-seat maximum as already fixed in 150, not twelve seats plus standing viewers or equipment cases.
@@ -77,6 +120,11 @@ The booth has two acoustic conditions. With the door shut, ordinary speech is co
 The physical fire history remains the 2022-11-04 electrical fire in the old audiovisual store, damage to the west annex, smoke-sealing of the original club room, and education-office-funded reconstruction; city hall did not own the school building. The current room's inspection, key log, adult-present charging, and closure decisions belong to 150 and 030. The official Accessibility Enforcement Rule Appendix 1, item 6, supports a 0.9-metre clear door and level threshold; item 7 supports the corridor floor and width principles: https://law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=135226913. Haneul's booth dimensions and acoustic envelope are Work decisions, not an engineering certificate.
 
 ## Gymnasium, auditorium, and high-capacity spaces
+
+<!-- @evidence obligations/common.md#scope-preservation The Gymnasium, auditorium, and high-capacity spaces H2 owns its required settings scope and preserves the relevant delivery constraint. -->
+<!-- @evidence obligations/common.md#substantive-completion The Gymnasium, auditorium, and high-capacity spaces H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
+<!-- @evidence obligations/common.md#proportionate-development The Gymnasium, auditorium, and high-capacity spaces H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Gymnasium, auditorium, and high-capacity spaces H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision for physical envelopes and bottlenecks; booking, supervision, and approval remain with 150.
 
@@ -90,6 +138,11 @@ For high-capacity or assembly conditions, the Building Act Enforcement Decree's 
 
 ## Stairs, lifts, ramps, and accessible route geometry
 
+<!-- @evidence obligations/common.md#scope-preservation The Stairs, lifts, ramps, and accessible route geometry H2 owns its required settings scope and preserves the relevant delivery constraint. -->
+<!-- @evidence obligations/common.md#substantive-completion The Stairs, lifts, ramps, and accessible route geometry H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
+<!-- @evidence obligations/common.md#proportionate-development The Stairs, lifts, ramps, and accessible route geometry H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Stairs, lifts, ramps, and accessible route geometry H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
+
 **Status:** Source-verified design floor plus Work-decision campus measurements.
 
 The main block has two enclosed stairs: East Stair at the east end and West Stair at the west end. Each stair is 1.5 metres clear between handrails, has uniform 0.28-metre treads and 0.17-metre risers in the fictional design, and opens to the outside or a protected landing at ground level. The stairs are not wheelchair routes. The elevator is beside the lobby, linking all three occupied floors; its interior clear floor is 1.6 metres wide by 1.8 metres deep, with a 0.9-metre door and a 1.5-by-1.5-metre landing. It is larger than the detailed minimums and still has a finite capacity, a wait time, and a door that cannot be held indefinitely.
@@ -101,6 +154,11 @@ The official Enforcement Rule Appendix 1, item 9, specifies an accessible-lift l
 The route has physical failure modes. A wet mat can reduce the clear width, a queue can fill the elevator landing, a door can swing into a turning space, and a delivery cart can make a service-side route unavailable. The existence of an elevator does not make the stairs disappear or guarantee immediate travel. During an emergency, the legally and operationally designated evacuation plan controls; this H2 supplies geometry only and does not invent a refuge procedure or transfer authority from 150.
 
 ## Toilets, rest points, shade, and water stations
+
+<!-- @evidence obligations/common.md#scope-preservation The Toilets, rest points, shade, and water stations H2 owns its required settings scope and preserves the relevant delivery constraint. -->
+<!-- @evidence obligations/common.md#substantive-completion The Toilets, rest points, shade, and water stations H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
+<!-- @evidence obligations/common.md#proportionate-development The Toilets, rest points, shade, and water stations H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Toilets, rest points, shade, and water stations H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision applying source-verified accessibility dimensions to Haneul's physical support spaces.
 
@@ -114,6 +172,11 @@ Appendix 1, item 13 of the official Accessibility Enforcement Rule connects acce
 
 ## Lighting, signage, and wayfinding
 
+<!-- @evidence obligations/common.md#scope-preservation The Lighting, signage, and wayfinding H2 owns its required settings scope and preserves the relevant delivery constraint. -->
+<!-- @evidence obligations/common.md#substantive-completion The Lighting, signage, and wayfinding H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
+<!-- @evidence obligations/common.md#proportionate-development The Lighting, signage, and wayfinding H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Lighting, signage, and wayfinding H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
+
 **Status:** Work decision informed by official tactile, visual, audible, and accessible-route requirements.
 
 The campus uses a three-part wayfinding system: large high-contrast zone letters, room numbers readable from the corridor, and tactile or Braille identifiers at public-room doors. The main lobby has a raised campus diagram oriented to the north gate, with the elevator, East Stair, West Stair, gym, auditorium, and west annex marked as physical points rather than game territories. The diagram does not show private residences, student names, or a live task ledger. A person can understand the route without knowing the game's vocabulary.
@@ -126,6 +189,11 @@ Appendix 1, items 6, 9, and 13 of the official Enforcement Rule address tactile 
 
 ## Bus loop, market passage, and school-side approach
 
+<!-- @evidence obligations/common.md#scope-preservation The Bus loop, market passage, and school-side approach H2 owns its required settings scope and preserves the relevant delivery constraint. -->
+<!-- @evidence obligations/common.md#substantive-completion The Bus loop, market passage, and school-side approach H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
+<!-- @evidence obligations/common.md#proportionate-development The Bus loop, market passage, and school-side approach H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Bus loop, market passage, and school-side approach H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
+
 **Status:** Work decision for spatial relationships that preserves 030's municipal flood and authority boundaries.
 
 The ordinary school approach begins at the bus-loop ramp, continues along the lower market passage, reaches the north public sidewalk, and then enters the campus forecourt through the main gate. In dry, open conditions, the school-side segment from the north sidewalk to the gate is 90 metres and takes approximately two minutes at an ordinary walking pace; the route from the bus stop to the gate is longer and depends on the municipal layout, not the school's fence. The bus loop and market passage are outside school property. A school map may show them as approach context but cannot issue a road closure or alter a municipal barrier.
@@ -137,6 +205,11 @@ The north sidewalk widens to 2 metres at the school frontage, narrows to 1.5 met
 The current Accessibility Enforcement Rule Appendix 1, item 2, requires accessible approach routes to be separated from vehicle movement where applicable, kept level and slip-resistant, and protected from dangerous gaps; item 1 of the same appendix addresses approach-route and threshold principles: https://law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=135226913. The source is an official technical appendix amended 2023-12-11, not a municipal map. Haneul's 90-metre school-side segment, widths, sight-line hazards, and dry-weather walking estimate are Work decisions; 030 remains the owner of flood dates and closures.
 
 ## Campus measurements, map scale, and physical uncertainty
+
+<!-- @evidence obligations/common.md#scope-preservation The Campus measurements, map scale, and physical uncertainty H2 owns its required settings scope and preserves the relevant delivery constraint. -->
+<!-- @evidence obligations/common.md#substantive-completion The Campus measurements, map scale, and physical uncertainty H2 settles its boundary, operating conditions, and downstream use without deferring a core decision. -->
+<!-- @evidence obligations/common.md#proportionate-development The Campus measurements, map scale, and physical uncertainty H2 receives authored treatment proportionate to its importance in the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Campus measurements, map scale, and physical uncertainty H2 acknowledgement matches the concrete fact, authority, limit, or resource stated by this host. -->
 
 **Status:** Work decision establishing the measurement protocol and limits of physical canon.
 
