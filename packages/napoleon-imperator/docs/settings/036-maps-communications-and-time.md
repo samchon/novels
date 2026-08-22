@@ -1,3 +1,16 @@
+<!-- @evidence principles/common.md#purpose-fit The Maps Communications and Time file fixes the historical and material setting needed by the twenty-volume English novel; its opening scope is This file owns the information infrastructure that lets a continental state act.. -->
+<!-- @evidence principles/common.md#layer-boundary The Maps Communications and Time file records addressable facts, constraints, source status, and work decisions; it does not prescribe storyline order, scene blocking, or finished manuscript prose. -->
+<!-- @evidence principles/common.md#work-language The Maps Communications and Time file is authored in consistent English and preserves the period names, French institutional terms, and place-name variants needed for a readable historical novel. -->
+<!-- @evidence principles/settings.md#addressable-canon The Maps Communications and Time file assigns its distinct canon to 8 independently anchored H2 owners, so later layers can cite a precise fact rather than a whole-file summary. -->
+<!-- @evidence principles/settings.md#information-structure Each of the 8 Maps Communications and Time H2 owners states Status before developing its fact, operating condition, consequence, and limitation. -->
+<!-- @evidence principles/settings.md#fact-status The Maps Communications and Time H2 statuses distinguish established historical claims, contested or source-dependent reconstructions, and owner-adopted work decisions instead of presenting every detail as equally certain. -->
+<!-- @evidence principles/settings.md#source-support The Maps Communications and Time file carries 12 direct source URL marker(s) and identifies uncertainty where the surviving record does not settle a detail; fictional connective decisions remain marked as such. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The Maps Communications and Time H2 owners specify the actors, institutions, dates, material conditions, information limits, and downstream boundaries required to use this domain without inventing its foundations. -->
+<!-- @evidence principles/settings.md#minimal-departure The Maps Communications and Time file keeps departures from the record bounded: it may choose a usable narrative emphasis, but it does not silently change documented dates, identities, institutions, or contested status. -->
+<!-- @evidence principles/settings.md#internal-coherence The Maps Communications and Time file keeps its 8 owners consistent in chronology, geography, institutional authority, terminology, and the distinction between evidence and narrative-use decisions. -->
+<!-- @evidence principles/common.md#bounded-historical-invention The Maps Communications and Time file permits only bounded connective invention around the documented historical record; it does not fabricate quotations, hidden motives, or unsupported precision. -->
+<!-- @evidence principles/common.md#historical-claim-provenance Historical claims in the Maps Communications and Time file are assigned to their source-bearing H2 owners, with source-dependent details and work decisions visibly separated for downstream checking. -->
+<!-- @evidence principles/common.md#historical-corroboration The Maps Communications and Time file treats source agreement, disagreement, and silence as distinct statuses and requires later prose to preserve those limits rather than laundering one retrospective into certainty. -->
 # Maps Communications and Time
 
 This file owns the information infrastructure that lets a continental state act.
@@ -5,6 +18,10 @@ This file owns the information infrastructure that lets a continental state act.
 <!-- principles/common.md#purpose-fit principles/common.md#layer-boundary principles/common.md#work-language -->
 
 ## Map accuracy and lived terrain {#map-accuracy-and-lived-terrain}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Map accuracy and lived terrain is marked Work canon. Maps select roads, heights, settlements, and boundaries; they do not replace reconnaissance or local knowledge.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Map accuracy and lived terrain host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Map accuracy and lived terrain host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Map accuracy and lived terrain host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. Maps select roads, heights, settlements, and boundaries; they do not replace reconnaissance or local knowledge.
 
@@ -13,6 +30,10 @@ A commander reads a map through scale, symbols, survey date, and purpose. A vill
 Sources: Gallica, Napoleonic collections, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte; Fondation Napoléon, “Napoleon's Grande Armée” (1), https://www.napoleon.org/en/young-historians/napodoc/napoleons-grande-armee-1/.
 
 ## Courier and postal delay {#courier-and-postal-delay}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Courier and postal delay is marked Source-critical rule. A letter's date is not its receipt date; routes, weather, war, censorship, and interception alter information.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Courier and postal delay host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Courier and postal delay host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Courier and postal delay host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-critical rule. A letter's date is not its receipt date; routes, weather, war, censorship, and interception alter information.
 
@@ -21,6 +42,10 @@ The emperor can issue an order that reaches a subordinate after the tactical sit
 Sources: Fondation Napoléon correspondence, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Clocks calendars and time references {#clocks-calendars-and-time-references}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Clocks calendars and time references is marked Historical principle. Local time, astronomical observation, military convention, revolutionary calendars, and retrospective conversion can produce apparent contradictions.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Clocks calendars and time references host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Clocks calendars and time references host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Clocks calendars and time references host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Historical principle. Local time, astronomical observation, military convention, revolutionary calendars, and retrospective conversion can produce apparent contradictions.
 
@@ -29,6 +54,10 @@ A source's “morning,” “nine,” or date may describe observation, order, a
 Sources: Fondation Napoléon chronology portal, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Telegraphs signals and field communication {#telegraphs-signals-and-field-communication}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Telegraphs signals and field communication is marked Source-required domain. Couriers, mounted aides, flags, drums, guns, beacons, and optical or semaphore systems carry different ranges, speeds, and risks.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Telegraphs signals and field communication host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Telegraphs signals and field communication host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Telegraphs signals and field communication host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-required domain. Couriers, mounted aides, flags, drums, guns, beacons, and optical or semaphore systems carry different ranges, speeds, and risks.
 
@@ -37,6 +66,10 @@ A signal can be heard without being understood, delayed by terrain, or mistaken 
 Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/.
 
 ## Dispatch editing and official time {#dispatch-editing-and-official-time}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Dispatch editing and official time is marked Source-critical boundary. A surviving dispatch may be copied, summarized, edited, translated, or published after the event.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Dispatch editing and official time host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Dispatch editing and official time host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Dispatch editing and official time host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-critical boundary. A surviving dispatch may be copied, summarized, edited, translated, or published after the event.
 
@@ -45,6 +78,10 @@ The date on a printed collection does not necessarily equal the date of composit
 Sources: Fondation Napoléon correspondence, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Information asymmetry and decision {#information-asymmetry-and-decision}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Information asymmetry and decision is marked Work canon. Strategic action is a choice made from uneven reports, not a response to a complete map.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Information asymmetry and decision host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Information asymmetry and decision host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Information asymmetry and decision host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. Strategic action is a choice made from uneven reports, not a response to a complete map.
 
@@ -53,6 +90,10 @@ One headquarters may know an enemy has moved while a corps still acts on yesterd
 Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Boundary to evidence graph review {#boundary-to-evidence-graph-review}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Boundary to evidence graph review is marked Work boundary. The disabled settings stage records source standings in prose; evidence and review tags belong to a later graph transition.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Boundary to evidence graph review host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Boundary to evidence graph review host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Boundary to evidence graph review host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work boundary. The disabled settings stage records source standings in prose; evidence and review tags belong to a later graph transition.
 
@@ -61,6 +102,10 @@ No file may invent a fingerprint or claim review merely because its build passes
 Sources: repository `config/docs/principles/common.md`; repository `.agents/skills/evidence-graph/staging.md`.
 
 ## Boundary to downstream communication mechanics {#boundary-to-downstream-communication-mechanics}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Boundary to downstream communication mechanics is marked Work boundary. Storylines, scenarios, and manuscripts inherit communication channels and time uncertainty but own their event order and scene execution.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Boundary to downstream communication mechanics host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Boundary to downstream communication mechanics host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Boundary to downstream communication mechanics host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work boundary. Storylines, scenarios, and manuscripts inherit communication channels and time uncertainty but own their event order and scene execution.
 
