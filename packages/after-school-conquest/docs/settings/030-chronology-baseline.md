@@ -1,10 +1,39 @@
 
+<!-- @evidence principles/common.md#purpose-fit This file is the calendar spine: it fixes the delivery endpoints, legal academic containers, fictional instructional windows, examinations, ages, grades, graduation, pre-story legacies, and alumni interval that every later setting and narrative unit must inherit. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa I reread all twelve H2s and compared them with the delivery contract; Founder age arithmetic and Post-graduation interval are the weakest purpose checks because they prove the calendar changes lived capacity rather than serving as dates alone. -->
+<!-- @evidence principles/common.md#layer-boundary The file settles dates, membership, authority, records, physical time constraints, and fact status; it explicitly excludes scene allocation, reveals, chapters, and volume beats, leaving event connection and prose downstream. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 I compared every H2 with the layer definitions and the overview exclusion; 2019 flood legacy and 2022 fire legacy carry standing constraints but do not assign discoveries, culprits, or scene order. -->
+<!-- @evidence principles/common.md#work-language The chronology uses ISO dates, spelled-out weekdays, explicit legal/fictional labels, and plain distinctions among semester membership, instruction, recess, administration, and alumni access. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c I checked every date table and status distinction for readable English notation; Semester and term boundaries is the weakest terminology unit because “legal semester” and “instructional window” must not merge. -->
+<!-- @evidence principles/settings.md#addressable-canon The twelve H2s separate opening, year, semesters, exams, recess, ages, grades, graduation, city era, flood, fire, and alumni time so independently reviewable dates, authorities, and legacies are not hidden in one chronology paragraph. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f I counted and reread all twelve owners; the two incident legacies remain distinct because municipal flood response and school fire access have different records, owners, and physical controls. -->
+<!-- @evidence principles/settings.md#information-structure Each H2 begins with Status and then gives dates, boundary conditions, authority/record distinctions, material consequences, and source standing; the tables are followed by explanatory paragraphs rather than replacing them. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 I read every H2 and table in sequence; Holidays and vacations is the densest structure unit, and its planned windows, weekends, closures, daylight, and family-work consequences remain separately legible. -->
+<!-- @evidence principles/settings.md#fact-status Status lines distinguish current-law source baselines, fictional Work decisions, and sourced-plus-fictional applications; official law is not used to validate exact Haneul exams, incidents, or future stability. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 I checked each Status against its dates and source paragraph; 2019/2022 legacies, examinations, and Haneul windows remain Work decisions, while Articles 24/44/46 are clearly legal baselines. -->
+<!-- @evidence principles/settings.md#source-support Direct National Law Information Center Article 24 and Enforcement Decree Article 44 locators are identified with title/effective date, and Articles 24–26/46 are linked for the legal claims; fictional dates and legacies are not over-sourced. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 I reread every source-bearing H2 and the direct law URLs; Opening date, Semester boundaries, Grade progression, and Graduation boundary separate legal propositions from the chosen Haneul calendar and records. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file fixes exact inclusive dates, weekdays, semester continuity, exam/recess windows, age arithmetic, authority ownership, flood/fire controls, and alumni access conditions so downstream planning cannot invent a missing day or institutional power. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 I compared Opening date, Semester boundaries, Examination periods, Founder age arithmetic, and Graduation boundary; 2019 flood legacy is the narrowest operational unit because gauge, detour, authority, and warning restrictions all need to coexist. -->
+<!-- @evidence principles/settings.md#minimal-departure The chronology explicitly marks fictional Haneul dates, exam/recess windows, flood/fire legacies, and post-graduation conditions while retaining the legal March-to-February and two-semester defaults where they apply. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 I compared legal semester membership with each fictional instructional, exam, recess, incident, and alumni decision; Holidays and vacations is the weakest departure boundary because it preserves weekends and holidays inside semesters. -->
+<!-- @evidence principles/settings.md#internal-coherence The three academic containers, four exam windows per year, founder ages, grade boundaries, graduation date, incident dates, and 2031 endpoint are presented as one continuous date system with separate authority ledgers. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e I checked the date tables, age arithmetic, grade progression, graduation, and endpoint against the incident and alumni H2s; Semester and term boundaries is the arithmetic anchor and no date is assigned twice or left between semesters. -->
+
 # Chronology Baseline
 
 This file fixes the calendar that every later setting, storyline, scenario, and manuscript must use. It distinguishes the legal school-year container from Haneul's fictional instructional calendar, and it records the pre-story conditions that make dates materially consequential. It does not allocate scenes, reveals, chapters, or volume beats; those belong to later layers and to `040-volume-time-boundaries.md`.
 
 ## Opening date
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes the Tuesday 2027-03-02 first instruction, Monday 2027-03-01 legal-year boundary, Friday 2031-02-28 endpoint, inclusive records, weekday notation, and material transit/daylight/family-work constraints. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked both endpoints, the one-day academic/instruction distinction, and the inside/outside record rule; the first instructional day is the narrowest required boundary and is explicit. -->
+<!-- @evidence obligations/common.md#substantive-completion The opening rule explains legal versus student-facing date, endpoint meaning, ISO/weekday use, and operational effects without allocating a scene or reveal. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the date, endpoint, and operational paragraphs; transit, daylight, family work, and school authority are constraints rather than hidden scene instructions. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops date membership, endpoint interpretation, record precision, transit, daylight, care, and institutional limits because each changes what the fixed opening date permits. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the calendar claims with the four lived-resource constraints; family care is easiest to treat as invisible slack, and the H2 explicitly retains it. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status separates source-verified legal baseline from fictional delivery; Article 24's opened title/effective date/link supports the March boundary, while Haneul dates and conditions remain Work decisions. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, Article 24 locator, and the fictional opening/endpoint wording; no future-law claim or external source is used for Haneul's exact student date. -->
 
 **Status:** Source-verified legal baseline plus Work decision for Haneul's fictional delivery.
 
@@ -18,6 +47,14 @@ The opening date is a Work decision because the future Haneul and its founders a
 
 ## School-year rule
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 covers all three continuous academic-year containers, the alumni non-school interval, weekends/holidays/recess/closures, March labels, authority-record differences, and delayed first instruction. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked every container endpoint and the record classifications across recess and midnight; the distinction between academic year and first class prevents the principal omission. -->
+<!-- @evidence obligations/common.md#substantive-completion The rule fixes year labels, continuous membership, record ownership, first-instruction dates, and the prohibition on treating March 1 as either a delayed year or an invented class. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I traced March 1, first instruction, February/March midnight, city calendar, and education records; the delayed 2029 instruction remains a calendar application rather than a new year. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates legal container, instructional operation, record conventions, city/education calendars, and the three first-day applications rather than repeating the March rule. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the four temporal/authority layers; city-hall calendar versus education-year records is the least visible sibling and is explicitly preserved. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status distinguishes source-verified year rule from Work-decision application; Article 24 direct title/effective-date/link supports only the legal March-to-February container. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I reread Status, Article 24 citation, and all Haneul date applications; the fictional scheduling is not attributed to national law. -->
 
 **Status:** Source-verified legal rule with a Work-decision calendar application.
 
@@ -33,6 +70,14 @@ The direct source is the National Law Information Center document “Elementary 
 
 ## Semester and term boundaries
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes two gapless legal semesters for each academic year, exact Haneul boundaries, date-once classification, recess membership, weather-closure treatment, and 2029 preparation distinction. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked adjacency at every semester boundary and the recess/weekend examples; 2029-08-19/20 and the 2029 preparation period are the narrowest continuity points. -->
+<!-- @evidence obligations/common.md#substantive-completion The rule distinguishes semester membership from instruction, closure, vacation, and administration and identifies Article 44's authority alongside the fictional date ranges. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I read the table and explanatory paragraphs and verified that each date is assigned once; the weather-closure paragraph preserves membership without inventing a moved boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops statutory adjacency, three boundary tables, example classification, weather closure, and 2029 administrative preparation as separate calendar mechanics. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the legal rule, table, examples, and 2029 exception; semester membership versus instruction receives the necessary depth rather than one repeated boundary sentence. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status separates Article 44's source-verified two-semester rule from fictional Haneul boundaries; the direct effective-date and locator support adjacency, not the chosen dates. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked the direct Article 44 source statement and all table dates; the Haneul ranges are expressly Work decisions bounded by the legal rule. -->
 
 **Status:** Source-verified statutory semester rule plus Work decision for all Haneul dates.
 
@@ -54,6 +99,14 @@ The source is the National Law Information Center document “Elementary and Sec
 
 ## Examination periods
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 includes twelve Monday–Friday windows, semester placement, protected assessment capacity, school notices, and transport/illness/disability/family-work limits on club activity. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked all four windows in each of three rows and the June–July cross-month case; no adjacent weekend is silently included. -->
+<!-- @evidence obligations/common.md#substantive-completion The examination rule fixes exact dates, what ordinary club capacity cannot assume, school authority separation, and the required record when a later authorized move occurs. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the windows and moved-exam condition; original dates, reason, replacement, semester, and affected students are all required rather than left to downstream invention. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops assessment windows, room/accommodation notices, recovery/transport limits, semester placement, and moved-date provenance without inventing national exam law. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared date ranges with capacity and recovery constraints; accommodation contact and family work are the least visible assessment consequences and remain explicit. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional Haneul scheduling; legal sources support only the surrounding year/semester baseline, and the exact examination weeks are expressly not national mandates. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, all twelve dates, and the legal/fictional separation; no source is claimed for exact exam timing. -->
 
 **Status:** Work decision for Haneul's published calendar; weekday audit completed.
 
@@ -73,6 +126,14 @@ The dates are fictional Haneul scheduling decisions. The legal baseline comes fr
 
 ## Holidays and vacations
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes every instructional, summer, second-instruction, winter/graduation window for 2027–30, semester membership of non-instructional days, closure authority, and 2029 preparation/weekend distinction. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked all table endpoints against semester ranges and the 2029–30 graduation administration interval; no recess day is outside a legal semester. -->
+<!-- @evidence obligations/common.md#substantive-completion The recess rule distinguishes planned operation from building availability and explains weather, transport, illness, maintenance, family emergencies, authority records, daylight, and no-student-leader power to move exams or access rooms. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I read the windows, closure, and 2029 preparation paragraphs; planned instruction, closure, weekend, and office preparation each have separate operational meaning. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops three yearly tables, semester containment, closures, transit/daylight, family scheduling, graduation administration, and public-holiday precision without inventing holiday names. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the three tables with the closure and family-resource paragraphs; 2029 winter administration is the least ordinary window and is explicitly kept inside semester 2. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks recess and closure windows as Work decisions; the legal baseline is inherited from the separately sourced year/semester rules and no holiday-specific legal fact is claimed. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, all window tables, and the no-holiday-name statement; fictional operation is not presented as national closure law. -->
 
 **Status:** Work decision for recess and closure windows, with legal semester membership preserved.
 
@@ -92,6 +153,14 @@ The first instructional day in 2029–30 is Monday, 2029-03-05. Friday, 2029-03-
 
 ## Founder age arithmetic
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes all four birth dates, completed-age method, opening/second-year/third-year/graduation/final-date values, leap-day treatment, and the separation of age from institutional authority. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked every founder at all five checkpoints, including 2028 leap-day arithmetic; the age-versus-access distinction prevents a birthday from silently granting keys or records. -->
+<!-- @evidence obligations/common.md#substantive-completion The arithmetic rule specifies completed years/months/days, birthday change, leap handling, exact tables in prose, and downstream conditions for using dates when access or consent changes. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the method, checkpoint values, and authority paragraph; the leap-day explanation and non-authority consequence make the arithmetic usable rather than decorative. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops birth inputs, four checkpoint sets, leap-day handling, school-record distinction, and lived commitments so age is not compressed to a birth-year label. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared all four founders across the five dates; Jae-won's birthday month and Lila's January leap-sensitive path are the easiest to miscalculate and remain individually stated. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies calculated fictional canon; the birth dates and resulting ages are Work decisions, not external identity records, and no former Korean age convention is asserted as current law. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, all arithmetic values, and leap wording; the H2 makes no external biographical claim and does not use age to invent legal authority. -->
 
 **Status:** Work decision calculated from fixed birth dates using completed international age.
 
@@ -105,6 +174,14 @@ Age does not itself grant room keys, school records, spending authority, or perm
 
 ## Grade progression
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 covers first/second/third-year containers, exact instructional first dates and grade boundaries, record ownership, non-club/non-city authority, and the three-year legal context. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked every grade row against the academic-year and instruction dates; the boundary remains a school record classification rather than a birthday or token threshold. -->
+<!-- @evidence obligations/common.md#substantive-completion The grade rule fixes progression authority, table classification, official-record limits, city/school separation, and Article 46/24–26 legal context without allocating promotion scenes. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I read the table, authority paragraph, and source paragraph; the school—not game, council, or city—owns progression and graduation eligibility. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops three grades, their date containers, record authority, game limits, municipal separation, and legal/source standing rather than treating grade as a single label. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared each row with the game and city exclusions; official attendance/course/graduation records are the least visible dependency and are explicitly assigned to school authority. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status separates fictional grade labels and dates from current-law Article 46/24–26 baselines and supplies a direct official law link; no exact Haneul schedule is claimed as statutory. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked the direct law anchor and the Work-decision disclaimer; the legal source supports three-year structure, not Haneul names or dates. -->
 
 **Status:** Work decision aligned with the three-year high-school structure; no volume or scene allocation is owned here.
 
@@ -124,6 +201,14 @@ The three-year high-school term is supported by the Elementary and Secondary Edu
 
 ## Graduation boundary
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes 2030-02-28 student-status endpoint, 2030-02-08–28 administration, eligibility authority, alumni access bases, record-owner separation, lawful access/redaction/retention fields, and no automatic post-graduation publicity. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the date range, student/alumni status, school/education-office/city/club ledgers, and access conditions; the record-owner transition is the narrowest scope boundary. -->
+<!-- @evidence obligations/common.md#substantive-completion The graduation rule defines precise end date, administrative range, eligibility, certificate authority, post-graduation invitation conditions, and record-access requirements without prescribing a ceremony. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I traced 2030-02-28 through 2030-03-01 and the four record owners; automatic enrolled-student access ends while alumni access requires a new basis. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops date boundary, administration, eligibility, access, safeguarding, institutional ledgers, redaction, and retention as distinct consequences of graduation. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared school, education-office, city, and club records; club-created files becoming public is the easiest false consequence and is explicitly denied. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks Haneul's boundary fictional and Article 46/24–26 current-law anchors as legal baselines; official links support framework, not the invented date or procedures. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, all four direct law links, and the fictional-application disclaimer; no ceremony time or real school procedure is falsely sourced. -->
 
 **Status:** Work decision bounded by current-law record and graduation provisions.
 
@@ -137,6 +222,14 @@ Article 46 of the Elementary and Secondary Education Act provides the three-year
 
 ## Pre-story Haneul city era
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 establishes fictional city/education separation, built/administrative/household layers, accumulated infrastructure and records, uneven lived knowledge, source limitations, and the non-plot status of later legacies. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked city, school, records, infrastructure, households, and legacy constraints; the three-layer distinction ensures pre-story context is not reduced to a blank map or plot solution. -->
+<!-- @evidence obligations/common.md#substantive-completion The pre-story rule defines record authority/date/scope/limitation and distinguishes maps, rumors, spreadsheets, and lived routes, giving later settings a usable evidence status without assigning discoveries. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the three layers and evidence paragraph; each record type has a limitation and no H2 assigns who will discover it. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops physical, administrative, and household time/resource layers plus accumulated memory and record disagreement, proportionate to a city that predates the founders. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared built, administrative, and household consequences; uneven receipt of notices is the least visible civic effect and receives explicit treatment. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional pre-story continuity and denies real-city historicity; city, school, family, and record facts are Work decisions with no fabricated external source. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, authority separation, and no-plot disclaimer; the H2 does not present Haneul's infrastructure or residents as real-world evidence. -->
 
 **Status:** Work decision establishing fictional pre-story continuity; not a historical claim about a real city.
 
@@ -150,6 +243,14 @@ No pre-story event is a hidden plot solution. The flood and fire below are stand
 
 ## 2019 flood legacy
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes 2019-07-27, Seongnae channel overtopping, three affected spaces, pumps, three raised cabinets, yellow gauge, 1.2-metre closure, 35-minute detour, record owners, and warning restrictions. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked every fixed flood value and the separate passage/ramp/basement owners; gauge closure, detour, and volunteer ban remain distinct constraints. -->
+<!-- @evidence obligations/common.md#substantive-completion The flood rule defines gauge versus forecast, pump limits, detour costs, notice/lived-experience distinction, authority boundaries, and warning response without assigning a culprit or discovery. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the gauge, detour, records, and warning paragraphs; municipal closure cannot be issued by the adviser, and basement reopening requires the youth-centre coordinator. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops infrastructure, access time, weather effects, household/volunteer cost, official records, soaked notices, and authority rather than treating flood as a date-only backstory. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the physical gauge/pumps with detour and lived-notice effects; the 35-minute alternative is the most operationally specific consequence and is retained without adding invented routes. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status explicitly calls the event fictional; all gauge, pump, detour, authority, and warning values are Work decisions with no claim about a real flood or municipal standard. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, every fixed numeric value, and the city/youth-centre/school authority split; no external flood record is implied. -->
 
 **Status:** Work decision for a fictional municipal flood and its continuing material consequences.
 
@@ -165,6 +266,14 @@ During a flood warning, volunteers are barred from the channel and basement. Sto
 
 ## 2022 fire legacy
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes 2022-11-04, old audiovisual store, west-annex damage, smoke-sealed club room, education-office funding, school ownership, rebuilt booth capacity/door/breakers, key/charging/inspection/archive controls, and governance limits. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked every fixed fire value and each chain of custody; school facilities authority, not city hall or committee, controls daily room access. -->
+<!-- @evidence obligations/common.md#substantive-completion The fire rule distinguishes incident, reconstruction funding, daily access, key log, breaker condition, charging supervision, facilities inspection, archive custody, and reopening stop. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I traced incident record, inspection, key, and archive records through reopening; a reconstructed copy must be labelled reconstructed, preventing downstream invention of missing pages or motive. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops physical capacity, electrical controls, supervision, keys, archive separation, authority, and lived memory as different post-fire constraints rather than a single “damaged room” fact. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the twelve-seat, two-breaker, wired-glass, charging, key, and archive controls; archive chain of custody is the least visible and receives its own evidence distinction. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional school-fire canon and explicitly denies city ownership or culprit/reveal claims; funding, facilities, committee, and safety rules are package decisions. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, school/education-office/city ownership, and no-reveal wording; no external fire report or motive is asserted. -->
 
 **Status:** Work decision for a fictional school fire and its continuing safety controls.
 
@@ -182,6 +291,14 @@ The fire legacy is therefore a standing chronology constraint: every later date 
 
 ## Post-graduation interval
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes the Friday 2030-03-01 through Friday 2031-02-28 alumni container, non-school status, access bases, record separation, work/study/family/transport constraints, and carried-record boundary. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked both endpoint weekdays, the non-fourth-school-year condition, access bases, and four record contexts; no post-graduation date is smuggled into student status. -->
+<!-- @evidence obligations/common.md#substantive-completion The interval defines alumni access, current-student refusal, city/education record distinction, changing resource costs, final delivery closure, and explicit cross-boundary carried records. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I traced the March 1 status change, invitation/key distinction, employment constraints, and February 28 endpoint; later layers receive a time container without a plot ending. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops access, employment/study, family care, pay/deadlines, transport/daylight, permission renewal, and carried commitments as distinct alumni conditions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared school-day and post-shift travel, civic-room versus club booking, and alumni versus student obligation; permission renewal is the least visible ongoing cost and remains explicit. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks the final interval as fictional chronology; its endpoint and access/work conditions are Work decisions and do not claim a fourth legal high-school year or universal employment schedule. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, endpoint, non-school-year statement, and access conditions; the H2 preserves fictional scope without presenting occupations or later civic closure as fact. -->
 
 **Status:** Work decision defining the final chronological container after student status ends.
 
