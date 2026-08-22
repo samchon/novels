@@ -60,6 +60,14 @@ Withdrawal is allowed before or during participation. A person can ask for a pau
 
 ## Peer roles without forced representation
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes tester, witness, translator, photographer, route companion, note-taker, borrower, audience, representation, burden compensation, and role-change records. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I reread the complete role list and the two representation paragraphs; disability, multilingual, migrant, and friend examples all reject compulsory representation. -->
+<!-- @evidence obligations/common.md#substantive-completion The H2 settles role scope, expertise requests, burden accommodation, personal/elected/formal speech status, and changed-position records. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I compared the operational role list with the representation-record rule; a downstream unit can assign a role without inventing who speaks for whom. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops task roles, expertise, burden, representation status, confidence, and changed positions as separate social constraints. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I checked each example against its consequence; the distinction between personal and appointed speech is the least interchangeable detail. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks role boundaries as fictional work canon and avoids demographic or cultural claims about peers. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I reread Status and all disability/language/migrant examples; the H2 rejects stereotype-based assignment rather than asserting a researched population fact. -->
 
 **Status:** Work decision — role boundary.
 
