@@ -196,6 +196,14 @@ Referral records the time, observable condition, recipient, and requested action
 
 ## Alumni continuity and changed access
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes post-graduation standing, alumni invitation, school access, record separation, and changed responsibility. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked alumni, invitation, key, record, and responsibility limits; familiarity does not preserve student access. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete student-to-alumni access boundary without assigning a plot transition. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the access-basis and record clauses; every post-graduation use needs current authorization. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates standing, invitation, keys, records, responsibility, and safeguarding. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the six effects; record separation is the independent continuity control. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional alumni access consistent with 030. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and graduation boundary; no real alumni policy is claimed. -->
 
 **Status:** Work decision — post-graduation canon.
 
@@ -205,6 +213,14 @@ An alumni contribution identifies the receiving institution, scope, data boundar
 
 ## Contact, schedule, and availability register
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes contact purpose, schedule, availability, family/work constraints, consent, and update/expiry boundaries. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked contact, schedule, consent, work, and expiry fields; availability is not assumed from membership. -->
+<!-- @evidence obligations/common.md#substantive-completion The register gives downstream units a complete way to know when and how a founder may be contacted. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread purpose and update conditions; outdated availability cannot silently authorize a task. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates contact purpose, schedule, family work, consent, update, and expiry. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the register fields; purpose is the independent privacy constraint. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional availability records and avoids private-data or employment-law claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and privacy wording; no real contact database is implied. -->
 
 **Status:** Work decision — executable coordination canon.
 
