@@ -13,7 +13,7 @@
 <!-- @evidence principles/settings.md#source-support Claims use direct institutional and critical sources with page or line locators where available. -->
 <!-- @evidenceReview principles/settings.md#source-support #2462844 Reopened de Syon PDF pp. 1-3, Muracciole lines 68-91, Paris interview lines 63-83, Lentz lines 70-82, and Guillerme pp. 35-57. -->
 <!-- @evidence principles/settings.md#constraint-sufficiency The setting fixes instruments, workshops, raw materials, labor, standards, routes, bridges, depots, inspection, repair, and civilian burden. -->
-<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Tested every unit for object, body, space, authority, cost, failure, and recovery. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Tested each H2 for object, body, space, authority, cost, material failure, repair, and recovery rather than a progress slogan. -->
 <!-- @evidence principles/settings.md#minimal-departure The file rejects invention as automatic progress, output as delivery, a map as a usable road, and imperial science as neutral. -->
 <!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 Compared patronage, production, urban works, and occupation sources while preserving failure and coercion. -->
 <!-- @evidence principles/settings.md#internal-coherence The sequence runs from knowledge and patronage through routes, production, standards, civilian effects, campaign limits, Egypt, and handoff. -->
