@@ -3,7 +3,7 @@
 <!-- @evidence principles/common.md#layer-boundary These H2s state material settings and limits; inventions, scenes, and reveals remain downstream. -->
 <!-- @evidenceReview principles/common.md#layer-boundary #c239986 Rechecked 016 supply, 031 education, and 036 communication beside every 035 H2; 035 stops at capacity, infrastructure, and maintenance constraints. -->
 <!-- @evidence principles/common.md#work-language The English file explains patronage, engineer, arsenal, canal, standard, workshop, and maintenance without assuming technical expertise. -->
-<!-- @evidenceReview principles/common.md#work-language #a2dca6c Checked technical and French institutional vocabulary for accessible precision. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c Reread Institute, École polytechnique, arsenal, foundry, canal, bridge, inspection, and maintenance terms for English-reader precision. -->
 <!-- @evidence principles/settings.md#addressable-canon The canon separates science patronage, transport, production, standards, civilian cost, campaign limits, Egypt, and technical handoff. -->
 <!-- @evidenceReview principles/settings.md#addressable-canon #660699f Tested every H2 for one owner and removed generic progress language. -->
 <!-- @evidence principles/settings.md#information-structure Each H2 states status, dated mechanism, source position, material chain, uncertainty, and downstream use. -->
