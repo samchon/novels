@@ -1,3 +1,5 @@
+<!-- @evidence principles/common.md#purpose-fit This file supplies the school-side institutional infrastructure promised by the novel: recognition, rooms, records, safeguarding, attendance, assessment, discipline, governance, and graduation turn a playful project into accountable school life without becoming plot order or a generic bureaucracy catalogue. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa I reread the complete purpose-fit target and all thirteen school H2s, then compared 150 with adjacent 140 Identity and Language and 160 Municipal Institutions. The weakest host is School Governance Committee because its statutory structure could become inert background; its agenda, quorum, accessible notice, deliberation scope, non-implementation reasons, and boundary against daily rooms, discipline, and student-council authority make it operationally necessary. 140 owns representation and language access, while 160 owns city jurisdiction; 150 uniquely owns school authority, student records, club recognition, safeguarding, assessment, and the February 2030 graduation handoff. -->
 
 # School Institutions
 
