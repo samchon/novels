@@ -129,13 +129,13 @@ Sources: de Syon, “Science under Napoleon,” PDF pp. 2-3, https://www.napoleo
 
 ## Boundary to technical storylines {#boundary-to-technical-storylines}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns handoff of engineers, workshops, inventions, infrastructure, users, repairs, and industrial regions. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Compared the handoff with storyline and logistics boundaries; it does not prescribe chapter order or dialogue. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Rechecked engineers, workshops, inventions, infrastructure, users, repairs, and industrial regions against storyline and logistics boundaries; no chapter order is prescribed. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 settles the minimum object-and-labor context before a later unit assigns technical action. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested object, maker, standard, material, route, user, failure, and consequence. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Required every technical handoff to name object, maker, standard, material, route, user, failure, repair, and consequence. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 separates invention, workshop, contract, infrastructure, transport, maintenance, and scene consequence. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked that technical storylines inherit mechanisms rather than a progress mood. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Rejected progress mood and required institution, hands, object, test, transport, user, and bounded result for downstream technical action. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This host preserves the settings-to-storyline boundary and requires source-linked constraints for inherited capacity. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked all seven preceding hosts and their source statuses before downstream handoff. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the seven preceding source-bearing hosts and retained only their named capacity, cost, failure, and source limits for downstream use. -->
 
 **Status:** Work boundary. Settings supplies institutions, objects, labor, standards, routes, costs, civilian burdens, and failures. Storylines may connect an engineer, worker, soldier, administrator, or household to an event; scenarios may specify tool, room, weather, road, inspection, delay, and competing information; manuscripts may render finished prose. No later unit may use “modern,” “industrial,” or “scientific” as a substitute for a maker, material, test, transport, user, and consequence. The handoff succeeds when a reader can follow a capacity from institution through hands and objects to a bounded result, including repair, shortage, or refusal.
 
