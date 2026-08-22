@@ -179,6 +179,14 @@ Handoffs state condition, accessories, return point, and damage-report route. A 
 
 ## Adult referral and safety boundary
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes danger, safeguarding, adult referral, emergency, confidentiality, and founder non-authority boundaries. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked danger, referral, emergency, privacy, and authority limits; founders cannot replace an adult or service. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete stop/referral path without diagnosing or assigning a scene. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread referral and confidentiality rules; safety escalation is explicit and actionable. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates danger, adult referral, emergency, privacy, and non-authority. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the five safeguards; confidentiality is the independent boundary. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional safety procedure and avoids unsupported medical/legal claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and referral language; no clinical authority is fabricated. -->
 
 **Status:** Work decision — safeguarding canon.
 
