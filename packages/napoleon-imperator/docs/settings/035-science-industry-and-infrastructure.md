@@ -15,7 +15,7 @@
 <!-- @evidence principles/settings.md#constraint-sufficiency The setting fixes instruments, workshops, raw materials, labor, standards, routes, bridges, depots, inspection, repair, and civilian burden. -->
 <!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Tested each H2 for object, body, space, authority, cost, material failure, repair, and recovery rather than a progress slogan. -->
 <!-- @evidence principles/settings.md#minimal-departure The file rejects invention as automatic progress, output as delivery, a map as a usable road, and imperial science as neutral. -->
-<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 Compared patronage, production, urban works, and occupation sources while preserving failure and coercion. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 Compared state patronage, armament, Paris works, and Egyptian knowledge while preserving coercion, displacement, pollution, shortage, and failure. -->
 <!-- @evidence principles/settings.md#internal-coherence The sequence runs from knowledge and patronage through routes, production, standards, civilian effects, campaign limits, Egypt, and handoff. -->
 <!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e Reconciled schools, arsenals, bridges, factories, city projects, and colonial knowledge without collapsing their scales. -->
 <!-- @evidence principles/common.md#historical-claim-provenance The file labels primary technical text, critical article, institutional interview, urban synthesis, and bounded inference separately. -->
