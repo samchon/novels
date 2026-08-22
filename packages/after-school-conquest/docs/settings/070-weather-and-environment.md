@@ -238,6 +238,14 @@ KMA's current public weather and hazard pages provide the official information c
 
 ## Weather-dependent material and clothing
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes rain/cold/heat effects on paper, electronics, tools, clothing, drying, storage, and replacement resources. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked materials, clothing, storage, drying, and replacement limits; weather changes resource cost without changing ownership. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives downstream writers material-protection and clothing constraints for safe work without prescribing an event. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread storage and replacement conditions; damaged material remains a recorded consequence rather than silent continuity. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates paper, electronics, tools, clothing, drying, storage, and replacement. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the material classes; drying/storage is the independent operational effect. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional material/weather decisions, not a universal textile or equipment standard. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and replacement wording; no external product claim is made. -->
 
 **Status:** Work decision for material and bodily resource effects.
 
@@ -251,6 +259,14 @@ KMA's official public safety guidance is the source-verified route for warnings 
 
 ## Environmental observation protocol
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes observer, timestamp, instrument/source, location, condition, uncertainty, repeat-check, and record-owner requirements. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked every observation field and repeat condition; an observation is not a closure order. -->
+<!-- @evidence obligations/common.md#substantive-completion The protocol tells downstream users how to record environmental conditions, distinguish lived report from instrument reading, and preserve uncertainty. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread source, uncertainty, and repeat-check rules; the protocol supports comparison without inventing precision. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates observer, time, instrument, place, condition, uncertainty, repetition, and authority. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared measurement and lived-report fields; uncertainty is the independent evidence consequence. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional observation procedure and does not claim official meteorological certification. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and source limitations; no weather station or legal authority is fabricated. -->
 
 **Status:** Work decision establishing a repeatable observation record without converting weather into plot instructions.
 
