@@ -12,6 +12,7 @@ Opened: 2026-08-21
 - Declared delivery scale: each work is one complete twenty-volume novel. File, H2/H3/H4, authored-body, distribution, and research-breadth counts are regression alarms; they do not certify literary quality.
 - Required artifact quality: exhaustive usable settings; context-rich detailed storyline treatments; production-capable scenarios near screenplay detail and immediately visualizable without inventing essential mechanics; finished manuscripts at the highest achievable literary-prose standard.
 - Pipeline: every complete layer advances `disabled -> evidence -> review`; a failed package build closes review and every downstream gate.
+- Checkpoint cadence: after each coherent creation or material revision of one authored document, its exclusive owner stages only that owned document, passes the package build and staged `git diff --check`, then commits and pushes it directly. Never use broad staging, mix another owner or coordinator's changes, create an empty or partial commit, or proceed past a build, diff, or push failure; stop and report the exact obstruction instead. The coordinator commits shared and cross-package files separately.
 - Completion: four layers at `review`, clean package and root builds, then at least two consecutive finding-free and edit-free literal full-work reviews.
 - Comparison status: exploratory; no causal control arm.
 
@@ -23,7 +24,7 @@ Opened: 2026-08-21
 ## Napoleon Imperator
 
 - Owner: `/root/napoleon_20v_owner_v2`, GPT-5.6-Luna, exclusive package authority. The original owner was retired after repeated shallow or source-defective Austerlitz increments.
-- Current phase: full settings first-version authorship; 29 of 50 planned files are present, with 157 H2 owners and about 39,315 authored words. All four layers remain `disabled` until the entire layer is complete.
+- Current phase: full settings first-version authorship; 37 of 50 planned files are present, with 189 H2 owners and about 42,141 authored words. All four layers remain `disabled` until the entire layer is complete.
 - Approved settings checkpoint before disabled-stage autonomy resumed: `001-foundation-and-delivery.md` plus H2 1-13 of `073-austerlitz.md`. The owner may now complete the entire approved settings map without H2-by-H2 coordinator approval; strict evidence and literary adjudication begins after the complete first version advances to `evidence`.
 - User-confirmed rules: deliver a complete twenty-volume English novel; create very detailed settings, context-rich storylines, immediately visualizable near-screenplay scenarios, and finished highest-quality literary prose; open at the Battle of Austerlitz, reach the peak of victory, and only then return to Napoleon's childhood.
 - Canonical contract action: the one-time opening/return order is recorded in `docs/obligations/storylines.md` and activated through an additive storyline-stage claim. Its disabled-stage package build passed before settings authorship resumed.
@@ -31,8 +32,8 @@ Opened: 2026-08-21
 - Approved settings allocation: 50 files, about 520 independently addressable H2 owners, 150,000-210,000 authored-body words, and at least 400 direct retrievable sources. Counts are omission and contraction alarms, not quotas or quality certificates.
 - Research burden: recover or exceed the prior historical breadth using direct primary records, critical editions, and scholarship; distinguish sourced fact, dispute, and work decision under the current settings contract.
 - Principal risks: compressing twenty volumes into famous-event summaries; treating research as inert catalogue; heroic or condemnatory simplification; attaching a childhood flashback before the Austerlitz victory has actually peaked; falsifying evidence to satisfy coverage.
-- Latest disabled-stage checkpoint: `001` through `028`, plus `073`, form a clean-build settings snapshot. The latest domain batch adds Jena, the Continental System, Wagram, Tilsit, Leipzig, the 1814 campaign and abdication, and Elba; `073-austerlitz.md` retains the victory-peak opening foundation.
-- Next gate: continue the remaining 21 planned settings files, then inspect all 50 together with a clean package build before any evidence transition.
+- Latest disabled-stage checkpoint: `001` through `036`, plus `073`, form a clean-build settings snapshot. The latest domain batch adds propaganda and public memory, religion, education, finance, court ceremony, gender and power, science and infrastructure, and maps, communications, and time; `073-austerlitz.md` retains the victory-peak opening foundation.
+- Next gate: continue the remaining 13 planned settings files, then inspect all 50 together with a clean package build before any evidence transition.
 
 ## After-School Conquest
 
