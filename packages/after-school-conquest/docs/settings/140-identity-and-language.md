@@ -31,6 +31,7 @@ This file sets the English novel’s treatment of identity, names, code-switchin
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Self-description before category” H2 from Status through its final boundary. Its first operating statement is “Characters may describe themselves, decline a label, use different words with different audiences, or change a label over time. The narrator does not assign an identity from appear”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Self-description before category host gives 105 authored words across 3 paragraphs to its distinct identity setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Self-description before category acknowledgement is grounded in this host's Status and its concrete opening statement 'n — representation canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Self-description before category” H2 from Status through its final boundary. Its first operating statement is “Characters may describe themselves, decline a label, use different words with different audiences, or change a label over time. The narrator does not assign an identity from appear”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — representation canon.
 
@@ -46,6 +47,7 @@ The prose gives a person ordinary preferences, expertise, humour, and contradict
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Names, order, and honorifics” H2 from Status through its final boundary. Its first operating statement is “Korean names remain in the order chosen by the character or document. A family name, given name, nickname, romanization, and school register entry may differ. The English prose sup”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Names, order, and honorifics host gives 110 authored words across 3 paragraphs to its distinct identity setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Names, order, and honorifics acknowledgement is grounded in this host's Status and its concrete opening statement 'n — English-language canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Names, order, and honorifics” H2 from Status through its final boundary. Its first operating statement is “Korean names remain in the order chosen by the character or document. A family name, given name, nickname, romanization, and school register entry may differ. The English prose sup”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — English-language canon.
 
@@ -61,6 +63,7 @@ Honorifics and titles are translated by relationship and register where possible
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Code-switching as social action” H2 from Status through its final boundary. Its first operating statement is “Korean, English, Spanish, and mixed speech can signal audience, intimacy, precision, humour, exclusion, urgency, or a search for an untranslatable phrase. The novel renders dialogu”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Code-switching as social action host gives 86 authored words across 3 paragraphs to its distinct identity setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Code-switching as social action acknowledgement is grounded in this host's Status and its concrete opening statement 'n — language rule.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Code-switching as social action” H2 from Status through its final boundary. Its first operating statement is “Korean, English, Spanish, and mixed speech can signal audience, intimacy, precision, humour, exclusion, urgency, or a search for an untranslatable phrase. The novel renders dialogu”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — language rule.
 
@@ -76,6 +79,7 @@ Nonstandard grammar is not used as a comic defect. Recurrent code-switching rema
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Translation and untranslatable remainder” H2 from Status through its final boundary. Its first operating statement is “A translation records source, audience, purpose, and uncertainty. Words such as *nunchi* or *jeong* are retained only when their cultural work cannot be carried by a flat synonym; ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Translation and untranslatable remainder host gives 99 authored words across 3 paragraphs to its distinct identity setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Translation and untranslatable remainder acknowledgement is grounded in this host's Status and its concrete opening statement 'n — linguistic evidence rule.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Translation and untranslatable remainder” H2 from Status through its final boundary. Its first operating statement is “A translation records source, audience, purpose, and uncertainty. Words such as *nunchi* or *jeong* are retained only when their cultural work cannot be carried by a flat synonym; ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — linguistic evidence rule.
 
@@ -91,6 +95,7 @@ The setting forbids “perfect translation” claims when register, joke, legal 
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Migration and belonging” H2 from Status through its final boundary. Its first operating statement is “A migrant or diasporic character can belong to Haneul while retaining other places, languages, foods, memories, and obligations. Immigration status is private and never inferred fr”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Migration and belonging host gives 104 authored words across 3 paragraphs to its distinct identity setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Migration and belonging acknowledgement is grounded in this host's Status and its concrete opening statement 'n — social canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Migration and belonging” H2 from Status through its final boundary. Its first operating statement is “A migrant or diasporic character can belong to Haneul while retaining other places, languages, foods, memories, and obligations. Immigration status is private and never inferred fr”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — social canon.
 
@@ -106,6 +111,7 @@ Migration is not an automatic explanation for every cultural difference. A famil
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Disability and body variation” H2 from Status through its final boundary. Its first operating statement is “Disability is treated as an interaction between body, mind, environment, design, and social response. A person can have changing energy, use different aids, mask a need, or refuse ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Disability and body variation host gives 92 authored words across 3 paragraphs to its distinct identity setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Disability and body variation acknowledgement is grounded in this host's Status and its concrete opening statement 'n — access and dignity canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Disability and body variation” H2 from Status through its final boundary. Its first operating statement is “Disability is treated as an interaction between body, mind, environment, design, and social response. A person can have changing energy, use different aids, mask a need, or refuse ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — access and dignity canon.
 
@@ -121,6 +127,7 @@ The prose names barriers concretely—slope, glare, crowd, noise, reach, timing,
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Gender, family, and social expectation” H2 from Status through its final boundary. Its first operating statement is “Gender expression, pronouns, family role, school uniform, and public expectation may align or conflict. Characters identify themselves and correct others. The novel does not make a”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Gender, family, and social expectation host gives 91 authored words across 3 paragraphs to its distinct identity setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Gender, family, and social expectation acknowledgement is grounded in this host's Status and its concrete opening statement 'n — representation canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Gender, family, and social expectation” H2 from Status through its final boundary. Its first operating statement is “Gender expression, pronouns, family role, school uniform, and public expectation may align or conflict. Characters identify themselves and correct others. The novel does not make a”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — representation canon.
 
@@ -136,6 +143,7 @@ Care, leadership, technical skill, translation, and emotional labour are distrib
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Faith, food, and observance” H2 from Status through its final boundary. Its first operating statement is “Characters may be religious, nonreligious, questioning, privately observant, or part of a family with mixed practice. Food, clothing, prayer, holy days, and silence are handled as ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Faith, food, and observance host gives 90 authored words across 3 paragraphs to its distinct identity setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Faith, food, and observance acknowledgement is grounded in this host's Status and its concrete opening statement 'n — pluralism canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Faith, food, and observance” H2 from Status through its final boundary. Its first operating statement is “Characters may be religious, nonreligious, questioning, privately observant, or part of a family with mixed practice. Food, clothing, prayer, holy days, and silence are handled as ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — pluralism canon.
 
@@ -151,6 +159,7 @@ An association or family member may explain a practice, but no person represents
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Class, work, and dignity” H2 from Status through its final boundary. Its first operating statement is “Class appears through time, housing, transport, tools, debt, work, food, and institutional confidence, not through caricature or a single brand. A student who works after school ma”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Class, work, and dignity host gives 96 authored words across 3 paragraphs to its distinct identity setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Class, work, and dignity acknowledgement is grounded in this host's Status and its concrete opening statement 'n — economic representation.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Class, work, and dignity” H2 from Status through its final boundary. Its first operating statement is “Class appears through time, housing, transport, tools, debt, work, food, and institutional confidence, not through caricature or a single brand. A student who works after school ma”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — economic representation.
 
@@ -166,6 +175,7 @@ The founders do not use a poorer peer’s hardship to make a grant application v
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Accent, dialect, and linguistic prejudice” H2 from Status through its final boundary. Its first operating statement is “Accent and dialect convey history and context but do not determine intelligence, honesty, or education. The prose may show a listener misunderstanding a word or registering a regis”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Accent, dialect, and linguistic prejudice host gives 102 authored words across 3 paragraphs to its distinct identity setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Accent, dialect, and linguistic prejudice acknowledgement is grounded in this host's Status and its concrete opening statement 'n — dialogue canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Accent, dialect, and linguistic prejudice” H2 from Status through its final boundary. Its first operating statement is “Accent and dialect convey history and context but do not determine intelligence, honesty, or education. The prose may show a listener misunderstanding a word or registering a regis”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — dialogue canon.
 
@@ -181,6 +191,7 @@ Mockery of language is shown as a social action with an affected person and repa
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Identity records and correction” H2 from Status through its final boundary. Its first operating statement is “A school or civic record may contain a name, contact, category, or accommodation field for a defined purpose. The record owner, correction route, retention period, and disclosure s”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Identity records and correction host gives 96 authored words across 3 paragraphs to its distinct identity setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Identity records and correction acknowledgement is grounded in this host's Status and its concrete opening statement 'n — administrative boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Identity records and correction” H2 from Status through its final boundary. Its first operating statement is “A school or civic record may contain a name, contact, category, or accommodation field for a defined purpose. The record owner, correction route, retention period, and disclosure s”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — administrative boundary.
 
@@ -196,6 +207,7 @@ When a record misnames or misclassifies someone, the founders help route a corre
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Reader-facing context” H2 from Status through its final boundary. Its first operating statement is “The novel gives English-language readers enough action and context to understand Korean school terms, public institutions, and social registers without turning characters into lect”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Reader-facing context host gives 96 authored words across 3 paragraphs to its distinct identity setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Reader-facing context acknowledgement is grounded in this host's Status and its concrete opening statement 'n — English access contract.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Reader-facing context” H2 from Status through its final boundary. Its first operating statement is “The novel gives English-language readers enough action and context to understand Korean school terms, public institutions, and social registers without turning characters into lect”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — English access contract.
 
@@ -211,6 +223,7 @@ The text does not translate away power. “Please” can still be a command in c
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Refusal, privacy, and unfinished identity” H2 from Status through its final boundary. Its first operating statement is “A person may decline a label, translation, photograph, interview, pronoun explanation, family history, or public correction. The founders may record that a request was declined wit”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Refusal, privacy, and unfinished identity host gives 99 authored words across 3 paragraphs to its distinct identity setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Refusal, privacy, and unfinished identity acknowledgement is grounded in this host's Status and its concrete opening statement 'n — dignity rule.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Refusal, privacy, and unfinished identity” H2 from Status through its final boundary. Its first operating statement is “A person may decline a label, translation, photograph, interview, pronoun explanation, family history, or public correction. The founders may record that a request was declined wit”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — dignity rule.
 
