@@ -10,8 +10,8 @@
 <!-- @evidenceReview principles/settings.md#information-structure #10ff424 Reread every Status-to-Sources block for ruler, officer, contingent, promise, language, and cost. -->
 <!-- @evidence principles/settings.md#fact-status Status distinguishes treaty text, critical national history, institutional study, campaign chronology, and boundary. -->
 <!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Compared labels with Tilsit text, Polish history, Confederation account, and Rhineland scholarship. -->
-<!-- @evidence principles/settings.md#source-support Claims use official treaty, Fondation critical history, Cambridge scholarship, and German documentary context. -->
-<!-- @evidenceReview principles/settings.md#source-support #2462844 Reopened Tilsit articles, Polish Legions and Duchy account, Rhine Confederation, and Rhineland studies. -->
+<!-- @evidence principles/settings.md#source-support Claims use official treaty, Fondation critical history, Cambridge scholarship, and German documentary context with retrievable article or line locators; work mechanics remain marked. -->
+<!-- @evidenceReview principles/settings.md#source-support #f2c91a6 Reopened the Rhine Confederation article at lines 64-89, the German-history introduction at lines 28-48, Poland through the ages at lines 73-87 and 113-125, the Tilsit text at Articles IV-VI and XV-XVI, the Rhineland study abstract at lines 462-467, and the correspondence editorial record at lines 80-85 and 95-118. Each historical assertion now has a direct locator while work rules remain labelled. -->
 <!-- @evidence principles/settings.md#constraint-sufficiency The setting fixes treaty, ruler, army, pay, territory, command, language, liaison, requisition, and public cost. -->
 <!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Tested every unit for government, body, document, route, money, authority, and consequence. -->
 <!-- @evidence principles/settings.md#minimal-departure The file rejects alliance-as-consent, Polish promise-as-restoration, German contingent-as-puppet, and cohesion-as-fluency. -->
@@ -41,7 +41,7 @@ This file owns allied agency, national hopes, and the military and diplomatic li
 
 **Status:** Work canon. An allied state contains court, army, treasury, officers, population, and factions with different aims. French alliance language cannot erase local calculation. The setting names treaty, contingent, command channel, payment, territory, and public cost. A unit can fight bravely while its government negotiates another course; a ruler can sign while a minister, officer, or town resists implementation.
 
-Sources: Fondation Napoleon, “The Confederation of the Rhine,” https://www.napoleon.org/en/history-of-the-two-empires/articles/the-confederation-of-the-rhine/; German History in Documents and Images, “The Holy Roman Empire and Napoleonic period,” https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/ghdi%3Aintroduction-2.
+Sources: Peter Hicks, “The Confederation of the Rhine,” German statelets, contingents, protection, and changing allegiance, https://www.napoleon.org/en/history-of-the-two-empires/articles/the-confederation-of-the-rhine/ (lines 64-89); Jason Coy and Jared Poley, “Introduction,” German History in Documents and Images, fragmented polities, imperial institutions, and Napoleonic disruption, https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/ghdi%3Aintroduction-2 (lines 28-48).
 
 ## Polish hopes and French promises {#polish-hopes-and-french-promises}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Polish Legions, Duchy of Warsaw, soldier, noble, town, diplomatic representative, promise, and implementation. -->
@@ -55,7 +55,7 @@ Sources: Fondation Napoleon, “The Confederation of the Rhine,” https://www.n
 
 **Status:** Source-critical. Fondation's Polish history records Dabrowski's 1797 Legions, formed in the hope that service against the common enemy would aid liberation. After Tilsit in July 1807, the Duchy of Warsaw appeared under the King of Saxony. Its army became both national pride and a promise of independence, while Polish units served in French campaigns including Spain. The same account records Napoleon's refusal in 1810 to ratify a convention promising that a Kingdom of Poland would never be restored. A soldier, noble, town, and envoy could hear different meanings in “Poland.” Later scenes must identify promise, audience, document, contribution, and uncertainty.
 
-Sources: Fondation Napoleon, “Poland through the ages,” https://www.napoleon.org/en/history-of-the-two-empires/articles/poland-through-the-ages/; Treaty of Tilsit, official text, https://www.napoleon-empire.org/en/official-texts/treaty-of-tilsit-1807-07-09.php.
+Sources: Monika Senkowska-Gluck, “Poland through the ages,” Legions, proclamation, Duchy, army, Spanish service, and 1810 convention, https://www.napoleon.org/en/history-of-the-two-empires/articles/poland-through-the-ages/ (lines 73-87 and 113-125); “Treaty of Tilsit, July 9, 1807,” official text, recognition, Duchy, and military-road Articles IV-VI and XV-XVI, https://www.napoleon-empire.org/en/official-texts/treaty-of-tilsit-1807-07-09.php.
 
 ## Confederation states and local administration {#confederation-states-and-local-administration}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Confederation ruler, minister, contingent, court, tax, recruitment, requisition, translation, and civil sovereignty. -->
@@ -69,7 +69,7 @@ Sources: Fondation Napoleon, “Poland through the ages,” https://www.napoleon
 
 **Status:** Source-critical institutional domain. The Confederation account describes a French bridgehead and defensive bastion that supplied troops and hegemonic control in central Europe; its dissolution was proclaimed on 4 November 1813 after Leipzig. Cambridge research on the Rhineland emphasizes fragmented states, changing local loyalties, and elite responses to transformed local government. An order must pass through ruler, minister, military staff, and local office. Settings distinguish contingent command from civil sovereignty and show who pays, recruits, requisitions, translates, and bears public cost.
 
-Sources: Fondation Napoleon, “The Confederation of the Rhine,” https://www.napoleon.org/en/history-of-the-two-empires/articles/the-confederation-of-the-rhine/; Michael Rowe, “France, Prussia, or Germany?,” *Central European History* 39.4 (2006), https://www.cambridge.org/core/journals/central-european-history/article/abs/france-prussia-or-germany-the-napoleonic-wars-and-shifting-allegiances-in-the-rhineland/DCD13BD5495A83AE9AF7A8ABD77CD65F.
+Sources: Peter Hicks, “The Confederation of the Rhine,” state formation, troop obligations, independent identities, financial pressure, and defection, https://www.napoleon.org/en/history-of-the-two-empires/articles/the-confederation-of-the-rhine/ (lines 64-89); Michael Rowe, “France, Prussia, or Germany?,” *Central European History* 39.4 (2006), fragmented Rhineland polities, French rule, and changing acceptance, https://www.cambridge.org/core/journals/central-european-history/article/abs/france-prussia-or-germany-the-napoleonic-wars-and-shifting-allegiances-in-the-rhineland/DCD13BD5495A83AE9AF7A8ABD77CD65F (lines 462-477).
 
 ## Language liaison and military cohesion {#language-liaison-and-military-cohesion}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns interpreter, liaison, translated order, drill, receipt, command chain, refusal, and defection. -->
@@ -83,7 +83,7 @@ Sources: Fondation Napoleon, “The Confederation of the Rhine,” https://www.n
 
 **Status:** Work canon grounded in communication limits. Multinational forces require interpreters, liaison officers, translated orders, and shared drill, all of which may remain incomplete. A contingent can understand a tactical command and reject its political purpose, or obey a government instruction that conflicts with French timing. Later units name language, medium, receipt, chain of command, and confirmation before claiming cohesion or defection.
 
-Sources: Fondation Napoleon, correspondence editorial corpus, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Treaty of Tilsit, military-road and territorial clauses, https://www.napoleon-empire.org/en/official-texts/treaty-of-tilsit-1807-07-09.php.
+Sources: Fondation Napoléon, “The Correspondence of Napoleon,” dated corpus, editorial traceability, and source limitations, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/ (lines 80-85 and 95-118); “Treaty of Tilsit, July 9, 1807,” official text, territorial recognition and military-road Articles IV-VI and XV-XVI, https://www.napoleon-empire.org/en/official-texts/treaty-of-tilsit-1807-07-09.php.
 
 ## Boundary to allied campaign owners {#boundary-to-allied-campaign-owners}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns handoff to Polish, Saxon, Bavarian, Wurttemberg, Italian, and other allied campaign owners. -->
@@ -97,4 +97,4 @@ Sources: Fondation Napoleon, correspondence editorial corpus, https://fondationn
 
 **Status:** Work boundary. Polish, Saxon, Bavarian, Wurttemberg, Italian, and other allied units require campaign-specific orders and source chains. This file supplies allied agency, treaty promise, administration, and translation mechanics. Later narratives preserve a contingent's national purpose, material support, commander, language, and political exposure rather than using “allied” as a generic identity.
 
-Sources: Fondation Napoleon, “Poland through the ages,” https://www.napoleon.org/en/history-of-the-two-empires/articles/poland-through-the-ages/; Fondation Napoleon, “The Confederation of the Rhine,” https://www.napoleon.org/en/history-of-the-two-empires/articles/the-confederation-of-the-rhine/.
+Sources: Monika Senkowska-Gluck, “Poland through the ages,” Polish service, Duchy dependence, and national cost, https://www.napoleon.org/en/history-of-the-two-empires/articles/poland-through-the-ages/ (lines 73-87 and 113-125); Peter Hicks, “The Confederation of the Rhine,” allied state obligations and changing allegiance, https://www.napoleon.org/en/history-of-the-two-empires/articles/the-confederation-of-the-rhine/ (lines 74-89).
