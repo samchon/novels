@@ -73,13 +73,13 @@ Sources: José Muracciole, “Les industries d'armement,” Fondation Napoléon,
 
 ## Standards measurement and repair {#standards-measurement-and-repair}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns measurement, inspection, interchangeable practice, tools, parts, training, maintenance, and repair. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Compared standardization with production; a specification is not a part in a depot. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Rechecked measurement, inspection, tools, parts, training, maintenance, and repair separately from 035 production and 016 stock. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 settles how reliability is reproduced and where it fails. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested tool, gauge, worker, test, defect, spare part, and time. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested standard, gauge, worker, test, defect, spare, carriage or limber, crew, and restoration time as a repeatable chain. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 separates gun, bridge, map, uniform, medical instrument, workshop, inspector, and user. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each technical claim for a repeatable practice rather than a modern label. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Kept gun, bridge, map, uniform, medical instrument, workshop, inspector, and user distinct instead of importing modern interchangeability. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This host keeps engineering education and industrial control distinct from automatic interchangeability. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the science account's engineering-school and centralization discussion on pages 1-3. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked de Syon pp. 1-3 and Guillerme pp. 35-57; training and engineering institutions do not prove universal interchangeable manufacture. -->
 
 **Status:** Material inference constrained by institutions. A gun, bridge, uniform, map, or medical instrument works only when dimensions, tools, training, inspection, and repair agree. École polytechnique's engineering instruction and military reorganization show how the state tried to produce trained specialists, but they do not establish universal interchangeable manufacture. A later unit must name the standard, measuring tool, worker, test, defective part, spare, and time needed to restore service. The same bridge may be sound but overloaded; the same gun may be correctly cast but unusable without a carriage, limber, powder, or trained crew. “Modern” is not a mechanism. Reliability is repeated labor under a rule, and failure is a legitimate state when the record supports it.
 
