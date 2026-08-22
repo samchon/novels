@@ -28,6 +28,7 @@ This file fixes emergency states and authority boundaries for Haneul. It inherit
 <!-- @evidence obligations/common.md#substantive-completion The Emergency vocabulary host develops its setting through can trigger a report but cannot silently become an official warning or all-clear. Every public instruction names issuer, place, effective time, action, update channel, and accessible alternative where possible.; downstream layers do not need to invent this operating, safety, or maintenance condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Emergency vocabulary host gives 85 authored words across 3 paragraphs to its distinct 260 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Emergency vocabulary acknowledgement is grounded in this host's Status and its concrete opening statement 'n — safety canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Emergency vocabulary” H2 from Status through its final boundary. Its first operating statement is “The setting distinguishes hazard, warning, closure, evacuation, shelter, all-clear, and recovery. Hazard is a dangerous condition; warning is an authorized notice; closure denies a”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — safety canon.
 
@@ -42,6 +43,7 @@ A founder’s observation can trigger a report but cannot silently become an off
 <!-- @evidence obligations/common.md#substantive-completion The Flood legacy and threshold host develops its setting through nary conditions. Rain, crowding, darkness, and mobility need can make it unsuitable, so it is not a promise of equal access. Volunteers and students remain barred from the channel and basement during a warning.; downstream layers do not need to invent this operating, safety, or maintenance condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Flood legacy and threshold host gives 107 authored words across 3 paragraphs to its distinct 260 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Flood legacy and threshold acknowledgement is grounded in this host's Status and its concrete opening statement 'n — inherited chronology canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Flood legacy and threshold” H2 from Status through its final boundary. Its first operating statement is “On 2019-07-27, severe monsoon rain overtopped the fictional Seongnae flood channel. The lower market passage, bus-loop ramp, and youth-centre basement storage flooded. The city mai”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — inherited chronology canon.
 
@@ -56,6 +58,7 @@ The accessible alternative is a narrow detour taking approximately 35 minutes on
 <!-- @evidence obligations/common.md#substantive-completion The Flood observation and safe position host develops its setting through onse; the city office handles city closure; the school adviser can cancel a student task but cannot revoke the closure. The group uses the current official notice and does not test the depth by walking into it.; downstream layers do not need to invent this operating, safety, or maintenance condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Flood observation and safe position host gives 90 authored words across 3 paragraphs to its distinct 260 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Flood observation and safe position acknowledgement is grounded in this host's Status and its concrete opening statement 'n — emergency procedure.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Flood observation and safe position” H2 from Status through its final boundary. Its first operating statement is “The observer stays away from water, electrical cabinets, channel edges, barriers, and basement entrances. They report location, direction, visible gauge reading if safely observabl”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — emergency procedure.
 
@@ -70,6 +73,7 @@ The youth-centre coordinator handles centre response; the city office handles ci
 <!-- @evidence obligations/common.md#substantive-completion The Fire legacy and rebuilt booth host develops its setting through ce own daily access. The School Governance Committee may deliberate applicable school-rule or budget framework but never substitutes for facilities authority. The setting contains no culprit or discovery claim.; downstream layers do not need to invent this operating, safety, or maintenance condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Fire legacy and rebuilt booth host gives 110 authored words across 3 paragraphs to its distinct 260 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Fire legacy and rebuilt booth acknowledgement is grounded in this host's Status and its concrete opening statement 'n — inherited school canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Fire legacy and rebuilt booth” H2 from Status through its final boundary. Its first operating statement is “On 2022-11-04, an electrical fire in Haneul Public High School’s old audiovisual store damaged the west annex and smoke-sealed the original club room. The Education Office funded r”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — inherited school canon.
 
@@ -84,6 +88,7 @@ Facilities inspection precedes public use. The principal and school facilities o
 <!-- @evidence obligations/common.md#substantive-completion The Fire alarm and evacuation host develops its setting through municates with responders. Students may help a person who has requested assistance when safe but do not lift, unlock, or override a fire door. An all-clear comes from the responsible authority after inspection.; downstream layers do not need to invent this operating, safety, or maintenance condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Fire alarm and evacuation host gives 95 authored words across 3 paragraphs to its distinct 260 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Fire alarm and evacuation acknowledgement is grounded in this host's Status and its concrete opening statement 'n — school safety canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Fire alarm and evacuation” H2 from Status through its final boundary. Its first operating statement is “On alarm, people follow the host’s evacuation instruction, use the accessible route where safe, leave belongings, and report to the designated assembly or staff. The founders do no”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — school safety canon.
 
@@ -98,6 +103,7 @@ The responsible school or facility owner accounts for people and communicates wi
 <!-- @evidence obligations/common.md#substantive-completion The Electrical smell, heat, and breaker trip host develops its setting through or smell, visible effect, and people moved away. The audiovisual booth’s two breakers are not student controls. A facilities inspection determines whether the room can reopen, not a successful test by the club.; downstream layers do not need to invent this operating, safety, or maintenance condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Electrical smell, heat, and breaker trip host gives 84 authored words across 3 paragraphs to its distinct 260 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Electrical smell, heat, and breaker trip acknowledgement is grounded in this host's Status and its concrete opening statement 'n — equipment boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Electrical smell, heat, and breaker trip” H2 from Status through its final boundary. Its first operating statement is “Burning smell, smoke, unusual heat, sparks, exposed wiring, or repeated breaker trips cause a stop and adult/facilities report. Students unplug only when the action is clearly safe”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — equipment boundary.
 
@@ -112,6 +118,7 @@ The report identifies room, device, outlet, time, sound or smell, visible effect
 <!-- @evidence obligations/common.md#substantive-completion The Earthquake, structural, and falling-object state host develops its setting through ffice or public owner controls inspection, cordon, repair, and reopening. A visible crack can be reported without a student diagnosing structural cause. Maps are updated only after the owner confirms the route.; downstream layers do not need to invent this operating, safety, or maintenance condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Earthquake, structural, and falling-object state host gives 78 authored words across 3 paragraphs to its distinct 260 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Earthquake, structural, and falling-object state acknowledgement is grounded in this host's Status and its concrete opening statement 'n — emergency boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Earthquake, structural, and falling-object state” H2 from Status through its final boundary. Its first operating statement is “If shaking, cracking, falling material, unstable furniture, or a blocked exit appears, people protect themselves as instructed, move to a safer location when possible, and await th”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — emergency boundary.
 
@@ -126,6 +133,7 @@ The facilities office or public owner controls inspection, cordon, repair, and r
 <!-- @evidence obligations/common.md#substantive-completion The Severe weather and lightning host develops its setting through the responsible host judges lightning, wind, visibility, or surface conditions unsafe. Students do not interpret a distant sound as an all-clear. The group provides a sheltered exit and communication fallback.; downstream layers do not need to invent this operating, safety, or maintenance condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Severe weather and lightning host gives 99 authored words across 3 paragraphs to its distinct 260 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Severe weather and lightning acknowledgement is grounded in this host's Status and its concrete opening statement 'n — environmental response.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Severe weather and lightning” H2 from Status through its final boundary. Its first operating statement is “Current warnings are checked through the relevant official channel; KMA public safety pages provide current hazard guidance, including the [KMA warning status page](https://www.wea”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — environmental response.
 
@@ -140,6 +148,7 @@ Outdoor equipment, athletic field use, market loading, and exposed routes pause 
 <!-- @evidence obligations/common.md#substantive-completion The Emergency communication hierarchy host develops its setting through tates place, condition, people at risk, access point, time, caller, and requested action. A translation preserves urgency and uncertainty. The sender avoids a public post that could draw people toward a hazard.; downstream layers do not need to invent this operating, safety, or maintenance condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Emergency communication hierarchy host gives 78 authored words across 3 paragraphs to its distinct 260 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Emergency communication hierarchy acknowledgement is grounded in this host's Status and its concrete opening statement 'n — communication canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Emergency communication hierarchy” H2 from Status through its final boundary. Its first operating statement is “In immediate danger, the local emergency service and on-site responsible adult take priority. For school facilities, contact school administration or facilities; for youth-centre c”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — communication canon.
 
@@ -154,6 +163,7 @@ The message states place, condition, people at risk, access point, time, caller,
 <!-- @evidence obligations/common.md#substantive-completion The Shelter, reunification, and transport host develops its setting through keeps a current attendance or participant count within its lawful record process. Family contact is made through the responsible adult. A person can request a support person or different communication channel.; downstream layers do not need to invent this operating, safety, or maintenance condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Shelter, reunification, and transport host gives 85 authored words across 3 paragraphs to its distinct 260 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Shelter, reunification, and transport acknowledgement is grounded in this host's Status and its concrete opening statement 'n — care logistics.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Shelter, reunification, and transport” H2 from Status through its final boundary. Its first operating statement is “A shelter has host, capacity, toilets, water, access route, quiet option, supervision, and communication. Reunification records who may collect a student or participant and how ide”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — care logistics.
 
@@ -168,6 +178,7 @@ The host keeps a current attendance or participant count within its lawful recor
 <!-- @evidence obligations/common.md#substantive-completion The Recovery, cleanup, and evidence host develops its setting through ection, disposal, repair, and reopening. A wet paper, smoke odour, or broken device is isolated and reported. Historical evidence is stored by its owner; the club does not become an unofficial incident archive.; downstream layers do not need to invent this operating, safety, or maintenance condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Recovery, cleanup, and evidence host gives 82 authored words across 3 paragraphs to its distinct 260 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Recovery, cleanup, and evidence acknowledgement is grounded in this host's Status and its concrete opening statement 'n — recovery canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Recovery, cleanup, and evidence” H2 from Status through its final boundary. Its first operating statement is “Recovery begins only after the owner declares the area safe for the relevant task. Cleanup identifies water, smoke, electrical, mould, structural, paper, battery, and waste risks. ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — recovery canon.
 
@@ -182,6 +193,7 @@ The record preserves date, authority, affected asset, inspection, disposal, repa
 <!-- @evidence obligations/common.md#substantive-completion The Drill, training, and real emergency distinction host develops its setting through er narrative convenience erases a closure, repair cost, displacement, or privacy duty. The setting keeps emergency work bounded: notice, safe movement, adult referral, truthful record, and accountable recovery.; downstream layers do not need to invent this operating, safety, or maintenance condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Drill, training, and real emergency distinction host gives 146 authored words across 4 paragraphs to its distinct 260 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Drill, training, and real emergency distinction acknowledgement is grounded in this host's Status and its concrete opening statement 'n — preparedness rule.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Drill, training, and real emergency distinction” H2 from Status through its final boundary. Its first operating statement is “A drill states that it is a drill, its scope, start and stop signal, accessibility accommodation, observers, and debrief owner. A real alarm is treated as real until the responsibl”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — preparedness rule.
 
