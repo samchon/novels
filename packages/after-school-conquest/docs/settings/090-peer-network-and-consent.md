@@ -77,6 +77,14 @@ When a peer speaks for a group, the record states whether the person is speaking
 
 ## Group chat and message discipline
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes chat logistics, message provenance, issuer/timestamp/audience/action/deadline/correction, membership, moderation, retention, forwarding, deletion, and emergency referral. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I reread the full chat body and checked the consequential-message fields, screenshot limitation, owner rules, and emergency boundary; a channel never becomes dispatch. -->
+<!-- @evidence obligations/common.md#substantive-completion The H2 settles ordinary coordination, authoritative notice limits, message custody, private-message handling, obsolete-route correction, and urgent escalation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I compared the first paragraph's provenance requirements with the second paragraph's moderation and correction rules; downstream users have a complete message lifecycle. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops coordination, authority, provenance, membership, moderation, retention, privacy, correction, and urgency as separate communication conditions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I checked each communication function; forwarded screenshots are the narrowest evidentiary case and remain leads rather than records. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks chat practice as fictional canon and explicitly denies that it replaces school, facilities, city, or emergency systems. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I reread Status, authority exclusions, and screenshot/provenance wording; no real platform policy is smuggled into the rule. -->
 
 **Status:** Work decision — communication canon.
 
