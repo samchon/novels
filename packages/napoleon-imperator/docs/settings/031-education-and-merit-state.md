@@ -1,16 +1,29 @@
 <!-- @evidence principles/common.md#purpose-fit The Education and Merit State file fixes the historical and material setting needed by the twenty-volume English novel; its opening scope is This file owns education, examinations, and the contradiction between merit and hierarchy.. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa Read the complete “Education and Merit State” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#layer-boundary The Education and Merit State file records addressable facts, constraints, source status, and work decisions; it does not prescribe storyline order, scene blocking, or finished manuscript prose. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 Read the complete “Education and Merit State” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#work-language The Education and Merit State file is authored in consistent English and preserves the period names, French institutional terms, and place-name variants needed for a readable historical novel. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c Read the complete “Education and Merit State” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#addressable-canon The Education and Merit State file assigns its distinct canon to 7 independently anchored H2 owners, so later layers can cite a precise fact rather than a whole-file summary. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f Read the complete “Education and Merit State” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#information-structure Each of the 7 Education and Merit State H2 owners states Status before developing its fact, operating condition, consequence, and limitation. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 Read the complete “Education and Merit State” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#fact-status The Education and Merit State H2 statuses distinguish established historical claims, contested or source-dependent reconstructions, and owner-adopted work decisions instead of presenting every detail as equally certain. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Read the complete “Education and Merit State” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#source-support The Education and Merit State file carries 13 direct source URL marker(s) and identifies uncertainty where the surviving record does not settle a detail; fictional connective decisions remain marked as such. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 Read the complete “Education and Merit State” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#constraint-sufficiency The Education and Merit State H2 owners specify the actors, institutions, dates, material conditions, information limits, and downstream boundaries required to use this domain without inventing its foundations. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Read the complete “Education and Merit State” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#minimal-departure The Education and Merit State file keeps departures from the record bounded: it may choose a usable narrative emphasis, but it does not silently change documented dates, identities, institutions, or contested status. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 Read the complete “Education and Merit State” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#internal-coherence The Education and Merit State file keeps its 7 owners consistent in chronology, geography, institutional authority, terminology, and the distinction between evidence and narrative-use decisions. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e Read the complete “Education and Merit State” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#bounded-historical-invention The Education and Merit State file permits only bounded connective invention around the documented historical record; it does not fabricate quotations, hidden motives, or unsupported precision. -->
+<!-- @evidenceReview principles/common.md#bounded-historical-invention #231571a Read the complete “Education and Merit State” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#historical-claim-provenance Historical claims in the Education and Merit State file are assigned to their source-bearing H2 owners, with source-dependent details and work decisions visibly separated for downstream checking. -->
+<!-- @evidenceReview principles/common.md#historical-claim-provenance #d7515dc Read the complete “Education and Merit State” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#historical-corroboration The Education and Merit State file treats source agreement, disagreement, and silence as distinct statuses and requires later prose to preserve those limits rather than laundering one retrospective into certainty. -->
+<!-- @evidenceReview principles/common.md#historical-corroboration #b58522c Read the complete “Education and Merit State” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 # Education and Merit State
 
 This file owns education, examinations, and the contradiction between merit and hierarchy.
@@ -19,9 +32,13 @@ This file owns education, examinations, and the contradiction between merit and 
 
 ## Schools and state formation {#schools-and-state-formation}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Schools and state formation is marked Source-supported. Schools produce officers, administrators, teachers, and citizens while filtering access through money, gender, rank, and geography.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Schools and state formation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Schools and state formation host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Schools and state formation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Schools and state formation host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Schools and state formation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Schools and state formation host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Schools and state formation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-supported. Schools produce officers, administrators, teachers, and citizens while filtering access through money, gender, rank, and geography.
 
@@ -31,9 +48,13 @@ Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; 
 
 ## Merit and patronage {#merit-and-patronage}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Merit and patronage is marked Work canon. Examinations measure performance within a system whose opportunities remain distributed by social connection.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Merit and patronage” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Merit and patronage host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Merit and patronage” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Merit and patronage host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Merit and patronage” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Merit and patronage host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Merit and patronage” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work canon. Examinations measure performance within a system whose opportunities remain distributed by social connection.
 
@@ -43,9 +64,13 @@ Sources: Fondation Napoléon correspondence, https://fondationnapoleon.org/en/ac
 
 ## Curriculum buildings and material access {#curriculum-buildings-and-material-access}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Curriculum buildings and material access is marked Source-required domain. Education requires rooms, books, instruments, teachers, schedules, fees, transport, and time away from labor.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Curriculum buildings and material access” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Curriculum buildings and material access host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Curriculum buildings and material access” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Curriculum buildings and material access host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Curriculum buildings and material access” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Curriculum buildings and material access host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Curriculum buildings and material access” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-required domain. Education requires rooms, books, instruments, teachers, schedules, fees, transport, and time away from labor.
 
@@ -55,9 +80,13 @@ Sources: Fondation Napoléon, “Les institutions de l'Instruction publique du C
 
 ## Education of women and family law {#education-of-women-and-family-law}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Education of women and family law is marked Source-required domain. Female education, marriage, inheritance, and household authority differ from male military and administrative routes.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Education of women and family law” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Education of women and family law host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Education of women and family law” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Education of women and family law host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Education of women and family law” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Education of women and family law host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Education of women and family law” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-required domain. Female education, marriage, inheritance, and household authority differ from male military and administrative routes.
 
@@ -67,9 +96,13 @@ Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; 
 
 ## Lycées and imperial personnel {#lycees-and-imperial-personnel}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Lycées and imperial personnel is marked Work canon. Secondary schools, military schools, and administrative training create personnel over years, not at the instant of a decree.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Lycées and imperial personnel” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Lycées and imperial personnel host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Lycées and imperial personnel” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Lycées and imperial personnel host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Lycées and imperial personnel” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Lycées and imperial personnel host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Lycées and imperial personnel” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work canon. Secondary schools, military schools, and administrative training create personnel over years, not at the instant of a decree.
 
@@ -79,9 +112,13 @@ Sources: Fondation Napoléon, “Les institutions de l'Instruction publique du C
 
 ## Technical education and state capacity {#technical-education-and-state-capacity}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Technical education and state capacity is marked Source-critical boundary. Military, engineering, scientific, and administrative training expand state capacity while remaining dependent on teachers, instruments, and institutions.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Technical education and state capacity” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Technical education and state capacity host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Technical education and state capacity” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Technical education and state capacity host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Technical education and state capacity” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Technical education and state capacity host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Technical education and state capacity” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-critical boundary. Military, engineering, scientific, and administrative training expand state capacity while remaining dependent on teachers, instruments, and institutions.
 
@@ -91,9 +128,13 @@ Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-
 
 ## Boundary to local and institutional reform {#boundary-to-local-and-institutional-reform}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Boundary to local and institutional reform is marked Work boundary. Écoles centrales, lycées, École polytechnique, military schools, and local primary education require distinct owners and dates.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Boundary to local and institutional reform” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Boundary to local and institutional reform host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Boundary to local and institutional reform” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Boundary to local and institutional reform host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Boundary to local and institutional reform” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Boundary to local and institutional reform host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Boundary to local and institutional reform” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work boundary. Écoles centrales, lycées, École polytechnique, military schools, and local primary education require distinct owners and dates.
 
