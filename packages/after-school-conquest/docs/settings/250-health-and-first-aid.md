@@ -31,6 +31,7 @@ This file fixes ordinary health, prevention, first aid, referral, and recovery c
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Health information boundary” H2 from Status through its final boundary. Its first operating statement is “The club records functional needs—water, rest, medication timing, quiet, seating, food restriction, communication aid—rather than diagnoses unless an authorized host requires a spe”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Health information boundary host gives 79 authored words across 3 paragraphs to its distinct 250 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Health information boundary acknowledgement is grounded in this host's Status and its concrete opening statement 'n — privacy canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Health information boundary” H2 from Status through its final boundary. Its first operating statement is “The club records functional needs—water, rest, medication timing, quiet, seating, food restriction, communication aid—rather than diagnoses unless an authorized host requires a spe”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — privacy canon.
 
@@ -46,6 +47,7 @@ Peers do not speculate, photograph treatment, or share a disclosure as group con
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Prevention before activity” H2 from Status through its final boundary. Its first operating statement is “Before an activity, the host checks weather, route, duration, food and water, rest, equipment, adult coverage, communication, access, and stop conditions. The assessment is proport”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Prevention before activity host gives 76 authored words across 3 paragraphs to its distinct 250 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Prevention before activity acknowledgement is grounded in this host's Status and its concrete opening statement 'n — safety canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Prevention before activity” H2 from Status through its final boundary. Its first operating statement is “Before an activity, the host checks weather, route, duration, food and water, rest, equipment, adult coverage, communication, access, and stop conditions. The assessment is proport”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — safety canon.
 
@@ -61,6 +63,7 @@ Participants can ask questions and decline. Prevention is revised when the actua
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Water, food, and rest” H2 from Status through its final boundary. Its first operating statement is “Water stations, toilets, shade, seating, and food access follow `050` and the weather conditions in `070`. Long tasks include pauses before symptoms or exhaustion become a crisis. ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Water, food, and rest host gives 75 authored words across 3 paragraphs to its distinct 250 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Water, food, and rest acknowledgement is grounded in this host's Status and its concrete opening statement 'n — embodied resource.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Water, food, and rest” H2 from Status through its final boundary. Its first operating statement is “Water stations, toilets, shade, seating, and food access follow `050` and the weather conditions in `070`. Long tasks include pauses before symptoms or exhaustion become a crisis. ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — embodied resource.
 
@@ -76,6 +79,7 @@ The host does not force water, food, or disclosure. If someone becomes unwell, t
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Heat and humidity response” H2 from Status through its final boundary. Its first operating statement is “The Korea Meteorological Administration’s current heat safety guidance is the official public reference for heatwave precautions: [KMA heat safety guide](https://www.weather.go.kr/”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Heat and humidity response host gives 103 authored words across 3 paragraphs to its distinct 250 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Heat and humidity response acknowledgement is grounded in this host's Status and its concrete opening statement 'n — source-backed safety application.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Heat and humidity response” H2 from Status through its final boundary. Its first operating statement is “The Korea Meteorological Administration’s current heat safety guidance is the official public reference for heatwave precautions: [KMA heat safety guide](https://www.weather.go.kr/”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — source-backed safety application.
 
@@ -91,6 +95,7 @@ Haneul’s work decision is to shorten outdoor tasks, provide shade and water, m
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Cold, rain, and wet clothing” H2 from Status through its final boundary. Its first operating statement is “Cold, wind, rain, wet socks, slippery surfaces, and dark early evenings change comfort and route safety. The host supplies a dry waiting option, reasonable layers or rescheduling, ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Cold, rain, and wet clothing host gives 88 authored words across 3 paragraphs to its distinct 250 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Cold, rain, and wet clothing acknowledgement is grounded in this host's Status and its concrete opening statement 'n — environmental health canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Cold, rain, and wet clothing” H2 from Status through its final boundary. Its first operating statement is “Cold, wind, rain, wet socks, slippery surfaces, and dark early evenings change comfort and route safety. The host supplies a dry waiting option, reasonable layers or rescheduling, ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — environmental health canon.
 
@@ -106,6 +111,7 @@ A participant who becomes chilled or unwell is moved to a safe indoor host and r
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “First-aid kit and trained response” H2 from Status through its final boundary. Its first operating statement is “The host identifies first-aid kit location, expiry checks, responsible trained adults, emergency contact route, and replenishment. Students may fetch a kit or call an adult but do ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The First-aid kit and trained response host gives 80 authored words across 3 paragraphs to its distinct 250 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The First-aid kit and trained response acknowledgement is grounded in this host's Status and its concrete opening statement 'n — equipment boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “First-aid kit and trained response” H2 from Status through its final boundary. Its first operating statement is “The host identifies first-aid kit location, expiry checks, responsible trained adults, emergency contact route, and replenishment. Students may fetch a kit or call an adult but do ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — equipment boundary.
 
@@ -121,6 +127,7 @@ The record states observable injury, time, location, action taken, handoff, and 
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Emergency call and handoff” H2 from Status through its final boundary. Its first operating statement is “When emergency help is needed, the caller gives location, entrance, access obstacle, number of people, observable condition, and callback. One person meets responders if safe; anot”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Emergency call and handoff host gives 90 authored words across 3 paragraphs to its distinct 250 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Emergency call and handoff acknowledgement is grounded in this host's Status and its concrete opening statement 'n — immediate safety canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Emergency call and handoff” H2 from Status through its final boundary. Its first operating statement is “When emergency help is needed, the caller gives location, entrance, access obstacle, number of people, observable condition, and callback. One person meets responders if safe; anot”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — immediate safety canon.
 
@@ -136,6 +143,7 @@ The school, youth centre, city facility, or family adult owns the next handoff a
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Medication and personal aids” H2 from Status through its final boundary. Its first operating statement is “Medication, inhalers, epinephrine, glucose tools, hearing devices, glasses, mobility aids, and sensory supports remain with their owner or authorized custodian. The club does not s”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Medication and personal aids host gives 84 authored words across 3 paragraphs to its distinct 250 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Medication and personal aids acknowledgement is grounded in this host's Status and its concrete opening statement 'n — privacy and safety rule.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Medication and personal aids” H2 from Status through its final boundary. Its first operating statement is “Medication, inhalers, epinephrine, glucose tools, hearing devices, glasses, mobility aids, and sensory supports remain with their owner or authorized custodian. The club does not s”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — privacy and safety rule.
 
@@ -151,6 +159,7 @@ If an aid is lost or damaged, the host protects the person, contacts the respons
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Infection, air, and smoke” H2 from Status through its final boundary. Its first operating statement is “Poor ventilation, smoke, dust, strong scent, pollen, illness, or an indoor crowd can make a room unusable for some people. The host increases ventilation where safe, moves the acti”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Infection, air, and smoke host gives 99 authored words across 3 paragraphs to its distinct 250 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Infection, air, and smoke acknowledgement is grounded in this host's Status and its concrete opening statement 'n — environmental health boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Infection, air, and smoke” H2 from Status through its final boundary. Its first operating statement is “Poor ventilation, smoke, dust, strong scent, pollen, illness, or an indoor crowd can make a room unusable for some people. The host increases ventilation where safe, moves the acti”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — environmental health boundary.
 
@@ -166,6 +175,7 @@ The 2022 fire legacy remains a school facilities record, not a general claim tha
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Mental distress and supportive referral” H2 from Status through its final boundary. Its first operating statement is “A person may show panic, shutdown, grief, overload, confusion, exhaustion, or distress without a peer knowing the cause. The listener offers space, clear choices, reduced audience,”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Mental distress and supportive referral host gives 85 authored words across 3 paragraphs to its distinct 250 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Mental distress and supportive referral acknowledgement is grounded in this host's Status and its concrete opening statement 'n — safeguarding canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Mental distress and supportive referral” H2 from Status through its final boundary. Its first operating statement is “A person may show panic, shutdown, grief, overload, confusion, exhaustion, or distress without a peer knowing the cause. The listener offers space, clear choices, reduced audience,”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — safeguarding canon.
 
@@ -181,6 +191,7 @@ The record uses the person’s words and observable request rather than a diagno
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Accessibility and health accommodation” H2 from Status through its final boundary. Its first operating statement is “Health accommodation can include seat, lighting, pace, break, route, food, communication, attendance, or deadline adjustment through the responsible school or host. The request is ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Accessibility and health accommodation host gives 80 authored words across 3 paragraphs to its distinct 250 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Accessibility and health accommodation acknowledgement is grounded in this host's Status and its concrete opening statement 'n — cross-system canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Accessibility and health accommodation” H2 from Status through its final boundary. Its first operating statement is “Health accommodation can include seat, lighting, pace, break, route, food, communication, attendance, or deadline adjustment through the responsible school or host. The request is ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — cross-system canon.
 
@@ -196,6 +207,7 @@ An accommodation is reviewed under actual weather, noise, crowd, and fatigue. A 
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Incident review and recovery” H2 from Status through its final boundary. Its first operating statement is “After an incident, the owner checks immediate care, notification, equipment, route, supervision, privacy, and whether the activity must pause. The review asks what condition allowe”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Incident review and recovery host gives 84 authored words across 3 paragraphs to its distinct 250 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Incident review and recovery acknowledgement is grounded in this host's Status and its concrete opening statement 'n — continuity rule.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Incident review and recovery” H2 from Status through its final boundary. Its first operating statement is “After an incident, the owner checks immediate care, notification, equipment, route, supervision, privacy, and whether the activity must pause. The review asks what condition allowe”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — continuity rule.
 
