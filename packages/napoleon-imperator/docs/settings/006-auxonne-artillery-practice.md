@@ -51,3 +51,41 @@ Sources: Fondation Napoléon, “The correspondence of Napoleon,” https://fond
 The novel must repeatedly test the difference between knowing and commanding. A junior officer submits a memorandum; a director chooses whether to fund it; an artificer reports what can be built; a clerk records the issue of powder. These checks prevent the future emperor from appearing to command a system before he has earned the relevant authority.
 
 Sources: Fondation Napoléon, “Les institutions de l'Instruction publique du Consulat et de l'Empire,” https://www.napoleon.org/histoire-des-2-empires/articles/les-institutions-de-linstruction-publique-du-consulat-et-de-lempire/.
+
+## Artillery school tools and measurement {#artillery-school-tools-and-measurement}
+
+**Status:** Source-supported in the arm's technical curriculum; exact instruments and exercises used by Napoleon at each date remain bounded.
+
+Training turns a gun into a measured system. Officers learn to read elevations, estimate distance, understand shot and shell, calculate carriage movement, and compare a map with ground. The calculation is only as good as the instrument, survey, visibility, and observer. A downstream scene may show a ruler, compass, plan, or chalked diagram when the institution supports it, but must not turn a surviving museum object into proof of every lesson.
+
+An artillery problem also contains a human chain. A specialist may calculate a firing solution; a gun captain interprets it; a crew loads and serves the piece; a driver positions the carriage; an artificer repairs it; a clerk records expenditure. The lieutenant's authority runs through these people. Their names and practical knowledge belong in later professional settings, even when official biographies credit only the officer.
+
+Sources: Fondation Napoléon, “Boussole de Napoléon Bonaparte à l'École royale militaire de Brienne,” https://www.napoleon.org/histoire-des-2-empires/objets/boussole-de-napoleon-bonaparte-a-lecole-royale-militaire-de-brienne/; Fondation Napoléon, “Les institutions de l'Instruction publique du Consulat et de l'Empire,” https://www.napoleon.org/histoire-des-2-empires/articles/les-institutions-de-linstruction-publique-du-consulat-et-de-lempire/.
+
+## Artificers and the invisible expertise of batteries {#artificers-and-the-invisible-expertise-of-batteries}
+
+**Status:** Work canon grounded in artillery material practice. Technical personnel are co-producers of military action, not background props.
+
+The battery depends on smiths, wheelwrights, armorers, powder handlers, drivers, and storekeepers. A broken axle may cancel an otherwise sound order; a wet cartridge may make a gun unsafe; a horse shortage may leave a piece behind. The officer learns to ask what can be built and moved before promising a commander a battery.
+
+This expertise creates status friction. A trained artisan may know the carriage better than a newly commissioned noble officer, while lacking his rank and access to reports. A plausible scene makes the technical disagreement legible without inventing a speech. Later campaign settings must inherit repair time, replacement parts, and the possibility that the official return understates the labor sustaining the army.
+
+Sources: Fondation Napoléon, “Napoleon’s ‘Grande Armée’ (1),” https://www.napoleon.org/en/young-historians/napodoc/napoleons-grande-armee-1/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
+
+## Auxonne, leave, and the Corsican connection {#auxonne-leave-and-the-corsican-connection}
+
+**Status:** Source-supported for correspondence linking professional service to family and Corsican politics; exact leave itineraries require the critical correspondence edition.
+
+Auxonne is not an escape from Corsica. Letters, political news, money requests, and family illness cross the distance. A leave request must pass through military authority and a road or ship route. If the officer is absent, his company still has a roster, stores, and a superior who must account for the vacancy. The narrative must never move Napoleon from a garrison to Ajaccio without a dated route or source-bounded absence.
+
+The correspondence also teaches selective self-presentation. A letter to a family member can ask for money or describe health; a letter to a patron can emphasize usefulness; a later published edition may reorder or annotate the text. The complete correspondence project warns that older official editions selected and interfered with texts, so a modern critical entry has greater authority for wording and provenance.
+
+Sources: Fondation Napoléon, “The correspondence of Napoleon,” https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Fondation Napoléon, “Publication of the complete Correspondance of Napoleon I,” https://www.napoleon.org/en/history-of-the-two-empires/articles/publication-of-the-complete-correspondance-of-napoleon-i-initial-results-of-the-fondation-napoleons-grand-project/.
+
+## Transition test: skill before authority {#transition-test-skill-before-authority}
+
+**Status:** Work decision. The Auxonne file is complete when it supplies the technical, institutional, family, and material constraints that Toulon and the Revolution consume.
+
+Napoleon leaves this domain with a usable artillery vocabulary, not unlimited command. He knows more about guns than a civilian and less about high command than the later general. The next settings must show a proposal meeting commissioners, senior officers, enemy positions, and the physical work of moving a battery. Any scene that gives him a general's authority before promotion is a continuity defect.
+
+Sources: Fondation Napoléon, “The Boyhood and Youth of Napoleon,” https://www.napoleon.org/en/magazine/publications/the-boyhood-and-youth-of-napoleon/.
