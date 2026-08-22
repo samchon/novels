@@ -2,6 +2,8 @@
 
 At the user-requested cadence, inspect filesystem output and compiler state rather than trusting self-reports. Send one checkpoint at every interval even when nothing changed and no anomaly exists. State the timestamp, actual owner states, package stages, artifact or commit changes (or explicit non-change), compiler or diagnostic movement, dirty/lock/HEAD state, observed anomalies, interventions, and post-intervention running confirmation. Report a discovered anomaly immediately instead of waiting for the next interval; the next regular checkpoint still occurs.
 
+When the coordinator has a separate commit-history cadence, perform that check independently of the watchdog. At each coordinator interval, inspect only the recent package commit history first and flag unexplained gaps, implausible bursts, or scope jumps as suspicion signals. For any signal, inspect the corresponding watchdog reports, owner state, and working-tree evidence before judging or intervening; commit timing alone neither proves idleness nor false review.
+
 ## Stage-Calibrated Supervision
 
 Judge an artifact at its active evidence state. Do not impose an `evidence` or `review` completion gate on a layer that is still producing its complete first version in `disabled`.
