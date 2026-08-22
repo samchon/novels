@@ -91,6 +91,14 @@ The Disaster and Safety Management Basic Act is current official law displayed e
 
 ## Heat and humidity
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes heat, humidity, hydration, shade, exertion, indoor refuge, and reduced safe work capacity. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked heat, water, shade, exertion, and refuge conditions; humidity changes practical capacity rather than school date. -->
+<!-- @evidence obligations/common.md#substantive-completion The heat rule gives usable limits for travel, equipment, breaks, and cancellation without prescribing an event. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the resource and safety clauses; downstream units receive a clear stop/recovery condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates heat, humidity, hydration, shade, exertion, indoor refuge, and work duration. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the seven effects; indoor refuge is the distinct capacity consequence. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional Haneul heat conditions, not a real climate average or medical threshold. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and the non-average wording; no external heat standard is claimed. -->
 
 **Status:** Work decision informed by current KMA heat-safety guidance; no local temperature average is asserted.
 
