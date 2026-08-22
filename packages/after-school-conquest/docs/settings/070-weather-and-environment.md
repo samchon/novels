@@ -196,6 +196,14 @@ The Education Facilities Safety and Maintenance Standard is the direct official 
 
 ## Indoor thermal and acoustic conditions
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes indoor temperature, ventilation, noise transfer, room refuge, equipment, and occupancy conditions. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked thermal, acoustic, ventilation, equipment, and occupancy limits; indoor refuge is not automatically quiet or safe. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives usable indoor work, listening, rest, and room-selection constraints without assigning a scene. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread thermal/acoustic and occupancy clauses; downstream units can select a room without inventing its sound conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates heat, ventilation, acoustic spill, refuge, equipment, and occupancy effects. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared thermal and acoustic functions; noise transfer is the distinct indoor constraint. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional indoor environmental conditions, not a building-code certification. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and facility wording; no external thermal standard is claimed. -->
 
 **Status:** Work decision for physical indoor conditions; no unverified building-performance claim.
 
