@@ -6,7 +6,7 @@ import type {
 
 type NovelStage = "disabled" | "evidence" | "review";
 
-const settingsStage: NovelStage = "evidence";
+const settingsStage: NovelStage = "review";
 const storylineStage: NovelStage = "disabled";
 const scenarioStage: NovelStage = "disabled";
 const manuscriptStage: NovelStage = "disabled";
