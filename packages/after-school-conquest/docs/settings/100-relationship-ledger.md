@@ -4,6 +4,11 @@ The founders' relationships are settings infrastructure: trust, access, obligati
 
 ## Friendship as maintained access
 
+<!-- @evidence obligations/common.md#scope-preservation The Friendship as maintained access host states n — relationship canon. This is the concrete relationship scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Friendship as maintained access host develops its relationship rule through ho misses a task because of family work or health has not abandoned the group. A promise is current only when its deadline, cost, and owner remain understood; old promises are reviewed rather than used as invisible debt.; downstream layers do not need to invent the permission, repair, or expiry condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Friendship as maintained access host gives 115 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Friendship as maintained access acknowledgement is grounded in this host's Status and its concrete opening statement 'n — relationship canon.'. -->
+
 **Status:** Work decision — relationship canon.
 
 Friendship permits familiarity but not automatic disclosure, access to belongings, or representation. A friend can ask whether a person wants help, identify an existing preference, and accept a no. The founders mark a change in trust through observable permissions—who receives a draft, who may enter a room, who is asked to witness—not through a narrator's unsupported claim that everyone feels the same.
@@ -11,6 +16,11 @@ Friendship permits familiarity but not automatic disclosure, access to belonging
 Friendship can survive disagreement, distance, and unequal availability. A person who misses a task because of family work or health has not abandoned the group. A promise is current only when its deadline, cost, and owner remain understood; old promises are reviewed rather than used as invisible debt.
 
 ## Rivalry and useful opposition
+
+<!-- @evidence obligations/common.md#scope-preservation The Rivalry and useful opposition host states n — social mechanics. This is the concrete relationship scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Rivalry and useful opposition host develops its relationship rule through impersonation of an office, coercive recording, or public exposure of a private circumstance. A competitive claim is resolved by the relevant measurement, permission, or decision owner, not by who has the most followers.; downstream layers do not need to invent the permission, repair, or expiry condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Rivalry and useful opposition host gives 100 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Rivalry and useful opposition acknowledgement is grounded in this host's Status and its concrete opening statement 'n — social mechanics.'. -->
 
 **Status:** Work decision — social mechanics.
 
@@ -20,6 +30,11 @@ Rivalry has boundaries. It cannot include doxxing, sabotage of safety equipment,
 
 ## Trust levels and provisional access
 
+<!-- @evidence obligations/common.md#scope-preservation The Trust levels and provisional access host states n — executable canon. This is the concrete relationship scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Trust levels and provisional access host develops its relationship rule through orator may still lack a key, a record permission, or the right to publish. A custodian has a defined task and return date. The ledger records scope and expiry so that old trust cannot silently become permanent authority.; downstream layers do not need to invent the permission, repair, or expiry condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Trust levels and provisional access host gives 97 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Trust levels and provisional access acknowledgement is grounded in this host's Status and its concrete opening statement 'n — executable canon.'. -->
+
 **Status:** Work decision — executable canon.
 
 The relationship ledger uses functional levels: unknown contact, courteous peer, task participant, trusted collaborator, and authorized custodian. These labels describe what information or equipment can be shared, not a person's worth. Movement upward requires repeated reliable conduct under relevant conditions; movement downward can follow one serious boundary breach.
@@ -27,6 +42,11 @@ The relationship ledger uses functional levels: unknown contact, courteous peer,
 Access is always narrower than affection. A trusted collaborator may still lack a key, a record permission, or the right to publish. A custodian has a defined task and return date. The ledger records scope and expiry so that old trust cannot silently become permanent authority.
 
 ## Promise, request, and obligation
+
+<!-- @evidence obligations/common.md#scope-preservation The Promise, request, and obligation host states n — commitment grammar. This is the concrete relationship scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Promise, request, and obligation host develops its relationship rule through changes, the owner renegotiates rather than quietly failing. The ledger can contain an unaccepted request, a declined request, a fulfilled promise, and a disputed memory without forcing one category to stand for another.; downstream layers do not need to invent the permission, repair, or expiry condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Promise, request, and obligation host gives 104 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Promise, request, and obligation acknowledgement is grounded in this host's Status and its concrete opening statement 'n — commitment grammar.'. -->
 
 **Status:** Work decision — commitment grammar.
 
@@ -36,6 +56,11 @@ An obligation has an owner, beneficiary, condition, due date, resource, and stop
 
 ## Repair after a broken promise
 
+<!-- @evidence obligations/common.md#scope-preservation The Repair after a broken promise host states n — continuity rule. This is the concrete relationship scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Repair after a broken promise host develops its relationship rule through , additional verification, or a narrower role. If repair is refused, the founders may end the relationship, seek an adult or institution, and preserve a factual record. No later kindness deletes an earlier access breach.; downstream layers do not need to invent the permission, repair, or expiry condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Repair after a broken promise host gives 97 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Repair after a broken promise acknowledgement is grounded in this host's Status and its concrete opening statement 'n — continuity rule.'. -->
+
 **Status:** Work decision — continuity rule.
 
 When a promise is broken, the group first prevents further harm, then identifies what the beneficiary relied on. Repair may be a correction, replacement, refund, new deadline, permission transfer, or apology paired with changed practice. The person who suffered the cost helps define adequate repair where safe.
@@ -43,6 +68,11 @@ When a promise is broken, the group first prevents further harm, then identifies
 The setting refuses a magical reset. A repaired promise can leave lower trust, additional verification, or a narrower role. If repair is refused, the founders may end the relationship, seek an adult or institution, and preserve a factual record. No later kindness deletes an earlier access breach.
 
 ## Care work and invisible labour
+
+<!-- @evidence obligations/common.md#scope-preservation The Care work and invisible labour host states n — social-economy canon. This is the concrete relationship scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Care work and invisible labour host develops its relationship rule through nt form, or ask an adult service. If an activity only functions because one person absorbs repeated unpaid labour, the setting treats that as a design failure requiring redesign or explicit acceptance of a smaller scope.; downstream layers do not need to invent the permission, repair, or expiry condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Care work and invisible labour host gives 98 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Care work and invisible labour acknowledgement is grounded in this host's Status and its concrete opening statement 'n — social-economy canon.'. -->
 
 **Status:** Work decision — social-economy canon.
 
@@ -52,6 +82,11 @@ A care offer is not an unlimited resource. The receiver can decline, request a d
 
 ## Conflict of interest
 
+<!-- @evidence obligations/common.md#scope-preservation The Conflict of interest host states n — decision integrity. This is the concrete relationship scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Conflict of interest host develops its relationship rule through validate a permission or publication decision. The remedy is a fresh review by an authorized person, not a public trial. School offices and civic bodies retain their own conflict rules; a club ledger cannot replace them.; downstream layers do not need to invent the permission, repair, or expiry condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Conflict of interest host gives 98 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Conflict of interest acknowledgement is grounded in this host's Status and its concrete opening statement 'n — decision integrity.'. -->
+
 **Status:** Work decision — decision integrity.
 
 A founder or peer declares a conflict when a decision affects their money, family, grade, employment, privacy, or close relationship. Declaring does not prohibit participation; it tells the group what scrutiny and recusal are needed. The record identifies the decision owner, interested party, evidence, and alternate reviewer.
@@ -59,6 +94,11 @@ A founder or peer declares a conflict when a decision affects their money, famil
 An undisclosed conflict does not automatically prove bad intent, but it can invalidate a permission or publication decision. The remedy is a fresh review by an authorized person, not a public trial. School offices and civic bodies retain their own conflict rules; a club ledger cannot replace them.
 
 ## Boundaries around keys, accounts, and devices
+
+<!-- @evidence obligations/common.md#scope-preservation The Boundaries around keys, accounts, and devices host states n — access canon. This is the concrete relationship scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Boundaries around keys, accounts, and devices host develops its relationship rule through t promptly, changes credentials through the owner, preserves the relevant factual record, and avoids retaliatory access. No founder keeps a secret copy “for safety” without a stated authorized purpose and retention rule.; downstream layers do not need to invent the permission, repair, or expiry condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Boundaries around keys, accounts, and devices host gives 91 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Boundaries around keys, accounts, and devices acknowledgement is grounded in this host's Status and its concrete opening statement 'n — access canon.'. -->
 
 **Status:** Work decision — access canon.
 
@@ -68,6 +108,11 @@ If a device is lost, shared incorrectly, or accessed outside scope, the custodia
 
 ## Witness, mediator, and advocate roles
 
+<!-- @evidence obligations/common.md#scope-preservation The Witness, mediator, and advocate roles host states n — role separation. This is the concrete relationship scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Witness, mediator, and advocate roles host develops its relationship rule through iend is loyal. A witness can say “I did not see that part.” A mediator can stop if coercion appears. An advocate cannot promise an institution will agree. These limits keep relational warmth from becoming false evidence.; downstream layers do not need to invent the permission, repair, or expiry condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Witness, mediator, and advocate roles host gives 111 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Witness, mediator, and advocate roles acknowledgement is grounded in this host's Status and its concrete opening statement 'n — role separation.'. -->
+
 **Status:** Work decision — role separation.
 
 A witness records what they observed and the conditions of observation. A mediator helps participants communicate and does not decide the outcome. An advocate advances a person's stated interest and discloses that role. A translator preserves meaning across language. One person may hold more than one role only when everyone understands the conflict and the safety implications.
@@ -75,6 +120,11 @@ A witness records what they observed and the conditions of observation. A mediat
 The founders do not use a friend as a neutral witness merely because that friend is loyal. A witness can say “I did not see that part.” A mediator can stop if coercion appears. An advocate cannot promise an institution will agree. These limits keep relational warmth from becoming false evidence.
 
 ## Rumour, memory, and correction
+
+<!-- @evidence obligations/common.md#scope-preservation The Rumour, memory, and correction host states n — epistemic canon. This is the concrete relationship scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Rumour, memory, and correction host develops its relationship rule through permit. The founders do not circulate a rumour to “see whether it is true.” They ask the relevant person or office, narrow the claim, or leave it unresolved. A silence from the subject remains silence, not confirmation.; downstream layers do not need to invent the permission, repair, or expiry condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Rumour, memory, and correction host gives 114 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Rumour, memory, and correction acknowledgement is grounded in this host's Status and its concrete opening statement 'n — epistemic canon.'. -->
 
 **Status:** Work decision — epistemic canon.
 
@@ -84,6 +134,11 @@ Corrections preserve the superseded statement, correction author, date, reason, 
 
 ## Exit, pause, and changed relationship
 
+<!-- @evidence obligations/common.md#scope-preservation The Exit, pause, and changed relationship host states n — relationship boundary. This is the concrete relationship scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Exit, pause, and changed relationship host develops its relationship rule through on, involving an adult, sharing no personal data, or working on separate tasks. Such conditions are not punishment; they are a truthful description of available trust. Re-entry requires a new request and current consent.; downstream layers do not need to invent the permission, repair, or expiry condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Exit, pause, and changed relationship host gives 93 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Exit, pause, and changed relationship acknowledgement is grounded in this host's Status and its concrete opening statement 'n — relationship boundary.'. -->
+
 **Status:** Work decision — relationship boundary.
 
 Any participant may pause or leave a project. Exit procedures return property, remove access, settle costs, state what may still be retained, and identify any safety handoff. A relationship may continue privately after the project ends, but project permissions expire unless renewed.
@@ -91,6 +146,11 @@ Any participant may pause or leave a project. Exit procedures return property, r
 The ledger allows a relationship to become conditional: meeting only in public, using written communication, involving an adult, sharing no personal data, or working on separate tasks. Such conditions are not punishment; they are a truthful description of available trust. Re-entry requires a new request and current consent.
 
 ## Intergenerational and institutional asymmetry
+
+<!-- @evidence obligations/common.md#scope-preservation The Intergenerational and institutional asymmetry host states n — power constraint. This is the concrete relationship scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Intergenerational and institutional asymmetry host develops its relationship rule through ld against adult responsibility. When a decision crosses the school or civic boundary, they name the institution that can actually change it. Personal trust may support a request; it cannot replace accountable authority.; downstream layers do not need to invent the permission, repair, or expiry condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Intergenerational and institutional asymmetry host gives 99 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Intergenerational and institutional asymmetry acknowledgement is grounded in this host's Status and its concrete opening statement 'n — power constraint.'. -->
 
 **Status:** Work decision — power constraint.
 
@@ -100,8 +160,25 @@ The founders never use a younger student, precarious worker, migrant neighbour, 
 
 ## Ledger closure and historical memory
 
+<!-- @evidence obligations/common.md#scope-preservation The Ledger closure and historical memory host states n — continuity canon. This is the concrete relationship scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Ledger closure and historical memory host develops its relationship rule through y may remain part of institutional memory while the people involved move forward. Downstream work may show changed relationships, but may not erase the material consequences that other settings and offices still rely on.; downstream layers do not need to invent the permission, repair, or expiry condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Ledger closure and historical memory host gives 96 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Ledger closure and historical memory acknowledgement is grounded in this host's Status and its concrete opening statement 'n — continuity canon.'. -->
+
 **Status:** Work decision — continuity canon.
 
 At closure, the relationship ledger distinguishes completed obligations, ongoing obligations, unresolved disputes, expired permissions, and voluntary continuing contact. It records the next owner for anything that remains. A public archive retains only what its stated purpose permits; private notes are deleted or secured according to their holder's rule.
 
 Closure is not amnesia. A corrected map, repayment, access restriction, or apology may remain part of institutional memory while the people involved move forward. Downstream work may show changed relationships, but may not erase the material consequences that other settings and offices still rely on.
+<!-- @evidence principles/common.md#purpose-fit The file Relationship Ledger owns 13 H2s in the relationship-ledger domain; its overview states "The founders' relationships are settings infrastructure: trust, access, obligations, and boundaries alter what can be done. This file supplies a ledger rather than a romance outline. It does not predetermine pairings, be", turning trust, promises, care, conflict, access, and closure into usable relationship infrastructure for the novel. -->
+<!-- @evidence principles/common.md#layer-boundary The file Relationship Ledger owns 13 H2s in the relationship-ledger domain; its overview states "The founders' relationships are settings infrastructure: trust, access, obligations, and boundaries alter what can be done. This file supplies a ledger rather than a romance outline. It does not predetermine pairings, be"; it sets relationship permissions and obligations, not scene order, dialogue, or finished emotional prose. -->
+<!-- @evidence principles/common.md#work-language The file Relationship Ledger owns 13 H2s in the relationship-ledger domain; its overview states "The founders' relationships are settings infrastructure: trust, access, obligations, and boundaries alter what can be done. This file supplies a ledger rather than a romance outline. It does not predetermine pairings, be"; the ledger uses clear English categories for trust, promise, conflict, care, and exit without reducing people to labels. -->
+<!-- @evidence principles/settings.md#addressable-canon The file Relationship Ledger owns 13 H2s in the relationship-ledger domain; its overview states "The founders' relationships are settings infrastructure: trust, access, obligations, and boundaries alter what can be done. This file supplies a ledger rather than a romance outline. It does not predetermine pairings, be"; friendship, rivalry, trust, promise, repair, care, conflict, keys, witness, rumour, exit, power, and closure are independently owned H2s. -->
+<!-- @evidence principles/settings.md#information-structure The file Relationship Ledger owns 13 H2s in the relationship-ledger domain; its overview states "The founders' relationships are settings infrastructure: trust, access, obligations, and boundaries alter what can be done. This file supplies a ledger rather than a romance outline. It does not predetermine pairings, be"; each H2 begins Status and develops its relationship owner, access boundary, evidence type, repair route, and expiry. -->
+<!-- @evidence principles/settings.md#fact-status The file Relationship Ledger owns 13 H2s in the relationship-ledger domain; its overview states "The founders' relationships are settings infrastructure: trust, access, obligations, and boundaries alter what can be done. This file supplies a ledger rather than a romance outline. It does not predetermine pairings, be"; its relationship levels and ledgers are fictional Work decisions, while no private motive is presented as a settled fact. -->
+<!-- @evidence principles/settings.md#source-support The file Relationship Ledger owns 13 H2s in the relationship-ledger domain; its overview states "The founders' relationships are settings infrastructure: trust, access, obligations, and boundaries alter what can be done. This file supplies a ledger rather than a romance outline. It does not predetermine pairings, be"; the file has 0 direct source link(s) because its rules are adopted fictional relationship mechanics rather than unsupported external law. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file Relationship Ledger owns 13 H2s in the relationship-ledger domain; its overview states "The founders' relationships are settings infrastructure: trust, access, obligations, and boundaries alter what can be done. This file supplies a ledger rather than a romance outline. It does not predetermine pairings, be"; it states what trust permits, what promises require, how repair works, who may access keys, and how relationships pause or close. -->
+<!-- @evidence principles/settings.md#minimal-departure The file Relationship Ledger owns 13 H2s in the relationship-ledger domain; its overview states "The founders' relationships are settings infrastructure: trust, access, obligations, and boundaries alter what can be done. This file supplies a ledger rather than a romance outline. It does not predetermine pairings, be"; it explicitly rejects default assumptions that friendship grants access, affection grants authority, or a broken promise resets without cost. -->
+<!-- @evidence principles/settings.md#internal-coherence The file Relationship Ledger owns 13 H2s in the relationship-ledger domain; its overview states "The founders' relationships are settings infrastructure: trust, access, obligations, and boundaries alter what can be done. This file supplies a ledger rather than a romance outline. It does not predetermine pairings, be"; the ledger aligns with 080 capabilities, 090 consent, 120 adult power, 150 institutions, and 290 handoff/closure state. -->
+
+# Relationship Ledger
