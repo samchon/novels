@@ -2,6 +2,11 @@
 
 ## Proposal form
 
+<!-- @evidence obligations/common.md#scope-preservation The Proposal form host states n - fictional Haneul procedure consuming G-L01 ontology. This is the concrete procedural scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Proposal form host develops its procedure through “withdrawn”; no seal or token exists at this stage. A school-room request travels separately through 150's H-02 process, and a municipal permission question travels to the city office rather than being implied by a map.; a later layer need not invent the owner, record, or stopping condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Proposal form host gives 165 authored words across 3 paragraphs to its distinct procedural decision, proportionate to the twenty-volume settings system. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Proposal form acknowledgement is grounded in this host's Status and its concrete opening statement 'n - fictional Haneul procedure consuming G-L01 ontology.'. -->
+
 **Status:** Work decision - fictional Haneul procedure consuming G-L01 ontology.
 
 The proposer begins G-P01, a two-page paper or accessible digital form. It names the territory code or proposed boundary, host category, task in one observable sentence, desired date and time, materials, estimated volunteer-hours, contact method, foreseeable hazard, data request, publicity request, and review date. Minseo may draft it, but drafting creates no obligation. The secretary assigns a sequential draft number and returns an incomplete form within one school day with the missing field marked; a complete draft receives a receipt timestamp.
@@ -9,6 +14,11 @@ The proposer begins G-P01, a two-page paper or accessible digital form. It names
 G-P01 cannot include a private address, diagnosis, grade, family story, or photograph as a condition of participation. The proposer may narrow the task after the host asks, and the old draft remains attached as history. Output is either “draft complete,” “revise,” or “withdrawn”; no seal or token exists at this stage. A school-room request travels separately through 150's H-02 process, and a municipal permission question travels to the city office rather than being implied by a map.
 
 ## Host agreement
+
+<!-- @evidence obligations/common.md#scope-preservation The Host agreement host states n - consent procedure. This is the concrete procedural scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Host agreement host develops its procedure through nal participation framework; the task-specific form is fictional. Source: [UN Convention on the Rights of the Child, Article 12](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child#art12).; a later layer need not invent the owner, record, or stopping condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Host agreement host gives 187 authored words across 3 paragraphs to its distinct procedural decision, proportionate to the twenty-volume settings system. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Host agreement acknowledgement is grounded in this host's Status and its concrete opening statement 'n - consent procedure.'. -->
 
 **Status:** Work decision - consent procedure.
 
@@ -18,6 +28,11 @@ The host selects the smallest necessary contact detail and may approve work whil
 
 ## Task boundary
 
+<!-- @evidence obligations/common.md#scope-preservation The Task boundary host states n - executable scope control. This is the concrete procedural scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Task boundary host develops its procedure through oundary changes before execution, the host signs a new line and the old scope becomes superseded, not silently edited. The output is “ready,” “narrowed,” or “cancelled”; only “ready” can proceed to access and assignment.; a later layer need not invent the owner, record, or stopping condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Task boundary host gives 137 authored words across 3 paragraphs to its distinct procedural decision, proportionate to the twenty-volume settings system. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Task boundary acknowledgement is grounded in this host's Status and its concrete opening statement 'n - executable scope control.'. -->
+
 **Status:** Work decision - executable scope control.
 
 After agreement, the secretary copies the final sentence into G-L01 and draws the boundary on the coarse public map. The task must have a start point, end point, permitted hours, responsible host, allowed tools, maximum people, stop signal, and completion test. “Make the market better” is rejected; “replace six weather-damaged sleeves on the covered notice board between 16:00 and 17:00 with the vendor's supplied clips” is executable.
@@ -25,6 +40,11 @@ After agreement, the secretary copies the final sentence into G-L01 and draws th
 The task may not involve structural repair, medical care, legal advice, private record inspection, unsupervised entry, or a public service that the responsible authority has not delegated. If the physical boundary changes before execution, the host signs a new line and the old scope becomes superseded, not silently edited. The output is “ready,” “narrowed,” or “cancelled”; only “ready” can proceed to access and assignment.
 
 ## Volunteer assignment
+
+<!-- @evidence obligations/common.md#scope-preservation The Volunteer assignment host states n - voluntary staffing rule. This is the concrete procedural scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volunteer assignment host develops its procedure through hanges the state to “unfilled” and informs the host rather than pressuring a replacement. Work hours are recorded only after the worker confirms them; material donations and expenses remain receipts in the budget ledger.; a later layer need not invent the owner, record, or stopping condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volunteer assignment host gives 141 authored words across 3 paragraphs to its distinct procedural decision, proportionate to the twenty-volume settings system. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volunteer assignment acknowledgement is grounded in this host's Status and its concrete opening statement 'n - voluntary staffing rule.'. -->
 
 **Status:** Work decision - voluntary staffing rule.
 
@@ -34,6 +54,11 @@ The shift lead carries the paper G-L01, stop card, first-aid contact, and charge
 
 ## Accessibility check
 
+<!-- @evidence obligations/common.md#scope-preservation The Accessibility check host states n informed by direct accessibility law, with Haneul values fictional. This is the concrete procedural scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Accessibility check host develops its procedure through Korea's Act on the Prohibition of Discrimination against Persons with Disabilities, including its accommodation principle; source: [Korean disability discrimination law](https://www.law.go.kr/법령/장애인차별금지및권리구제등에관한법률#제4조).; a later layer need not invent the owner, record, or stopping condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Accessibility check host gives 160 authored words across 3 paragraphs to its distinct procedural decision, proportionate to the twenty-volume settings system. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Accessibility check acknowledgement is grounded in this host's Status and its concrete opening statement 'n informed by direct accessibility law, with Haneul values fictional.'. -->
+
 **Status:** Work decision informed by direct accessibility law, with Haneul values fictional.
 
 Before assignment, Do-yun or the named access checker completes G-A02: route surface and gradient observed, entrance width, toilet and quiet option, seating, lighting/noise, weather shelter, communication format, and an alternative participation mode. The check describes the task, not a person's body. A student can request an accommodation without disclosing diagnosis, and a host can refuse a route change while the coordinator marks the task inaccessible rather than assigning the risk to a student.
@@ -41,6 +66,11 @@ Before assignment, Do-yun or the named access checker completes G-A02: route sur
 The output states “accessible as planned,” “accessible with adjustment,” “remote or observer mode,” or “stop.” The adjustment names owner, resource, and completion time. A missing ramp, unsafe slope, inaccessible form, or sensory overload is a task defect requiring redesign, not a test of courage. The fictional check is informed by Korea's Act on the Prohibition of Discrimination against Persons with Disabilities, including its accommodation principle; source: [Korean disability discrimination law](https://www.law.go.kr/법령/장애인차별금지및권리구제등에관한법률#제4조).
 
 ## Verification
+
+<!-- @evidence obligations/common.md#scope-preservation The Verification host states n - evidence-before-seal step. This is the concrete procedural scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Verification host develops its procedure through tudent disagree, the task becomes “questioned” under 010's dispute states and the adviser appoints a nonparticipant reviewer within three school days. Verification proves a task, never the worth of a person or territory.; a later layer need not invent the owner, record, or stopping condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Verification host gives 137 authored words across 3 paragraphs to its distinct procedural decision, proportionate to the twenty-volume settings system. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Verification acknowledgement is grounded in this host's Status and its concrete opening statement 'n - evidence-before-seal step.'. -->
 
 **Status:** Work decision - evidence-before-seal step.
 
@@ -50,6 +80,11 @@ The verifier cannot certify unobserved work. A student who worked but could not 
 
 ## Two-signature rule
 
+<!-- @evidence obligations/common.md#scope-preservation The Two-signature rule host states n - control on certification and school resources. This is the concrete procedural scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Two-signature rule host develops its procedure through ays, after which it becomes “unverified” and the map remains blank. A forged, duplicated, or coerced signature is quarantined under the dispute procedure and reported to the adviser; the club does not quietly replace it.; a later layer need not invent the owner, record, or stopping condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Two-signature rule host gives 137 authored words across 3 paragraphs to its distinct procedural decision, proportionate to the twenty-volume settings system. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Two-signature rule acknowledgement is grounded in this host's Status and its concrete opening statement 'n - control on certification and school resources.'. -->
+
 **Status:** Work decision - control on certification and school resources.
 
 A valid seal requires the host's confirmation and one independent club-side signature. The independent signer is the adviser when school property, school funds, or a minor-safety issue is involved; otherwise the treasurer or secretary may sign after checking G-V01 against G-L01. The worker cannot provide both signatures. If the host is a school office, the named office representative signs; a student council cheer or group-chat reaction is insufficient.
@@ -57,6 +92,11 @@ A valid seal requires the host's confirmation and one independent club-side sign
 The signatures confirm only completed scope, not ownership, legal compliance beyond the checked task, or future maintenance. A missing signer leaves the record “awaiting confirmation” for seven days, after which it becomes “unverified” and the map remains blank. A forged, duplicated, or coerced signature is quarantined under the dispute procedure and reported to the adviser; the club does not quietly replace it.
 
 ## Public report
+
+<!-- @evidence obligations/common.md#scope-preservation The Public report host states n - minimum disclosure output. This is the concrete procedural scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Public report host develops its procedure through thout erasing the provenance record. A report with missing consent, unclear scope, or disputed evidence is withheld and marked “not publishable.” The publication is civic accountability, not advertising or a score table.; a later layer need not invent the owner, record, or stopping condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Public report host gives 131 authored words across 3 paragraphs to its distinct procedural decision, proportionate to the twenty-volume settings system. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Public report acknowledgement is grounded in this host's Status and its concrete opening statement 'n - minimum disclosure output.'. -->
 
 **Status:** Work decision - minimum disclosure output.
 
@@ -66,6 +106,11 @@ The public report appears on the accessible notice board and school portal for o
 
 ## Correction record
 
+<!-- @evidence obligations/common.md#scope-preservation The Correction record host states n - transparent repair of inaccurate procedure. This is the concrete procedural scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Correction record host develops its procedure through agreement or a token into money. If the issue concerns a school record or safeguarding disclosure, G-C01 stops and routes to 150's records officer or counselor rather than collecting protected material in the club file.; a later layer need not invent the owner, record, or stopping condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Correction record host gives 142 authored words across 3 paragraphs to its distinct procedural decision, proportionate to the twenty-volume settings system. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Correction record acknowledgement is grounded in this host's Status and its concrete opening statement 'n - transparent repair of inaccurate procedure.'. -->
+
 **Status:** Work decision - transparent repair of inaccurate procedure.
 
 Anyone affected may submit G-C01 by paper, portal, or adviser message. It identifies the contested field, what the person believes is accurate, supporting observation or document, accessibility need, and safe reply route. The secretary acknowledges it in two school days, freezes the affected public line, and appoints a reviewer who did not enter the disputed field.
@@ -73,6 +118,11 @@ Anyone affected may submit G-C01 by paper, portal, or adviser message. It identi
 Within seven school days the reviewer decides confirm, amend, retract, or unresolved. The old value remains visible in the restricted ledger with timestamp and reason; the public report shows only the corrected current value and a correction notice. A correction cannot convert a refusal into agreement or a token into money. If the issue concerns a school record or safeguarding disclosure, G-C01 stops and routes to 150's records officer or counselor rather than collecting protected material in the club file.
 
 ## Appeal
+
+<!-- @evidence obligations/common.md#scope-preservation The Appeal host states n - non-circular escalation. This is the concrete procedural scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Appeal host develops its procedure through l city government is the separate municipal authority. Every appeal states receipt, reviewer, response target, interim safety action, and final available escalation. No original decision-maker reviews their own decision.; a later layer need not invent the owner, record, or stopping condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Appeal host gives 150 authored words across 3 paragraphs to its distinct procedural decision, proportionate to the twenty-volume settings system. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Appeal acknowledgement is grounded in this host's Status and its concrete opening statement 'n - non-circular escalation.'. -->
 
 **Status:** Work decision - non-circular escalation.
 
@@ -82,6 +132,11 @@ The statutory School Governance Committee deliberates school rules, budget, curr
 
 ## Suspension
 
+<!-- @evidence obligations/common.md#scope-preservation The Suspension host states n - temporary stop with preserved provenance. This is the concrete procedural scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Suspension host develops its procedure through ost confirmation, corrected risk/access plan, and a new date. Existing tokens remain records of completed hours, while the seal and public map follow 010's expiry rule. A suspended task cannot be advertised as conquered.; a later layer need not invent the owner, record, or stopping condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Suspension host gives 141 authored words across 3 paragraphs to its distinct procedural decision, proportionate to the twenty-volume settings system. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Suspension acknowledgement is grounded in this host's Status and its concrete opening statement 'n - temporary stop with preserved provenance.'. -->
+
 **Status:** Work decision - temporary stop with preserved provenance.
 
 The adviser, host, shift lead, facilities office, or emergency authority may suspend a task for danger, withdrawn consent, inaccessible route, missing adult, inaccurate scope, severe weather, or a school closure. The person who calls the stop records G-S01 time, reason category, people moved to safety, unfinished work, and who must be notified. The host and students receive an accessible notice the same day; no one is punished for the stop.
@@ -90,8 +145,25 @@ Suspension states are immediate, reviewed, resumed-with-change, expired, or diss
 
 ## Dissolution
 
+<!-- @evidence obligations/common.md#scope-preservation The Dissolution host states n - orderly end of a task relationship. This is the concrete procedural scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Dissolution host develops its procedure through framework, 150's principal, staff Faculty Committee, statutory School Governance Committee, or education-office boundary controls the next step. The club may learn from the closure, but cannot rename closure as victory.; a later layer need not invent the owner, record, or stopping condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Dissolution host gives 155 authored words across 3 paragraphs to its distinct procedural decision, proportionate to the twenty-volume settings system. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Dissolution acknowledgement is grounded in this host's Status and its concrete opening statement 'n - orderly end of a task relationship.'. -->
+
 **Status:** Work decision - orderly end of a task relationship.
 
 A task dissolves when the host withdraws, the purpose ends, the place closes, required permission is denied, the club cannot maintain it safely, or all parties agree that continued work is no longer useful. The secretary completes G-D02 with reason category, final work verified, outstanding material or cost, token provenance, public-report action, and record-retention date. The host receives a copy in an accessible format.
 
 Dissolution removes the current map mark and future assignment; it does not rewrite a completed shift, erase a refusal, or return a token to a pool. Unused purchased material is returned to its owner or recorded in the budget ledger for a named alternative. If dissolution concerns the school room, recognition, budget, or after-school framework, 150's principal, staff Faculty Committee, statutory School Governance Committee, or education-office boundary controls the next step. The club may learn from the closure, but cannot rename closure as victory.
+<!-- @evidence principles/common.md#purpose-fit The file Game Procedure owns 12 executable game-procedure H2s; its opening says "", making proposals, permissions, tasks, accessibility, verification, reporting, appeals, and closure operational for the school-civic promise. -->
+<!-- @evidence principles/common.md#layer-boundary The file Game Procedure owns 12 executable game-procedure H2s; its opening says ""; it fixes settings procedure and authority, while later storylines and scenarios must supply narrative connection and staging. -->
+<!-- @evidence principles/common.md#work-language The file Game Procedure owns 12 executable game-procedure H2s; its opening says ""; its forms and status vocabulary are authored in clear English while preserving the named Korean institutional context. -->
+<!-- @evidence principles/settings.md#addressable-canon The file Game Procedure owns 12 executable game-procedure H2s; its opening says ""; proposal, host, task, volunteer, accessibility, verification, signatures, report, correction, appeal, suspension, and dissolution are separately owned H2s. -->
+<!-- @evidence principles/settings.md#information-structure The file Game Procedure owns 12 executable game-procedure H2s; its opening says ""; each procedure H2 states Status then specifies inputs, owner, decision, limits, and downstream record. -->
+<!-- @evidence principles/settings.md#fact-status The file Game Procedure owns 12 executable game-procedure H2s; its opening says ""; procedural thresholds and named forms are marked fictional Work decisions while the 2 direct source link(s) support the external participation/accessibility principles. -->
+<!-- @evidence principles/settings.md#source-support The file Game Procedure owns 12 executable game-procedure H2s; its opening says ""; external participation and disability claims point to direct sources in their owning H2s, while Haneul deadlines and forms are explicitly fictional. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file Game Procedure owns 12 executable game-procedure H2s; its opening says ""; the units state proposer, host, owner, resource, accessibility, verification, correction, appeal, suspension, and closure conditions. -->
+<!-- @evidence principles/settings.md#minimal-departure The file Game Procedure owns 12 executable game-procedure H2s; its opening says ""; the conquest procedure is explicitly bounded by consent, host authority, accessibility, and ordinary-world records rather than treated as a default game rule. -->
+<!-- @evidence principles/settings.md#internal-coherence The file Game Procedure owns 12 executable game-procedure H2s; its opening says ""; proposal-to-dissolution steps reuse the consent, refusal, maintenance, and ownership boundaries fixed in 010. -->
+
+# Game Procedure
