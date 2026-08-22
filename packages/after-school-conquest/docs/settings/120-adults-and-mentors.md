@@ -32,6 +32,7 @@ Adults around the founders are distinct holders of care, expertise, permission, 
 <!-- @evidence obligations/common.md#proportionate-development The Teacher as classroom host host gives 99 authored words across 3 paragraphs to its distinct adult-role decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Teacher as classroom host” H2 from Status through its final boundary. Its first operating statement is “A teacher hosts instruction, manages the classroom conditions assigned by the school, and can explain a course requirement. A teacher does not automatically control another teacher”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Teacher as classroom host acknowledgement is grounded in this host's Status and its concrete opening statement 'n — school role canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Teacher as classroom host” H2 from Status through its final boundary. Its first operating statement is “A teacher hosts instruction, manages the classroom conditions assigned by the school, and can explain a course requirement. A teacher does not automatically control another teacher”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — school role canon.
 
@@ -48,6 +49,7 @@ The founders may ask a teacher for feedback, supervision, referral, or a written
 <!-- @evidence obligations/common.md#proportionate-development The Adviser as club adult host gives 100 authored words across 3 paragraphs to its distinct adult-role decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Adviser as club adult” H2 from Status through its final boundary. Its first operating statement is “The club adviser checks the approved activity scope, adult presence, student welfare, room and equipment permissions, and escalation route. The adviser may pause a student task and”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Adviser as club adult acknowledgement is grounded in this host's Status and its concrete opening statement 'n — institution boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Adviser as club adult” H2 from Status through its final boundary. Its first operating statement is “The club adviser checks the approved activity scope, adult presence, student welfare, room and equipment permissions, and escalation route. The adviser may pause a student task and”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — institution boundary.
 
@@ -64,6 +66,7 @@ Adviser availability is bounded by teaching, meetings, leave, and travel. A plan
 <!-- @evidence obligations/common.md#proportionate-development The Principal and vice-principal interface host gives 99 authored words across 3 paragraphs to its distinct adult-role decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Principal and vice-principal interface” H2 from Status through its final boundary. Its first operating statement is “The principal and vice-principal hold the school-level authority described in `150-school-institutions.md`. A founder approaches them through a concise request containing purpose, ”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Principal and vice-principal interface acknowledgement is grounded in this host's Status and its concrete opening statement 'n — inherited institutional canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Principal and vice-principal interface” H2 from Status through its final boundary. Its first operating statement is “The principal and vice-principal hold the school-level authority described in `150-school-institutions.md`. A founder approaches them through a concise request containing purpose, ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — inherited institutional canon.
 
@@ -80,6 +83,7 @@ An oral encouragement is recorded as advice unless the office issues a decision 
 <!-- @evidence obligations/common.md#proportionate-development The Facilities staff as material authority host gives 100 authored words across 3 paragraphs to its distinct adult-role decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Facilities staff as material authority” H2 from Status through its final boundary. Its first operating statement is “Facilities staff own inspection, keys, building systems, defect reporting, and the public-use condition of school spaces within the scope defined in `150` and the 2022 fire legacy ”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Facilities staff as material authority acknowledgement is grounded in this host's Status and its concrete opening statement 'n — physical safety canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Facilities staff as material authority” H2 from Status through its final boundary. Its first operating statement is “Facilities staff own inspection, keys, building systems, defect reporting, and the public-use condition of school spaces within the scope defined in `150` and the 2022 fire legacy ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — physical safety canon.
 
@@ -96,6 +100,7 @@ A founder may submit a precise defect report with location, observable symptom, 
 <!-- @evidence obligations/common.md#proportionate-development The Office clerk and record custodian host gives 91 authored words across 3 paragraphs to its distinct adult-role decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Office clerk and record custodian” H2 from Status through its final boundary. Its first operating statement is “A clerk receives forms, checks completeness, provides a receipt or reference number, and routes the request to the competent office. The clerk is not necessarily the decision maker”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Office clerk and record custodian acknowledgement is grounded in this host's Status and its concrete opening statement 'n — records canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Office clerk and record custodian” H2 from Status through its final boundary. Its first operating statement is “A clerk receives forms, checks completeness, provides a receipt or reference number, and routes the request to the competent office. The clerk is not necessarily the decision maker”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — records canon.
 
@@ -112,6 +117,7 @@ The founders ask what document exists, who owns it, how to request it, and what 
 <!-- @evidence obligations/common.md#proportionate-development The Parent and guardian as support authority host gives 105 authored words across 3 paragraphs to its distinct adult-role decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Parent and guardian as support authority” H2 from Status through its final boundary. Its first operating statement is “A parent or guardian may provide consent, transport, money, care, emergency information, or a limit on participation according to the relevant activity and household. Their role is”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Parent and guardian as support authority acknowledgement is grounded in this host's Status and its concrete opening statement 'n — domestic interface.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Parent and guardian as support authority” H2 from Status through its final boundary. Its first operating statement is “A parent or guardian may provide consent, transport, money, care, emergency information, or a limit on participation according to the relevant activity and household. Their role is”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — domestic interface.
 
@@ -128,6 +134,7 @@ The founders explain a request in accessible terms and identify what information
 <!-- @evidence obligations/common.md#proportionate-development The Youth-centre coordinator host gives 101 authored words across 3 paragraphs to its distinct adult-role decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Youth-centre coordinator” H2 from Status through its final boundary. Its first operating statement is “The youth-centre coordinator owns the facility response plan, room scheduling within the centre, volunteer instructions, and centre-side closure communication. The coordinator does”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Youth-centre coordinator acknowledgement is grounded in this host's Status and its concrete opening statement 'n — inherited public-facility canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Youth-centre coordinator” H2 from Status through its final boundary. Its first operating statement is “The youth-centre coordinator owns the facility response plan, room scheduling within the centre, volunteer instructions, and centre-side closure communication. The coordinator does”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — inherited public-facility canon.
 
@@ -144,6 +151,7 @@ A founder may report a centre condition, request a safe room, or ask how a notic
 <!-- @evidence obligations/common.md#proportionate-development The Municipal official as jurisdictional contact host gives 90 authored words across 3 paragraphs to its distinct adult-role decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Municipal official as jurisdictional contact” H2 from Status through its final boundary. Its first operating statement is “A municipal official acts within a named office, jurisdiction, and administrative procedure. The founders ask for the office, reference number, current status, and public contact r”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Municipal official as jurisdictional contact acknowledgement is grounded in this host's Status and its concrete opening statement 'n — civic interface.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Municipal official as jurisdictional contact” H2 from Status through its final boundary. Its first operating statement is “A municipal official acts within a named office, jurisdiction, and administrative procedure. The founders ask for the office, reference number, current status, and public contact r”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — civic interface.
 
@@ -160,6 +168,7 @@ The city flood-response office owns the yellow gauge and closure decision identi
 <!-- @evidence obligations/common.md#proportionate-development The Emergency responder and immediate danger host gives 97 authored words across 3 paragraphs to its distinct adult-role decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Emergency responder and immediate danger” H2 from Status through its final boundary. Its first operating statement is “Fire, medical, police, and disaster responders have emergency roles that supersede ordinary club procedure when immediate danger exists. Founders give location, observable conditio”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Emergency responder and immediate danger acknowledgement is grounded in this host's Status and its concrete opening statement 'n — safety boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Emergency responder and immediate danger” H2 from Status through its final boundary. Its first operating statement is “Fire, medical, police, and disaster responders have emergency roles that supersede ordinary club procedure when immediate danger exists. Founders give location, observable conditio”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — safety boundary.
 
@@ -176,6 +185,7 @@ After the immediate response, the relevant institution owns the incident record 
 <!-- @evidence obligations/common.md#proportionate-development The Mentor, consultant, and volunteer host gives 92 authored words across 3 paragraphs to its distinct adult-role decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Mentor, consultant, and volunteer” H2 from Status through its final boundary. Its first operating statement is “A mentor offers advice based on stated experience; a consultant performs an agreed professional task; a volunteer contributes time under a host's rules. None is automatically licen”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Mentor, consultant, and volunteer acknowledgement is grounded in this host's Status and its concrete opening statement 'n — expertise boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Mentor, consultant, and volunteer” H2 from Status through its final boundary. Its first operating statement is “A mentor offers advice based on stated experience; a consultant performs an agreed professional task; a volunteer contributes time under a host's rules. None is automatically licen”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — expertise boundary.
 
@@ -192,6 +202,7 @@ Mentors may critique a plan without owning its outcome. A volunteer cannot enter
 <!-- @evidence obligations/common.md#proportionate-development The Adult disagreement and escalation host gives 94 authored words across 3 paragraphs to its distinct adult-role decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Adult disagreement and escalation” H2 from Status through its final boundary. Its first operating statement is “Adults may disagree about budget, safety, accessibility, schedule, or jurisdiction. The founders do not choose the most confident voice. They identify each adult's office, evidence”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Adult disagreement and escalation acknowledgement is grounded in this host's Status and its concrete opening statement 'n — governance interface.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Adult disagreement and escalation” H2 from Status through its final boundary. Its first operating statement is “Adults may disagree about budget, safety, accessibility, schedule, or jurisdiction. The founders do not choose the most confident voice. They identify each adult's office, evidence”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — governance interface.
 
@@ -208,6 +219,7 @@ Escalation changes the recipient, not the facts. A student may ask a principal t
 <!-- @evidence obligations/common.md#proportionate-development The Adult absence and continuity host gives 92 authored words across 3 paragraphs to its distinct adult-role decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Adult absence and continuity” H2 from Status through its final boundary. Its first operating statement is “An activity continues only when a named alternate can perform the required duty. If the adviser is absent, a substitute may supervise if the school process permits; otherwise the t”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Adult absence and continuity acknowledgement is grounded in this host's Status and its concrete opening statement 'n — operational canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Adult absence and continuity” H2 from Status through its final boundary. Its first operating statement is “An activity continues only when a named alternate can perform the required duty. If the adviser is absent, a substitute may supervise if the school process permits; otherwise the t”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — operational canon.
 
