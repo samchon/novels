@@ -1,3 +1,5 @@
+<!-- @evidence principles/common.md#purpose-fit This file supplies the municipal counterpart to the novel's accountable school life: city jurisdiction, flood and drainage response, roads, youth and library services, complaints, notices, facilities, public contacts, coordination, and archive limits make the founders' public-world access concrete without becoming plot order or a generic government catalogue. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa I reread the complete purpose-fit target and all eleven 160 H2s, then compared the full file with adjacent 150 School Institutions and 170 Law, Records, and Rights. The weakest host is City-school coordination because a shared notice could otherwise erase jurisdiction; its owner, deliverable, date, data boundary, unresolved issue, issuer, and effective-period rules make the municipal infrastructure operational. 150 owns school authority and records, 170 owns rights and legal uncertainty, while 160 uniquely owns city services, public routes, civic facilities, contacts, and archives needed for the founders' access to public life. -->
 
 # Municipal Institutions
 
