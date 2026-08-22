@@ -1,16 +1,29 @@
 <!-- @evidence principles/common.md#purpose-fit The Court Ceremony and Household file fixes the historical and material setting needed by the twenty-volume English novel; its opening scope is This file owns court as an institution of access, rank, gender, and performance.. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa Read the complete “Court Ceremony and Household” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#layer-boundary The Court Ceremony and Household file records addressable facts, constraints, source status, and work decisions; it does not prescribe storyline order, scene blocking, or finished manuscript prose. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 Read the complete “Court Ceremony and Household” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#work-language The Court Ceremony and Household file is authored in consistent English and preserves the period names, French institutional terms, and place-name variants needed for a readable historical novel. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c Read the complete “Court Ceremony and Household” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#addressable-canon The Court Ceremony and Household file assigns its distinct canon to 8 independently anchored H2 owners, so later layers can cite a precise fact rather than a whole-file summary. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f Read the complete “Court Ceremony and Household” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#information-structure Each of the 8 Court Ceremony and Household H2 owners states Status before developing its fact, operating condition, consequence, and limitation. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 Read the complete “Court Ceremony and Household” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#fact-status The Court Ceremony and Household H2 statuses distinguish established historical claims, contested or source-dependent reconstructions, and owner-adopted work decisions instead of presenting every detail as equally certain. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Read the complete “Court Ceremony and Household” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#source-support The Court Ceremony and Household file carries 16 direct source URL marker(s) and identifies uncertainty where the surviving record does not settle a detail; fictional connective decisions remain marked as such. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 Read the complete “Court Ceremony and Household” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#constraint-sufficiency The Court Ceremony and Household H2 owners specify the actors, institutions, dates, material conditions, information limits, and downstream boundaries required to use this domain without inventing its foundations. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Read the complete “Court Ceremony and Household” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#minimal-departure The Court Ceremony and Household file keeps departures from the record bounded: it may choose a usable narrative emphasis, but it does not silently change documented dates, identities, institutions, or contested status. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 Read the complete “Court Ceremony and Household” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#internal-coherence The Court Ceremony and Household file keeps its 8 owners consistent in chronology, geography, institutional authority, terminology, and the distinction between evidence and narrative-use decisions. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e Read the complete “Court Ceremony and Household” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#bounded-historical-invention The Court Ceremony and Household file permits only bounded connective invention around the documented historical record; it does not fabricate quotations, hidden motives, or unsupported precision. -->
+<!-- @evidenceReview principles/common.md#bounded-historical-invention #231571a Read the complete “Court Ceremony and Household” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#historical-claim-provenance Historical claims in the Court Ceremony and Household file are assigned to their source-bearing H2 owners, with source-dependent details and work decisions visibly separated for downstream checking. -->
+<!-- @evidenceReview principles/common.md#historical-claim-provenance #d7515dc Read the complete “Court Ceremony and Household” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#historical-corroboration The Court Ceremony and Household file treats source agreement, disagreement, and silence as distinct statuses and requires later prose to preserve those limits rather than laundering one retrospective into certainty. -->
+<!-- @evidenceReview principles/common.md#historical-corroboration #b58522c Read the complete “Court Ceremony and Household” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 # Court Ceremony and Household
 
 This file owns court as an institution of access, rank, gender, and performance.
@@ -19,9 +32,13 @@ This file owns court as an institution of access, rank, gender, and performance.
 
 ## From Consular residence to imperial court {#from-consular-residence-to-imperial-court}
 <!-- @evidence obligations/common.md#evidence-content-conformance The From Consular residence to imperial court is marked Source-supported. Court develops through offices, apartments, audiences, uniforms, calendars, and a hierarchy of access.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “From Consular residence to imperial court” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The From Consular residence to imperial court host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “From Consular residence to imperial court” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The From Consular residence to imperial court host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “From Consular residence to imperial court” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The From Consular residence to imperial court host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “From Consular residence to imperial court” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-supported. Court develops through offices, apartments, audiences, uniforms, calendars, and a hierarchy of access.
 
@@ -31,9 +48,13 @@ Sources: Fondation Napoléon biography, https://www.napoleon.org/en/history-of-t
 
 ## Ceremony as political technology {#ceremony-as-political-technology}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Ceremony as political technology is marked Work canon. Coronations, receptions, marriages, medals, and military displays make hierarchy visible and invite public interpretation.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Ceremony as political technology” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Ceremony as political technology host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Ceremony as political technology” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Ceremony as political technology host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Ceremony as political technology” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Ceremony as political technology host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Ceremony as political technology” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work canon. Coronations, receptions, marriages, medals, and military displays make hierarchy visible and invite public interpretation.
 
@@ -43,9 +64,13 @@ Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-
 
 ## Household staff and information {#household-staff-and-information}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Household staff and information is marked Source-critical. Secretaries, valets, ladies, physicians, cooks, guards, and visitors know different fragments of the sovereign's life.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Household staff and information” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Household staff and information host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Household staff and information” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Household staff and information host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Household staff and information” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Household staff and information host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Household staff and information” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-critical. Secretaries, valets, ladies, physicians, cooks, guards, and visitors know different fragments of the sovereign's life.
 
@@ -55,9 +80,13 @@ Sources: Fondation Napoléon correspondence, https://fondationnapoleon.org/en/ac
 
 ## Apartments routes and controlled access {#apartments-routes-and-controlled-access}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Apartments routes and controlled access is marked Source-required domain. Rooms, corridors, doors, guards, schedules, and keys make court access a physical system.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Apartments routes and controlled access” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Apartments routes and controlled access host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Apartments routes and controlled access” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Apartments routes and controlled access host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Apartments routes and controlled access” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Apartments routes and controlled access host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Apartments routes and controlled access” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-required domain. Rooms, corridors, doors, guards, schedules, and keys make court access a physical system.
 
@@ -67,9 +96,13 @@ Sources: Fondation Napoléon biography, https://www.napoleon.org/en/history-of-t
 
 ## Gender rank and household authority {#gender-rank-and-household-authority}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Gender rank and household authority is marked Work canon. Court access is structured by gender, title, marriage, kinship, office, wealth, and the law of the household.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Gender rank and household authority” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Gender rank and household authority host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Gender rank and household authority” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Gender rank and household authority host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Gender rank and household authority” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Gender rank and household authority host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Gender rank and household authority” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work canon. Court access is structured by gender, title, marriage, kinship, office, wealth, and the law of the household.
 
@@ -79,9 +112,13 @@ Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; 
 
 ## Display, cost, and political legitimacy {#display-cost-and-political-legitimacy}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Display, cost, and political legitimacy is marked Source-critical boundary. Splendor is a political claim supported by budgets, labor, textiles, food, transport, and police.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Display, cost, and political legitimacy” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Display, cost, and political legitimacy host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Display, cost, and political legitimacy” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Display, cost, and political legitimacy host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Display, cost, and political legitimacy” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Display, cost, and political legitimacy host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Display, cost, and political legitimacy” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-critical boundary. Splendor is a political claim supported by budgets, labor, textiles, food, transport, and police.
 
@@ -91,9 +128,13 @@ Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-
 
 ## Household testimony and private intimacy {#household-testimony-and-private-intimacy}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Household testimony and private intimacy is marked Work boundary. Bedroom, medical, and family scenes require individual primary or critical sources.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Household testimony and private intimacy” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Household testimony and private intimacy host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Household testimony and private intimacy” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Household testimony and private intimacy host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Household testimony and private intimacy” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Household testimony and private intimacy host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Household testimony and private intimacy” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work boundary. Bedroom, medical, and family scenes require individual primary or critical sources.
 
@@ -103,9 +144,13 @@ Sources: Fondation Napoléon correspondence, https://fondationnapoleon.org/en/ac
 
 ## Boundary to family and court storylines {#boundary-to-family-and-court-storylines}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Boundary to family and court storylines is marked Work boundary. Detailed marriages, children, medical life, and household conflicts belong to their own character and narrative owners.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Boundary to family and court storylines” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Boundary to family and court storylines host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Boundary to family and court storylines” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Boundary to family and court storylines host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Boundary to family and court storylines” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Boundary to family and court storylines host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Boundary to family and court storylines” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work boundary. Detailed marriages, children, medical life, and household conflicts belong to their own character and narrative owners.
 
