@@ -1,10 +1,39 @@
 
+<!-- @evidence principles/common.md#purpose-fit This file fixes the founders' usable capacities, shared standing, stress, equipment, adult safety, alumni access, and availability so later layers can assign responsibility without reducing people to plot functions. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa I reread all twelve H2s; Complementarity without compulsory harmony is the weakest purpose test because it joins capability design to consent and agency. -->
+<!-- @evidence principles/common.md#layer-boundary These H2s establish settings-level capacities, limits, resources, and access; they do not assign events, scenes, arcs, or finished prose. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 I compared each founder and capability unit with settings ownership; Stress, fatigue, and recovery capacity is process-adjacent but remains a constraint. -->
+<!-- @evidence principles/common.md#work-language The file uses precise capacity, confidence, access, fatigue, referral, and availability terms without treating disability, language, or social style as defects. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c I checked all four founder descriptions and shared terms; Do-yun's access-and-material capacity is the weakest stereotype safeguard. -->
+<!-- @evidence principles/settings.md#addressable-canon Each founder, shared envelope, ledger, complementarity, stress, equipment, safety, alumni access, and availability owner has a separate H2. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f I counted twelve independent H2 owners; equipment and alumni access remain separate from personal capability. -->
+<!-- @evidence principles/settings.md#information-structure Every H2 begins with Status and develops capacity, boundary, resource, confidence, or authority consequences by function. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 I reread the twelve units in order; Capability ledger and confidence classes is the weakest structure anchor. -->
+<!-- @evidence principles/settings.md#fact-status Status lines distinguish fictional founder capacities and work decisions from uncertainty and safety procedure. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 I checked every Status against its capacity claims; no psychological or medical diagnosis is asserted. -->
+<!-- @evidence principles/settings.md#source-support The file treats capacities as fictional canon and routes medical/safety uncertainty to adult referral rather than attaching unsupported external authority. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 I reread the referral and confidence rules; no broad source is used to prove a founder trait. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file fixes capability, age, fatigue, equipment, referral, alumni, schedule, and handoff limits for downstream responsibility. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 I compared all capacity and boundary H2s; Adult referral and safety boundary is the narrowest operational limit. -->
+<!-- @evidence principles/settings.md#minimal-departure The founders' capacities and Haneul access rules are explicit fictional decisions while ordinary consent, safety, and institutional authority remain operative. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 I compared personal capacities with adult referral and alumni access; no capability grants institutional power. -->
+<!-- @evidence principles/settings.md#internal-coherence Four individual capacities, shared age, ledger confidence, complementarity, fatigue, equipment, adult referral, alumni status, and availability form one consistent responsibility system. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e I traced capability to stress, handoff, safety, and schedule; the shared age/standing H2 is the continuity anchor. -->
+
 # Founders and Capabilities
 
 This file fixes the four founders as usable setting constraints. It does not allocate scenes, revelations, or volume beats. A capability is an available or unavailable resource with a cost; it is not a personality verdict. Dates and school standing remain owned by `030-chronology-baseline.md` and `040-volume-time-boundaries.md`.
 
 ## Minseo Han: map-first capacity
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes Minseo's map-first capability, useful limits, consent boundary, and resource consequences. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked capability, limit, and consent clauses; map skill does not grant authority. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a usable capacity and its downstream boundary without assigning a scene. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the full H2; practical map use and overconfidence are both constrained. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates spatial skill, information limit, and social consequence. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the three effects; map confidence is distinct from institutional knowledge. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional character capacity, not a psychological diagnosis. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and capability wording; no external trait claim is made. -->
 
 **Status:** Work decision — package canon.
 
