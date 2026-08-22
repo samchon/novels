@@ -60,6 +60,14 @@ Velocity is not authority. Jae-won cannot sign for school property, promise a ci
 
 ## Lila Reyes: language-and-context capacity
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes Lila's language-and-context capacity, translation limits, consent boundary, and resource consequences. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked language skill, context limits, and consent clauses; translation does not authorize speaking for another person. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a usable contextual capacity and its downstream boundary without assigning a scene. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the full H2; uncertainty and clarification remain required. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates language, translation, context, omission, and relationship effects. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the effects; omission is the independent risk. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional character capacity, not a claim about multilingual people. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and language wording; no external linguistic diagnosis is made. -->
 
 **Status:** Work decision — package canon.
 
