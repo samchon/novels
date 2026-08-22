@@ -31,13 +31,13 @@ This file owns technical modernity as organized knowledge, skilled labor, capita
 
 ## Scientists and state patronage {#scientists-and-state-patronage}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns prizes, institutes, schools, instruments, assistants, publications, military use, and political control. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Compared science institutions with 031 education; a trained scientist and a state user remain distinct. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Rechecked Institute, prize, laboratory, assistant, engineer, ministry, and user against 031; trained scientist and state user remain distinct. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 settles how research becomes, or fails to become, state capacity. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested patron, instrument, grant, laboratory, user, publication, and failure. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Traced Volta prize, Fulton grant and withdrawal, École training, military redirection, publication, operator, and failure from de Syon pp. 1-3. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 separates Institute, École polytechnique, prize, engineer, scholar, assistant, and ministry. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each channel for a person, institution, resource, and limit. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Kept Institute, school, prize, engineer, scholar, assistant, and ministry as separate patronage channels with distinct limits. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This host uses a critical science history and preserves military purpose, centralization, and failed experiments. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the science account's pages 1-3 before retaining patronage and school claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked de Syon PDF pp. 1-3: centralization, Volta, Fulton, 1804 military reorganization, 1811 redirection, and Imperial University remain source-bounded. -->
 
 **Status:** Critical synthesis. Guillaume de Syon's *Science under Napoleon* describes prizes, the Institute, centralized universities, and École polytechnique's increasingly military orientation. It records Volta's prize, Fulton's unsuccessful experiments and withdrawn support, the 1804 military reorganization, the 1811 diversion of students toward military academies, and state control of the Imperial University; its PDF pagination is pages 1-3. The same account says centralization enabled progress in state-sponsored circles while restricting outlets and funding elsewhere. The setting therefore names the instrument, laboratory, assistant, patron, grant, publication, and user. A discovery is not a weapon, map, or administrative fact until a workshop, budget, standard, and trained operator reproduce it. Failed trials and political interference remain canon.
 
