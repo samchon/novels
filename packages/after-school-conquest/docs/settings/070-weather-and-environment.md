@@ -70,6 +70,14 @@ KMA's hazard guidance and live warning pages identify rain and other dangerous w
 
 ## Flood warning as a physical state
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes warning activation, gauge reading, 1.2-metre closure, pumps, barriers, channel/ramp/basement exclusions, and authority response. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked every warning trigger and affected space; municipal closure and youth-centre basement restriction remain separate. -->
+<!-- @evidence obligations/common.md#substantive-completion The warning rule gives a physical state, closure consequence, pump limitation, and no-entry instruction usable without plot invention. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread gauge, closure, pump, and volunteer clauses; lowering water does not authorize entry during warning. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops gauge, water, infrastructure, closure, detour, and authority as separate warning mechanics. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared infrastructure and route consequences; the gauge is the decisive operational record. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional warning canon inherited from 030, not a real flood standard. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked the threshold and authority wording; no external flood forecast is claimed. -->
 
 **Status:** Work decision strictly preserving 030's fixed flood canon and authority.
 
