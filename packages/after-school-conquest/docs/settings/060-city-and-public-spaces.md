@@ -1,4 +1,25 @@
 
+<!-- @evidence principles/common.md#purpose-fit This file fixes the municipal/public-space envelope around Haneul—districts, frontage, market, transit, flood channel, youth centre, library, amenities, crossings, signs, service lane, and ownership records. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa I reread all twelve H2s; Seongnae channel corridor is the weakest purpose unit because it connects public geography to the flood authority and route consequences inherited by the novel. -->
+<!-- @evidence principles/common.md#layer-boundary These H2s settle fictional civic facts, spatial constraints, records, and authorities only; they do not allocate plot events, discoveries, scene order, or prose. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 I compared each public-space unit with settings ownership; Youth-centre parcel and basement access is closest to action but remains a facility boundary, not a scene instruction. -->
+<!-- @evidence principles/common.md#work-language The file uses plain municipal spatial terms, route thresholds, ownership labels, and measurement qualifiers so city and school records remain distinguishable in English. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c I checked route and authority terminology throughout; Civic signs and public route information is the weakest clarity unit because public wording and official ownership must align. -->
+<!-- @evidence principles/settings.md#addressable-canon Twelve independent H2s separate districts, street frontage, market, transit, channel, youth centre, library, amenities, crossings, signs, service lane, and ownership ledger. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f I counted and reread all twelve owners; Bus interchange and ramp remains distinct from Seongnae channel despite their physical adjacency because transport and flood authorities differ. -->
+<!-- @evidence principles/settings.md#information-structure Each H2 develops location, boundary, responsible institution, route condition, public information, and downstream consequence after its Status. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 I read every unit in order; Public-space measurement and ownership ledger is the weakest structure check because geometry and authority must not collapse into one map claim. -->
+<!-- @evidence principles/settings.md#fact-status Status lines mark Haneul civic geography as fictional Work decisions and preserve municipal versus education/youth-centre authority distinctions. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 I checked every Status and authority statement; no real Haneul city or public-space survey is presented as fact. -->
+<!-- @evidence principles/settings.md#source-support The file records fictional public-space geometry and points back to 030's flood/chronology canon rather than inventing external measurement or municipal sources. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 I reread the ownership and measurement units; no broad map or portal is used as direct evidence for the fictional spaces. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file fixes districts, approaches, passage/ramp/channel controls, amenities, crossings, signs, service access, measurements, and owners for downstream route use. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 I compared every route and ownership H2; Crossings, kerbs, and pedestrian sight lines is the narrowest physical constraint because it joins geometry, visibility, and safety authority. -->
+<!-- @evidence principles/settings.md#minimal-departure The public-space layout is explicitly fictional while ordinary municipal closure, accessibility, transport, and facility authority remain operative defaults. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 I compared fictional geometry with the 2019 flood and campus route boundaries; Seongnae channel is the key departure guard against granting students closure power. -->
+<!-- @evidence principles/settings.md#internal-coherence District orientation, frontage, market, bus, channel, youth centre, library, crossings, signs, service lane, and ownership ledger form one consistent civic map. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e I traced the route and authority chain from school frontage to market/channel and service lane; the ownership ledger is the anchor preventing municipal and facility records from merging. -->
+
 # City and Public Spaces
 
 This file owns the physical city-side environments that meet Haneul's campus: streets, market edges, bus facilities, the Seongnae channel corridor, the youth centre, civic buildings, and public wayfinding. It does not replace 030's flood chronology, 050's school parcel geometry, 150's institutional authority, or 020's permission procedure. A city space is public in the spatial sense only; a person still needs the responsible host's permission to enter a restricted room, use equipment, or perform a task.
@@ -7,6 +28,14 @@ Haneul is fictional. External sources below establish current Korean legal categ
 
 ## Metropolitan districts and physical orientation
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes the fictional metropolitan districts, school/civic orientation, distances, route relationships, and public/private map boundary. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked each district and orientation relation; the school-to-civic map boundary is the limiting scope. -->
+<!-- @evidence obligations/common.md#substantive-completion The orientation rule gives a usable district frame and authority-neutral map reference without prescribing travel scenes. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the map and route paragraphs; orientation does not imply ownership or access. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates districts, landmarks, routes, and map limits. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the district and landmark functions; map limits are the distinct consumer. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional metropolitan geography. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status; no real-city map is claimed. -->
 
 **Status:** Work decision for fictional Haneul's urban morphology.
 
@@ -20,6 +49,14 @@ The Act on Promotion of Transportation Convenience for Mobility Disadvantaged Pe
 
 ## North civic street and school frontage
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes north street, school frontage, sidewalks, public threshold, and municipal/school boundary. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked street/frontage and authority edges; school frontage is not city property by implication. -->
+<!-- @evidence obligations/common.md#substantive-completion The frontage rule supplies curb, crossing, arrival, and record-owner conditions for downstream movement. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread frontage and threshold limits; public sidewalk does not grant interior access. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops street, curb, gate, crossing, and school-edge functions separately. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared curb and school thresholds; crossing is the least visible route condition. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional frontage geometry and separated institutions. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked ownership language; no real road survey is asserted. -->
 
 **Status:** Work decision informed by current pedestrian-safety and accessibility standards.
 
@@ -33,6 +70,14 @@ Daylight and traffic change what can be seen. A person approaching from the mark
 
 ## Market edge and lower passage
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes market edge, lower pedestrian passage, covered route, closure threshold, detour, and municipal ownership. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked passage, market, closure, and detour fields against 030's flood legacy. -->
+<!-- @evidence obligations/common.md#substantive-completion The passage rule defines ordinary access, warning closure, accessible detour, and notice limitations. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the closure and detour conditions; the school adviser cannot revoke municipal closure. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 distinguishes market commerce, covered passage, gauge, detour, and notices. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared physical and information effects; soaked notices are the distinctive route consequence. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional market geometry consistent with 2019 canon. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked the 1.2-metre and 35-minute inherited values; no real flood claim appears. -->
 
 **Status:** Work decision preserving 030's flood legacy and municipal ownership.
 
@@ -46,6 +91,14 @@ The official Accessibility Enforcement Rule Appendix 1, item 2, requires accessi
 
 ## Bus interchange and ramp
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes bus loop, interchange, ramp, boarding, accessible detour, and municipal transport authority. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked ramp and bus interfaces; transport access remains separate from school supervision. -->
+<!-- @evidence obligations/common.md#substantive-completion The interchange rule gives boarding, crossing, closure, and detour conditions for route planning. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread ramp closure and boarding constraints; an open school cannot reopen the ramp. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates buses, ramp, boarding, crossings, and warning conditions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared transit and flood functions; boarding is the unique non-school constraint. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional interchange geometry and municipal ownership. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and closure authority; no real transit timetable is claimed. -->
 
 **Status:** Work decision for municipal transport geometry; no school or club authority is assigned.
 
@@ -59,6 +112,14 @@ Transport delays, a full queue, or a closed lower ramp change a route's actual d
 
 ## Seongnae channel corridor
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes the channel corridor, gauge, pumps, electrical cabinets, warning, closure, barrier, and no-entry conditions. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked every inherited channel control against 030; channel, ramp, and passage remain separate spaces. -->
+<!-- @evidence obligations/common.md#substantive-completion The corridor rule defines warning response, closure authority, pump limits, and volunteer exclusion. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread gauge-versus-forecast and no-entry wording; pumps do not authorize entry. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops water level, infrastructure, response, route closure, and lived risk distinctly. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared gauge, cabinets, pumps, and detour; the gauge is the operational anchor. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional Seongnae conditions inherited from 030. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked numeric thresholds and fictional status; no real flood standard is asserted. -->
 
 **Status:** Work decision for present physical channel geometry; 030 owns the 2019 disaster record and warning threshold.
 
@@ -72,6 +133,14 @@ The Disaster and Safety Management Basic Act is current official law displayed e
 
 ## Youth-centre parcel and basement access
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes youth-centre parcel, basement, storage, coordinator authority, warning restriction, inspection, and volunteer access. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked parcel ownership and basement restrictions; youth-centre control is not transferred to school or club. -->
+<!-- @evidence obligations/common.md#substantive-completion The parcel rule defines facility response, storage inspection, reopening, and no-volunteer-entry conditions. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread warning and reopening conditions; coordinator inspection is required before access. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates parcel, basement, storage, warning, and facility-plan functions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared facility and route controls; storage inspection is the independent consequence. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional youth-centre ownership consistent with 030. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked authority wording; no municipal basement ownership is claimed. -->
 
 **Status:** Work decision for a separate municipal youth-centre physical site, preserving 030's authority boundary.
 
@@ -85,6 +154,14 @@ The Accessibility Enforcement Rule Appendix 1, items 7, 9, and 13, supports leve
 
 ## Library and civic-service frontage
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes library frontage, service counters, queue space, civic access, and record-owner boundaries. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked public/library/service edges; civic access is not school record access. -->
+<!-- @evidence obligations/common.md#substantive-completion The frontage rule gives queue, counter, route, and service-hours conditions. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread service and record limits; a public counter cannot expose private files. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates library, queue, counter, and civic-service functions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared queue and service constraints; waiting space is the distinctive condition. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional library frontage. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and no real library survey is claimed. -->
 
 **Status:** Work decision for adjacent public buildings and their physical interfaces.
 
@@ -98,6 +175,14 @@ The official School Facilities Project Promotion Act is not a source for library
 
 ## Public toilets, rest areas, and shelter
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes public toilets, rest, shelter, water, distance, and opening conditions. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked amenity and route-support fields; rest is not reduced to toilet access. -->
+<!-- @evidence obligations/common.md#substantive-completion The amenity rule gives pause, hydration, shelter, and access constraints. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread locations and opening limits; recovery time is spatially usable. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates toilet, rest, shade, water, and shelter functions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the support resources; weather shelter is the distinct civic condition. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional public amenities. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status; no public-facility standard is claimed. -->
 
 **Status:** Work decision for city-side support spaces, distinct from 050's school toilets and rest points.
 
@@ -111,6 +196,14 @@ The official Accessibility Enforcement Rule Appendix 1 item 13 supports accessib
 
 ## Crossings, kerbs, and pedestrian sight lines
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes crossings, kerbs, sight lines, signal timing, obstructions, and pedestrian priority. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked geometry and visibility fields; signal timing is the limiting crossing condition. -->
+<!-- @evidence obligations/common.md#substantive-completion The crossing rule supplies sight, curb, signal, and obstruction constraints for safe route use. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread crossing conditions; a nominal route does not prove safe visibility. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops kerb, signal, sightline, pedestrian, and obstruction mechanics separately. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the components; sight lines are the least visible physical requirement. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional crossings and municipal conditions. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status; no traffic-engineering certification is claimed. -->
 
 **Status:** Work decision informed by current road-marking and mobility-accessibility standards.
 
@@ -124,6 +217,14 @@ Road Traffic Enforcement Rule Appendix 6, amended 2024-11-14, gives official cro
 
 ## Civic signs and public route information
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes official signs, notices, route information, language, dates, issuing authority, and accessibility limits. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked sign authority and accessible notice fields; a student notice cannot replace an official closure. -->
+<!-- @evidence obligations/common.md#substantive-completion The sign rule identifies issuer, date, scope, limitation, and route interpretation conditions. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread issuer/date/scope rules; notices and lived receipt remain different evidence. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates signs, public notices, route maps, translation, and accessibility. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared official and household access; translation/context is the distinct information condition. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional civic information and preserves authority distinctions. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and no official public notice is fabricated. -->
 
 **Status:** Work decision for physical wayfinding and information access; no public authority is transferred by a sign.
 
@@ -137,6 +238,14 @@ Official Road Traffic Enforcement Rule Appendix 6 provides current sign and mark
 
 ## Municipal service lane and loading geometry
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes municipal lane, loading bays, service vehicles, barriers, delivery times, and pedestrian separation. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked lane/loading and pedestrian boundaries; service access is not a shortcut. -->
+<!-- @evidence obligations/common.md#substantive-completion The service rule gives vehicle, loading, barrier, and timing conditions for route blocking. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread loading and barrier constraints; deliveries cannot silently erase pedestrian access. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates lane, loading, vehicle, barrier, and pedestrian functions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared service and pedestrian use; delivery timing is the unique constraint. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional municipal geometry and authority. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status; no real road permit is claimed. -->
 
 **Status:** Work decision for the city-side service boundary, preserving school and market ownership distinctions.
 
@@ -150,6 +259,14 @@ The current official Accessibility Enforcement Rule Appendix 1 treats approach r
 
 ## Public-space measurement and ownership ledger
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes measurement units, map scale, survey date, tolerance, ownership ledger, issuer, and unresolved spatial facts. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked scale, survey, tolerance, and owner fields; unresolved geometry remains explicitly bounded. -->
+<!-- @evidence obligations/common.md#substantive-completion The ledger rule tells downstream users how to cite a public-space measurement and identify the institution responsible for its boundary. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread measurement and ownership conditions; a map cannot substitute for a current authority record. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates units, scale, survey, tolerance, owner, issuer, and uncertainty. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared geometry and authority fields; survey date is the key provenance detail. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional civic measurements and ownership records. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and uncertainty wording; no external map is treated as proof. -->
 
 **Status:** Work decision establishing city-side measurement and boundary control.
 
