@@ -28,6 +28,7 @@ This file defines the social interfaces around the founders. It fixes what a pee
 <!-- @evidence obligations/common.md#substantive-completion The Class cohort as a bounded population host develops its social rule through or family circumstance is not a general club resource. A peer may participate under a nickname, anonymously in a survey, or not at all where the task permits. The absence of a reply cannot be converted into endorsement.; downstream layers do not need to invent the consent, privacy, or repair condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Class cohort as a bounded population host gives 116 authored words across 3 paragraphs to its distinct peer-system decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Class cohort as a bounded population acknowledgement is grounded in this host's Status and its concrete opening statement 'n — fictional school canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Class cohort as a bounded population” H2 from Status through its final boundary. Its first operating statement is “The founders' grade contains ordinary classmates with different schedules, family obligations, abilities, languages, friendships, and willingness to participate. The class is not a”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — fictional school canon.
 
@@ -42,6 +43,7 @@ Names and personal details are used only for a stated school purpose. A seating 
 <!-- @evidence obligations/common.md#substantive-completion The Invitation, consent, and withdrawal host develops its social rule through can do so. Withdrawal may create logistics—unused materials, a smaller team, a rescheduled task—but cannot be punished as betrayal. Safety or statutory retention duties may limit deletion; the holder explains that limit.; downstream layers do not need to invent the consent, privacy, or repair condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Invitation, consent, and withdrawal host gives 130 authored words across 3 paragraphs to its distinct peer-system decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Invitation, consent, and withdrawal acknowledgement is grounded in this host's Status and its concrete opening statement 'n — executable social rule.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Invitation, consent, and withdrawal” H2 from Status through its final boundary. Its first operating statement is “An invitation states the activity, location, expected duration, physical demands, audience, recording or publication plan, adult presence, cost, and a contact for questions. Consen”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — executable social rule.
 
@@ -56,6 +58,7 @@ Withdrawal is allowed before or during participation. A person can ask for a pau
 <!-- @evidence obligations/common.md#substantive-completion The Peer roles without forced representation host develops its social rule through ed representative, or under a formal appointment. A friend’s confidence does not authorize a public statement. If a peer changes position, the record preserves the change rather than treating it as inconsistency to hide.; downstream layers do not need to invent the consent, privacy, or repair condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Peer roles without forced representation host gives 120 authored words across 3 paragraphs to its distinct peer-system decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Peer roles without forced representation acknowledgement is grounded in this host's Status and its concrete opening statement 'n — role boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Peer roles without forced representation” H2 from Status through its final boundary. Its first operating statement is “A peer may serve as a tester, witness, translator, photographer, route companion, note-taker, equipment borrower, or audience member only for the agreed scope. A disabled student i”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — role boundary.
 
@@ -70,6 +73,7 @@ When a peer speaks for a group, the record states whether the person is speaking
 <!-- @evidence obligations/common.md#substantive-completion The Group chat and message discipline host develops its social rule through rral. Jokes, stickers, and reaction counts are not votes. A correction is linked to the original message and explains what changed, so a late reader cannot mistake an obsolete route or room status for current permission.; downstream layers do not need to invent the consent, privacy, or repair condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Group chat and message discipline host gives 113 authored words across 3 paragraphs to its distinct peer-system decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Group chat and message discipline acknowledgement is grounded in this host's Status and its concrete opening statement 'n — communication canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Group chat and message discipline” H2 from Status through its final boundary. Its first operating statement is “Group chats can coordinate ordinary logistics but do not replace a school office's notice, a facilities inspection, a city closure, or an emergency dispatch. Every consequential me”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — communication canon.
 
@@ -84,6 +88,7 @@ The chat owner sets membership, moderation, retention, and removal rules. Privat
 <!-- @evidence obligations/common.md#substantive-completion The Conflict, apology, and repair host develops its social rule through because the group is uncomfortable. The person affected may accept, reject, delay, or define the repair. A later relationship can be civil, distant, conditional, or ended while the institutional record remains accurate.; downstream layers do not need to invent the consent, privacy, or repair condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Conflict, apology, and repair host gives 124 authored words across 3 paragraphs to its distinct peer-system decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Conflict, apology, and repair acknowledgement is grounded in this host's Status and its concrete opening statement 'n — relationship maintenance rule.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Conflict, apology, and repair” H2 from Status through its final boundary. Its first operating statement is “Conflict is recorded at the level of action and effect: what was said or done, who was affected, what access or trust changed, and who can repair it. The setting rejects a compulso”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — relationship maintenance rule.
 
@@ -98,6 +103,7 @@ A mediator may facilitate but cannot erase a safety report, force private disclo
 <!-- @evidence obligations/common.md#substantive-completion The Privacy and identifiable media host develops its social rule through eudonyms, delayed release, and private review are design options, not substitutes for asking when asking is possible. Any minor's image is handled under the responsible adult and school process, never by popularity poll.; downstream layers do not need to invent the consent, privacy, or repair condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Privacy and identifiable media host gives 115 authored words across 3 paragraphs to its distinct peer-system decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Privacy and identifiable media acknowledgement is grounded in this host's Status and its concrete opening statement 'n — data boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Privacy and identifiable media” H2 from Status through its final boundary. Its first operating statement is “The founders may make a map, photograph, audio note, or video only after identifying the purpose, subjects, storage location, access list, retention period, and deletion or correct”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — data boundary.
 
@@ -112,6 +118,7 @@ Public visibility is not blanket permission to record. A school-approved event m
 <!-- @evidence obligations/common.md#substantive-completion The Translation between peers host develops its social rule through lance makes peer translation unsafe, the group refers to an authorized service or adult. The English novel may render Korean speech in English while retaining the institutional distinction between source and translation.; downstream layers do not need to invent the consent, privacy, or repair condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Translation between peers host gives 117 authored words across 3 paragraphs to its distinct peer-system decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Translation between peers acknowledgement is grounded in this host's Status and its concrete opening statement 'n — language interface.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Translation between peers” H2 from Status through its final boundary. Its first operating statement is “Peer translation distinguishes literal wording, intended action, social register, and unresolved ambiguity. A translated request preserves a refusal, deadline, fee, safety warning,”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — language interface.
 
@@ -126,6 +133,7 @@ No peer is pressured to translate family conflict, immigration paperwork, health
 <!-- @evidence obligations/common.md#substantive-completion The Access needs and ordinary accommodation host develops its social rule through erase a sight line, and a noisy room can defeat a written instruction. The request owner records what was tried and what remained difficult. “We have a ramp” or “the notice is online” is not a complete access assessment.; downstream layers do not need to invent the consent, privacy, or repair condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Access needs and ordinary accommodation host gives 118 authored words across 3 paragraphs to its distinct peer-system decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Access needs and ordinary accommodation acknowledgement is grounded in this host's Status and its concrete opening statement 'n — inclusion canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Access needs and ordinary accommodation” H2 from Status through its final boundary. Its first operating statement is “An access request may concern mobility, hearing, vision, sensory load, language, fatigue, medication timing, anxiety, reading, or the need for a support person. The request need no”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — inclusion canon.
 
@@ -140,6 +148,7 @@ Accommodation is tested under actual conditions: rain can change a ramp, a crowd
 <!-- @evidence obligations/common.md#substantive-completion The Money, gifts, and reciprocal pressure host develops its social rule through the same information about no-cost participation or may decline without public explanation. School or municipal grants, if available, belong to their named institution and conditions, not to a private friendship ledger.; downstream layers do not need to invent the consent, privacy, or repair condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Money, gifts, and reciprocal pressure host gives 105 authored words across 3 paragraphs to its distinct peer-system decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Money, gifts, and reciprocal pressure acknowledgement is grounded in this host's Status and its concrete opening statement 'n — peer economy boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Money, gifts, and reciprocal pressure” H2 from Status through its final boundary. Its first operating statement is “Participation cannot depend on an undisclosed fee, required purchase, or gift to a founder. Borrowed money, food, transit fare, printing, and donated materials are logged according”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — peer economy boundary.
 
@@ -154,6 +163,7 @@ The group does not trade access to rooms, records, translation, or friendship fo
 <!-- @evidence obligations/common.md#substantive-completion The Adult contact and safeguarding referral host develops its social rule through re. It preserves exact words only when necessary and stores them with restricted access. A founder may tell the peer what referral will happen and what cannot remain private. No group vote can cancel a safeguarding duty.; downstream layers do not need to invent the consent, privacy, or repair condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Adult contact and safeguarding referral host gives 109 authored words across 3 paragraphs to its distinct peer-system decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Adult contact and safeguarding referral acknowledgement is grounded in this host's Status and its concrete opening statement 'n — bounded escalation.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Adult contact and safeguarding referral” H2 from Status through its final boundary. Its first operating statement is “Each peer-facing activity names an adult contact who can stop it, a backup contact, and the emergency route appropriate to the location. The founders are not a confidential crisis ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — bounded escalation.
 
@@ -168,6 +178,7 @@ The record avoids interrogating or testing a disclosure. It preserves exact word
 <!-- @evidence obligations/common.md#substantive-completion The Participation ledger and minimum necessary record host develops its social rule through ing unresolved obligations. A participant can ask what was recorded about them and how to correct it through the responsible host. Historical records retained for school reasons remain separated from informal club notes.; downstream layers do not need to invent the consent, privacy, or repair condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Participation ledger and minimum necessary record host gives 109 authored words across 3 paragraphs to its distinct peer-system decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Participation ledger and minimum necessary record acknowledgement is grounded in this host's Status and its concrete opening statement 'n — operational canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Participation ledger and minimum necessary record” H2 from Status through its final boundary. Its first operating statement is “The peer ledger contains only the minimum needed to run the activity: consent scope, access condition in functional terms, role, contact route, equipment, cost, and withdrawal or c”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — operational canon.
 
@@ -182,6 +193,7 @@ When the activity ends, the holder closes the ledger by returning property, sett
 <!-- @evidence obligations/common.md#substantive-completion The Non-participation as a valid social state host develops its social rule through a refusal into a hidden yes. Publicly thanking participants never names nonparticipants. A route, resource, or notice intended for general access must remain useful to people who never consented to the founders' project.; downstream layers do not need to invent the consent, privacy, or repair condition. -->
 <!-- @evidence obligations/common.md#proportionate-development The Non-participation as a valid social state host gives 98 authored words across 3 paragraphs to its distinct peer-system decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Non-participation as a valid social state acknowledgement is grounded in this host's Status and its concrete opening statement 'n — consent canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Non-participation as a valid social state” H2 from Status through its final boundary. Its first operating statement is “Non-participation may mean no, not now, not in this location, not with recording, not without an adult, or no explanation offered. The group does not rank these answers by moral wo”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — consent canon.
 
