@@ -111,6 +111,14 @@ A document may use a grade label for historical indexing, but a current request 
 
 ## Capability ledger and confidence classes
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes the capability ledger, confidence classes, observation basis, uncertainty, update rule, and prohibited overclaiming. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked ledger fields, confidence, uncertainty, and update boundaries; a skill claim cannot become a universal trait. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete record method for capability evidence and revision without assigning a narrative discovery. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the confidence and update rules; downstream users can distinguish observed, reported, and unresolved capacity. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates ledger identity, confidence, evidence source, uncertainty, and revision. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the record dimensions; unresolved confidence is the independent safeguard. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional capability records and rejects unsupported diagnosis or certainty. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and evidence qualifiers; no external psychological authority is claimed. -->
 
 **Status:** Work decision — executable canon.
 
