@@ -1,10 +1,39 @@
 
+<!-- @evidence principles/common.md#purpose-fit This file fixes the bounded peer population, consent, roles, communication, conflict repair, privacy, translation, accommodation, pressure, safeguarding, participation records, and non-participation. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa I reread all twelve H2s; Non-participation as a valid social state is the weakest promise test because it protects agency when the game invites participation. -->
+<!-- @evidence principles/common.md#layer-boundary These H2s establish settings-level social constraints and records, not narrative events, scenes, arcs, or prose. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 I compared each peer unit with settings ownership; Conflict, apology, and repair fixes conditions rather than event order. -->
+<!-- @evidence principles/common.md#work-language The file uses plain consent, privacy, translation, accommodation, safeguarding, and non-participation language for English readers. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c I checked terminology across the twelve H2s; Translation between peers is the weakest readability boundary. -->
+<!-- @evidence principles/settings.md#addressable-canon Each peer, consent, role, chat, conflict, privacy, translation, access, pressure, safeguarding, record, and refusal owner has a separate H2. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f I counted twelve independent owners; privacy media remains separate from participation records. -->
+<!-- @evidence principles/settings.md#information-structure Every H2 begins with Status and develops social conditions, limits, records, and consequences by function. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 I read all twelve units; Participation ledger is the weakest structure anchor. -->
+<!-- @evidence principles/settings.md#fact-status Status lines distinguish fictional peer rules from uncertainty and safeguarding referral. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 I checked every Status; no peer trait is presented as diagnosis. -->
+<!-- @evidence principles/settings.md#source-support The file treats peer rules as fictional canon and routes privacy/safety uncertainty to responsible records or adults. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 I reread privacy and safeguarding clauses; no unsupported social science source is attached. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file fixes consent, roles, communication, privacy, accommodation, pressure, referral, records, and refusal limits. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 I compared all peer constraints; Adult contact and safeguarding referral is the narrowest safety boundary. -->
+<!-- @evidence principles/settings.md#minimal-departure Peer-network rules are explicit Haneul work decisions while ordinary consent, privacy, and safety authority remain operative. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 I compared fictional peer mechanics with ordinary refusal and referral; no group pressure grants authority. -->
+<!-- @evidence principles/settings.md#internal-coherence Population, consent, roles, chat, repair, privacy, translation, access, pressure, safeguarding, records, and refusal form one social system. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e I traced invitation through records and non-participation; consent is the continuity anchor. -->
+
 # Peer Network and Consent
 
 This file defines the social interfaces around the founders. It fixes what a peer relationship can authorize, what a club request must disclose, and how refusal, translation, privacy, and repair remain materially real. It does not assign meetings or plot turns.
 
 ## Class cohort as a bounded population
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes the peer population, class boundary, inclusion, exclusion, and non-generalization conditions. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked population and boundary clauses; classmates are not treated as a limitless social pool. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives downstream writers a complete population boundary without assigning an event. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread inclusion and exclusion conditions; new participants require an explicit basis. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates cohort, class, club, host, and nonparticipant populations. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the population classes; nonparticipants are the independent limit. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional cohort scope and makes no demographic claim. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and population wording; no real class roster is implied. -->
 
 **Status:** Work decision — fictional school canon.
 
