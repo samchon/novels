@@ -94,6 +94,14 @@ The chat owner sets membership, moderation, retention, and removal rules. Privat
 
 ## Conflict, apology, and repair
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes conflict acknowledgement, apology, repair, mediation, safety separation, and non-retaliation. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked conflict, mediation, repair, and safety boundaries; apology cannot erase a record or force forgiveness. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete repair framework without assigning an event. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread acknowledgement and repair conditions; mediation remains voluntary and safety remains separate. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates conflict, apology, mediation, repair, retaliation, and safeguarding. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the response modes; non-retaliation is the independent protection. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional peer repair rules, not a legal dispute process. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and mediation wording; no statutory remedy is claimed. -->
 
 **Status:** Work decision — relationship maintenance rule.
 
