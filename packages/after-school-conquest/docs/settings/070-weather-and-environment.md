@@ -112,6 +112,14 @@ KMA's current heatwave safety guide states public precautions and displays warni
 
 ## Cold, frost, and winter surfaces
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes cold, frost, wet/icy surfaces, clothing, traction, indoor refuge, and reduced daylight effects. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked surface, clothing, light, and refuge constraints; winter conditions alter safe capacity without altering the date. -->
+<!-- @evidence obligations/common.md#substantive-completion The cold rule gives usable route, equipment, break, and cancellation limits without prescribing a scene. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread traction and refuge conditions; downstream units receive a clear safe-departure boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates frost, wet surfaces, clothing, traction, daylight, and indoor recovery. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the six effects; traction is the independent physical constraint. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional winter operating conditions, not a real climate or safety standard. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and weather qualifiers; no external average is claimed. -->
 
 **Status:** Work decision for fictional winter surface and body-resource conditions.
 
