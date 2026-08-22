@@ -1,3 +1,16 @@
+<!-- @evidence principles/common.md#purpose-fit The Continental System and Economic War file fixes the historical and material setting needed by the twenty-volume English novel; its opening scope is This file owns the blockade as an administrative, commercial, and coercive system.. -->
+<!-- @evidence principles/common.md#layer-boundary The Continental System and Economic War file records addressable facts, constraints, source status, and work decisions; it does not prescribe storyline order, scene blocking, or finished manuscript prose. -->
+<!-- @evidence principles/common.md#work-language The Continental System and Economic War file is authored in consistent English and preserves the period names, French institutional terms, and place-name variants needed for a readable historical novel. -->
+<!-- @evidence principles/settings.md#addressable-canon The Continental System and Economic War file assigns its distinct canon to 8 independently anchored H2 owners, so later layers can cite a precise fact rather than a whole-file summary. -->
+<!-- @evidence principles/settings.md#information-structure Each of the 8 Continental System and Economic War H2 owners states Status before developing its fact, operating condition, consequence, and limitation. -->
+<!-- @evidence principles/settings.md#fact-status The Continental System and Economic War H2 statuses distinguish established historical claims, contested or source-dependent reconstructions, and owner-adopted work decisions instead of presenting every detail as equally certain. -->
+<!-- @evidence principles/settings.md#source-support The Continental System and Economic War file carries 15 direct source URL marker(s) and identifies uncertainty where the surviving record does not settle a detail; fictional connective decisions remain marked as such. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The Continental System and Economic War H2 owners specify the actors, institutions, dates, material conditions, information limits, and downstream boundaries required to use this domain without inventing its foundations. -->
+<!-- @evidence principles/settings.md#minimal-departure The Continental System and Economic War file keeps departures from the record bounded: it may choose a usable narrative emphasis, but it does not silently change documented dates, identities, institutions, or contested status. -->
+<!-- @evidence principles/settings.md#internal-coherence The Continental System and Economic War file keeps its 8 owners consistent in chronology, geography, institutional authority, terminology, and the distinction between evidence and narrative-use decisions. -->
+<!-- @evidence principles/common.md#bounded-historical-invention The Continental System and Economic War file permits only bounded connective invention around the documented historical record; it does not fabricate quotations, hidden motives, or unsupported precision. -->
+<!-- @evidence principles/common.md#historical-claim-provenance Historical claims in the Continental System and Economic War file are assigned to their source-bearing H2 owners, with source-dependent details and work decisions visibly separated for downstream checking. -->
+<!-- @evidence principles/common.md#historical-corroboration The Continental System and Economic War file treats source agreement, disagreement, and silence as distinct statuses and requires later prose to preserve those limits rather than laundering one retrospective into certainty. -->
 # Continental System and Economic War
 
 This file owns the blockade as an administrative, commercial, and coercive system.
@@ -5,6 +18,10 @@ This file owns the blockade as an administrative, commercial, and coercive syste
 <!-- principles/common.md#purpose-fit principles/common.md#layer-boundary principles/common.md#work-language -->
 
 ## Blockade decree and enforcement gap {#blockade-decree-and-enforcement-gap}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Blockade decree and enforcement gap is marked Source-supported. A decree prohibiting British commerce requires customs officials, ports, patrols, courts, informers, and cooperation from allies and occupied states.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Blockade decree and enforcement gap host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Blockade decree and enforcement gap host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Blockade decree and enforcement gap host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-supported. A decree prohibiting British commerce requires customs officials, ports, patrols, courts, informers, and cooperation from allies and occupied states.
 
@@ -13,6 +30,10 @@ The Continental System is not a wall. Smuggling, neutral shipping, forged papers
 Sources: Gallica, Napoleonic legal collections, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Ports merchants and contraband {#ports-merchants-and-contraband}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Ports merchants and contraband is marked Work canon. Economic war is lived in warehouses, customs houses, ships, credit networks, and household prices.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Ports merchants and contraband host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Ports merchants and contraband host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Ports merchants and contraband host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. Economic war is lived in warehouses, customs houses, ships, credit networks, and household prices.
 
@@ -21,6 +42,10 @@ A merchant facing confiscation may bribe an inspector, reroute cargo, appeal to 
 Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Allied compliance and political resentment {#allied-compliance-and-political-resentment}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Allied compliance and political resentment is marked Source-required domain. Allies enforce French economic policy unevenly because their own states, merchants, and consumers bear the cost.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Allied compliance and political resentment host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Allied compliance and political resentment host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Allied compliance and political resentment host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-required domain. Allies enforce French economic policy unevenly because their own states, merchants, and consumers bear the cost.
 
@@ -29,6 +54,10 @@ Coercion can produce compliance and make an ally less reliable. The policy affec
 Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Customs bureaucracy and coercive routine {#customs-bureaucracy-and-coercive-routine}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Customs bureaucracy and coercive routine is marked Work canon. A blockade becomes real through forms, seals, inspections, warehouses, confiscation records, courts, and paid personnel.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Customs bureaucracy and coercive routine host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Customs bureaucracy and coercive routine host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Customs bureaucracy and coercive routine host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. A blockade becomes real through forms, seals, inspections, warehouses, confiscation records, courts, and paid personnel.
 
@@ -37,6 +66,10 @@ The state needs classifications for legal cargo, neutral cargo, seized cargo, an
 Sources: Gallica, Napoleonic legal collections, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Credit prices and civilian scarcity {#credit-prices-and-civilian-scarcity}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Credit prices and civilian scarcity is marked Source-required domain. Economic warfare alters credit, wages, prices, employment, and household nutrition unevenly across regions and classes.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Credit prices and civilian scarcity host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Credit prices and civilian scarcity host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Credit prices and civilian scarcity host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-required domain. Economic warfare alters credit, wages, prices, employment, and household nutrition unevenly across regions and classes.
 
@@ -45,6 +78,10 @@ An official ban does not explain a loaf's price or a worker's unemployment by it
 Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Neutral flags and maritime pressure {#neutral-flags-and-maritime-pressure}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Neutral flags and maritime pressure is marked Work boundary. Neutral shipping, naval power, licenses, and seizures require distinct maritime owners rather than a land blockade shorthand.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Neutral flags and maritime pressure host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Neutral flags and maritime pressure host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Neutral flags and maritime pressure host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work boundary. Neutral shipping, naval power, licenses, and seizures require distinct maritime owners rather than a land blockade shorthand.
 
@@ -53,6 +90,10 @@ A neutral flag can be legal, disputed, forged, or politically tolerated. A port 
 Sources: Gallica, Napoleonic legal collections, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte; Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/.
 
 ## Enforcement failure and diplomatic rupture {#enforcement-failure-and-diplomatic-rupture}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Enforcement failure and diplomatic rupture is marked Source-critical boundary. The system's failure is cumulative and political: revenue loss, smuggling, allied resentment, naval limits, and divergent strategic aims interact over time.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Enforcement failure and diplomatic rupture host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Enforcement failure and diplomatic rupture host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Enforcement failure and diplomatic rupture host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-critical boundary. The system's failure is cumulative and political: revenue loss, smuggling, allied resentment, naval limits, and divergent strategic aims interact over time.
 
@@ -61,6 +102,10 @@ No later scene may state that one decree alone caused a war. A ministry may desc
 Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Fondation Napoléon, biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/.
 
 ## Boundary to the 1812 rupture {#boundary-to-the-1812-rupture}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Boundary to the 1812 rupture is marked Work boundary. The Franco-Russian breakdown requires its own diplomatic and campaign setting; this file supplies economic pressure and enforcement mechanics.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Boundary to the 1812 rupture host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Boundary to the 1812 rupture host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Boundary to the 1812 rupture host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work boundary. The Franco-Russian breakdown requires its own diplomatic and campaign setting; this file supplies economic pressure and enforcement mechanics.
 
