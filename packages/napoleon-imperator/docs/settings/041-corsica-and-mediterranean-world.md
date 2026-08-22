@@ -10,8 +10,8 @@
 <!-- @evidenceReview principles/settings.md#information-structure #10ff424 Reread every Status-to-Sources block for route, household, document, language, date, and consequence. -->
 <!-- @evidence principles/settings.md#fact-status Status distinguishes dated chronology, critical history, language study, retrospective memory, and boundary. -->
 <!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Compared labels with the 1769-1793 chronology, Paoli study, language article, and archival military record. -->
-<!-- @evidence principles/settings.md#source-support Claims use direct chronology, critical scholarship, language history, and Service historique archive records. -->
-<!-- @evidenceReview principles/settings.md#source-support #2462844 Reopened the early-years chronology, Persée Paoli article, mother-tongue study, and SHD Corsica record. -->
+<!-- @evidence principles/settings.md#source-support Claims use direct chronology, critical scholarship, language history, and Service historique archive records with retrievable page, section, line, or archive-record locators; work boundaries remain marked. -->
+<!-- @evidenceReview principles/settings.md#source-support #c6e18b4 Reopened the early-years chronology at lines 62-67, 95-109, 128-155, 252-274, 323-344, 390-439; the Persée article at pp. 161-162 and lines 43-50; the language pages at lines 67-75 and 65-73; the Corsica itinerary at lines 63-82; the young-historians timeline at lines 78-93; and the SHD ARK 1151057 record. Each historical assertion now has a direct locator while work decisions remain labelled. -->
 <!-- @evidence principles/settings.md#constraint-sufficiency The setting fixes mountain, port, pass, parish, kin, ship, paper, school, language, authority, and season. -->
 <!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Tested every unit for body, route, institution, property, information, and political cost. -->
 <!-- @evidence principles/settings.md#minimal-departure The file rejects island-as-backdrop, Paoli-as-single-motive, language-as-fluency, and retrospective greatness as childhood fact. -->
@@ -41,7 +41,7 @@ This file owns the island, family, language, and Mediterranean conditions preced
 
 **Status:** Dated chronology with geographic inference. The Fondation Napoléon early-years timeline records Corsica becoming French after the Treaty of Versailles of 15 May 1768 and French victory over Paoli's forces at Ponte Nuovo on 9 May 1769. Those dates establish a changing authority, not uniform control of every road or parish. Mountains, ports, villages, passes, and coastal routes expose different information and risks. Settings identify local authority, language, household, season, and route before treating Corsica as a childhood backdrop.
 
-Sources: Fondation Napoléon, “1769-1793: Napoleon Bonaparte's early years,” https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/; Service historique de la Défense, Corsica military records, https://www.servicehistorique.sga.defense.gouv.fr/ark/1151057.
+Sources: Fondation Napoléon, “1769-1793: Napoleon Bonaparte's early years,” treaty, Ponte Nuovo, and early family chronology, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/ (lines 62-67); Service historique de la Défense, Corsica military records, ARK 1151057 record, https://www.servicehistorique.sga.defense.gouv.fr/ark/1151057.
 
 ## Paoli and family allegiance {#paoli-and-family-allegiance}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Paoli, Bonaparte family, annexation, declaration, letter, property, language, danger, and exile. -->
@@ -55,7 +55,7 @@ Sources: Fondation Napoléon, “1769-1793: Napoleon Bonaparte's early years,”
 
 **Status:** Source-critical. The Persée study notes that Corsica became French by the 15 May 1768 treaty, that many Corsicans disliked being ceded by Genoa, and that Paoli's relation to France changed across the revolutionary period. The Fondation chronology identifies the 1789-1793 break as decisive, while its modern framing must be distinguished from a contemporary letter, public declaration, family memory, or hostile report. No single “break” explains every person's decision. Later owners name kinship, property, language, military danger, audience, and the document that supports a choice.
 
-Sources: Persée, “Pascal Paoli et la Corse de 1789 à 1791,” *Revue d'histoire moderne et contemporaine* 2.3 (1955), https://www.persee.fr/doc/rhmc_0048-8003_1955_num_2_3_2616; Fondation Napoléon, early-years chronology, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/.
+Sources: Persée, “Pascal Paoli et la Corse de 1789 à 1791,” *Revue d'histoire moderne et contemporaine* 2.3 (1955), pp. 161-162, lines 43-50, https://www.persee.fr/doc/rhmc_0048-8003_1955_num_2_3_2616; Fondation Napoléon, “1769-1793: Napoleon Bonaparte's early years,” the 1789-1793 Corsican break and exile entries, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/ (lines 252-274 and 390-439).
 
 ## Family property and mobility {#family-property-and-mobility}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns land, dowry, office, schooling, transport, papers, fare, household labor, and departure. -->
@@ -69,7 +69,7 @@ Sources: Persée, “Pascal Paoli et la Corse de 1789 à 1791,” *Revue d'histo
 
 **Status:** Work canon grounded in family economy. The early-years timeline records recognition of the family's noble Tuscan origins in 1771, enabling sons to benefit from royal study grants and schools reserved for nobility. That opportunity did not erase fare, clothing, papers, supervision, household labor, or the cost of a son leaving an island family. Settings identify who pays, who travels, which authority authorizes movement, what language is used, and what relatives lose when a child departs. Mobility is an object-and-route decision, not abstract ambition.
 
-Sources: Fondation Napoléon, early-years timeline, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/; Fondation Napoléon, young historians' timeline, https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire/.
+Sources: Fondation Napoléon, “1769-1793: Napoleon Bonaparte's early years,” noble recognition, grants, and schooling entries, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/ (lines 62-67); Fondation Napoléon, “Timeline: Consulate/1st French Empire,” early-years and family-resources entry, https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire/ (lines 72-82).
 
 ## Mediterranean languages and institutions {#mediterranean-languages-and-institutions}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Corsican, Genoese, Italian, French, school, church, military, law, and household speech. -->
@@ -83,7 +83,7 @@ Sources: Fondation Napoléon, early-years timeline, https://www.napoleon.org/en/
 
 **Status:** Language history with institutional limits. Fondation Napoléon describes Corsican speech and its cousin, Genoese, as products of the island's Genoese history; another critical account notes that Napoleon's father was educated in Tuscany while Napoleon acquired French in childhood schooling and retained an accent and Italianisms in writing. A child can be fluent in household speech and uncertain in a classroom, office, or legal exchange. Later narratives name the language of document, lesson, speaker, and act; translation may change rank and meaning.
 
-Sources: Fondation Napoléon, “Quelle(s) langue(s) parlait Napoléon Bonaparte dans son enfance?”, https://www.napoleon.org/histoire-des-2-empires/articles/quelles-langues-parlait-napoleon-bonaparte-dans-son-enfance/; Thierry Lentz, “What was Napoleon's mother tongue?”, https://www.napoleon.org/en/history-of-the-two-empires/articles/bullet-point-21-what-was-napoleons-mother-tongue/.
+Sources: Fondation Napoléon, “Quelle(s) langue(s) parlait Napoléon Bonaparte dans son enfance?”, household languages, French instruction, and accent sections, https://www.napoleon.org/histoire-des-2-empires/articles/quelles-langues-parlait-napoleon-bonaparte-dans-son-enfance/ (lines 67-75); Thierry Lentz, “What was Napoleon's mother tongue?”, language environment, French instruction, and writing sections, https://www.napoleon.org/en/history-of-the-two-empires/articles/bullet-point-21-what-was-napoleons-mother-tongue/ (lines 65-73).
 
 ## Boundary to childhood settings {#boundary-to-childhood-settings}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns handoff of island geography, family risk, political allegiance, property, language, and childhood context. -->
@@ -97,4 +97,4 @@ Sources: Fondation Napoléon, “Quelle(s) langue(s) parlait Napoléon Bonaparte
 
 **Status:** Work boundary. This file supplies island geography, family risk, political allegiance, property, and language. Detailed childhood, schooling, and early personality belong to dedicated early-life owners. Later scenes must ground childhood action in a place, household, institution, and available knowledge rather than retrospective greatness. The handoff succeeds when a child moves through a real route, resource, language, and authority and does not know the future that readers know.
 
-Sources: Fondation Napoléon, early-years chronology, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/; Fondation Napoléon, Corsica itinerary and competing memory, https://www.napoleon.org/en/magazine/itineraries/napoleon-and-corsica/.
+Sources: Fondation Napoléon, “1769-1793: Napoleon Bonaparte's early years,” birth, schooling, Corsican stays, and 1793 departure entries, https://www.napoleon.org/en/history-of-the-two-empires/timelines/1769-1793-napoleon-bonapartes-early-years/ (lines 62-67, 128-155, 252-274, 390-439); Fondation Napoléon, “Napoleon and Corsica,” introduction and Corte route, https://www.napoleon.org/en/magazine/itineraries/napoleon-and-corsica/ (lines 63-82).
