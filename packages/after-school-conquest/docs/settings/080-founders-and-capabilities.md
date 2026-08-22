@@ -77,6 +77,14 @@ Lila's translation is accountable work. A paraphrase must preserve who may act, 
 
 ## Do-yun Choi: access-and-material capacity
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes Do-yun's access-and-material capacity, route/tool limits, accommodation boundary, and resource consequences. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked access, material, and accommodation clauses; access knowledge does not make a barrier disappear. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a usable capacity and its physical/resource boundary without assigning a scene. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the full H2; route and equipment limits remain actionable. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates access observation, material handling, route assessment, and fatigue. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the effects; material handling is the independent contribution. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional capacity without treating disability or access as a character defect. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and representation wording; no medical diagnosis is asserted. -->
 
 **Status:** Work decision — package canon.
 
