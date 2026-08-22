@@ -1,3 +1,16 @@
+<!-- @evidence principles/common.md#purpose-fit The Elba and Restoration file fixes the historical and material setting needed by the twenty-volume English novel; its opening scope is This file owns Napoleon's first exile and return from Elba.. -->
+<!-- @evidence principles/common.md#layer-boundary The Elba and Restoration file records addressable facts, constraints, source status, and work decisions; it does not prescribe storyline order, scene blocking, or finished manuscript prose. -->
+<!-- @evidence principles/common.md#work-language The Elba and Restoration file is authored in consistent English and preserves the period names, French institutional terms, and place-name variants needed for a readable historical novel. -->
+<!-- @evidence principles/settings.md#addressable-canon The Elba and Restoration file assigns its distinct canon to 8 independently anchored H2 owners, so later layers can cite a precise fact rather than a whole-file summary. -->
+<!-- @evidence principles/settings.md#information-structure Each of the 8 Elba and Restoration H2 owners states Status before developing its fact, operating condition, consequence, and limitation. -->
+<!-- @evidence principles/settings.md#fact-status The Elba and Restoration H2 statuses distinguish established historical claims, contested or source-dependent reconstructions, and owner-adopted work decisions instead of presenting every detail as equally certain. -->
+<!-- @evidence principles/settings.md#source-support The Elba and Restoration file carries 16 direct source URL marker(s) and identifies uncertainty where the surviving record does not settle a detail; fictional connective decisions remain marked as such. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The Elba and Restoration H2 owners specify the actors, institutions, dates, material conditions, information limits, and downstream boundaries required to use this domain without inventing its foundations. -->
+<!-- @evidence principles/settings.md#minimal-departure The Elba and Restoration file keeps departures from the record bounded: it may choose a usable narrative emphasis, but it does not silently change documented dates, identities, institutions, or contested status. -->
+<!-- @evidence principles/settings.md#internal-coherence The Elba and Restoration file keeps its 8 owners consistent in chronology, geography, institutional authority, terminology, and the distinction between evidence and narrative-use decisions. -->
+<!-- @evidence principles/common.md#bounded-historical-invention The Elba and Restoration file permits only bounded connective invention around the documented historical record; it does not fabricate quotations, hidden motives, or unsupported precision. -->
+<!-- @evidence principles/common.md#historical-claim-provenance Historical claims in the Elba and Restoration file are assigned to their source-bearing H2 owners, with source-dependent details and work decisions visibly separated for downstream checking. -->
+<!-- @evidence principles/common.md#historical-corroboration The Elba and Restoration file treats source agreement, disagreement, and silence as distinct statuses and requires later prose to preserve those limits rather than laundering one retrospective into certainty. -->
 # Elba and Restoration
 
 This file owns Napoleon's first exile and return from Elba.
@@ -5,6 +18,10 @@ This file owns Napoleon's first exile and return from Elba.
 <!-- principles/common.md#purpose-fit principles/common.md#layer-boundary principles/common.md#work-language -->
 
 ## Island sovereignty and restricted empire {#island-sovereignty-and-restricted-empire}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Island sovereignty and restricted empire is marked Source-supported. Elba offers Napoleon a constrained title, territory, household, revenue problem, and diplomatic vulnerability.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Island sovereignty and restricted empire host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Island sovereignty and restricted empire host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Island sovereignty and restricted empire host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-supported. Elba offers Napoleon a constrained title, territory, household, revenue problem, and diplomatic vulnerability.
 
@@ -13,6 +30,10 @@ An island government needs money, staff, police, roads, ports, and local coopera
 Sources: Fondation Napoléon biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Household revenue and local administration {#household-revenue-and-local-administration}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Household revenue and local administration is marked Work canon. Exile is an administrative life of accounts, servants, guards, repairs, food, and contested revenue.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Household revenue and local administration host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Household revenue and local administration host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Household revenue and local administration host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. Exile is an administrative life of accounts, servants, guards, repairs, food, and contested revenue.
 
@@ -21,6 +42,10 @@ Ceremony cannot pay wages or repair a road. The setting must establish who suppl
 Sources: Fondation Napoléon biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Surveillance and information from exile {#surveillance-and-information-from-exile}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Surveillance and information from exile is marked Work canon. Letters, visitors, ships, newspapers, agents, and British or allied reports shape what Napoleon knows about France.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Surveillance and information from exile host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Surveillance and information from exile host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Surveillance and information from exile host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. Letters, visitors, ships, newspapers, agents, and British or allied reports shape what Napoleon knows about France.
 
@@ -29,6 +54,10 @@ Information is delayed and curated. A visitor may carry rumour; a newspaper may 
 Sources: Fondation Napoléon correspondence, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Visitors agents and competing loyalties {#visitors-agents-and-competing-loyalties}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Visitors agents and competing loyalties is marked Source-required domain. Every visitor or agent carries a role, risk, audience, and reason to reveal or conceal information.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Visitors agents and competing loyalties host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Visitors agents and competing loyalties host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Visitors agents and competing loyalties host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-required domain. Every visitor or agent carries a role, risk, audience, and reason to reveal or conceal information.
 
@@ -37,6 +66,10 @@ A naval officer, merchant, family member, former soldier, or royal official does
 Sources: Fondation Napoléon correspondence, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Fondation Napoléon biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/.
 
 ## Return voyage and landing network {#return-voyage-and-landing-network}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Return voyage and landing network is marked Source-required domain. The return requires ships, officers, proclamations, routes, local contacts, and the calculation that troops may join rather than arrest Napoleon.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Return voyage and landing network host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Return voyage and landing network host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Return voyage and landing network host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-required domain. The return requires ships, officers, proclamations, routes, local contacts, and the calculation that troops may join rather than arrest Napoleon.
 
@@ -45,6 +78,10 @@ The landing is a chain of risks, not a miraculous national welcome. Each town an
 Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Army defection and the collapse of arrest authority {#army-defection-and-the-collapse-of-arrest-authority}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Army defection and the collapse of arrest authority is marked Source-critical boundary. The return succeeds through a sequence of decisions by soldiers, officers, officials, and local communities, not through one timeless popular acclamation.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Army defection and the collapse of arrest authority host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Army defection and the collapse of arrest authority host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Army defection and the collapse of arrest authority host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-critical boundary. The return succeeds through a sequence of decisions by soldiers, officers, officials, and local communities, not through one timeless popular acclamation.
 
@@ -53,6 +90,10 @@ An order to arrest may be issued, received, delayed, obeyed, or abandoned. A reg
 Sources: Fondation Napoléon biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/; Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/.
 
 ## Public proclamation and restored state {#public-proclamation-and-restored-state}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Public proclamation and restored state is marked Work boundary. Re-entry into Paris and reconstruction of government belong to the Hundred Days owner; this file hands forward uncertain legitimacy and returning personnel.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Public proclamation and restored state host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Public proclamation and restored state host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Public proclamation and restored state host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work boundary. Re-entry into Paris and reconstruction of government belong to the Hundred Days owner; this file hands forward uncertain legitimacy and returning personnel.
 
@@ -61,6 +102,10 @@ A proclamation can promise continuity, vengeance, reform, or peace while ministr
 Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Fondation Napoléon correspondence, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/.
 
 ## Boundary to the Hundred Days {#boundary-to-the-hundred-days}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Boundary to the Hundred Days is marked Work boundary. The political reconstruction, Waterloo campaign, and second abdication belong to later owners, with `021-waterloo-and-saint-helena.md` holding the terminal arc.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Boundary to the Hundred Days host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Boundary to the Hundred Days host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Boundary to the Hundred Days host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work boundary. The political reconstruction, Waterloo campaign, and second abdication belong to later owners, with `021-waterloo-and-saint-helena.md` holding the terminal arc.
 
