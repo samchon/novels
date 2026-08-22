@@ -7,7 +7,7 @@
 <!-- @evidence principles/settings.md#addressable-canon The canon separates science patronage, transport, production, standards, civilian cost, campaign limits, Egypt, and technical handoff. -->
 <!-- @evidenceReview principles/settings.md#addressable-canon #660699f Walked each H2 owner separately: patronage, routes, production, standards, civilian burden, campaign chain, Egypt boundary, and storyline boundary. -->
 <!-- @evidence principles/settings.md#information-structure Each H2 states status, dated mechanism, source position, material chain, uncertainty, and downstream use. -->
-<!-- @evidenceReview principles/settings.md#information-structure #10ff424 Reread every unit for institution, object, labor, money, route, user, evidence limit, and consequence. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 Checked every Status-to-Sources block for institution, object, labor, money, route, user, failure, evidence limit, and downstream consequence. -->
 <!-- @evidence principles/settings.md#fact-status Status distinguishes critical synthesis, institutional history, primary technical claim, urban account, inference, and boundary. -->
 <!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Compared labels with Napoleon Series science, Fondation armament and Paris studies, and Persée scholarship. -->
 <!-- @evidence principles/settings.md#source-support Claims use direct institutional and critical sources with page or line locators where available. -->
