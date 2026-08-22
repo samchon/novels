@@ -32,6 +32,7 @@ This file fixes the ordinary social systems that surround schoolwork: clubs, stu
 <!-- @evidence obligations/common.md#proportionate-development The Classroom neighbourhoods host gives 81 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Classroom neighbourhoods” H2 from Status through its final boundary. Its first operating statement is “Students form temporary desk partnerships, friendship circles, study groups, sports teams, language pairs, and quiet routines. Seating and timetable create contact without creating”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Classroom neighbourhoods acknowledgement is grounded in this host's Status and its concrete opening statement 'n — school-life canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Classroom neighbourhoods” H2 from Status through its final boundary. Its first operating statement is “Students form temporary desk partnerships, friendship circles, study groups, sports teams, language pairs, and quiet routines. Seating and timetable create contact without creating”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — school-life canon.
 
@@ -48,6 +49,7 @@ The founders describe a social group by its current activity, members, and acces
 <!-- @evidence obligations/common.md#proportionate-development The Club membership and attendance host gives 89 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Club membership and attendance” H2 from Status through its final boundary. Its first operating statement is “Club recognition, room booking, attendance, and adviser authority follow `150` and the game procedure in `020`. A student can attend a public introduction, trial task, regular meet”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Club membership and attendance acknowledgement is grounded in this host's Status and its concrete opening statement 'n — inherited club canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Club membership and attendance” H2 from Status through its final boundary. Its first operating statement is “Club recognition, room booking, attendance, and adviser authority follow `150` and the game procedure in `020`. A student can attend a public introduction, trial task, regular meet”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — inherited club canon.
 
@@ -64,6 +66,7 @@ Attendance records presence and relevant absence status without ranking enthusia
 <!-- @evidence obligations/common.md#proportionate-development The Study and peer tutoring host gives 87 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Study and peer tutoring” H2 from Status through its final boundary. Its first operating statement is “Peer tutoring identifies subject, scope, time, language, access need, and whether the work is collaborative or assessed. A tutor explains and checks understanding; they do not comp”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Study and peer tutoring acknowledgement is grounded in this host's Status and its concrete opening statement 'n — learning canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Study and peer tutoring” H2 from Status through its final boundary. Its first operating statement is “Peer tutoring identifies subject, scope, time, language, access need, and whether the work is collaborative or assessed. A tutor explains and checks understanding; they do not comp”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — learning canon.
 
@@ -80,6 +83,7 @@ Study spaces account for noise, lighting, seating, devices, food, and transport 
 <!-- @evidence obligations/common.md#proportionate-development The Examinations and social pressure host gives 87 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Examinations and social pressure” H2 from Status through its final boundary. Its first operating statement is “The fixed examination windows in `030` alter sleep, room use, tutoring demand, family work, and emotional pressure. The exam authority remains the school. The club does not turn ex”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Examinations and social pressure acknowledgement is grounded in this host's Status and its concrete opening statement 'n — chronology-linked canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Examinations and social pressure” H2 from Status through its final boundary. Its first operating statement is “The fixed examination windows in `030` alter sleep, room use, tutoring demand, family work, and emotional pressure. The exam authority remains the school. The club does not turn ex”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — chronology-linked canon.
 
@@ -96,6 +100,7 @@ Students may study together, share permitted resources, or ask for accommodation
 <!-- @evidence obligations/common.md#proportionate-development The Lunch, break, and informal routes host gives 81 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Lunch, break, and informal routes” H2 from Status through its final boundary. Its first operating statement is “Breaks are short resource windows for food, toilets, messages, quiet, peer contact, and movement. The route from classroom to dining area can be crowded, wet, noisy, or inaccessibl”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Lunch, break, and informal routes acknowledgement is grounded in this host's Status and its concrete opening statement 'n — physical-social canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Lunch, break, and informal routes” H2 from Status through its final boundary. Its first operating statement is “Breaks are short resource windows for food, toilets, messages, quiet, peer contact, and movement. The route from classroom to dining area can be crowded, wet, noisy, or inaccessibl”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — physical-social canon.
 
@@ -112,6 +117,7 @@ The founders do not claim a table, corridor corner, or market seat as permanent 
 <!-- @evidence obligations/common.md#proportionate-development The Rumour and school reputation host gives 85 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Rumour and school reputation” H2 from Status through its final boundary. Its first operating statement is “Reputation is a circulating interpretation, not a reliable record. A student may be known for punctuality, jokes, translation, repair, absence, or a rumour that is false. The found”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Rumour and school reputation acknowledgement is grounded in this host's Status and its concrete opening statement 'n — social information rule.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Rumour and school reputation” H2 from Status through its final boundary. Its first operating statement is “Reputation is a circulating interpretation, not a reliable record. A student may be known for punctuality, jokes, translation, repair, absence, or a rumour that is false. The found”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — social information rule.
 
@@ -128,6 +134,7 @@ Correction does not require repeating the harmful rumour to a larger audience. A
 <!-- @evidence obligations/common.md#proportionate-development The Online and offline presence host gives 88 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Online and offline presence” H2 from Status through its final boundary. Its first operating statement is “A profile, group chat, school notice, face-to-face conversation, and printed poster have different audiences, speed, permanence, and correction paths. A message sent after midnight”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Online and offline presence acknowledgement is grounded in this host's Status and its concrete opening statement 'n — student communication canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Online and offline presence” H2 from Status through its final boundary. Its first operating statement is “A profile, group chat, school notice, face-to-face conversation, and printed poster have different audiences, speed, permanence, and correction paths. A message sent after midnight”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — student communication canon.
 
@@ -144,6 +151,7 @@ The founders identify the authoritative channel for each action and offer a non-
 <!-- @evidence obligations/common.md#proportionate-development The Dating, affection, and boundaries host gives 80 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Dating, affection, and boundaries” H2 from Status through its final boundary. Its first operating statement is “Students may experience friendship, affection, crushes, dating, jealousy, or no romantic interest. The setting does not make romance compulsory, eroticize minors, or use a confessi”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Dating, affection, and boundaries acknowledgement is grounded in this host's Status and its concrete opening statement 'n — minor-safety canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Dating, affection, and boundaries” H2 from Status through its final boundary. Its first operating statement is “Students may experience friendship, affection, crushes, dating, jealousy, or no romantic interest. The setting does not make romance compulsory, eroticize minors, or use a confessi”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — minor-safety canon.
 
@@ -160,6 +168,7 @@ A club request cannot demand a partner’s location, phone, schedule, or public 
 <!-- @evidence obligations/common.md#proportionate-development The Leisure, games, and the title’s vocabulary host gives 88 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Leisure, games, and the title’s vocabulary” H2 from Status through its final boundary. Its first operating statement is “The founders use strategy vocabulary as a playful model for rooms, routes, resources, and obligations. A game term is not a claim that people or neighbourhoods are property. Leisur”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Leisure, games, and the title’s vocabulary acknowledgement is grounded in this host's Status and its concrete opening statement 'n — game-culture interface.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Leisure, games, and the title’s vocabulary” H2 from Status through its final boundary. Its first operating statement is “The founders use strategy vocabulary as a playful model for rooms, routes, resources, and obligations. A game term is not a claim that people or neighbourhoods are property. Leisur”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — game-culture interface.
 
@@ -176,6 +185,7 @@ A student may dislike the game, prefer another hobby, or participate only as an 
 <!-- @evidence obligations/common.md#proportionate-development The Peer leadership and quiet leadership host gives 73 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Peer leadership and quiet leadership” H2 from Status through its final boundary. Its first operating statement is “Leadership can be elected, delegated, technical, caring, logistical, or situational. A student who speaks rarely may hold essential knowledge or a veto over their own participation”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Peer leadership and quiet leadership acknowledgement is grounded in this host's Status and its concrete opening statement 'n — social authority.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Peer leadership and quiet leadership” H2 from Status through its final boundary. Its first operating statement is “Leadership can be elected, delegated, technical, caring, logistical, or situational. A student who speaks rarely may hold essential knowledge or a veto over their own participation”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — social authority.
 
@@ -192,6 +202,7 @@ The club records role, term, authority, support, and handoff. Leadership is revi
 <!-- @evidence obligations/common.md#proportionate-development The Absence, exclusion, and return host gives 85 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Absence, exclusion, and return” H2 from Status through its final boundary. Its first operating statement is “Absence may follow illness, family duty, work, transport, punishment, grief, access failure, or choice. The group sends the minimum useful update and does not demand a public expla”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Absence, exclusion, and return acknowledgement is grounded in this host's Status and its concrete opening statement 'n — social continuity.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Absence, exclusion, and return” H2 from Status through its final boundary. Its first operating statement is “Absence may follow illness, family duty, work, transport, punishment, grief, access failure, or choice. The group sends the minimum useful update and does not demand a public expla”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — social continuity.
 
@@ -208,6 +219,7 @@ If a person was excluded, the record states rule, decision owner, reason, durati
 <!-- @evidence obligations/common.md#proportionate-development The Social closure and alumni contact host gives 76 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Social closure and alumni contact” H2 from Status through its final boundary. Its first operating statement is “Graduation changes school access and daily contact while friendships may continue. Alumni contact uses current channels, chosen availability, and a defined request. A former club l”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Social closure and alumni contact acknowledgement is grounded in this host's Status and its concrete opening statement 'n — transition canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Social closure and alumni contact” H2 from Status through its final boundary. Its first operating statement is “Graduation changes school access and daily contact while friendships may continue. Alumni contact uses current channels, chosen availability, and a defined request. A former club l”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — transition canon.
 
