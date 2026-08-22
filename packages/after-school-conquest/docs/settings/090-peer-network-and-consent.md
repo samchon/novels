@@ -94,6 +94,14 @@ The chat owner sets membership, moderation, retention, and removal rules. Privat
 
 ## Conflict, apology, and repair
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes action/effect recording, changed trust or access, correction, return, cost, image removal, mediation, affected-person authority, and non-retaliation. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I reread the complete repair body and checked every remedy example; a single apology cannot erase an institutional record or force forgiveness. -->
+<!-- @evidence obligations/common.md#substantive-completion The H2 settles how conflict is described, what repair may require, who controls acceptance, and why safety reports remain separate. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I compared action/effect recording with repair options and mediation limits; a downstream unit can leave a relationship conditional or ended without inventing closure. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops conflict facts, trust/access effects, material repair, mediation, affected-person agency, safety, and ongoing distance separately. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I checked the distinct remedies; returning property or paying cost is the least interchangeable repair form. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks relationship maintenance as fictional canon and does not claim a legal dispute or therapeutic process. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I reread Status and every repair example; the H2 keeps mediation and safety rules inside package authority. -->
 
 **Status:** Work decision — relationship maintenance rule.
 
