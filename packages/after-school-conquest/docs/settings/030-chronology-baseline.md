@@ -4,6 +4,11 @@ This file fixes the calendar that every later setting, storyline, scenario, and 
 
 ## Opening date
 
+<!-- @evidence obligations/common.md#scope-preservation The Opening date host states ne plus Work decision for Haneul's fictional delivery. This is the concrete chronology scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Opening date host develops its dates or period through effective 2026-08-20; its direct locator is https://www.law.go.kr/LSW/lsLinkCommonInfo.do?lsJoLnkSeq=1032276043. The law is a current-law baseline at 2026-08-21, not a prediction that Korean law will remain unchanged through 2031.; downstream layers need not invent that calendar boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Opening date host gives 385 authored words across 5 paragraphs to its distinct chronology constraint, proportionate to its role in a twenty-volume delivery. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Opening date acknowledgement is grounded in this host's Status and its exact chronological statement beginning 'ne plus Work decision for Haneul's fictional delivery.'. -->
+
 **Status:** Source-verified legal baseline plus Work decision for Haneul's fictional delivery.
 
 The delivery opens on Tuesday, 2027-03-02. The date is the first instructional day experienced by the four founders—Minseo Han, Jae-won Park, Lila Reyes, and Do-yun Choi—at Haneul Public High School. The legal academic year has already begun on Monday, 2027-03-01, but that Monday is a school-year boundary rather than a student-facing first day in this work. The one-day distinction prevents a calendar label from falsely implying that a school must teach on the first day of its academic year.
@@ -15,6 +20,11 @@ The first instructional day has ordinary operational conditions: morning transit
 The opening date is a Work decision because the future Haneul and its founders are fictional. The legal container is not fictional: Article 24 of the Elementary and Secondary Education Act states that a school's academic year begins on March 1 and ends at the end of February. That article also leaves school-term, instructional-day, closure-day, and curriculum-operation details to the Enforcement Decree and related administration. The source was opened directly as the National Law Information Center document “Elementary and Secondary Education Act, Article 24 (Classes, etc.),” effective 2026-08-20; its direct locator is https://www.law.go.kr/LSW/lsLinkCommonInfo.do?lsJoLnkSeq=1032276043. The law is a current-law baseline at 2026-08-21, not a prediction that Korean law will remain unchanged through 2031.
 
 ## School-year rule
+
+<!-- @evidence obligations/common.md#scope-preservation The School-year rule host states n calendar application. This is the concrete chronology scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The School-year rule host develops its dates or period through Article 24 (Classes, etc.),” effective 2026-08-20, at https://www.law.go.kr/LSW/lsLinkCommonInfo.do?lsJoLnkSeq=1032276043. Its legal date is current-law evidence; the specific Haneul instructional windows below are Work decisions.; downstream layers need not invent that calendar boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The School-year rule host gives 368 authored words across 6 paragraphs to its distinct chronology constraint, proportionate to its role in a twenty-volume delivery. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The School-year rule acknowledgement is grounded in this host's Status and its exact chronological statement beginning 'n calendar application.'. -->
 
 **Status:** Source-verified legal rule with a Work-decision calendar application.
 
@@ -29,6 +39,11 @@ The March 1 rule does not itself require a first class on March 1. In this work 
 The direct source is the National Law Information Center document “Elementary and Secondary Education Act, Article 24 (Classes, etc.),” effective 2026-08-20, at https://www.law.go.kr/LSW/lsLinkCommonInfo.do?lsJoLnkSeq=1032276043. Its legal date is current-law evidence; the specific Haneul instructional windows below are Work decisions.
 
 ## Semester and term boundaries
+
+<!-- @evidence obligations/common.md#scope-preservation The Semester and term boundaries host states n for all Haneul dates. This is the concrete chronology scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Semester and term boundaries host develops its dates or period through s the two-semester structure and the first-semester/second-semester adjacency. The three Haneul date ranges, the choice of boundaries, and the distinction between membership and instruction are Work decisions bounded by that rule.; downstream layers need not invent that calendar boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Semester and term boundaries host gives 322 authored words across 7 paragraphs to its distinct chronology constraint, proportionate to its role in a twenty-volume delivery. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Semester and term boundaries acknowledgement is grounded in this host's Status and its exact chronological statement beginning 'n for all Haneul dates.'. -->
 
 **Status:** Source-verified statutory semester rule plus Work decision for all Haneul dates.
 
@@ -50,6 +65,11 @@ The source is the National Law Information Center document “Elementary and Sec
 
 ## Examination periods
 
+<!-- @evidence obligations/common.md#scope-preservation The Examination periods host states n for Haneul's published calendar; weekday audit completed. This is the concrete chronology scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Examination periods host develops its dates or period through ity government. If a later layer needs a moved examination, it must record the original window, the authorized reason, the replacement dates, and the affected semester membership; it may not silently replace one date with another.; downstream layers need not invent that calendar boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Examination periods host gives 273 authored words across 6 paragraphs to its distinct chronology constraint, proportionate to its role in a twenty-volume delivery. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Examination periods acknowledgement is grounded in this host's Status and its exact chronological statement beginning 'n for Haneul's published calendar; weekday audit completed.'. -->
+
 **Status:** Work decision for Haneul's published calendar; weekday audit completed.
 
 Haneul publishes four Monday-to-Friday examination windows in each of the three high-school years. The windows are protected assessment periods: routine club activity, recruitment, unsupervised room use, and voluntary labour cannot be scheduled as though the students had ordinary after-school capacity. A school notice can assign a room, paper, digital system, accommodation contact, and collection procedure; it cannot erase transport, illness, disability access, family work, or the recovery time needed after an examination.
@@ -67,6 +87,11 @@ The first two windows in each row occur in semester 1 and the last two in semest
 The dates are fictional Haneul scheduling decisions. The legal baseline comes from the school-year and semester rules already identified, not from a claim that national law mandates these exact examination weeks. The school examination authority remains separate from the student council, game club, and city government. If a later layer needs a moved examination, it must record the original window, the authorized reason, the replacement dates, and the affected semester membership; it may not silently replace one date with another.
 
 ## Holidays and vacations
+
+<!-- @evidence obligations/common.md#scope-preservation The Holidays and vacations host states n for recess and closure windows, with legal semester membership preserved. This is the concrete chronology scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Holidays and vacations host develops its dates or period through ter for attendance, supervision, building access, and family scheduling. Exact public-holiday names are not needed in this baseline; a later institutional document may identify them when a downstream rule genuinely depends on one.; downstream layers need not invent that calendar boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Holidays and vacations host gives 292 authored words across 6 paragraphs to its distinct chronology constraint, proportionate to its role in a twenty-volume delivery. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Holidays and vacations acknowledgement is grounded in this host's Status and its exact chronological statement beginning 'n for recess and closure windows, with legal semester membership preserved.'. -->
 
 **Status:** Work decision for recess and closure windows, with legal semester membership preserved.
 
@@ -86,6 +111,11 @@ The first instructional day in 2029–30 is Monday, 2029-03-05. Friday, 2029-03-
 
 ## Founder age arithmetic
 
+<!-- @evidence obligations/common.md#scope-preservation The Founder age arithmetic host states n calculated from fixed birth dates using completed international age. This is the concrete chronology scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Founder age arithmetic host develops its dates or period through t erase an existing commitment, fatigue, injury, or family obligation. Downstream authors must use the exact date when age changes legal access, consent procedure, travel feasibility, or a person's understanding of their own time.; downstream layers need not invent that calendar boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Founder age arithmetic host gives 351 authored words across 5 paragraphs to its distinct chronology constraint, proportionate to its role in a twenty-volume delivery. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Founder age arithmetic acknowledgement is grounded in this host's Status and its exact chronological statement beginning 'n calculated from fixed birth dates using completed international age.'. -->
+
 **Status:** Work decision calculated from fixed birth dates using completed international age.
 
 The founders' birth dates are Minseo Han — 2011-11-18; Jae-won Park — 2011-06-02; Lila Reyes — 2012-01-27; and Do-yun Choi — 2011-09-09. Age is calculated by completed years followed by months and days, not by the former Korean age convention and not by rounding a birth year. On a birthday the year count increases; before that birthday it does not. A school record may display a grade and an age field differently, but the underlying date arithmetic remains this canon.
@@ -97,6 +127,11 @@ At the graduation boundary, 2030-02-28, Minseo is 18 years, 3 months, 10 days; J
 Age does not itself grant room keys, school records, spending authority, or permission to represent Haneul. Those powers belong to the institutional settings and their procedures. Conversely, a person reaching a birthday does not erase an existing commitment, fatigue, injury, or family obligation. Downstream authors must use the exact date when age changes legal access, consent procedure, travel feasibility, or a person's understanding of their own time.
 
 ## Grade progression
+
+<!-- @evidence obligations/common.md#scope-preservation The Grade progression host states n aligned with the three-year high-school structure; no volume or scene allocation is owned here. This is the concrete chronology scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Grade progression host develops its dates or period through rect official document: “Elementary and Secondary Education Act,” National Law Information Center, effective 2026-08-20, https://www.law.go.kr/법령/초ㆍ중등교육법#제46조 (with the related Article 24, 25, and 26 anchors in the same document).; downstream layers need not invent that calendar boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Grade progression host gives 278 authored words across 6 paragraphs to its distinct chronology constraint, proportionate to its role in a twenty-volume delivery. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Grade progression acknowledgement is grounded in this host's Status and its exact chronological statement beginning 'n aligned with the three-year high-school structure; no volume or scene allocation is owned here.'. -->
 
 **Status:** Work decision aligned with the three-year high-school structure; no volume or scene allocation is owned here.
 
@@ -116,6 +151,11 @@ The three-year high-school term is supported by the Elementary and Secondary Edu
 
 ## Graduation boundary
 
+<!-- @evidence obligations/common.md#scope-preservation The Graduation boundary host states n bounded by current-law record and graduation provisions. This is the concrete chronology scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Graduation boundary host develops its dates or period through https://www.law.go.kr/법령/초ㆍ중등교육법#제24조, https://www.law.go.kr/법령/초ㆍ중등교육법#제25조, https://www.law.go.kr/법령/초ㆍ중등교육법#제26조, and https://www.law.go.kr/법령/초ㆍ중등교육법#제46조. The 2030 boundary and Haneul procedures remain fictional applications.; downstream layers need not invent that calendar boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Graduation boundary host gives 336 authored words across 5 paragraphs to its distinct chronology constraint, proportionate to its role in a twenty-volume delivery. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Graduation boundary acknowledgement is grounded in this host's Status and its exact chronological statement beginning 'n bounded by current-law record and graduation provisions.'. -->
+
 **Status:** Work decision bounded by current-law record and graduation provisions.
 
 The third academic year ends on Thursday, 2030-02-28. That date is the final day on which the founders are treated as current Haneul students for the chronology. Graduation administration occupies 2030-02-08 through 2030-02-28 inside semester 2; it may include record checking, certificate preparation, key return, archive transfer, accessibility review, and notices about alumni access. The boundary is a date range for administrative work and a precise end date for student status, not a claim that a ceremony must occur on a particular hour.
@@ -128,6 +168,11 @@ Article 46 of the Elementary and Secondary Education Act provides the three-year
 
 ## Pre-story Haneul city era
 
+<!-- @evidence obligations/common.md#scope-preservation The Pre-story Haneul city era host states n establishing fictional pre-story continuity; not a historical claim about a real city. This is the concrete chronology scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Pre-story Haneul city era host develops its dates or period through surviving records, repairs, habits, and disagreements. The chronology permits downstream narratives to make choices under those conditions, but does not prescribe which character discovers which record or when a reader learns it.; downstream layers need not invent that calendar boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Pre-story Haneul city era host gives 350 authored words across 5 paragraphs to its distinct chronology constraint, proportionate to its role in a twenty-volume delivery. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Pre-story Haneul city era acknowledgement is grounded in this host's Status and its exact chronological statement beginning 'n establishing fictional pre-story continuity; not a historical claim about a real city.'. -->
+
 **Status:** Work decision establishing fictional pre-story continuity; not a historical claim about a real city.
 
 Haneul is a fictional metropolitan city whose civic records and education records must not be merged. Before the founders' first instructional day, the city was already an inhabited system of apartment districts, older low-rise streets, a stream corridor, a market, bus interchanges, public libraries, schools, clinics, repair shops, and families whose work begins before school and ends after it. The school sits within the city but is not city hall. The Haneul Metropolitan Office of Education supervises the public-school side; city hall manages municipal roads, drainage, public facilities, and civic records within its lawful boundary.
@@ -139,6 +184,11 @@ The city begins the story with accumulated memory rather than a blank map. Peopl
 No pre-story event is a hidden plot solution. The flood and fire below are standing constraints with surviving records, repairs, habits, and disagreements. The chronology permits downstream narratives to make choices under those conditions, but does not prescribe which character discovers which record or when a reader learns it.
 
 ## 2019 flood legacy
+
+<!-- @evidence obligations/common.md#scope-preservation The 2019 flood legacy host states n for a fictional municipal flood and its continuing material consequences. This is the concrete chronology scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The 2019 flood legacy host develops its dates or period through he yellow gauge into a challenge, move a barrier, or count a cancelled shift as completed. This event and all its repairs, detour costs, notices, and authority boundaries are fictional canon; it carries no claim about a real city.; downstream layers need not invent that calendar boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The 2019 flood legacy host gives 485 authored words across 6 paragraphs to its distinct chronology constraint, proportionate to its role in a twenty-volume delivery. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The 2019 flood legacy acknowledgement is grounded in this host's Status and its exact chronological statement beginning 'n for a fictional municipal flood and its continuing material consequences.'. -->
 
 **Status:** Work decision for a fictional municipal flood and its continuing material consequences.
 
@@ -153,6 +203,11 @@ Records retain different kinds of truth. The municipal flood-response office own
 During a flood warning, volunteers are barred from the channel and basement. Storage remains restricted until the youth-centre coordinator records inspection and reopening. The school may substitute a remote or above-ground task, but no club leader may turn the yellow gauge into a challenge, move a barrier, or count a cancelled shift as completed. This event and all its repairs, detour costs, notices, and authority boundaries are fictional canon; it carries no claim about a real city.
 
 ## 2022 fire legacy
+
+<!-- @evidence obligations/common.md#scope-preservation The 2022 fire legacy host states n for a fictional school fire and its continuing safety controls. This is the concrete chronology scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The 2022 fire legacy host develops its dates or period through mber smoke or a sealed door, but memory does not replace the inspection record; an inspection record does not describe every person's fear or lost work. This event, its reconstruction, and its records are fictional Work decisions.; downstream layers need not invent that calendar boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The 2022 fire legacy host gives 538 authored words across 7 paragraphs to its distinct chronology constraint, proportionate to its role in a twenty-volume delivery. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The 2022 fire legacy acknowledgement is grounded in this host's Status and its exact chronological statement beginning 'n for a fictional school fire and its continuing safety controls.'. -->
 
 **Status:** Work decision for a fictional school fire and its continuing safety controls.
 
@@ -170,6 +225,11 @@ The fire legacy is therefore a standing chronology constraint: every later date 
 
 ## Post-graduation interval
 
+<!-- @evidence obligations/common.md#scope-preservation The Post-graduation interval host states n defining the final chronological container after student status ends. This is the concrete chronology scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Post-graduation interval host develops its dates or period through oundary commitment as an explicitly carried record. No post-graduation interval may be smuggled into the school years by an undated flash-forward, and no school authority may be assumed after graduation without a new access basis.; downstream layers need not invent that calendar boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Post-graduation interval host gives 347 authored words across 5 paragraphs to its distinct chronology constraint, proportionate to its role in a twenty-volume delivery. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Post-graduation interval acknowledgement is grounded in this host's Status and its exact chronological statement beginning 'n defining the final chronological container after student status ends.'. -->
+
 **Status:** Work decision defining the final chronological container after student status ends.
 
 The post-graduation interval begins on Friday, 2030-03-01 and ends on Friday, 2031-02-28. It is one continuous calendar year bounded by the same March-to-February convention, but it is not an additional high-school academic year for the founders. The founders are alumni or young adults with changing work, study, family, money, transport, and access conditions. Their exact occupations, living arrangements, and obligations belong to later settings owners; this H2 fixes only the time container and the institutional consequences of leaving school.
@@ -179,3 +239,15 @@ From 2030-03-01 onward, access to Haneul requires a defined basis: invitation, a
 The interval has its own ordinary chronology: pay periods, application deadlines, transport timetables, weather, daylight, public holidays, rent or family-care obligations, and the renewal or expiry of permissions. The same project can therefore acquire a different cost after graduation even if its map and vocabulary remain familiar. A bus journey made after a paid shift is not equivalent to the same journey after a school day; a civic-room booking is not equivalent to a school club booking; and an alumni promise is not a current student's obligation.
 
 The final date, Friday 2031-02-28, closes the delivery window. It does not close the city, the school, the founders' relationships, or every civic problem. Later narrative layers may allocate the twenty-volume work across the three school years and this post-graduation year, but they must preserve the chronological boundary and show any cross-boundary commitment as an explicitly carried record. No post-graduation interval may be smuggled into the school years by an undated flash-forward, and no school authority may be assumed after graduation without a new access basis.
+<!-- @evidence principles/common.md#purpose-fit The file Chronology Baseline owns 12 chronology H2s; its opening states "This file fixes the calendar that every later setting, storyline, scenario, and manuscript must use. It distinguishes the legal school-year container from Haneul's fictional instructional calendar, and it records the pre", giving the twenty-volume school and alumni delivery the dates and institutional calendar needed by every later layer. -->
+<!-- @evidence principles/common.md#layer-boundary The file Chronology Baseline owns 12 chronology H2s; its opening states "This file fixes the calendar that every later setting, storyline, scenario, and manuscript must use. It distinguishes the legal school-year container from Haneul's fictional instructional calendar, and it records the pre"; it fixes chronology and historical setting constraints, not event order, reveals, or scene progression. -->
+<!-- @evidence principles/common.md#work-language The file Chronology Baseline owns 12 chronology H2s; its opening states "This file fixes the calendar that every later setting, storyline, scenario, and manuscript must use. It distinguishes the legal school-year container from Haneul's fictional instructional calendar, and it records the pre"; dates, weekdays, legal terms, and fictional records are expressed in consistent readable English with ISO precision where needed. -->
+<!-- @evidence principles/settings.md#addressable-canon The file Chronology Baseline owns 12 chronology H2s; its opening states "This file fixes the calendar that every later setting, storyline, scenario, and manuscript must use. It distinguishes the legal school-year container from Haneul's fictional instructional calendar, and it records the pre"; opening date, school-year rule, semesters, exams, vacations, ages, grades, graduation, city era, flood, fire, and alumni interval have separate H2 owners. -->
+<!-- @evidence principles/settings.md#information-structure The file Chronology Baseline owns 12 chronology H2s; its opening states "This file fixes the calendar that every later setting, storyline, scenario, and manuscript must use. It distinguishes the legal school-year container from Haneul's fictional instructional calendar, and it records the pre"; every date/period H2 states its status and then distinguishes legal rule, fictional application, operating window, and consequence. -->
+<!-- @evidence principles/settings.md#fact-status The file Chronology Baseline owns 12 chronology H2s; its opening states "This file fixes the calendar that every later setting, storyline, scenario, and manuscript must use. It distinguishes the legal school-year container from Haneul's fictional instructional calendar, and it records the pre"; current-law baselines, fictional Haneul dates, exact birth arithmetic, and historical legacies are explicitly separated as source-backed or Work decision. -->
+<!-- @evidence principles/settings.md#source-support The file Chronology Baseline owns 12 chronology H2s; its opening states "This file fixes the calendar that every later setting, storyline, scenario, and manuscript must use. It distinguishes the legal school-year container from Haneul's fictional instructional calendar, and it records the pre"; 8 direct official-law links identify Article 24, Article 44, and the relevant graduation framework with effective dates, while fictional dates are not disguised as law. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file Chronology Baseline owns 12 chronology H2s; its opening states "This file fixes the calendar that every later setting, storyline, scenario, and manuscript must use. It distinguishes the legal school-year container from Haneul's fictional instructional calendar, and it records the pre"; it gives continuous semester membership, instructional/recess windows, exams, birthdays, grade status, closures, and post-graduation access boundaries. -->
+<!-- @evidence principles/settings.md#minimal-departure The file Chronology Baseline owns 12 chronology H2s; its opening states "This file fixes the calendar that every later setting, storyline, scenario, and manuscript must use. It distinguishes the legal school-year container from Haneul's fictional instructional calendar, and it records the pre"; Haneul’s exact instructional, examination, flood, fire, and graduation dates are identified as fictional applications around the legal academic-year default. -->
+<!-- @evidence principles/settings.md#internal-coherence The file Chronology Baseline owns 12 chronology H2s; its opening states "This file fixes the calendar that every later setting, storyline, scenario, and manuscript must use. It distinguishes the legal school-year container from Haneul's fictional instructional calendar, and it records the pre"; weekday, leap-day, semester, exam, birthday, graduation, flood, fire, and endpoint relationships are recorded together for arithmetic checking. -->
+
+# Chronology Baseline
