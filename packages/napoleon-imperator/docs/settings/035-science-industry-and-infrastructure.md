@@ -23,7 +23,7 @@
 <!-- @evidence principles/common.md#historical-corroboration Technical capacity is cross-read between science history, armament production, urban projects, and engineering scholarship. -->
 <!-- @evidenceReview principles/common.md#historical-corroboration #b58522c Compared de Syon's state-science account with armament limits, Paris pollution and unfinished works, and Guillerme's engineer formation. -->
 <!-- @evidence principles/common.md#bounded-historical-invention Later scenes may invent bounded workshop tests, repairs, delays, and inspections only inside documented systems. -->
-<!-- @evidenceReview principles/common.md#bounded-historical-invention #231571a Reread all units for magical technology, invented output, omniscient engineers, and costless infrastructure. -->
+<!-- @evidenceReview principles/common.md#bounded-historical-invention #231571a Removed any capacity that lacked a maker, material, standard, route, operator, or repair condition; no invention is treated as automatic delivery. -->
 
 # Science, Industry, and Infrastructure
 
