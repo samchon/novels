@@ -1,16 +1,29 @@
 <!-- @evidence principles/common.md#purpose-fit The 1809 Austria and Wagram file fixes the historical and material setting needed by the twenty-volume English novel; its opening scope is This file owns the 1809 Austrian campaign's strategic and material constraints.. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa Read the complete “1809 Austria and Wagram” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#layer-boundary The 1809 Austria and Wagram file records addressable facts, constraints, source status, and work decisions; it does not prescribe storyline order, scene blocking, or finished manuscript prose. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 Read the complete “1809 Austria and Wagram” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#work-language The 1809 Austria and Wagram file is authored in consistent English and preserves the period names, French institutional terms, and place-name variants needed for a readable historical novel. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c Read the complete “1809 Austria and Wagram” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#addressable-canon The 1809 Austria and Wagram file assigns its distinct canon to 7 independently anchored H2 owners, so later layers can cite a precise fact rather than a whole-file summary. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f Read the complete “1809 Austria and Wagram” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#information-structure Each of the 7 1809 Austria and Wagram H2 owners states Status before developing its fact, operating condition, consequence, and limitation. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 Read the complete “1809 Austria and Wagram” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#fact-status The 1809 Austria and Wagram H2 statuses distinguish established historical claims, contested or source-dependent reconstructions, and owner-adopted work decisions instead of presenting every detail as equally certain. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Read the complete “1809 Austria and Wagram” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#source-support The 1809 Austria and Wagram file carries 12 direct source URL marker(s) and identifies uncertainty where the surviving record does not settle a detail; fictional connective decisions remain marked as such. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 Read the complete “1809 Austria and Wagram” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#constraint-sufficiency The 1809 Austria and Wagram H2 owners specify the actors, institutions, dates, material conditions, information limits, and downstream boundaries required to use this domain without inventing its foundations. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Read the complete “1809 Austria and Wagram” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#minimal-departure The 1809 Austria and Wagram file keeps departures from the record bounded: it may choose a usable narrative emphasis, but it does not silently change documented dates, identities, institutions, or contested status. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 Read the complete “1809 Austria and Wagram” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#internal-coherence The 1809 Austria and Wagram file keeps its 7 owners consistent in chronology, geography, institutional authority, terminology, and the distinction between evidence and narrative-use decisions. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e Read the complete “1809 Austria and Wagram” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#bounded-historical-invention The 1809 Austria and Wagram file permits only bounded connective invention around the documented historical record; it does not fabricate quotations, hidden motives, or unsupported precision. -->
+<!-- @evidenceReview principles/common.md#bounded-historical-invention #231571a Read the complete “1809 Austria and Wagram” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#historical-claim-provenance Historical claims in the 1809 Austria and Wagram file are assigned to their source-bearing H2 owners, with source-dependent details and work decisions visibly separated for downstream checking. -->
+<!-- @evidenceReview principles/common.md#historical-claim-provenance #d7515dc Read the complete “1809 Austria and Wagram” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#historical-corroboration The 1809 Austria and Wagram file treats source agreement, disagreement, and silence as distinct statuses and requires later prose to preserve those limits rather than laundering one retrospective into certainty. -->
+<!-- @evidenceReview principles/common.md#historical-corroboration #b58522c Read the complete “1809 Austria and Wagram” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 # 1809 Austria and Wagram
 
 This file owns the 1809 Austrian campaign's strategic and material constraints.
@@ -19,9 +32,13 @@ This file owns the 1809 Austrian campaign's strategic and material constraints.
 
 ## Austrian rearmament and national war {#austrian-rearmament-and-national-war}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Austrian rearmament and national war is marked Source-supported. Austria enters 1809 with military preparation and political expectations shaped by earlier defeat and French overextension.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Austrian rearmament and national war” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Austrian rearmament and national war host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Austrian rearmament and national war” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Austrian rearmament and national war host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Austrian rearmament and national war” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Austrian rearmament and national war host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Austrian rearmament and national war” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-supported. Austria enters 1809 with military preparation and political expectations shaped by earlier defeat and French overextension.
 
@@ -31,9 +48,13 @@ Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-
 
 ## Danube crossings and Aspern Essling {#danube-crossings-and-aspern-essling}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Danube crossings and Aspern Essling is marked Source-required domain. The Danube, bridges, boats, islands, flood, and artillery transport make the 1809 battles materially distinct.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Danube crossings and Aspern Essling” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Danube crossings and Aspern Essling host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Danube crossings and Aspern Essling” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Danube crossings and Aspern Essling host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Danube crossings and Aspern Essling” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Danube crossings and Aspern Essling host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Danube crossings and Aspern Essling” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-required domain. The Danube, bridges, boats, islands, flood, and artillery transport make the 1809 battles materially distinct.
 
@@ -43,9 +64,13 @@ Sources: Fondation Napoléon, biography, https://www.napoleon.org/en/history-of-
 
 ## Wagram mass and artillery {#wagram-mass-and-artillery}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Wagram mass and artillery is marked Work canon. Wagram's scale requires separate corps objectives, ammunition flow, reserves, and information limits.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Wagram mass and artillery” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Wagram mass and artillery host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Wagram mass and artillery” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Wagram mass and artillery host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Wagram mass and artillery” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Wagram mass and artillery host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Wagram mass and artillery” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work canon. Wagram's scale requires separate corps objectives, ammunition flow, reserves, and information limits.
 
@@ -55,9 +80,13 @@ Sources: Fondation Napoléon, “Napoleon's Grande Armée” (1), https://www.na
 
 ## Schönbrunn and dynastic consequence {#schonbrunn-and-dynastic-consequence}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Schönbrunn and dynastic consequence is marked Work boundary. The 1809 peace and Austrian marriage require diplomatic and family owners.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Schönbrunn and dynastic consequence” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Schönbrunn and dynastic consequence host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Schönbrunn and dynastic consequence” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Schönbrunn and dynastic consequence host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Schönbrunn and dynastic consequence” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Schönbrunn and dynastic consequence host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Schönbrunn and dynastic consequence” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work boundary. The 1809 peace and Austrian marriage require diplomatic and family owners.
 
@@ -67,9 +96,13 @@ Sources: Fondation Napoléon chronology portal, https://www.napoleon.org/en/hist
 
 ## Campaign roads and imperial overstretch {#campaign-roads-and-imperial-overstretch}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Campaign roads and imperial overstretch is marked Source-required domain. French concentration in 1809 depends on roads, garrisons, allied contingents, river crossings, and the time needed to convert occupation into a field army.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Campaign roads and imperial overstretch” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Campaign roads and imperial overstretch host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Campaign roads and imperial overstretch” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Campaign roads and imperial overstretch host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Campaign roads and imperial overstretch” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Campaign roads and imperial overstretch host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Campaign roads and imperial overstretch” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-required domain. French concentration in 1809 depends on roads, garrisons, allied contingents, river crossings, and the time needed to convert occupation into a field army.
 
@@ -79,9 +112,13 @@ Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-
 
 ## Aspern loss and operational learning {#aspern-loss-and-operational-learning}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Aspern loss and operational learning is marked Source-critical boundary. Aspern-Essling's shock can inform later preparations without being reduced to a single lesson or guaranteed correction.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Aspern loss and operational learning” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Aspern loss and operational learning host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Aspern loss and operational learning” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Aspern loss and operational learning host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Aspern loss and operational learning” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Aspern loss and operational learning host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Aspern loss and operational learning” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-critical boundary. Aspern-Essling's shock can inform later preparations without being reduced to a single lesson or guaranteed correction.
 
@@ -91,9 +128,13 @@ Sources: Fondation Napoléon, biography, https://www.napoleon.org/en/history-of-
 
 ## Treaty transfer and civilian administration {#treaty-transfer-and-civilian-administration}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Treaty transfer and civilian administration is marked Work boundary. Territorial transfer changes taxes, military recruitment, property, courts, and local allegiance over time.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Treaty transfer and civilian administration” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Treaty transfer and civilian administration host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Treaty transfer and civilian administration” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Treaty transfer and civilian administration host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Treaty transfer and civilian administration” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Treaty transfer and civilian administration host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Treaty transfer and civilian administration” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work boundary. Territorial transfer changes taxes, military recruitment, property, courts, and local allegiance over time.
 
