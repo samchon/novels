@@ -4,6 +4,11 @@ This file divides the delivery interval into twenty inclusive chronological cont
 
 ## Volume 01 — First term opening {#volume-01-first-term-opening}
 
+<!-- @evidence obligations/common.md#scope-preservation The Volume 01 — First term opening {#volume-01-first-term-opening} host states n; inclusive container 2027-03-02 through 2027-04-30. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 01 — First term opening {#volume-01-first-term-opening} host develops its partition through date carries both an assessment boundary and a volume boundary. The next morning is not an accidental continuation of the examination record; it is a new container with its own work, transport, and family-resource classification.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 01 — First term opening {#volume-01-first-term-opening} host gives 368 authored words across 6 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 01 — First term opening {#volume-01-first-term-opening} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
+
 **Status:** Work decision; inclusive container 2027-03-02 through 2027-04-30.
 
 This volume begins Tuesday, 2027-03-02 and ends Friday, 2027-04-30. It lies in academic year 2027–28, first semester, and first-year status. The legal year began Monday, 2027-03-01; that date is outside this container and remains a year boundary rather than a student instructional date. The first examination window inside is Monday–Friday, 2027-04-26–30, ending on the container’s final day. No birthday falls inside: Jae-won’s 2011-06-02, Do-yun’s 2011-09-09, Minseo’s 2011-11-18, and Lila’s 2012-01-27 birthdays are outside.
@@ -18,6 +23,11 @@ April 30 is also the last examination Friday in this container, so the end date 
 
 ## Volume 02 — Spring instruction to summer edge {#volume-02-spring-instruction-to-summer-edge}
 
+<!-- @evidence obligations/common.md#scope-preservation The Volume 02 — Spring instruction to summer edge {#volume-02-spring-instruction-to-summer-edge} host states n; inclusive container 2027-05-01 through 2027-07-20. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 02 — Spring instruction to summer edge {#volume-02-spring-instruction-to-summer-edge} host develops its partition through Tuesday, not on the first day of recess. Any request dated July 20 is therefore a first-semester, instructional-window request; any request dated July 21 belongs to recess administration and must not be backdated for convenience.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 02 — Spring instruction to summer edge {#volume-02-spring-instruction-to-summer-edge} host gives 282 authored words across 5 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 02 — Spring instruction to summer edge {#volume-02-spring-instruction-to-summer-edge} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
+
 **Status:** Work decision; inclusive container 2027-05-01 through 2027-07-20.
 
 This volume begins Saturday, 2027-05-01 and ends Tuesday, 2027-07-20. It remains academic year 2027–28, first semester, first year. The 2027-04-30 examination Friday belongs to Volume 01; the next date, 2027-05-01, begins this container even though it is a weekend. The examination period inside is Monday, 2027-06-28 through Friday, 2027-07-02. The first instructional window ends on 2027-07-20, the final date here; summer recess begins outside, on 2027-07-21.
@@ -30,6 +40,11 @@ The June examination begins on a Monday and ends on a Friday, so the adjacent we
 
 ## Volume 03 — First summer recess {#volume-03-first-summer-recess}
 
+<!-- @evidence obligations/common.md#scope-preservation The Volume 03 — First summer recess {#volume-03-first-summer-recess} host states n; inclusive container 2027-07-21 through 2027-08-20. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 03 — First summer recess {#volume-03-first-summer-recess} host develops its partition through t the others’ authority. A family may choose not to travel even while the city route is open. That choice is a resource fact and does not become an attendance violation merely because the school calendar labels the date as recess.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 03 — First summer recess {#volume-03-first-summer-recess} host gives 321 authored words across 5 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 03 — First summer recess {#volume-03-first-summer-recess} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
+
 **Status:** Work decision; inclusive container 2027-07-21 through 2027-08-20.
 
 This volume begins Wednesday, 2027-07-21 and ends Friday, 2027-08-20. It belongs to academic year 2027–28, first semester, first year, but its entire span is the planned summer-recess window. No examination window or founder birthday falls inside. The first instructional window ended Tuesday, 2027-07-20, outside this container; second semester begins Saturday, 2027-08-21, outside it as well. The date is therefore semester 1 membership without ordinary classroom instruction.
@@ -41,6 +56,11 @@ The school office has reduced instructional demand but does not lose responsibil
 The summer boundary also changes which adult can answer a question. A school adviser can communicate a cancellation, a youth-centre coordinator can restrict a basement, and the municipal flood-response office can close a route; none may silently inherit the others’ authority. A family may choose not to travel even while the city route is open. That choice is a resource fact and does not become an attendance violation merely because the school calendar labels the date as recess.
 
 ## Volume 04 — Second semester and autumn assessment {#volume-04-second-semester-and-autumn-assessment}
+
+<!-- @evidence obligations/common.md#scope-preservation The Volume 04 — Second semester and autumn assessment {#volume-04-second-semester-and-autumn-assessment} host states n; inclusive container 2027-08-21 through 2027-10-29. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 04 — Second semester and autumn assessment {#volume-04-second-semester-and-autumn-assessment} host develops its partition through that names the examination week cannot be extended into October 30 merely because a teacher or family needs more time. Any extension would be a separately dated institutional decision, not an invisible part of this time container.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 04 — Second semester and autumn assessment {#volume-04-second-semester-and-autumn-assessment} host gives 320 authored words across 6 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 04 — Second semester and autumn assessment {#volume-04-second-semester-and-autumn-assessment} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
 
 **Status:** Work decision; inclusive container 2027-08-21 through 2027-10-29.
 
@@ -56,6 +76,11 @@ October 29 is a Friday, and the following Saturday is deliberately outside. A la
 
 ## Volume 05 — Autumn to winter assessment {#volume-05-autumn-to-winter-assessment}
 
+<!-- @evidence obligations/common.md#scope-preservation The Volume 05 — Autumn to winter assessment {#volume-05-autumn-to-winter-assessment} host states n; inclusive container 2027-10-30 through 2027-12-17. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 05 — Autumn to winter assessment {#volume-05-autumn-to-winter-assessment} host develops its partition through amination schedule has ended at noon or that a winter arrangement begins before the next date. The volume keeps that distinction available to the office, the families, and the records clerk without prescribing what anyone decides.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 05 — Autumn to winter assessment {#volume-05-autumn-to-winter-assessment} host gives 265 authored words across 5 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 05 — Autumn to winter assessment {#volume-05-autumn-to-winter-assessment} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
+
 **Status:** Work decision; inclusive container 2027-10-30 through 2027-12-17.
 
 This volume begins Saturday, 2027-10-30 and ends Friday, 2027-12-17. It remains academic year 2027–28, second semester, first year. Minseo’s birthday, Thursday, 2027-11-18, is inside. The protected examination period is Monday–Friday, 2027-12-13–17 and ends at the volume boundary. The preceding October examination period belongs to Volume 04; winter recess begins outside on 2028-02-09.
@@ -68,6 +93,11 @@ December 17 is both the fifth examination Friday and the container boundary. A r
 
 ## Volume 06 — Winter recess and leap-day close {#volume-06-winter-recess-and-leap-day-close}
 
+<!-- @evidence obligations/common.md#scope-preservation The Volume 06 — Winter recess and leap-day close {#volume-06-winter-recess-and-leap-day-close} host states n; inclusive container 2027-12-18 through 2028-02-29. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 06 — Winter recess and leap-day close {#volume-06-winter-recess-and-leap-day-close} host develops its partition through equest created on March 1 belongs to the next academic year even if its subject line says “winter.” The office therefore needs the full ISO date and the academic-year label, while families may use an ordinary seasonal description.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 06 — Winter recess and leap-day close {#volume-06-winter-recess-and-leap-day-close} host gives 284 authored words across 5 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 06 — Winter recess and leap-day close {#volume-06-winter-recess-and-leap-day-close} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
+
 **Status:** Work decision; inclusive container 2027-12-18 through 2028-02-29.
 
 This volume begins Saturday, 2027-12-18 and ends Tuesday, 2028-02-29. It is academic year 2027–28, second semester, first year. Lila’s birthday falls on Thursday, 2028-01-27. The planned second instructional window continues through Tuesday, 2028-02-08; first-year winter recess and ordinary year-end administration occupy 2028-02-09–29. The leap day, Tuesday, 2028-02-29, is inside and is not a duplicate of February 28.
@@ -79,6 +109,11 @@ The school office handles second-semester records, room closure, and first-year 
 The leap day makes the closing ledger especially exact. A February 29 key return, notice, or archive entry is a real date in this academic year and cannot be normalized to February 28. Conversely, a request created on March 1 belongs to the next academic year even if its subject line says “winter.” The office therefore needs the full ISO date and the academic-year label, while families may use an ordinary seasonal description.
 
 ## Volume 07 — Second-year opening assessment {#volume-07-second-year-opening-assessment}
+
+<!-- @evidence obligations/common.md#scope-preservation The Volume 07 — Second-year opening assessment {#volume-07-second-year-opening-assessment} host states n; inclusive container 2028-03-01 through 2028-04-28. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 07 — Second-year opening assessment {#volume-07-second-year-opening-assessment} host develops its partition through s a Saturday and begins a new volume even though the first semester continues. The calendar thus separates a tested date, a weekend boundary, and the next volume’s spring resources without treating any of them as a narrative turn.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 07 — Second-year opening assessment {#volume-07-second-year-opening-assessment} host gives 340 authored words across 6 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 07 — Second-year opening assessment {#volume-07-second-year-opening-assessment} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
 
 **Status:** Work decision; inclusive container 2028-03-01 through 2028-04-28.
 
@@ -94,6 +129,11 @@ April 28 closes the second-year opening examination on a Friday. The next date, 
 
 ## Volume 08 — Second-year spring examination {#volume-08-second-year-spring-examination}
 
+<!-- @evidence obligations/common.md#scope-preservation The Volume 08 — Second-year spring examination {#volume-08-second-year-spring-examination} host states n; inclusive container 2028-04-29 through 2028-06-30. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 08 — Second-year spring examination {#volume-08-second-year-spring-examination} host develops its partition through changes the grade, examination authority, or room access. The date remains a personal boundary inside the volume’s spring examination calendar, not a reason to invent a special appointment or alter the published assessment window.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 08 — Second-year spring examination {#volume-08-second-year-spring-examination} host gives 261 authored words across 5 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 08 — Second-year spring examination {#volume-08-second-year-spring-examination} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
+
 **Status:** Work decision; inclusive container 2028-04-29 through 2028-06-30.
 
 This volume begins Saturday, 2028-04-29 and ends Friday, 2028-06-30. It remains academic year 2028–29, first semester, second year. Jae-won’s birthday is Friday, 2028-06-02 and falls inside. The examination window is Monday–Friday, 2028-06-26–30, ending on the final date. The April examination period belongs to Volume 07; the next date, 2028-07-01, belongs to Volume 09.
@@ -106,6 +146,11 @@ The birthday falls on a Friday, inside the ordinary school week. Age arithmetic 
 
 ## Volume 09 — Second summer recess {#volume-09-second-summer-recess}
 
+<!-- @evidence obligations/common.md#scope-preservation The Volume 09 — Second summer recess {#volume-09-second-summer-recess} host states n; inclusive container 2028-07-01 through 2028-08-20. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 09 — Second summer recess {#volume-09-second-summer-recess} host develops its partition through erentiated vacation block. A dated request, booking, or cancellation must first be classified against the actual day, then against its semester and instructional state. The volume boundary does not erase that internal distinction.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 09 — Second summer recess {#volume-09-second-summer-recess} host gives 277 authored words across 5 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 09 — Second summer recess {#volume-09-second-summer-recess} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
+
 **Status:** Work decision; inclusive container 2028-07-01 through 2028-08-20.
 
 This volume begins Saturday, 2028-07-01 and ends Sunday, 2028-08-20. It is academic year 2028–29, first semester, second year. The planned first instructional window ends Wednesday, 2028-07-19; summer recess runs Thursday, 2028-07-20 through Sunday, 2028-08-20. No examination window or founder birthday falls inside. The second semester begins Monday, 2028-08-21, outside the container.
@@ -117,6 +162,11 @@ School-office capacity changes from ordinary classes to maintenance, notices, ro
 The summer container includes July 1–19, when the first instructional window has not yet ended, and July 20–August 20, when it has. This internal shift is why a single volume cannot be treated as one undifferentiated vacation block. A dated request, booking, or cancellation must first be classified against the actual day, then against its semester and instructional state. The volume boundary does not erase that internal distinction.
 
 ## Volume 10 — Second-year autumn examination {#volume-10-second-year-autumn-examination}
+
+<!-- @evidence obligations/common.md#scope-preservation The Volume 10 — Second-year autumn examination {#volume-10-second-year-autumn-examination} host states n; inclusive container 2028-08-21 through 2028-10-27. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 10 — Second-year autumn examination {#volume-10-second-year-autumn-examination} host develops its partition through container; one recorded on October 28 belongs to the next. That distinction matters when a family shift, office queue, or accessible route is reconstructed from dated records rather than from a broad label such as “late October.”; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 10 — Second-year autumn examination {#volume-10-second-year-autumn-examination} host gives 309 authored words across 6 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 10 — Second-year autumn examination {#volume-10-second-year-autumn-examination} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
 
 **Status:** Work decision; inclusive container 2028-08-21 through 2028-10-27.
 
@@ -132,6 +182,11 @@ The final October Friday is also the last day before the Volume 11 boundary. A t
 
 ## Volume 11 — Second-year winter examination {#volume-11-second-year-winter-examination}
 
+<!-- @evidence obligations/common.md#scope-preservation The Volume 11 — Second-year winter examination {#volume-11-second-year-winter-examination} host states n; inclusive container 2028-10-28 through 2028-12-15. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 11 — Second-year winter examination {#volume-11-second-year-winter-examination} host develops its partition through egins a different volume even though the academic year continues. This partition gives record owners a precise date range for any room, key, notice, or family-work constraint without turning the range into a narrative instruction.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 11 — Second-year winter examination {#volume-11-second-year-winter-examination} host gives 249 authored words across 5 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 11 — Second-year winter examination {#volume-11-second-year-winter-examination} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
+
 **Status:** Work decision; inclusive container 2028-10-28 through 2028-12-15.
 
 This volume begins Saturday, 2028-10-28 and ends Friday, 2028-12-15. It remains academic year 2028–29, second semester, second year. Minseo’s birthday is Saturday, 2028-11-18. The protected examination window is Monday–Friday, 2028-12-11–15, ending at the container boundary. The preceding October window is outside in Volume 10; 2028-12-16 begins Volume 12.
@@ -144,6 +199,11 @@ The winter assessment dates are not a proxy for the whole December. October 28 t
 
 ## Volume 12 — Second-year winter close {#volume-12-second-year-winter-close}
 
+<!-- @evidence obligations/common.md#scope-preservation The Volume 12 — Second-year winter close {#volume-12-second-year-winter-close} host states n; inclusive container 2028-12-16 through 2029-02-28. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 12 — Second-year winter close {#volume-12-second-year-winter-close} host develops its partition through and March 1 is the next legal year boundary. A form signed on February 28 can therefore close a second-year record, while a March 1 form must identify the third-year container even if the same room, people, and project are named.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 12 — Second-year winter close {#volume-12-second-year-winter-close} host gives 248 authored words across 5 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 12 — Second-year winter close {#volume-12-second-year-winter-close} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
+
 **Status:** Work decision; inclusive container 2028-12-16 through 2029-02-28.
 
 This volume begins Saturday, 2028-12-16 and ends Wednesday, 2029-02-28. It is academic year 2028–29, second semester, second year. Lila’s birthday is Saturday, 2029-01-27. The planned second instructional window ends Thursday, 2029-02-08; winter recess and administrative conditions run Friday, 2029-02-09 through Wednesday, 2029-02-28. No examination window from 030 falls inside this container.
@@ -155,6 +215,11 @@ Outside are 2029-03-01, the new academic year, and 2029-03-02, the fictional off
 The January birthday is inside a winter interval but does not create a new school year or grade. February 28 is the final day of the second academic year, and March 1 is the next legal year boundary. A form signed on February 28 can therefore close a second-year record, while a March 1 form must identify the third-year container even if the same room, people, and project are named.
 
 ## Volume 13 — Third-year opening and spring assessment {#volume-13-third-year-opening-and-spring-assessment}
+
+<!-- @evidence obligations/common.md#scope-preservation The Volume 13 — Third-year opening and spring assessment {#volume-13-third-year-opening-and-spring-assessment} host states n; inclusive container 2029-03-01 through 2029-04-27. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 13 — Third-year opening and spring assessment {#volume-13-third-year-opening-and-spring-assessment} host develops its partition through Friday; April 28 begins a new volume on Saturday. A third-year record may therefore cite the same semester while still assigning a different volume owner to each date. No public-holiday list is needed to make that adjacency exact.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 13 — Third-year opening and spring assessment {#volume-13-third-year-opening-and-spring-assessment} host gives 296 authored words across 6 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 13 — Third-year opening and spring assessment {#volume-13-third-year-opening-and-spring-assessment} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
 
 **Status:** Work decision; inclusive container 2029-03-01 through 2029-04-27.
 
@@ -170,6 +235,11 @@ The April 27 examination close is a Friday; April 28 begins a new volume on Satu
 
 ## Volume 14 — Third-year spring examination {#volume-14-third-year-spring-examination}
 
+<!-- @evidence obligations/common.md#scope-preservation The Volume 14 — Third-year spring examination {#volume-14-third-year-spring-examination} host states n; inclusive container 2029-04-28 through 2029-06-29. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 14 — Third-year spring examination {#volume-14-third-year-spring-examination} host develops its partition through the first-semester endpoint and summer recess remain weeks away. That separation lets a household plan a weekend, an employer plan a shift, and a school office close an assessment ledger without moving the legal semester boundary.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 14 — Third-year spring examination {#volume-14-third-year-spring-examination} host gives 234 authored words across 5 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 14 — Third-year spring examination {#volume-14-third-year-spring-examination} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
+
 **Status:** Work decision; inclusive container 2029-04-28 through 2029-06-29.
 
 This volume begins Saturday, 2029-04-28 and ends Friday, 2029-06-29. It is academic year 2029–30, first semester, third year. Jae-won’s birthday is Saturday, 2029-06-02. The protected examination window is Monday–Friday, 2029-06-25–29, ending on the last date. The April window belongs to Volume 13; 2029-06-30 begins Volume 15.
@@ -182,6 +252,11 @@ The June 29 boundary is a Friday examination close, not the start of recess. Jun
 
 ## Volume 15 — Third-year summer edge {#volume-15-third-year-summer-edge}
 
+<!-- @evidence obligations/common.md#scope-preservation The Volume 15 — Third-year summer edge {#volume-15-third-year-summer-edge} host states n; inclusive container 2029-06-30 through 2029-08-19. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 15 — Third-year summer edge {#volume-15-third-year-summer-edge} host develops its partition through Any maintenance note dated August 19 remains first-semester evidence; any reopening or second-semester note dated August 20 belongs to the next container. This is a calendar distinction, not a forecast of a future national policy.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 15 — Third-year summer edge {#volume-15-third-year-summer-edge} host gives 246 authored words across 5 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 15 — Third-year summer edge {#volume-15-third-year-summer-edge} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
+
 **Status:** Work decision; inclusive container 2029-06-30 through 2029-08-19.
 
 This volume begins Sunday, 2029-06-30 and ends Sunday, 2029-08-19. It is academic year 2029–30, first semester, third year. The first instructional window continues through Thursday, 2029-07-19. Summer recess runs Friday, 2029-07-20 through Sunday, 2029-08-19, and the semester ends on that final date. No founder birthday or examination window falls inside.
@@ -193,6 +268,11 @@ School-office resources shift from instruction to maintenance, records, and reop
 The final first-semester date is Sunday, August 19. The next day belongs to semester 2 even if the building is not used for a full instructional schedule. Any maintenance note dated August 19 remains first-semester evidence; any reopening or second-semester note dated August 20 belongs to the next container. This is a calendar distinction, not a forecast of a future national policy.
 
 ## Volume 16 — Third-year second-semester assessment {#volume-16-third-year-second-semester-assessment}
+
+<!-- @evidence obligations/common.md#scope-preservation The Volume 16 — Third-year second-semester assessment {#volume-16-third-year-second-semester-assessment} host states n; inclusive container 2029-08-20 through 2029-10-26. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 16 — Third-year second-semester assessment {#volume-16-third-year-second-semester-assessment} host develops its partition through a hidden examination day; it is the first date owned by Volume 17. A family, teacher, or facilities record dated on that Saturday must therefore be evaluated under the longer final-year container rather than appended to this one.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 16 — Third-year second-semester assessment {#volume-16-third-year-second-semester-assessment} host gives 297 authored words across 6 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 16 — Third-year second-semester assessment {#volume-16-third-year-second-semester-assessment} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
 
 **Status:** Work decision; inclusive container 2029-08-20 through 2029-10-26.
 
@@ -208,6 +288,11 @@ October 26 is the final protected examination date in the third-year autumn wind
 
 ## Volume 17 — Final school-year close and graduation administration {#volume-17-final-school-year-close}
 
+<!-- @evidence obligations/common.md#scope-preservation The Volume 17 — Final school-year close and graduation administration {#volume-17-final-school-year-close} host states n; inclusive container 2029-10-27 through 2030-02-28. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 17 — Final school-year close and graduation administration {#volume-17-final-school-year-close} host develops its partition through ed access decision dated February 28 remains a current-student-era matter even if it is processed after office hours. March 1 is not a retrospective correction to that status; it is the first date of the separate alumni container.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 17 — Final school-year close and graduation administration {#volume-17-final-school-year-close} host gives 314 authored words across 6 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 17 — Final school-year close and graduation administration {#volume-17-final-school-year-close} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
+
 **Status:** Work decision; inclusive container 2029-10-27 through 2030-02-28.
 
 This volume begins Saturday, 2029-10-27 and ends Thursday, 2030-02-28. It is academic year 2029–30, second semester, third year, and it contains the final student-status boundary. Minseo’s birthday is Sunday, 2029-11-18. The protected examination window is Monday–Friday, 2029-12-10–2029-12-14. The planned second instructional window ends Thursday, 2030-02-07; winter recess and graduation administration run Friday, 2030-02-08 through Thursday, 2030-02-28. Graduation boundary is the inclusive final date.
@@ -221,6 +306,11 @@ February 8 is the first day of the winter and graduation-administration interval
 The final container’s endpoint is inclusive: a key, record, notice, or supervised access decision dated February 28 remains a current-student-era matter even if it is processed after office hours. March 1 is not a retrospective correction to that status; it is the first date of the separate alumni container.
 
 ## Volume 18 — First post-graduation quarter {#volume-18-first-post-graduation-quarter}
+
+<!-- @evidence obligations/common.md#scope-preservation The Volume 18 — First post-graduation quarter {#volume-18-first-post-graduation-quarter} host states n; inclusive container 2030-03-01 through 2030-06-30. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 18 — First post-graduation quarter {#volume-18-first-post-graduation-quarter} host develops its partition through me on a Monday, so a job schedule, municipal booking, or school invitation cannot be carried across the boundary without its own dated continuation. The post-graduation interval remains continuous, but its volume ownership is not.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 18 — First post-graduation quarter {#volume-18-first-post-graduation-quarter} host gives 347 authored words across 7 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 18 — First post-graduation quarter {#volume-18-first-post-graduation-quarter} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
 
 **Status:** Work decision; inclusive container 2030-03-01 through 2030-06-30.
 
@@ -238,6 +328,11 @@ June 30 closes this first alumni quarter on a Sunday. July 1 is outside and star
 
 ## Volume 19 — Post-graduation summer and autumn {#volume-19-post-graduation-summer-and-autumn}
 
+<!-- @evidence obligations/common.md#scope-preservation The Volume 19 — Post-graduation summer and autumn {#volume-19-post-graduation-summer-and-autumn} host states n; inclusive container 2030-07-01 through 2030-10-31. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 19 — Post-graduation summer and autumn {#volume-19-post-graduation-summer-and-autumn} host develops its partition through by an invitation or contract. No exact public-holiday list is assumed. The container instead records daylight, transport, employment, and facility-access resources that a later layer can use without inventing a national calendar.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 19 — Post-graduation summer and autumn {#volume-19-post-graduation-summer-and-autumn} host gives 290 authored words across 6 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 19 — Post-graduation summer and autumn {#volume-19-post-graduation-summer-and-autumn} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
+
 **Status:** Work decision; inclusive container 2030-07-01 through 2030-10-31.
 
 This volume begins Monday, 2030-07-01 and ends Thursday, 2030-10-31. It remains inside the post-graduation interval, with alumni or young-adult standing throughout. No high-school semester, grade, examination window, or graduation boundary from 030 falls inside. The school’s 2030–31 legal academic year begins on 2030-03-01, but that academic-year boundary is outside this volume and does not make the founders enrolled students.
@@ -252,6 +347,11 @@ The post-graduation academic year exists as a city and school administrative bac
 
 ## Volume 20 — Post-graduation winter close {#volume-20-post-graduation-winter-close}
 
+<!-- @evidence obligations/common.md#scope-preservation The Volume 20 — Post-graduation winter close {#volume-20-post-graduation-winter-close} host states n; inclusive container 2030-11-01 through 2031-02-28. This is the exact temporal container scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Volume 20 — Post-graduation winter close {#volume-20-post-graduation-winter-close} host develops its partition through y and its inclusive endpoint. The interval contains no school assessment schedule because alumni status is not a school grade. Any later date would require a revised delivery scope rather than an implied continuation of Volume 20.; downstream layers do not need to invent its boundary conditions. -->
+<!-- @evidence obligations/common.md#proportionate-development The Volume 20 — Post-graduation winter close {#volume-20-post-graduation-winter-close} host gives 376 authored words across 7 paragraphs to its one-volume time container, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Volume 20 — Post-graduation winter close {#volume-20-post-graduation-winter-close} acknowledgement is grounded in this host's exact dates, standing, and resource constraints rather than a generic chronology claim. -->
+
 **Status:** Work decision; inclusive container 2030-11-01 through 2031-02-28.
 
 This volume begins Friday, 2030-11-01 and ends Friday, 2031-02-28. It is the final post-graduation container; the founders remain alumni or young adults, never current high-school students by chronology. Lila’s birthday is Monday, 2031-01-27. No high-school examination, semester, or winter-recess window is imported into this volume. The delivery boundary is the final Friday, 2031-02-28, and the next date is outside the novel’s fixed interval.
@@ -265,3 +365,15 @@ The post-graduation year closes as a calendar container, not as a claim that Han
 The final February birthday inside the delivery is Lila’s Monday, 2031-01-27; the other founders’ birthday dates are outside this container’s span. February 28 is a Friday and closes the fixed delivery interval, while March 1, 2031 is outside the novel’s chronology. A final record may describe an open question or a continuing civic obligation, but its date must remain no later than the inclusive endpoint unless a separately authorized settings revision changes the delivery scope.
 
 November 1, 2030 is a Friday and the first date of the final container, while February 28, 2031 is a Friday and its inclusive endpoint. The interval contains no school assessment schedule because alumni status is not a school grade. Any later date would require a revised delivery scope rather than an implied continuation of Volume 20.
+<!-- @evidence principles/common.md#purpose-fit The file Volume Time Boundaries owns 20 explicit volume time-container H2s; its overview states "This file divides the delivery interval into twenty inclusive chronological containers. A volume container owns dates, institutional status, seasonal resources, and the boundaries that later layers must inherit; it does ", providing the twenty-volume temporal allocation required by the delivery contract. -->
+<!-- @evidence principles/common.md#layer-boundary The file Volume Time Boundaries owns 20 explicit volume time-container H2s; its overview states "This file divides the delivery interval into twenty inclusive chronological containers. A volume container owns dates, institutional status, seasonal resources, and the boundaries that later layers must inherit; it does "; these H2s set dates and constraints only, while storyline, scenario, and manuscript layers own events and scenes. -->
+<!-- @evidence principles/common.md#work-language The file Volume Time Boundaries owns 20 explicit volume time-container H2s; its overview states "This file divides the delivery interval into twenty inclusive chronological containers. A volume container owns dates, institutional status, seasonal resources, and the boundaries that later layers must inherit; it does "; every volume container uses readable English, ISO dates, exact weekdays, and stable descriptive slugs. -->
+<!-- @evidence principles/settings.md#addressable-canon The file Volume Time Boundaries owns 20 explicit volume time-container H2s; its overview states "This file divides the delivery interval into twenty inclusive chronological containers. A volume container owns dates, institutional status, seasonal resources, and the boundaries that later layers must inherit; it does "; each Volume 01 through Volume 20 has one independent H2 owner rather than an umbrella chronology. -->
+<!-- @evidence principles/settings.md#information-structure The file Volume Time Boundaries owns 20 explicit volume time-container H2s; its overview states "This file divides the delivery interval into twenty inclusive chronological containers. A volume container owns dates, institutional status, seasonal resources, and the boundaries that later layers must inherit; it does "; each volume H2 identifies inclusive dates, academic standing, boundary conditions, resources, and outside dates in a consistent auditable order. -->
+<!-- @evidence principles/settings.md#fact-status The file Volume Time Boundaries owns 20 explicit volume time-container H2s; its overview states "This file divides the delivery interval into twenty inclusive chronological containers. A volume container owns dates, institutional status, seasonal resources, and the boundaries that later layers must inherit; it does "; the file labels its exact Haneul partitions and seasonal resource choices as Work decisions while inheriting legal/source dates from 030. -->
+<!-- @evidence principles/settings.md#source-support The file Volume Time Boundaries owns 20 explicit volume time-container H2s; its overview states "This file divides the delivery interval into twenty inclusive chronological containers. A volume container owns dates, institutional status, seasonal resources, and the boundaries that later layers must inherit; it does "; it relies on the directly researched chronology in 030 and avoids inventing public-holiday or weather-average claims. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file Volume Time Boundaries owns 20 explicit volume time-container H2s; its overview states "This file divides the delivery interval into twenty inclusive chronological containers. A volume container owns dates, institutional status, seasonal resources, and the boundaries that later layers must inherit; it does "; every container states start/end, grade or alumni standing, exams/recess/birthday/graduation boundaries, daylight/weather/transport/office/family-work conditions, and outside dates. -->
+<!-- @evidence principles/settings.md#minimal-departure The file Volume Time Boundaries owns 20 explicit volume time-container H2s; its overview states "This file divides the delivery interval into twenty inclusive chronological containers. A volume container owns dates, institutional status, seasonal resources, and the boundaries that later layers must inherit; it does "; its exact contiguous partitions and fictional resource conditions are explicit departures from an unspecified real calendar rather than hidden defaults. -->
+<!-- @evidence principles/settings.md#internal-coherence The file Volume Time Boundaries owns 20 explicit volume time-container H2s; its overview states "This file divides the delivery interval into twenty inclusive chronological containers. A volume container owns dates, institutional status, seasonal resources, and the boundaries that later layers must inherit; it does "; the twenty inclusive partitions are contiguous, preserve the 030 academic windows, and keep student status through Volume 17 before alumni Volume 18. -->
+
+# Volume Time Boundaries
