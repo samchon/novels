@@ -1,10 +1,39 @@
 
+<!-- @evidence principles/common.md#purpose-fit This file is needed because the founders' civic game depends on peer authorization, refusal, communication, repair, privacy, access, safeguarding, and the right to remain outside; the complete body fixes those interfaces without assigning meetings. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa I read the full file and compared its twelve social owners with the foundation promise; Non-participation is the limiting host because it tests whether civic maintenance remains voluntary when every other H2 invites contact. -->
+<!-- @evidence principles/common.md#layer-boundary The complete file states social facts, permissions, record limits, and escalation conditions; its conflict and referral H2s stop short of allocating an event, scene, or finished prose. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 I reread each H2 from Status through its final paragraph and checked the closest boundary cases—Conflict, apology, and repair and Adult contact and safeguarding referral—against settings ownership. -->
+<!-- @evidence principles/common.md#work-language The file's English terms distinguish consent from attendance, translation from institutional issuance, accommodation from diagnosis, and non-participation from betrayal, matching the work's language contract. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c I compared the English variety rule with the complete Invitation, Translation, Group chat, and Privacy hosts; Translation is weakest because the body preserves refusal, register, ambiguity, and source authority together. -->
+<!-- @evidence principles/settings.md#addressable-canon The complete file gives separate H2 addresses to cohort, invitation, roles, chat, repair, media, translation, accommodation, peer economy, safeguarding, ledger, and non-participation. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f I counted twelve H2s and checked each boundary against its neighbors; Privacy and identifiable media is the clearest separation from Participation ledger because media access and operational records have different owners. -->
+<!-- @evidence principles/settings.md#information-structure Every H2 has Status followed by an orienting rule and functional paragraphs for conditions, limits, records, exceptions, or consequences; no unit relies on its title as its only definition. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 I read all twelve H2 bodies in order and compared their paragraph functions; Participation ledger and minimum necessary record is the weakest structure host because it joins intake, closure, access, correction, and retention. -->
+<!-- @evidence principles/settings.md#fact-status The Status lines consistently mark fictional peer rules as Work decisions and distinguish them from unresolved safety/privacy conditions routed to responsible adults or records owners. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 I checked every Status against its body, especially Access needs, Adult contact, and Participation ledger; none turns a fictional social rule or a disclosure into a diagnosis or settled external fact. -->
+<!-- @evidence principles/settings.md#source-support The file does not attach broad research to fictional peers; it identifies the responsible host, adult, school process, or authorized service when a claim exceeds the club's evidence and authority. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 I reread Privacy, Translation, Access needs, Adult contact, and the ledger's retention paragraph; each limits what the club can assert rather than inventing a source for Haneul peers. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The body fixes population, consent, roles, chat, repair, media, translation, accommodation, money pressure, referral, minimum records, and refusal as downstream-usable constraints. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 I compared the complete file's constraints with the common obligations; Adult contact and safeguarding referral is the narrowest operational host because it fixes adult, backup, emergency, confidentiality, and no-vote limits. -->
+<!-- @evidence principles/settings.md#minimal-departure Haneul peer-network procedures are explicit work canon, while ordinary consent, privacy, accessibility, safeguarding, and institutional record authority remain the defaults that limit them. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 I compared Invitation, Privacy, Access, Money, and Adult contact with ordinary participation assumptions; the file declares its fictional ledger and chat practices without making them universal law. -->
+<!-- @evidence principles/settings.md#internal-coherence The twelve H2s form one system: bounded peers receive invitations, take limited roles, communicate, repair harm, protect media, translate, accommodate, manage pressure, escalate, record minimally, and may decline. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e I traced a peer from cohort membership through invitation, role, chat, privacy, accommodation, referral, ledger closure, and non-participation; Invitation is the continuity anchor and no later H2 reverses its consent rule. -->
+
 # Peer Network and Consent
 
 This file defines the social interfaces around the founders. It fixes what a peer relationship can authorize, what a club request must disclose, and how refusal, translation, privacy, and repair remain materially real. It does not assign meetings or plot turns.
 
 ## Class cohort as a bounded population
 
+<!-- @evidence obligations/common.md#scope-preservation The H2 defines classmates as varied people rather than one audience, limits “the class” requests to channel/date/response method, restricts personal details, and preserves nickname, anonymous, and no-participation options. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I reread the complete H2 and checked its population, information, and response clauses; the sentence that silence is not endorsement is the decisive scope boundary. -->
+<!-- @evidence obligations/common.md#substantive-completion The H2 settles who the cohort is, what a class request must identify, which records are not general club resources, and how absent replies are interpreted. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I compared the opening population paragraph with the personal-data paragraph and the final silence rule; a downstream request has a usable boundary without inventing a roster. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops cohort variation, class-channel meaning, data minimization, alternate identity, anonymous response, and non-response as separate social conditions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I checked each paragraph's distinct function; the anonymous/nickname option is the least obvious sibling and is retained as a real participation mode. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status calls the cohort a fictional school population; the H2 makes no demographic claim and treats names, attendance, health, and family details as purpose-limited. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I reread Status and every personal-data example; the fictional cohort rule is not presented as an external roster or privacy statute. -->
 
 **Status:** Work decision — fictional school canon.
 
