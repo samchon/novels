@@ -145,6 +145,14 @@ The group cannot treat disagreement as a defect to be edited out. Each founder m
 
 ## Stress, fatigue, and recovery capacity
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes stress, fatigue, breaks, recovery, workload, warning signs, and capacity reduction conditions. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked fatigue, workload, breaks, and warning boundaries; capacity is variable and cannot be assumed from prior performance. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete resource and stop framework without diagnosing or scripting a scene. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the recovery and reduction clauses; downstream units receive a clear reason to pause or redistribute work. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates stress, fatigue, recovery, workload, warning, and redistribution. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the six effects; recovery is the independent resource. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional capacity constraints and avoids unsupported medical diagnosis. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and safety wording; no clinical claim is made. -->
 
 **Status:** Work decision — embodied constraint.
 
