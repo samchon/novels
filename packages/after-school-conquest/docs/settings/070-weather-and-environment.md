@@ -49,6 +49,14 @@ The Korea Meteorological Administration's public hazard guidance distinguishes f
 
 ## Monsoon rain and saturated surfaces
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes monsoon rain, saturated pavement, route traction, notice/material damage, shelter, and the distinction between rain conditions and official flood closure. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked surface, route, notice, shelter, and closure effects; saturated travel is not equated with the municipal 1.2-metre trigger. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives downstream writers rain-dependent movement and material limits without inventing a forecast or closure authority. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the saturated-surface and authority paragraphs; rain changes traction and time while closure remains separately recorded. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates pavement, clothing, paper notices, shelter, traction, and institutional response. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared physical and material effects; soaked notices are the distinct information consequence. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional monsoon operating conditions, not a real climate average or legal rain threshold. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and the closure distinction; no external weather statistic is asserted. -->
 
 **Status:** Source-verified hazard framework plus Work decision for Haneul surface states.
 
