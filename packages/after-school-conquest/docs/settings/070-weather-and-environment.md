@@ -133,6 +133,14 @@ KMA's official warning page is the source-verified channel for current cold, sno
 
 ## Wind, lightning, and falling objects
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes wind, lightning, falling-object, shelter, closure, and outdoor-equipment limits. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the weather hazards and shelter/closure responses; equipment exposure is the narrowest scope condition. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a usable stop and shelter boundary without prescribing an event. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread hazard and shelter conditions; outdoor work cannot continue by timetable alone. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates wind, lightning, falling objects, shelter, and equipment effects. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the hazard types; falling objects are the distinct physical consequence. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional weather safety conditions, not a real warning standard. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and authority wording; no external forecast is claimed. -->
 
 **Status:** Source-verified hazard categories plus Work decision for Haneul's exposed edges.
 
