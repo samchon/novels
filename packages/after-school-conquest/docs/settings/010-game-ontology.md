@@ -1,8 +1,37 @@
 
+<!-- @evidence principles/common.md#purpose-fit This file defines the game's vocabulary and operating boundaries—conquest, territory, seal, token, ledger, consent, refusal, maintenance, expiry, dispute, non-ownership, and ordinary-world priority—so later settings and narrative units can use one civic-maintenance system without inventing its meaning. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa I reread all twelve H2s as one ontology and compared the promise of a harmless game acquiring real costs; Ordinary-world boundary is the weakest purpose test because it must reconnect every game term to accountable institutions. -->
+<!-- @evidence principles/common.md#layer-boundary The H2s settle fictional facts, permissions, records, limits, and authorities; they do not schedule plot events, prescribe scenes, or write finished prose, while the maintenance and dispute rules provide settings constraints for those downstream layers. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 I compared each H2 with the four layer definitions; Dispute status and Maintenance obligation are the closest to process, yet they define statuses and duties rather than event order or scene blocking. -->
+<!-- @evidence principles/common.md#work-language The ontology fixes English labels such as “conquest,” “territory,” “seal,” “token,” and “ownership” with plain-language limits, while retaining Korean legal/institutional references only where their named authority matters. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c I read every defined term and the English-language safety wording; Ownership prohibition is the weakest clarity check because its banned possession language must remain intelligible without turning metaphor into legal ownership. -->
+<!-- @evidence principles/settings.md#addressable-canon Each independently changeable game element has its own H2: four artifacts, four participation/maintenance states, dispute handling, ownership boundary, and real-world relationship are not bundled into one rule. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f I counted the twelve H2 owners and checked their references; Ledger identity, Consent standard, and Dispute status remain separately reviewable because provenance, permission, and disagreement have different consumers. -->
+<!-- @evidence principles/settings.md#information-structure Every H2 begins with a Status and then develops definition, authority, conditions, exceptions, records, and consequences; the multi-paragraph Consent standard and Ordinary-world boundary separate participation mechanics from institutional limits. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 I read each H2 from Status through its final paragraph and compared paragraph function; Consent standard is the densest unit, but its task/data/publicity split and refusal consequence are not repeated claims. -->
+<!-- @evidence principles/settings.md#fact-status Status lines mark the ontology as fictional work decisions, while the CRC Article 12 and Korean privacy-law references are identified as informing sources rather than proof that the invented game exists. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 I checked every Status and both source-bearing H2s; the game rules remain Work decisions, and the cited youth-participation/privacy principles are not mislabelled as fictional institutional facts. -->
+<!-- @evidence principles/settings.md#source-support The external youth-participation and privacy claims identify direct Article 12 and Personal Information Protection Act Article 3 links; invented records, intervals, serials, and Haneul authorities remain explicitly fictional operating decisions. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 I reread Consent standard and Conquest definition and inspected their direct CRC and law links; the sources support participation/privacy framing only, while seven-day checks and G-L01 mechanics stay marked fictional. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file fixes hosts, permissions, record fields, expiry triggers, review statuses, access limits, safety override, noncash token limits, and institutional precedence so downstream writers need not invent how a task is accepted or stopped. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 I compared Conquest definition, Ledger identity, Consent standard, Expiry condition, Dispute status, and Ordinary-world boundary; Expiry condition is the narrowest operating rule and still specifies trigger, record effect, reminder, and renewal. -->
+<!-- @evidence principles/settings.md#minimal-departure The ontology declares its departures from ordinary language and institutions: theatrical “conquest,” fictional seals/tokens/G-L01 forms, coarse public coordinates, and voluntary student maintenance, while real safety and legal authority remain defaults that override the game. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 I compared the invented artifacts and intervals with Ordinary-world boundary and the host/authority clauses; Seal meaning is the weakest departure boundary because it repeatedly denies cash, grade, legal, and ownership effects. -->
+<!-- @evidence principles/settings.md#internal-coherence The host, student, adviser, secretary, treasurer, records officer, paper ledger, encrypted copy, seal expiry, dispute statuses, and municipal/education-office split form one consistent record-and-authority system. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e I traced artifact creation through consent, maintenance, expiry, dispute, and institutional override; Ledger identity is the arithmetic/authority anchor, and no token, seal, or map mark acquires a power later denied. -->
+
 # Game Ontology
 
 ## Conquest definition
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 defines conquest as a voluntary host-task-student-evidence-review relationship and includes proposal, host agreement, student recording, cancellation, coercion prohibitions, safety, and review-date requirements. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the five-part relationship and every admission condition; the host's ability to cancel without penalty is the narrowest scope protection and is explicit. -->
+<!-- @evidence obligations/common.md#substantive-completion The H2 gives a downstream-usable admission test—willing host, safe task, dated review—and assigns proposal, agreement, recording, and cancellation authority without scripting a particular event. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the definition and operating paragraph; the “map mark only” consequence closes the missing-condition case instead of leaving later authors to decide what an invalid conquest means. -->
+<!-- @evidence obligations/common.md#proportionate-development The ontology distinguishes relationship components, coercive recruitment routes, maintained usefulness, and the map-mark fallback, giving the central term more development than a theatrical synonym. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the definition's relationship, consent, safety, review, and success-condition paragraphs; maintained usefulness is the least visible sibling and is made the success condition rather than score accumulation. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status calls this a fictional civic-maintenance game rule; CRC Article 12 is named only as an informing youth-voice source, while the host/task/record mechanics remain work canon. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, the CRC sentence, and the invented process terms; the source is not used to claim that youth law authorizes the club or that the fictional game exists. -->
 
 **Status:** Work decision - fictional civic-maintenance game.
 
@@ -14,6 +43,14 @@ The fictional rule is designed around youth voice and voluntary participation. T
 
 ## Territory definition
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 covers bounded zones, host authority, required G-L01 fields, privacy exclusions, overlap handling, coarse public coordinates, and suspension when a route is unsafe. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I compared the spatial examples with the private-address and closed-space prohibitions; the overlap rule is the narrowest boundary and prevents two seals from silently creating priority. -->
+<!-- @evidence obligations/common.md#substantive-completion The territory rule fixes physical boundary, responsible authority, access hours, hazard note, review date, public-map granularity, and red-ink/digital suspension behavior for later use. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I read all three paragraphs and tested the route-unsafe case; the timestamped suspension and no-defense rule settle the exceptional condition without assigning a plot response. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops service zone, route, object, recurring condition, overlap, privacy, and suspension as distinct spatial functions rather than using territory as a generic map label. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the examples, authority rule, overlap rule, and public/private map treatment; private-address protection is the most consequential detail and receives a separate operating constraint. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies a fictional spatial boundary; examples, G-L01, paper grid, encrypted copy, and suspension mark are adopted mechanics, not claims about an actual public mapping system. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked the Status and every spatial artifact assertion; the H2 distinguishes its fictional map records from any real cadastral or municipal authority. -->
 
 **Status:** Work decision - fictional spatial boundary.
 
@@ -25,6 +62,14 @@ The map uses a paper grid and an encrypted digital copy with coarse public coord
 
 ## Seal meaning
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 specifies seal appearance, serial/host/expiry data, signatures, adviser countersign conditions, storage, scan limits, invalidation triggers, and publication/privacy limits. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the physical stamp, G-L01 signature, school-resource countersign, sleeve storage, scan, void, and publication clauses; the host-confirmation requirement remains the decisive scope condition. -->
+<!-- @evidence obligations/common.md#substantive-completion The seal's evidentiary meaning and void/reconstruction procedure clearly distinguish accepted task completion from cash, grades, legal authority, ownership, or personal superiority. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I compared the positive certification sentence with every denied effect and the missing-serial/date rule; the pending-reconstruction path makes a defective seal operationally usable. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates physical artifact, signatures, storage, digital copy, invalidation, publication, and symbolic meaning, proportioning the central certification object to its later record consequences. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I reviewed the artifact, authority, custody, validity, and publication paragraphs; custody is easiest to omit downstream, so sleeve storage and scan non-substitution are both stated. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks the seal as fictional certification; its serial, expiry, and countersign rules are not presented as official certification law or a real-world credential. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked the Status and the “no cash/grade/legal/ownership” limitations; the H2 never borrows an external authority for the invented stamp. -->
 
 **Status:** Work decision - fictional certification artifact.
 
@@ -34,6 +79,14 @@ The physical seal stays in the ledger sleeve rather than on a person or building
 
 ## Token meaning
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes token denominations, noncash status, shift-sheet issuance, correction/cancellation custody, forty-hour public cap, private provenance, quarantine, and three-school-day comparison. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked every denomination, prohibition, cap, provenance, quarantine, and correction condition; the cap's non-confiscation sentence is the narrowest scope safeguard. -->
+<!-- @evidence obligations/common.md#substantive-completion The token rule gives issuance, worker verification, excluded financial functions, correction authority, counterfeit handling, and preserved labour history, so later layers cannot turn it into money or grades. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the issuance and counterfeit paragraphs and traced the error path from shift sheet to correction mark; completed labour remains historical evidence while fictional cash never appears. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops denominations, labour provenance, budget separation, public prestige limit, error quarantine, and correction as separate consequences of a noncash record. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the public-cap, private-record, budget, and correction functions; prestige control is the least obvious use and is explicitly separated from deletion or confiscation. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies a fictional noncash labour record; its hours, cap, serial, and quarantine rules are work decisions, not wage, tax, academic-credit, or donation claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status against every denied use and the fictional operating values; no real labour or monetary authority is asserted. -->
 
 **Status:** Work decision - fictional noncash labour record.
 
@@ -45,6 +98,14 @@ Counterfeit or duplicated tokens are quarantined, not publicly mocked. The treas
 
 ## Ledger identity
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 enumerates G-L01 identity fields, paper and encrypted custody, role-specific create/activate/amend/freeze/delete permissions, append-only edits, record exclusions, and discrepancy handling. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked every identity field and every named role against the paper/digital custody rule; the temporary-contact deletion authority is the narrowest privacy scope and is retained. -->
+<!-- @evidence obligations/common.md#substantive-completion The ledger rule fixes creation, activation, amendment, freezing, deletion, timestamping, and witnessed-discrepancy behavior, giving downstream units a complete provenance mechanism. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I traced a record from Minseo's draft number through secretary activation, host amendment, adviser freeze, and records-officer deletion; the witnessed host entry resolves paper/digital conflict without erasing history. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 treats identity fields, custody, permissions, append-only history, excluded databases, and discrepancy status as separate record functions rather than compressing provenance into a serial number. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the field list with the role and discrepancy paragraphs; the excluded attendance/health/voter/municipal databases are the easiest scope to lose and are explicitly named. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks G-L01 and its custodianship as fictional provenance canon; the H2 does not claim that the club's ledger is a school, health, voter, or municipal record. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked the Status, role permissions, and excluded-record sentence; every identity and custody rule is internal canon and no official database status is implied. -->
 
 **Status:** Work decision - fictional provenance record.
 
@@ -54,6 +115,14 @@ Minseo can create a draft number; only the secretary can activate it; the host c
 
 ## Consent standard
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 covers task/location/time/burden/risk/data/publicity/review/withdrawal disclosures, confirmation modes, read-back, guardian conditions, separate consents, decline recording, and no-penalty refusal. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked all nine disclosure fields, three confirmation modes, guardian condition, three separate permissions, and decline record; publicity consent is the narrowest independent choice and remains separate from work consent. -->
+<!-- @evidence obligations/common.md#substantive-completion The consent rule fixes how understanding is established, which signatures add rather than replace youth agency, what is not consent, how withdrawal works, and what record follows a decline. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the operative read-back, silence exclusions, guardian, withdrawal, and decline paragraphs; the host can approve repair while refusing photography, providing a concrete downstream permission case. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 distinguishes information disclosure, confirmation accessibility, guardian involvement, non-consent signals, separate data/publicity permissions, and refusal records, matching the importance of voluntary participation. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the disclosure, signature, separate-consent, and refusal functions; the accessible confirmation modes receive independent treatment instead of being hidden inside a generic consent sentence. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status calls this a fictional participation rule informed by CRC Article 12 and PIPA Article 3; those sources frame youth voice/privacy, while read-back, guardian, and G-L01 mechanics remain work decisions. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I reread Status and both direct source references and separated source/mechanics sentences; the legal links are not used to claim the invented club process is statutory. -->
 
 **Status:** Work decision - voluntary and informed participation rule.
 
@@ -65,6 +134,14 @@ The consent practice is a work decision informed by the youth-participation prin
 
 ## Refusal right
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 gives every host, student, volunteer, adviser, and affected passer-by a no/stop right, records time/category/safety/follow-up, preserves completed work and membership, and blocks retaliation. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked all protected people, pre-start and mid-task exits, record fields, retained access, adult-danger exception, and public-summary privacy; the passer-by protection is the easiest to omit and is explicit. -->
+<!-- @evidence obligations/common.md#substantive-completion The exit rule specifies immediate safety handling, ordinary consequences, the only emergency exception, host-initiated reopening, and anonymous public wording, making refusal executable rather than aspirational. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I traced “no,” “stop,” emergency direction, later invitation, and public summary through the full H2; adult safety direction is clearly action, not retroactive game consent. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops ordinary refusal, in-task stop, safety exception, revised invitation, and public privacy as distinct states, proportionate to the ontology's voluntary premise. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the five exit states and their records; the revised-invitation case is the least visible transition and is limited to host-initiated contact. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies an enforceable fictional exit rule; it does not claim that the club can override emergency services or that its no-retaliation promise is an external legal remedy. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, emergency exception, and retaliation prohibition; the H2 distinguishes its internal promise from external emergency authority. -->
 
 **Status:** Work decision - enforceable exit rule.
 
@@ -74,6 +151,14 @@ The only exception is an immediate danger in which an adult or emergency service
 
 ## Maintenance obligation
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 includes next check, responsible shift, reserve, key, host contact, three fictional check intervals, delegation, host closure, resource/weather failure reporting, and maintenance-hour accounting. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked every field and interval and the failure branches for people, money, access, and weather; host-alone closure is the narrowest ownership boundary and is present. -->
+<!-- @evidence obligations/common.md#substantive-completion The post-seal rule fixes what a seal creates, who reports delegated work, how a host ends duty, and why unmaintained status cannot be silently extended. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the duty, delegation, closure, and unmaintained paragraphs; the explicit no-silent-extension rule closes the principal downstream ambiguity. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 differentiates low-risk shelf, weather-sensitive board, agreed-hours route, delegation, host closure, and resource failure instead of assigning one universal maintenance interval. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the three condition-specific intervals with delegation and failure reporting; outdoor weather checks are the most context-sensitive and are not generalized into safety law. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status explicitly calls the intervals fictional operating values; the H2 does not present seven-day, rain, or route checks as universal safety standards. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status against each interval and the material-reserve/key fields; fictional values remain clearly bounded and are not attributed to an external authority. -->
 
 **Status:** Work decision - post-completion duty.
 
@@ -83,6 +168,14 @@ The responsible student may delegate a shift but remains responsible for reporti
 
 ## Expiry condition
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 covers all three expiry triggers, first-reason recording, public-map versus token/history effects, reminder timing, fresh confirmation, closure pauses, adult recording, and new-date requirements. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked printed-date, withdrawal, physical-change, closure, and absence cases against their record consequences; physical description becoming false is the narrowest trigger and is explicit. -->
+<!-- @evidence obligations/common.md#substantive-completion The expiry rule gives a precise time, trigger precedence, reminder, pause condition, renewal procedure, and preservation boundary so expiration cannot be mistaken for deletion or blame. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I traced expiry through public mark, historical record, token, receipt, correction, reminder, and renewal; the first-applicable-reason rule makes competing triggers operational. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates validity time, consent withdrawal, physical change, public-map effect, labour provenance, weather/school closure, reminder, and renewal rather than treating expiry as one date label. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the three triggers and the separate record effects; physical change and closure are the least calendar-like cases and receive their own conditions. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies a fictional dated-validity rule; the 23:59 time, seven-day reminder, and pause mechanism are adopted canon, not statutory expiry requirements. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, clock time, reminder, and pause wording; no external legal or safety source is claimed for these invented validity values. -->
 
 **Status:** Work decision - dated validity limit.
 
@@ -92,6 +185,14 @@ The secretary sends an accessible reminder seven days before expiry. Renewal req
 
 ## Dispute status
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 defines questioned, paused, under-review, and resolved states; G-D01 timing, accessible receipt, reviewer independence, evidence set, uncertainty, appeal, and safeguarding separation are all included. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked each status, one-school-day opening, receipt, reviewer, evidence, final-record, and harassment branch; the appeal destination is the narrowest unresolved institutional dependency and is required in the final record. -->
+<!-- @evidence obligations/common.md#substantive-completion The dispute rule fixes state transitions, complaint opening, accessible communication, conflict-of-interest exclusion, comparison materials, privacy boundary, final decision fields, and non-game safeguarding referral. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I read the full status sequence and reviewer/evidence rules; “resolved” records correction, withdrawal, or confirmation plus uncertainty and appeal, so downstream work need not invent closure. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 distinguishes factual questioning, safety/consent pause, formal review, resolution, evidence comparison, institutional appeal, and safeguarding, matching the different consequences of disagreement. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the four statuses with the evidence and safeguarding branches; harassment/retaliation is deliberately separated from game review rather than overdeveloping a score dispute. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status calls this a fictional disagreement record; G-D01, one-day timing, evidence set, and appeal fields are work mechanics, not claims that the club's process replaces school discipline or law. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, the evidence list, and the final-record authority wording; the H2 explicitly separates safeguarding/discipline from game disputes and makes no official-process claim. -->
 
 **Status:** Work decision - staged disagreement record.
 
@@ -101,6 +202,14 @@ The reviewer cannot be the person who made the disputed entry. A host can reques
 
 ## Ownership prohibition
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 blocks transfer of land, people, organizations, services, culture, and government power and adds host, city, education-office, resident, participant, naming, and public-language limits. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the legal, social, symbolic, naming, and public-language prohibitions; the refusal-as-gap example is the narrowest anti-possession safeguard and remains explicit. -->
+<!-- @evidence obligations/common.md#substantive-completion The prohibition assigns authority to city, education office, and host, defines symbolic-possession consequences, and gives a correction/host-review path for an ownership-implying map. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the authority paragraph and correction procedure; withdrawal, correction, and host preview make the semantic boundary actionable without requiring a later scene to define repair. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops physical ownership, organizational/service power, cultural representation, participant loyalty, public language, map correction, and host republication as distinct forms of prohibited possession. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the physical, institutional, symbolic, and linguistic examples; speaking for a nonparticipant and displaying refusal are the least obvious forms and receive separate prohibitions. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks this as an absolute fictional semantic boundary; municipal, education-office, host, and resident authorities are package canon and are not presented as legal advice or a real transfer rule. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and every authority/possession sentence; the H2 denies legal effect to the game and does not assert an external ownership doctrine. -->
 
 **Status:** Work decision - absolute semantic boundary.
 
@@ -110,6 +219,14 @@ The prohibition also covers symbolic possession. A student may not call a nonpar
 
 ## Ordinary-world boundary
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 places the fictional game inside contemporary institutions and includes school supervision, permits, privacy, emergency, building, transport, attendance, medical, purchasing, and separate city/education authorities. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the ordinary-world list against the founders' allowed actions and prohibited powers; emergency instructions and institutional separation are the decisive boundaries and are both explicit. -->
+<!-- @evidence obligations/common.md#substantive-completion The boundary fixes what founders may observe, ask, repair, document, and return, what they may not issue/inspect/certify/provide/compel/buy, and which safety instruction wins when game language conflicts. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I read both paragraphs and traced the allowed/prohibited verb pairs to the safety override; the adviser interruption record supplies the final operational handoff. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops school, municipal, legal, emergency, building, transport, medical, records, and purchasing constraints in relation to the game, preventing “ordinary world” from becoming an empty realism label. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the institutional list with the founders' action boundary; medical treatment and engineering certification are the easiest powers to accidentally grant, and both are expressly denied. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies the relationship between fictional game and ordinary world; the 640-student school, Haneul authorities, permits, and safety precedence are adopted setting facts, not unsupported claims about a real city. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, institutional names, and the safety-conflict sentence; the H2 consistently marks Haneul and the game as fictional and does not claim real municipal jurisdiction. -->
 
 **Status:** Work decision - relationship to real institutions.
 
