@@ -154,6 +154,14 @@ KMA's live warning page supplies the source-verified weather-information channel
 
 ## Visibility, fog, and darkness
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes fog, darkness, sight distance, lighting, route confidence, and visibility-based stop conditions. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked sight, light, route, and stop limits; reduced visibility does not become an invented closure. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives downstream movement and observation limits without assigning a scene. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the visibility and route conditions; observation remains bounded by what can actually be seen. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates fog, darkness, sight distance, lighting, confidence, and stopping. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared perception and route consequences; sight distance is the independent constraint. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional visibility conditions, not a real forecast or lighting regulation. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and authority wording; no external visibility standard is claimed. -->
 
 **Status:** Work decision for observation limits; no real-world visibility average is asserted.
 
