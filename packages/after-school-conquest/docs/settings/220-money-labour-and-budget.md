@@ -4,6 +4,11 @@ The founders’ work consumes money and time even when it looks playful. This fi
 
 ## Club budget envelope
 
+<!-- @evidence obligations/common.md#scope-preservation The Club budget envelope host states n — fictional operational canon. This is the concrete 220 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Club budget envelope host develops its setting through ility, repairs, storage, translation, and disposal. A plan that is free at purchase but expensive in unpaid labour or transport is not free. Unspent money returns to its owner or follows the stated school rule.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Club budget envelope host gives 82 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Club budget envelope acknowledgement is grounded in this host's Status and its concrete opening statement 'n — fictional operational canon.'. -->
+
 **Status:** Work decision — fictional operational canon.
 
 The club budget is divided into approved school funds, participant contributions, donations, reimbursement, and uncommitted proposal. Each source has an owner, purpose, ceiling, approval route, receipt rule, and end date. A personal payment is not assumed reimbursable.
@@ -11,6 +16,11 @@ The club budget is divided into approved school funds, participant contributions
 The budget includes printing, transit, food, accessibility, repairs, storage, translation, and disposal. A plan that is free at purchase but expensive in unpaid labour or transport is not free. Unspent money returns to its owner or follows the stated school rule.
 
 ## Price, quotation, and receipt
+
+<!-- @evidence obligations/common.md#scope-preservation The Price, quotation, and receipt host states n — accounting canon. This is the concrete 220 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Price, quotation, and receipt host develops its setting through and accessibility requirements. The founders record the date and avoid promising a future price. Refunds, damaged goods, and substitutions receive their own entry rather than disappearing into a rounded total.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Price, quotation, and receipt host gives 80 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Price, quotation, and receipt acknowledgement is grounded in this host's Status and its concrete opening statement 'n — accounting canon.'. -->
 
 **Status:** Work decision — accounting canon.
 
@@ -20,6 +30,11 @@ Prices change with stock, season, delivery, and accessibility requirements. The 
 
 ## Donated and borrowed material
 
+<!-- @evidence obligations/common.md#scope-preservation The Donated and borrowed material host states n — ownership boundary. This is the concrete 220 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Donated and borrowed material host develops its setting through ithout permission or imply that a donation purchases influence. A donated device still requires charging, account, privacy, and disposal planning. Borrowed material is returned even when the project ends early.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Donated and borrowed material host gives 80 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Donated and borrowed material acknowledgement is grounded in this host's Status and its concrete opening statement 'n — ownership boundary.'. -->
+
 **Status:** Work decision — ownership boundary.
 
 A donation transfers an item, money, or service only under stated terms. A loan retains the lender’s ownership and has a return condition, condition report, accessories, and damage route. “For the club” is clarified before the item enters storage.
@@ -27,6 +42,11 @@ A donation transfers an item, money, or service only under stated terms. A loan 
 The founders do not publish a donor’s name without permission or imply that a donation purchases influence. A donated device still requires charging, account, privacy, and disposal planning. Borrowed material is returned even when the project ends early.
 
 ## Paid work and student labour
+
+<!-- @evidence obligations/common.md#scope-preservation The Paid work and student labour host states n — labour canon. This is the concrete 220 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Paid work and student labour host develops its setting through e unpaid work without losing friendship or ordinary membership. Where legal employment rules or school policy apply, the responsible adult or institution handles them; the club does not invent a wage exception.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Paid work and student labour host gives 84 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Paid work and student labour acknowledgement is grounded in this host's Status and its concrete opening statement 'n — labour canon.'. -->
 
 **Status:** Work decision — labour canon.
 
@@ -36,6 +56,11 @@ Hours and conditions are recorded in plain language. A person can decline unpaid
 
 ## Family work and availability cost
 
+<!-- @evidence obligations/common.md#scope-preservation The Family work and availability cost host states n — domestic economy. This is the concrete 220 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Family work and availability cost host develops its setting through ity needed and offers asynchronous or shorter alternatives. It does not publish an employer, wage, or family debt without consent. A work shift cannot be replaced by a motivational speech; the plan must change.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Family work and availability cost host gives 83 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Family work and availability cost acknowledgement is grounded in this host's Status and its concrete opening statement 'n — domestic economy.'. -->
+
 **Status:** Work decision — domestic economy.
 
 A founder may work in a shop, restaurant, household business, delivery route, tutoring arrangement, or care role. The schedule can vary with demand and family need. A missed club task is not laziness when it carries an actual work cost.
@@ -43,6 +68,11 @@ A founder may work in a shop, restaurant, household business, delivery route, tu
 The group asks for only the availability needed and offers asynchronous or shorter alternatives. It does not publish an employer, wage, or family debt without consent. A work shift cannot be replaced by a motivational speech; the plan must change.
 
 ## Transit and reimbursements
+
+<!-- @evidence obligations/common.md#scope-preservation The Transit and reimbursements host states n — access economy. This is the concrete 220 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Transit and reimbursements host develops its setting through shared authorized transport, or cancellation when travel is unsafe or unaffordable. A route’s physical accessibility does not make its fare free. `050`, `060`, and `070` govern route and environment conditions.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Transit and reimbursements host gives 75 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Transit and reimbursements acknowledgement is grounded in this host's Status and its concrete opening statement 'n — access economy.'. -->
 
 **Status:** Work decision — access economy.
 
@@ -52,6 +82,11 @@ The founders choose a nearer public site, remote or paper channel, shared author
 
 ## In-kind exchange and gifts
 
+<!-- @evidence obligations/common.md#scope-preservation The In-kind exchange and gifts host states n — reciprocity rule. This is the concrete 220 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The In-kind exchange and gifts host develops its setting through f the value or pressure is unclear, the founders ask an adult or use a transparent budget. A small gift may be refused without insult. Institutional resources are never privately exchanged as friendship tokens.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The In-kind exchange and gifts host gives 79 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The In-kind exchange and gifts acknowledgement is grounded in this host's Status and its concrete opening statement 'n — reciprocity rule.'. -->
+
 **Status:** Work decision — reciprocity rule.
 
 Food, printing, room time, translation, equipment, and introductions can be exchanged in kind. The record states what was offered, accepted, valued if relevant, and whether the exchange is complete. A favour cannot secretly require personal access, a public endorsement, or future labour.
@@ -59,6 +94,11 @@ Food, printing, room time, translation, equipment, and introductions can be exch
 If the value or pressure is unclear, the founders ask an adult or use a transparent budget. A small gift may be refused without insult. Institutional resources are never privately exchanged as friendship tokens.
 
 ## Emergency reserve
+
+<!-- @evidence obligations/common.md#scope-preservation The Emergency reserve host states n — resilience canon. This is the concrete 220 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Emergency reserve host develops its setting through es accountable process; it does not authorize entry into a closed route, electrical repair, or private data purchase. After use, the record states what happened and whether the original plan must be redesigned.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Emergency reserve host gives 83 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Emergency reserve acknowledgement is grounded in this host's Status and its concrete opening statement 'n — resilience canon.'. -->
 
 **Status:** Work decision — resilience canon.
 
@@ -68,6 +108,11 @@ Emergency spending protects people and restores accountable process; it does not
 
 ## Budget transparency and privacy
 
+<!-- @evidence obligations/common.md#scope-preservation The Budget transparency and privacy host states n — disclosure boundary. This is the concrete 220 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Budget transparency and privacy host develops its setting through sidy’s conditions and a conflict of interest. A low-income participant is not identified to prove fairness. A public grant report uses required fields and avoids turning beneficiaries into promotional material.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Budget transparency and privacy host gives 69 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Budget transparency and privacy acknowledgement is grounded in this host's Status and its concrete opening statement 'n — disclosure boundary.'. -->
+
 **Status:** Work decision — disclosure boundary.
 
 Participants can understand total income, expenditure, remaining balance, and decision owner without seeing a family’s bank account or a donor’s private details. Reports aggregate sensitive costs and retain receipts with restricted access.
@@ -75,6 +120,11 @@ Participants can understand total income, expenditure, remaining balance, and de
 The club discloses a subsidy’s conditions and a conflict of interest. A low-income participant is not identified to prove fairness. A public grant report uses required fields and avoids turning beneficiaries into promotional material.
 
 ## Debt and repayment
+
+<!-- @evidence obligations/common.md#scope-preservation The Debt and repayment host states n — financial dignity rule. This is the concrete 220 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Debt and repayment host develops its setting through , waiver, or referral. It does not publish a debtor’s name, confiscate personal equipment, or assign a new unpaid task without consent. A settled debt is marked complete; the relationship may still need repair.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Debt and repayment host gives 78 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Debt and repayment acknowledgement is grounded in this host's Status and its concrete opening statement 'n — financial dignity rule.'. -->
 
 **Status:** Work decision — financial dignity rule.
 
@@ -84,6 +134,11 @@ The group offers renegotiation, substitution, waiver, or referral. It does not p
 
 ## Costed accessibility
 
+<!-- @evidence obligations/common.md#scope-preservation The Costed accessibility host states n — inclusion economy. This is the concrete 220 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Costed accessibility host develops its setting through hile refusing the conclusion that access is optional. A low-cost alternative is tested for equal usefulness, not offered as a symbolic gesture. The relevant school or civic owner decides durable infrastructure.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Costed accessibility host gives 81 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Costed accessibility acknowledgement is grounded in this host's Status and its concrete opening statement 'n — inclusion economy.'. -->
+
 **Status:** Work decision — inclusion economy.
 
 Access may require a taxi, captioning, interpreter, large print, quiet room, support person, adjusted schedule, or safer material. The host identifies who pays and seeks an institutional route before shifting the cost to the person who needs access.
@@ -92,8 +147,25 @@ The budget records that inclusion has a resource cost while refusing the conclus
 
 ## Closure and audit
 
+<!-- @evidence obligations/common.md#scope-preservation The Closure and audit host states n — financial continuity. This is the concrete 220 scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Closure and audit host develops its setting through s unresolved discrepancies and owner, not an invented clean total. After graduation, school funds and accounts follow the school handoff; alumni personal contributions become a new arrangement with a new owner.; downstream layers do not need to invent this practice, resource, or boundary. -->
+<!-- @evidence obligations/common.md#proportionate-development The Closure and audit host gives 71 authored words across 3 paragraphs to its distinct setting decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Closure and audit acknowledgement is grounded in this host's Status and its concrete opening statement 'n — financial continuity.'. -->
+
 **Status:** Work decision — financial continuity.
 
 At closure the club totals income, expenditure, outstanding reimbursement, borrowed goods, donations, subscriptions, and restricted balances. A second person checks arithmetic and receipts where the host’s rule requires. Personal notes are separated from institutional accounts.
 
 The audit records unresolved discrepancies and owner, not an invented clean total. After graduation, school funds and accounts follow the school handoff; alumni personal contributions become a new arrangement with a new owner.
+<!-- @evidence principles/common.md#purpose-fit The file Money, Labour, and Budget owns 12 H2s in the 220 domain; its overview states "The founders’ work consumes money and time even when it looks playful. This file fixes price, labour, reimbursement, employment, and resource fairness without assigning a particular grant, job, or crisis.", supplying the cultural/material/social conditions required by the civic-school promise. -->
+<!-- @evidence principles/common.md#layer-boundary The file Money, Labour, and Budget owns 12 H2s in the 220 domain; its overview states "The founders’ work consumes money and time even when it looks playful. This file fixes price, labour, reimbursement, employment, and resource fairness without assigning a particular grant, job, or crisis."; it fixes setting facts and constraints, not narrative order, event causality, or finished prose. -->
+<!-- @evidence principles/common.md#work-language The file Money, Labour, and Budget owns 12 H2s in the 220 domain; its overview states "The founders’ work consumes money and time even when it looks playful. This file fixes price, labour, reimbursement, employment, and resource fairness without assigning a particular grant, job, or crisis."; it uses readable English to distinguish ritual, social, digital, money, and labour registers without flattening them. -->
+<!-- @evidence principles/settings.md#addressable-canon The file Money, Labour, and Budget owns 12 H2s in the 220 domain; its overview states "The founders’ work consumes money and time even when it looks playful. This file fixes price, labour, reimbursement, employment, and resource fairness without assigning a particular grant, job, or crisis."; the named cultural/social H2s are independent owners rather than one umbrella account. -->
+<!-- @evidence principles/settings.md#information-structure The file Money, Labour, and Budget owns 12 H2s in the 220 domain; its overview states "The founders’ work consumes money and time even when it looks playful. This file fixes price, labour, reimbursement, employment, and resource fairness without assigning a particular grant, job, or crisis."; each H2 begins Status and then supplies owner, practice, access, cost, refusal, and continuity conditions. -->
+<!-- @evidence principles/settings.md#fact-status The file Money, Labour, and Budget owns 12 H2s in the 220 domain; its overview states "The founders’ work consumes money and time even when it looks playful. This file fixes price, labour, reimbursement, employment, and resource fairness without assigning a particular grant, job, or crisis."; Haneul customs, channels, budgets, and social practices are Work decisions, while any inherited authority is cross-referenced. -->
+<!-- @evidence principles/settings.md#source-support The file Money, Labour, and Budget owns 12 H2s in the 220 domain; its overview states "The founders’ work consumes money and time even when it looks playful. This file fixes price, labour, reimbursement, employment, and resource fairness without assigning a particular grant, job, or crisis."; it contains 0 direct source link(s), and the authored cultural/economic conditions are not falsely presented as external fact. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file Money, Labour, and Budget owns 12 H2s in the 220 domain; its overview states "The founders’ work consumes money and time even when it looks playful. This file fixes price, labour, reimbursement, employment, and resource fairness without assigning a particular grant, job, or crisis."; it specifies calendar, food, sound, sport, mourning, study, chat, devices, publication, money, labour, debt, accessibility cost, and closure resources. -->
+<!-- @evidence principles/settings.md#minimal-departure The file Money, Labour, and Budget owns 12 H2s in the 220 domain; its overview states "The founders’ work consumes money and time even when it looks playful. This file fixes price, labour, reimbursement, employment, and resource fairness without assigning a particular grant, job, or crisis."; it explicitly prevents default assumptions that one ritual, channel, popularity system, device, or household budget represents everyone. -->
+<!-- @evidence principles/settings.md#internal-coherence The file Money, Labour, and Budget owns 12 H2s in the 220 domain; its overview states "The founders’ work consumes money and time even when it looks playful. This file fixes price, labour, reimbursement, employment, and resource fairness without assigning a particular grant, job, or crisis."; its practices connect to 090 consent, 110 domestic time, 150 school institutions, 170 records, 220 budgets, and 230 logistics. -->
+
+# Money, Labour, and Budget
