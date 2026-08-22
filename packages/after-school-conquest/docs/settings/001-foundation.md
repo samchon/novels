@@ -1,6 +1,25 @@
+<!--
+@evidence principles/common.md#purpose-fit This file fixes the twenty-volume English novel's delivery promise, audience, access contract, and settings-domain allocation, so every later layer has a usable foundation.
+@evidence principles/common.md#layer-boundary The file assigns facts and constraints to settings while reserving causal narrative connection, executable staging, and finished prose for the three later layers.
+@evidence principles/common.md#work-language The English variety section fixes contemporary international English, American spelling, dialogue punctuation, Korean name order, and intelligible code-switching.
+@evidence principles/settings.md#addressable-canon The delivery, reader, narrator, formal-document, continuity, revision, and coverage decisions each have independent H2 owners rather than being hidden in one overview.
+@evidence principles/settings.md#information-structure Every foundation H2 gives a Status line and then develops its owned decision, operating boundary, consequence, and limitation in separate paragraphs.
+@evidence principles/settings.md#fact-status The Status lines distinguish user-confirmed scope and quality rules from owner-adopted language, access, continuity, and repair decisions.
+@evidence principles/settings.md#source-support This foundation does not present Haneul's fictional institutions as external fact; it requires later externally checkable claims to carry direct source support and records uncertainty as a research decision.
+@evidence principles/settings.md#constraint-sufficiency The contract states volume count, dates, focal access, content exclusions, layer deliverables, revision authority, and the build/review completion conditions downstream must obey.
+@evidence principles/settings.md#minimal-departure The fictional school-city split, non-lethal conflict boundary, and game-versus-real-world distinction are explicit departures or constraints instead of silent defaults.
+@evidence principles/settings.md#internal-coherence The continuity and coverage sections connect birth dates, school years, graduation, alumni volumes, layer order, and domain ownership into one auditable series-bible structure.
+-->
+
 # After-School Conquest — Foundation Contract
 
 ## Delivery boundary
+
+<!-- @evidence obligations/common.md#scope-preservation The Delivery boundary H2 names the complete March 2027–February 2031 interval, all twenty volumes, the school and alumni periods, inherited volume obligations, and content exclusions. -->
+<!-- @evidence obligations/common.md#substantive-completion The Delivery boundary H2 settles the required deliverable as four layers across twenty numbered volumes and states what completion and inherited continuity mean. -->
+<!-- @evidence obligations/common.md#proportionate-development The Delivery boundary H2 allocates three school years to Volumes 1–17 and the first post-graduation year to Volumes 18–20, giving the declared scale a concrete distribution. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Delivery boundary acknowledgements describe the actual scope and continuity contract in this H2, not a generic promise that the settings layer is detailed. -->
+<!-- @evidence obligations/settings.md#delivery-scope The Delivery boundary H2 is the canonical host for the twenty-volume English novel, delivery dates, school/alumni allocation, and content limits. -->
 
 **Status:** Work decision — user-confirmed scope.
 
@@ -10,6 +29,12 @@ Each volume must end with a changed obligation, resource, relationship, or autho
 
 ## Reader promise
 
+<!-- @evidence obligations/common.md#scope-preservation The Reader promise H2 preserves the requested comic civic-strategy premise, emotional seriousness, consent boundary, and prohibition on shortcut resolutions. -->
+<!-- @evidence obligations/common.md#substantive-completion The Reader promise H2 defines the intended pleasure, governing question, acceptable comedy, and causal standard for consequences rather than naming only a genre. -->
+<!-- @evidence obligations/common.md#proportionate-development The Reader promise H2 gives the long work a sustained promise—comic collision plus institutional and relational cost—rather than allocating the novel to one introductory gimmick. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Reader promise acknowledgements point to the H2's concrete comic, ethical, and causal commitments and do not claim that a plot event has already been written. -->
+<!-- @evidence obligations/settings.md#work-promise The Reader promise H2 owns the work's title-derived conquest question, comic register, emotional seriousness, and anti-shortcut standard. -->
+
 **Status:** Work decision — owner-adopted interpretation of the title.
 
 The novel promises comic pleasure from a grand strategy vocabulary colliding with school bells, wet umbrellas, room bookings, missing receipts, and people who did not consent to be conquered. It also promises the emotional seriousness of watching a harmless game acquire real constituencies and costs. The governing question is whether young people can turn the desire to possess a place into the harder practice of maintaining relationships without possessing them.
@@ -17,6 +42,11 @@ The novel promises comic pleasure from a grand strategy vocabulary colliding wit
 Comedy may expose vanity, bureaucracy, and the founders’ overconfidence; it may not make consent, disability, poverty, migration, or grief itself the joke. Dramatic consequences must arise from earlier choices and material limits. A late villain, miraculous grant, sudden legal loophole, or romantic confession cannot substitute for accumulated work.
 
 ## Narrator and focalization
+
+<!-- @evidence obligations/common.md#scope-preservation The Narrator and focalization H2 covers close-third access, the four-founder rotation, permitted adult or successor viewpoints, document boundaries, and the ban on hidden omniscience. -->
+<!-- @evidence obligations/common.md#substantive-completion The Narrator and focalization H2 settles viewpoint access, perspective-change boundaries, misunderstanding, correction, and information limits for downstream narrative layers. -->
+<!-- @evidence obligations/common.md#proportionate-development The Narrator and focalization H2 develops both ordinary focal rotation and exceptional viewpoints because those are separate access conditions across a twenty-volume work. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Narrator and focalization acknowledgements refer to the actual close-third, scene-boundary, and knowledge-limit rules written here. -->
 
 **Status:** Work decision — owner-adopted access rule.
 
@@ -26,6 +56,11 @@ Perspective changes occur at an H4 scene boundary or a clearly marked document b
 
 ## Psychic distance
 
+<!-- @evidence obligations/common.md#scope-preservation The Psychic distance H2 covers bodily intimacy, institutional distance, four focal habits, and the required slowing and agency naming when comic velocity meets harm. -->
+<!-- @evidence obligations/common.md#substantive-completion The Psychic distance H2 provides observable sentence-level and information-handling constraints, including how documents may contradict memory without granting omniscience. -->
+<!-- @evidence obligations/common.md#proportionate-development The Psychic distance H2 distinguishes default distance, focal habits, and harm-transition rhythm as separate craft conditions rather than a single mood adjective. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Psychic distance acknowledgements describe the embodied, institutional, and correction behaviors explicitly specified in this H2. -->
+
 **Status:** Work decision — sentence-level constraint.
 
 The default distance is intimate enough to register bodily inconvenience, embarrassment, hunger, and the pressure of a timetable, but distant enough to let the reader see institutional patterns the character misses. Minseo’s map language may narrow the world into lines; Jae-won’s access may accelerate into punchlines; Lila’s may notice translation and omission; Do-yun’s may measure slope, reach, signal, and fatigue. These are focal habits, not permanent stereotypes.
@@ -33,6 +68,11 @@ The default distance is intimate enough to register bodily inconvenience, embarr
 When a scene moves from comic velocity to harm, sentence rhythm must slow and name the affected person’s agency. The narrative may withhold information, never fabricate it. A document can contradict a character’s memory, but its authority must be identified by date, author, and purpose.
 
 ## English variety
+
+<!-- @evidence obligations/common.md#scope-preservation The English variety H2 covers American spelling, dialogue punctuation, Korean name order, meaningful romanization, code-switching function, and reader intelligibility. -->
+<!-- @evidence obligations/common.md#substantive-completion The English variety H2 settles the work's language medium and the conditions under which characters may vary register without treating difference as defective grammar. -->
+<!-- @evidence obligations/common.md#proportionate-development The English variety H2 develops notation, names, romanized terms, register, and recurring code-switching because each affects the whole English-language delivery. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The English variety acknowledgements correspond to the concrete spelling, punctuation, naming, and code-switching rules in this H2. -->
 
 **Status:** Work decision — owner-adopted language convention.
 
@@ -42,6 +82,11 @@ Characters may use formal school language, market shorthand, clipped group-chat 
 
 ## Formal documents
 
+<!-- @evidence obligations/common.md#scope-preservation The Formal documents H2 covers permitted document forms, required issuer/date/audience/completeness fields, visible limitations, document proportion, and accessible typography. -->
+<!-- @evidence obligations/common.md#substantive-completion The Formal documents H2 settles how embedded records change reader access without substituting for prose or private motive. -->
+<!-- @evidence obligations/common.md#proportionate-development The Formal documents H2 allocates documents as a minority of each volume and gives maps, minutes, screenshots, and typography distinct functions. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Formal documents acknowledgements name the actual metadata, evidentiary limits, audience effect, and accessibility condition established here. -->
+
 **Status:** Work decision — embedded-form contract.
 
 The novel may include dated announcements, consent forms, maps, meeting minutes, receipts, chat excerpts, grant reports, and correction notices. Each document identifies author or issuing body, date, audience, and whether it is complete or excerpted. A document can carry public facts and strategic concealment, but its limitations are visible; an unsigned screenshot is not automatically an official record.
@@ -49,6 +94,12 @@ The novel may include dated announcements, consent forms, maps, meeting minutes,
 Documents occupy a minority of each volume and must change the reader’s access rather than repeat prose. A map cannot prove that every route is accessible. Minutes record who spoke and what was decided, not the private motive of a silent attendee. Typography remains plain enough for screen readers and ordinary publication.
 
 ## Intended audience
+
+<!-- @evidence obligations/common.md#scope-preservation The Intended audience H2 covers older-teen and adult English readers, school-ensemble and civic-comedy interests, unfamiliar-reader access, and contextual explanation of Korean institutions. -->
+<!-- @evidence obligations/common.md#substantive-completion The Intended audience H2 settles readership, opening access, cultural-context method, and the prohibition on essential game or legal prior knowledge. -->
+<!-- @evidence obligations/common.md#proportionate-development The Intended audience H2 gives both target-reader identity and unfamiliar-reader access equal treatment because both govern the complete delivery. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Intended audience acknowledgements point to the stated readership and concrete access methods rather than claiming universal appeal. -->
+<!-- @evidence obligations/settings.md#reader-access The Intended audience H2 owns the older-teen/adult English readership, unfamiliar-reader access, and contextual explanation contract. -->
 
 **Status:** Work decision — reader access contract.
 
@@ -58,6 +109,11 @@ The book welcomes readers unfamiliar with strategy games or Korean schooling. No
 
 ## Content exclusions
 
+<!-- @evidence obligations/common.md#scope-preservation The Content exclusions H2 covers non-lethal conflict, minor-safety limits, prohibited eroticization and shock devices, prevention-oriented danger, and representation boundaries. -->
+<!-- @evidence obligations/common.md#substantive-completion The Content exclusions H2 settles what kinds of harm may appear, how danger is handled, and what agency marginalized characters retain. -->
+<!-- @evidence obligations/common.md#proportionate-development The Content exclusions H2 treats safety, physical danger, disability, migration, poverty, and disclosure as separate operating constraints because they recur across all layers. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Content exclusions acknowledgements refer to the actual prohibited content and consent/repair conditions written in this H2. -->
+
 **Status:** Work decision — safety and representation boundary.
 
 Conflict remains non-lethal. The story may depict bullying, panic, family argument, privacy harm, financial precarity, institutional failure, and exhaustion, but does not eroticize minors, provide sexual violence for shock, or turn self-harm into a plot device. Physical danger is handled through prevention, evacuation, first aid, and adult referral rather than tactical spectacle.
@@ -65,6 +121,11 @@ Conflict remains non-lethal. The story may depict bullying, panic, family argume
 Marginalized characters retain ordinary wants, comic agency, expertise, and the right to refuse the club. Disability is not a metaphor for moral purity; migration is not a shortcut to exposition; poverty is not a quaint aesthetic. Any scene that makes a person’s vulnerability public must show who authorized the disclosure and what repair is owed.
 
 ## Completion standard
+
+<!-- @evidence obligations/common.md#scope-preservation The Completion standard H2 covers required settings facts, twenty-volume storylines, executable scenarios, finished manuscripts, review states, builds, and repeated full-work reviews. -->
+<!-- @evidence obligations/common.md#substantive-completion The Completion standard H2 defines what a complete deliverable must contain at each layer and explicitly rejects outline or compiler-only substitution. -->
+<!-- @evidence obligations/common.md#proportionate-development The Completion standard H2 allocates different concrete deliverables to settings, storylines, scenarios, and manuscripts across the full twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Completion standard acknowledgements describe the actual layer outputs and independent review/build conditions stated here. -->
 
 **Status:** Work decision — user-confirmed quality translated into an observable contract.
 
@@ -74,6 +135,11 @@ Completion also requires all four layers at `review`, clean package and root bui
 
 ## Continuity rule
 
+<!-- @evidence obligations/common.md#scope-preservation The Continuity rule H2 fixes all four birth dates, the March 2027 entry, February 2030 graduation, February 2031 endpoint, fictional school and city authorities, and upstream-repair rule. -->
+<!-- @evidence obligations/common.md#substantive-completion The Continuity rule H2 settles chronology, age inputs, institutional ownership, date notation, uncertainty handling, and the prohibition on silent canon changes. -->
+<!-- @evidence obligations/common.md#proportionate-development The Continuity rule H2 gives dates, authority, revision, and uncertainty enough independent treatment to support twenty volumes and three downstream layers. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Continuity rule acknowledgements point to the exact dates, authority split, and earliest-owner repair procedure established in this H2. -->
+
 **Status:** Work decision — series-bible authority.
 
 The canonical chronology begins in March 2027. Minseo’s birth date is 2011-11-18, Jae-won’s 2011-06-02, Lila’s 2012-01-27, and Do-yun’s 2011-09-09. They enter Haneul Public High School’s first year in 2027; graduation occurs in February 2030; the final volume ends in February 2031. Haneul is a fictional public high school in the metropolitan city of Haneul, under the fictional Haneul Metropolitan Office of Education and its superintendent, not under city-hall management. The Haneul city government and its civic offices are separate municipal institutions. A later layer may reveal that a character misunderstood a fact, but may not silently alter a date, age, route, authority, or resource.
@@ -82,6 +148,11 @@ Every change to canon is made at its earliest owning settings H2, then propagate
 
 ## Revision authority
 
+<!-- @evidence obligations/common.md#scope-preservation The Revision authority H2 covers user-confirmed boundaries, owner-revisable fictional facts, earliest-owner repair, downstream rereading, and escalation for material scope changes. -->
+<!-- @evidence obligations/common.md#substantive-completion The Revision authority H2 settles who may change which canon and how a later defect propagates, rather than merely saying that revisions are allowed. -->
+<!-- @evidence obligations/common.md#proportionate-development The Revision authority H2 separately treats user authority, fictional repair, downstream consequences, and scope escalation because each governs a different change class. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Revision authority acknowledgements describe the actual authority and propagation rules in this H2. -->
+
 **Status:** Work decision — repair protocol.
 
 The user-confirmed title, language, twenty-volume scope, and requested quality cannot be weakened by convenience. Fictional Haneul facts are owner decisions and may be revised when research, safety, or later causal review exposes a defect. The earliest owner changes first; every dependent unit is reread before a review fingerprint is renewed.
@@ -89,6 +160,12 @@ The user-confirmed title, language, twenty-volume scope, and requested quality c
 No settings H2 may be changed solely to make a downstream scene compile. A proposed expansion that changes genre, audience, content boundary, or delivery scale requires coordinator and user authority. A local improvement that preserves those boundaries may be adopted by the package owner and recorded as Work decision.
 
 ## Coverage map
+
+<!-- @evidence obligations/common.md#scope-preservation The Coverage map H2 assigns the complete settings domain from game ontology through opening states and research uncertainty to numbered file families. -->
+<!-- @evidence obligations/common.md#substantive-completion The Coverage map H2 settles domain ownership, narrative exclusions, source-status expectations, and the rule for adding a newly discovered domain. -->
+<!-- @evidence obligations/common.md#proportionate-development The Coverage map distributes 376 settings H2s across chronology, place, agents, institutions, society, material life, technology, motifs, and opening state rather than hiding them in one umbrella. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Coverage map acknowledgements name the actual file ranges, layer boundary, and source/fiction status rule stated in this H2. -->
+<!-- @evidence obligations/settings.md#canon-coverage-map The Coverage map H2 is the canonical host for every settings domain and its ordered file-family allocation. -->
 
 **Status:** Work decision — complete settings-domain allocation.
 
