@@ -21,7 +21,7 @@
 <!-- @evidence principles/common.md#historical-claim-provenance The file labels primary technical text, critical article, institutional interview, urban synthesis, and bounded inference separately. -->
 <!-- @evidenceReview principles/common.md#historical-claim-provenance #d7515dc Matched each number, date, institution, output, and failure to PDF page, article line range, interview line range, or bounded inference. -->
 <!-- @evidence principles/common.md#historical-corroboration Technical capacity is cross-read between science history, armament production, urban projects, and engineering scholarship. -->
-<!-- @evidenceReview principles/common.md#historical-corroboration #b58522c Compared state optimism with production limits, pollution, incomplete works, and scholarly institutional context. -->
+<!-- @evidenceReview principles/common.md#historical-corroboration #b58522c Compared de Syon's state-science account with armament limits, Paris pollution and unfinished works, and Guillerme's engineer formation. -->
 <!-- @evidence principles/common.md#bounded-historical-invention Later scenes may invent bounded workshop tests, repairs, delays, and inspections only inside documented systems. -->
 <!-- @evidenceReview principles/common.md#bounded-historical-invention #231571a Reread all units for magical technology, invented output, omniscient engineers, and costless infrastructure. -->
 
