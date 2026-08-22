@@ -43,6 +43,14 @@ Names and personal details are used only for a stated school purpose. A seating 
 
 ## Invitation, consent, and withdrawal
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes invitation, plain-language consent, separate permissions, withdrawal, and no-penalty exit. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked invitation, consent, publicity, data, and withdrawal fields; silence is not participation. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete invitation and exit boundary without assigning an event. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the consent and withdrawal rules; a student may leave without losing ordinary standing. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates invitation, understanding, work consent, data consent, publicity consent, and withdrawal. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the permission types; publicity is the independent privacy choice. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional peer consent and avoids unsupported legal claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and no statutory consent process is claimed. -->
 
 **Status:** Work decision — executable social rule.
 
