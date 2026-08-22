@@ -43,6 +43,14 @@ Her map competence has limits. A map records a chosen viewpoint and time; it can
 
 ## Jae-won Park: social-velocity capacity
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes Jae-won's social-velocity capacity, useful limits, consent boundary, and resource consequences. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked social skill, limit, and consent clauses; speed cannot substitute for another person's agreement. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a usable social capacity and its downstream boundary without assigning a scene. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the full H2; persuasion and listening limits remain explicit. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates social access, pace, misunderstanding, and recovery. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the effects; listening is the independent counterweight to velocity. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional character capacity, not a personality diagnosis. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and trait wording; no external social claim is made. -->
 
 **Status:** Work decision — package canon.
 
