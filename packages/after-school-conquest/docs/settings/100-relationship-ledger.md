@@ -32,6 +32,7 @@ The founders' relationships are settings infrastructure: trust, access, obligati
 <!-- @evidence obligations/common.md#proportionate-development The Friendship as maintained access host gives 115 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Friendship as maintained access” H2 from Status through its final boundary. Its first operating statement is “Friendship permits familiarity but not automatic disclosure, access to belongings, or representation. A friend can ask whether a person wants help, identify an existing preference,”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Friendship as maintained access acknowledgement is grounded in this host's Status and its concrete opening statement 'n — relationship canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Friendship as maintained access” H2 from Status through its final boundary. Its first operating statement is “Friendship permits familiarity but not automatic disclosure, access to belongings, or representation. A friend can ask whether a person wants help, identify an existing preference,”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — relationship canon.
 
@@ -48,6 +49,7 @@ Friendship can survive disagreement, distance, and unequal availability. A perso
 <!-- @evidence obligations/common.md#proportionate-development The Rivalry and useful opposition host gives 100 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Rivalry and useful opposition” H2 from Status through its final boundary. Its first operating statement is “A rival may contest a map, request, resource allocation, or public claim without becoming an enemy. Opposition is represented by a specific interest and evidence: a safer route, a ”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Rivalry and useful opposition acknowledgement is grounded in this host's Status and its concrete opening statement 'n — social mechanics.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Rivalry and useful opposition” H2 from Status through its final boundary. Its first operating statement is “A rival may contest a map, request, resource allocation, or public claim without becoming an enemy. Opposition is represented by a specific interest and evidence: a safer route, a ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — social mechanics.
 
@@ -64,6 +66,7 @@ Rivalry has boundaries. It cannot include doxxing, sabotage of safety equipment,
 <!-- @evidence obligations/common.md#proportionate-development The Trust levels and provisional access host gives 97 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Trust levels and provisional access” H2 from Status through its final boundary. Its first operating statement is “The relationship ledger uses functional levels: unknown contact, courteous peer, task participant, trusted collaborator, and authorized custodian. These labels describe what inform”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Trust levels and provisional access acknowledgement is grounded in this host's Status and its concrete opening statement 'n — executable canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Trust levels and provisional access” H2 from Status through its final boundary. Its first operating statement is “The relationship ledger uses functional levels: unknown contact, courteous peer, task participant, trusted collaborator, and authorized custodian. These labels describe what inform”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — executable canon.
 
@@ -80,6 +83,7 @@ Access is always narrower than affection. A trusted collaborator may still lack 
 <!-- @evidence obligations/common.md#proportionate-development The Promise, request, and obligation host gives 104 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Promise, request, and obligation” H2 from Status through its final boundary. Its first operating statement is “The founders distinguish a request (“could you?”), an offer (“I can”), a promise (“I will by”), and an institutional decision (“the office authorizes”). A polite “sure” is not inte”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Promise, request, and obligation acknowledgement is grounded in this host's Status and its concrete opening statement 'n — commitment grammar.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Promise, request, and obligation” H2 from Status through its final boundary. Its first operating statement is “The founders distinguish a request (“could you?”), an offer (“I can”), a promise (“I will by”), and an institutional decision (“the office authorizes”). A polite “sure” is not inte”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — commitment grammar.
 
@@ -96,6 +100,7 @@ An obligation has an owner, beneficiary, condition, due date, resource, and stop
 <!-- @evidence obligations/common.md#proportionate-development The Repair after a broken promise host gives 97 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Repair after a broken promise” H2 from Status through its final boundary. Its first operating statement is “When a promise is broken, the group first prevents further harm, then identifies what the beneficiary relied on. Repair may be a correction, replacement, refund, new deadline, perm”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Repair after a broken promise acknowledgement is grounded in this host's Status and its concrete opening statement 'n — continuity rule.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Repair after a broken promise” H2 from Status through its final boundary. Its first operating statement is “When a promise is broken, the group first prevents further harm, then identifies what the beneficiary relied on. Repair may be a correction, replacement, refund, new deadline, perm”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — continuity rule.
 
@@ -112,6 +117,7 @@ The setting refuses a magical reset. A repaired promise can leave lower trust, a
 <!-- @evidence obligations/common.md#proportionate-development The Care work and invisible labour host gives 98 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Care work and invisible labour” H2 from Status through its final boundary. Its first operating statement is “Translation, reminders, cleaning, note conversion, escorting, emotional checking, transport planning, and waiting are work. The group names the worker, expected time, difficulty, a”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Care work and invisible labour acknowledgement is grounded in this host's Status and its concrete opening statement 'n — social-economy canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Care work and invisible labour” H2 from Status through its final boundary. Its first operating statement is “Translation, reminders, cleaning, note conversion, escorting, emotional checking, transport planning, and waiting are work. The group names the worker, expected time, difficulty, a”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — social-economy canon.
 
@@ -128,6 +134,7 @@ A care offer is not an unlimited resource. The receiver can decline, request a d
 <!-- @evidence obligations/common.md#proportionate-development The Conflict of interest host gives 98 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Conflict of interest” H2 from Status through its final boundary. Its first operating statement is “A founder or peer declares a conflict when a decision affects their money, family, grade, employment, privacy, or close relationship. Declaring does not prohibit participation; it ”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Conflict of interest acknowledgement is grounded in this host's Status and its concrete opening statement 'n — decision integrity.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Conflict of interest” H2 from Status through its final boundary. Its first operating statement is “A founder or peer declares a conflict when a decision affects their money, family, grade, employment, privacy, or close relationship. Declaring does not prohibit participation; it ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — decision integrity.
 
@@ -144,6 +151,7 @@ An undisclosed conflict does not automatically prove bad intent, but it can inva
 <!-- @evidence obligations/common.md#proportionate-development The Boundaries around keys, accounts, and devices host gives 91 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Boundaries around keys, accounts, and devices” H2 from Status through its final boundary. Its first operating statement is “A key, password, shared drive, school account, contact list, or phone is a material relationship boundary. Lending it requires a named purpose, period, custodian, recovery route, a”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Boundaries around keys, accounts, and devices acknowledgement is grounded in this host's Status and its concrete opening statement 'n — access canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Boundaries around keys, accounts, and devices” H2 from Status through its final boundary. Its first operating statement is “A key, password, shared drive, school account, contact list, or phone is a material relationship boundary. Lending it requires a named purpose, period, custodian, recovery route, a”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — access canon.
 
@@ -160,6 +168,7 @@ If a device is lost, shared incorrectly, or accessed outside scope, the custodia
 <!-- @evidence obligations/common.md#proportionate-development The Witness, mediator, and advocate roles host gives 111 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Witness, mediator, and advocate roles” H2 from Status through its final boundary. Its first operating statement is “A witness records what they observed and the conditions of observation. A mediator helps participants communicate and does not decide the outcome. An advocate advances a person's s”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Witness, mediator, and advocate roles acknowledgement is grounded in this host's Status and its concrete opening statement 'n — role separation.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Witness, mediator, and advocate roles” H2 from Status through its final boundary. Its first operating statement is “A witness records what they observed and the conditions of observation. A mediator helps participants communicate and does not decide the outcome. An advocate advances a person's s”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — role separation.
 
@@ -176,6 +185,7 @@ The founders do not use a friend as a neutral witness merely because that friend
 <!-- @evidence obligations/common.md#proportionate-development The Rumour, memory, and correction host gives 114 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Rumour, memory, and correction” H2 from Status through its final boundary. Its first operating statement is “A rumour is an unverified report with a source chain, not a fact. A memory is a person's account of what they experienced, valuable even when dates or motives are uncertain. An off”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Rumour, memory, and correction acknowledgement is grounded in this host's Status and its concrete opening statement 'n — epistemic canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Rumour, memory, and correction” H2 from Status through its final boundary. Its first operating statement is “A rumour is an unverified report with a source chain, not a fact. A memory is a person's account of what they experienced, valuable even when dates or motives are uncertain. An off”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — epistemic canon.
 
@@ -192,6 +202,7 @@ Corrections preserve the superseded statement, correction author, date, reason, 
 <!-- @evidence obligations/common.md#proportionate-development The Exit, pause, and changed relationship host gives 93 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Exit, pause, and changed relationship” H2 from Status through its final boundary. Its first operating statement is “Any participant may pause or leave a project. Exit procedures return property, remove access, settle costs, state what may still be retained, and identify any safety handoff. A rel”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Exit, pause, and changed relationship acknowledgement is grounded in this host's Status and its concrete opening statement 'n — relationship boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Exit, pause, and changed relationship” H2 from Status through its final boundary. Its first operating statement is “Any participant may pause or leave a project. Exit procedures return property, remove access, settle costs, state what may still be retained, and identify any safety handoff. A rel”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — relationship boundary.
 
@@ -208,6 +219,7 @@ The ledger allows a relationship to become conditional: meeting only in public, 
 <!-- @evidence obligations/common.md#proportionate-development The Intergenerational and institutional asymmetry host gives 99 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Intergenerational and institutional asymmetry” H2 from Status through its final boundary. Its first operating statement is “An adult teacher, parent, official, employer, or landlord can affect grades, safety, money, transport, records, or housing. A friendly tone does not make the relationship equal. A ”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Intergenerational and institutional asymmetry acknowledgement is grounded in this host's Status and its concrete opening statement 'n — power constraint.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Intergenerational and institutional asymmetry” H2 from Status through its final boundary. Its first operating statement is “An adult teacher, parent, official, employer, or landlord can affect grades, safety, money, transport, records, or housing. A friendly tone does not make the relationship equal. A ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — power constraint.
 
@@ -224,6 +236,7 @@ The founders never use a younger student, precarious worker, migrant neighbour, 
 <!-- @evidence obligations/common.md#proportionate-development The Ledger closure and historical memory host gives 96 authored words across 3 paragraphs to its distinct relationship decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Ledger closure and historical memory” H2 from Status through its final boundary. Its first operating statement is “At closure, the relationship ledger distinguishes completed obligations, ongoing obligations, unresolved disputes, expired permissions, and voluntary continuing contact. It records”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Ledger closure and historical memory acknowledgement is grounded in this host's Status and its concrete opening statement 'n — continuity canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Ledger closure and historical memory” H2 from Status through its final boundary. Its first operating statement is “At closure, the relationship ledger distinguishes completed obligations, ongoing obligations, unresolved disputes, expired permissions, and voluntary continuing contact. It records”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — continuity canon.
 
