@@ -59,13 +59,13 @@ Sources: Delage and Prévot, Paris atlas interview, https://www.napoleon.org/en/
 
 ## Industrial production and war supply {#industrial-production-and-war-supply}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns state factories, private workshops, arsenals, raw material, contracts, inspection, output, and delivery. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Compared armament production with 016 supply; production, stock, and receipt are separate states. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Rechecked state manufacture, private industry, captured arsenal, raw material, contract, inspection, stock, and receipt beside 016 supply. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 settles how an order becomes a serviceable weapon or uniform. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested maker, material, order, inspection, storage, transport, and user. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Traced Muracciole's three supply sources and the Vienna/Prussian arsenal path from maker or capture through storage, transport, and receiving unit. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 separates state manufacture, private industry, enemy arsenal, gun, musket, carriage, and naval foundry. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked output claims against the source's own cautions and periods. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Kept factories, private workshops, arsenals, guns, muskets, carriages, and naval foundries distinct and retained the article's cautions on totals. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This host uses Muracciole's critical armament account and preserves uncertain totals and mixed supply. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked lines 68-91, including three supply sources and the caution on production totals. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked Muracciole lines 68-91: three supply sources, 2,000-plus Vienna guns, uncertain totals, 1811-13 budgets, and moderate industrial growth. -->
 
 **Status:** Source-critical. José Muracciole shows that French armament came from state manufactures, private industry, and captured enemy arsenals. The account lists establishments including Versailles, Tulle, Saint-Étienne, Liège, Turin, and Kligenthal, but warns that war forecasts, sudden campaigns, raw materials, and financial economy disrupted production. It records the capture of more than 2,000 guns at Vienna in 1805, later Prussian stocks, uncertain figures for state-factory output, and the distinction between regular, controllable shot production and slower industrial expansion. The setting must not turn a factory's output into front-line supply: an item can fail inspection, wait in a magazine, lose a wheel, miss a bridge, or arrive without ammunition. Contracts, wages or coercion, foundry heat, timber, metal, packing, transport, and the receiving unit are executable links.
 
