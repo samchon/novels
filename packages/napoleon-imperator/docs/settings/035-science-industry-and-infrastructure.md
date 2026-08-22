@@ -87,17 +87,17 @@ Sources: de Syon, “Science under Napoleon,” PDF pp. 1-3, https://www.napoleo
 
 ## Infrastructure and civilian displacement {#infrastructure-and-civilian-displacement}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns land, demolition, labor, tolls, pollution, water, markets, tenants, and security burdens. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Compared urban works with civilian settings; public benefit and coercive cost remain simultaneous but distinct. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Rechecked land, demolition, labor, tolls, pollution, water, markets, tenants, and security beside civilian settings; benefit and coercive cost remain distinct. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 settles who pays, who moves, who works, and who gains from a technical project. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested owner, tenant, laborer, administrator, user, pollution, and compensation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Traced Paris land release, sanitation, water, markets, factories, tenants, workers, administrators, pollution, and incomplete compensation mechanisms. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 separates road, canal, bridge, market, sewer, factory, fountain, and displaced household. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each benefit against access, season, labor, and exposure. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Kept road, canal, bridge, market, sewer, factory, fountain, and displaced household as separate benefit and exposure units. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This host uses Paris as a sourced case and does not claim universal welfare. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked land release, sanitation, industrial pollution, and incomplete works in the urban sources. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked Paris interview lines 69-83 and Lentz lines 70-82 for confiscated land, water, pollution regulation, costs, and unfinished works. -->
 
 **Status:** Sourced urban mechanism. Revolutionary confiscation and sale of property released land in Paris for routes and subdivisions; the atlas interview also records dense housing, slums, water, markets, and the 1810 regulation of dangerous manufacturers. Lentz's account records sewer, water, food-storage, and bridge expenditure alongside demolition and unfinished projects. A fountain can improve access to water while a canal redirects labor and land; a factory can employ workers while polluting a neighborhood; a bridge can connect markets while making a village a military route. Settings must name landowner, tenant, worker, toll, guard, season, and complaint. Do not write “progress” where the source shows both service and displacement.
 
-Sources: Delage and Prévot, Paris urban evolution, https://www.napoleon.org/en/magazine/interviews/4-questions-for-irene-delage-and-chantal-prevot-the-story-of-a-vigorous-urban-redesign/ (lines 69-83); Lentz, Paris works and costs, https://www.napoleon.org/en/history-of-the-two-empires/articles/bullet-point-30-did-napoleon-transform-paris/ (lines 70-82).
+Sources: Delage and Prévot, Paris urban evolution, https://www.napoleon.org/en/magazine/interviews/4-questions-for-irene-delage-and-chantal-prevot-paris-au-temps-de-napoleon-the-story-of-a-vigorous-urban-redesign/ (lines 69-83); Lentz, Paris works and costs, https://www.napoleon.org/en/history-of-the-two-empires/articles/bullet-point-30-did-napoleon-transform-paris/ (lines 70-82).
 
 ## Industrial limits and campaign logistics {#industrial-limits-and-campaign-logistics}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns the chain from raw material and contract through depot, route, inspection, loss, and receipt. -->
