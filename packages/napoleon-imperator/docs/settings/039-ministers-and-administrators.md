@@ -10,8 +10,8 @@
 <!-- @evidenceReview principles/settings.md#information-structure #10ff424 Reread each Status-to-Sources block for office, actor, paper, authority, queue, delay, and consequence. -->
 <!-- @evidence principles/settings.md#fact-status Status distinguishes law, institutional history, critical police scholarship, administrative inference, and boundary. -->
 <!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Compared labels with the 1800 prefectural law accounts, police study, and institutional overview. -->
-<!-- @evidence principles/settings.md#source-support Claims use direct law summaries, departmental history, critical police research, and documentary correspondence. -->
-<!-- @evidenceReview principles/settings.md#source-support #2462844 Reopened departmental lines 77-93, prefect formation lines 67-130, and police lines 53-82. -->
+<!-- @evidence principles/settings.md#source-support Claims use direct law text, departmental and prefectural history, critical police research, and documentary correspondence with retrievable page sections or line ranges; work rules retain source limits. -->
+<!-- @evidenceReview principles/settings.md#source-support #a1c6e73 Reopened Tulard's administration sections at lines 88-100, 117-149, and 159-173; departmental lines 67-84; prefect formation lines 67-79; police lines 47-68; Code Napoleon lines 50-80; and correspondence lines 95-121. Each historical assertion now has a direct locator while work decisions remain labelled. -->
 <!-- @evidence principles/settings.md#constraint-sufficiency The setting fixes office, remit, clerk, register, fee, queue, guard, prison, route, remedy, and report. -->
 <!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Tested every unit for person, document, building, authority, time, cost, information, and failure. -->
 <!-- @evidence principles/settings.md#minimal-departure The file rejects decree-as-implementation, report-as-truth, arrest-as-guilt, and central intention-as-local result. -->
@@ -41,7 +41,7 @@ This file owns the civil offices that translate imperial decisions into law, mon
 
 **Status:** Work canon grounded in institutional structure. A ministry has legal remit, budget, staff, archives, and rivals. Orders cross ministries, prefectures, courts, police, army staffs, and households; one office may decide, another execute, and a third delay or report. A decree can be clear in Paris and ambiguous at a frontier because the receiving clerk lacks a register, translation, money, or authority. Later owners must name the office, signature, file, route, and point at which implementation can fail.
 
-Sources: Fondation Napoléon, “Napoleon and the birth of French administration,” https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-naissance-de-ladministration-francaise/; Fondation Napoléon, correspondence corpus, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/.
+Sources: Jean Tulard, “Napoléon et la naissance de l’administration française,” “Les institutions napoléoniennes” and “Un âge d’or” sections, https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-naissance-de-ladministration-francaise/ (lines 88-100 and 151-160); Fondation Napoléon, “The Correspondence of Napoleon,” editorial scope and traceability, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/ (lines 95-121).
 
 ## Prefects and local implementation {#prefects-and-local-implementation}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns department, arrondissement, prefect, sub-prefect, mayor, register, tax, conscription, police, and report. -->
@@ -55,7 +55,7 @@ Sources: Fondation Napoléon, “Napoleon and the birth of French administration
 
 **Status:** Sourced institutional fact. The 28 Pluviôse Year VIII law of 17 February 1800 retained departments but created prefect, sub-prefect, and mayor levels; the prefect was appointed by the head of state and “charged alone” with department administration. The departmental account records direct correspondence with ministers, control of public services, taxes, troop levies, police, and public expenditure, while also noting up to 134 departments in 1812 and the many offices concentrated at a departmental capital. This is powerful centralization, not magic. A prefect needs clerks, registers, buildings, money, guards, local knowledge, and cooperation; reports travel through incentive and fear. Later units distinguish central instruction, prefect interpretation, mayoral action, and resident response.
 
-Sources: Fondation Napoléon, departmental administration, https://www.napoleon.org/histoire-des-2-empires/articles/institutions-ladministration-departementale-sous-le-consulat-et-lempire/ (lines 77-93); creation of prefectural corps, https://www.napoleon.org/histoire-des-2-empires/articles/la-creation-du-corps-prefectoral-en-lan-viii/ (lines 67-87, 126-130).
+Sources: Thierry Lentz, “Institutions. L’administration départementale sous le Consulat et l’Empire,” departmental hierarchy and cardinality sections, https://www.napoleon.org/histoire-des-2-empires/articles/institutions-ladministration-departementale-sous-le-consulat-et-lempire/ (lines 67-84); Jacques-Olivier Boudon, “La création du corps préfectoral en l’An VIII,” law and three-level administration sections, https://www.napoleon.org/histoire-des-2-empires/articles/la-creation-du-corps-prefectoral-en-lan-viii/ (lines 67-79).
 
 ## Police surveillance and security {#police-surveillance-and-security}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns police, gendarmerie, informer, report, censorship, arrest, prison, court, and jurisdiction. -->
@@ -69,7 +69,7 @@ Sources: Fondation Napoléon, departmental administration, https://www.napoleon.
 
 **Status:** Critical police scholarship. The Revue générale du droit public account distinguishes administrative police, which prevents disorder, from judicial police, which investigates offences and delivers authors to courts. It describes gendarmerie under three authorities—War for matériel and discipline, Police for public order, Justice for judicial police—creating rivalry rather than one seamless security machine. Its reading of Fouché's reports emphasizes both extensive information activity and the danger of exaggerating his “modern police” mastery. An intelligence report is not an event; an arrest is not guilt. Settings name source, chain of custody, legal authority, physical site, and consequence, while fear changes what citizens say publicly.
 
-Sources: Revue générale du droit public, “La préfecture de police est-elle une institution napoléonienne?”, https://www.revuegeneraledudroit.eu/blog/2021/05/01/la-prefecture-de-police-est-elle-une-institution-napoleonienne/ (lines 53-82).
+Sources: Revue générale du droit public, “La préfecture de police est-elle une institution napoléonienne?”, administrative/judicial police, gendarmerie authorities, and Fouché sections, https://www.revuegeneraledudroit.eu/blog/2021/05/01/la-prefecture-de-police-est-elle-une-institution-napoleonienne/ (lines 47-68).
 
 ## Law courts and administrative continuity {#law-courts-and-administrative-continuity}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns jurisdiction, code, court, judge, clerk, witness, police, file, time, and enforcement. -->
@@ -83,7 +83,7 @@ Sources: Revue générale du droit public, “La préfecture de police est-elle 
 
 **Status:** Source-critical. Courts require files, judges, clerks, witnesses, police, and time. A legal code is implemented unevenly, and an imperial command can conflict with local custom or judicial procedure. Regime change may preserve offices and forms while changing whose property, speech, and body the system protects. Later documents must identify jurisdiction, text, date, filing, witness, court, and enforcement path before calling an act legal or illegal. The decree, the judgment, and the physical execution are different evidence.
 
-Sources: Code Napoleon, married rights and judicial authority, https://www.napoleon-series.org/research/government/code/book1/c_title05.html; Fondation Napoléon, administration and institutions, https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-naissance-de-ladministration-francaise/.
+Sources: Code Napoléon, Book I, Title V, formalities, opposition, and nullity sections, https://www.napoleon-series.org/research/government/code/book1/c_title05.html (lines 50-80); Jean Tulard, “Napoléon et la naissance de l’administration française,” “Les institutions napoléoniennes” section, https://www.napoleon.org/histoire-des-2-empires/articles/napoleon-et-la-naissance-de-ladministration-francaise/ (lines 88-100).
 
 ## Ministries and information bottlenecks {#ministries-and-information-bottlenecks}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns file, summary, enclosure, translation, clerk, signature, queue, archive, and delayed decision. -->
@@ -97,7 +97,7 @@ Sources: Code Napoleon, married rights and judicial authority, https://www.napol
 
 **Status:** Work canon grounded in files. A minister receives summaries rather than every fact. A missing enclosure, untranslated letter, delayed register, or clerk's prioritization can change policy. The setting must show who prepares a brief, what evidence is omitted, who signs, where the file waits, and how a subordinate learns the decision. The surviving correspondence is also a curated corpus, so an archive's silence may reflect loss or selection rather than absence of an event.
 
-Sources: Fondation Napoléon, correspondence editorial method, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Fondation Napoléon, departmental reporting and prefect duties, https://www.napoleon.org/histoire-des-2-empires/articles/la-creation-du-corps-prefectoral-en-lan-viii/ (lines 126-130).
+Sources: Fondation Napoléon, “The Correspondence of Napoleon,” editorial scope and traceability, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/ (lines 95-121); Jacques-Olivier Boudon, “La création du corps préfectoral en l’An VIII,” prefect authority and local implementation sections, https://www.napoleon.org/histoire-des-2-empires/articles/la-creation-du-corps-prefectoral-en-lan-viii/ (lines 67-79 and 126-130).
 
 ## Administrative coercion and ordinary life {#administrative-coercion-and-ordinary-life}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns identity paper, tax, conscription, license, schooling, travel, requisition, queue, fee, and remedy. -->
@@ -111,7 +111,7 @@ Sources: Fondation Napoléon, correspondence editorial method, https://fondation
 
 **Status:** Source-required domain. The state reaches households through identity papers, taxes, conscription, licenses, schooling, travel controls, and requisition. An ordinary person meets it at a desk, checkpoint, court, market, barracks, or parish. Settings must identify document, fee, official, queue, guard, language, and remedy. Efficiency and coercion can coexist; neither should be described without the person who performs it and the person who bears it.
 
-Sources: Fondation Napoléon, “The masses of granite,” prefects and public institutions, https://www.napoleon.org/en/young-historians/napodoc/les-masses-de-granit-de-nouvelles-institutions-napoleoniennes/ (lines 89-102); departmental administration, https://www.napoleon.org/histoire-des-2-empires/articles/institutions-ladministration-departementale-sous-le-consulat-et-lempire/.
+Sources: Fondation Napoléon, “The masses of granite,” prefects and public institutions, https://www.napoleon.org/en/young-historians/napodoc/les-masses-de-granit-de-nouvelles-institutions-napoleoniennes/ (lines 89-102); Thierry Lentz, “Institutions. L’administration départementale sous le Consulat et l’Empire,” departmental offices and hierarchy, https://www.napoleon.org/histoire-des-2-empires/articles/institutions-ladministration-departementale-sous-le-consulat-et-lempire/ (lines 67-84).
 
 ## Boundary to ministries and character owners {#boundary-to-ministries-and-character-owners}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns handoff to individual ministers, prefects, judges, police officials, clerks, and dated institutional owners. -->
@@ -125,4 +125,4 @@ Sources: Fondation Napoléon, “The masses of granite,” prefects and public i
 
 **Status:** Work boundary. Individual ministers, prefects, judges, police officials, and clerks require dated biographical and institutional owners. Downstream units must cite office, document, official, jurisdiction, queue, and material consequence; they may not turn the state into one voice or a frictionless machine. The handoff succeeds when policy can be followed from central text through staff and local site to a person's body, property, speech, or remedy.
 
-Sources: Fondation Napoléon, departmental administration, https://www.napoleon.org/histoire-des-2-empires/articles/institutions-ladministration-departementale-sous-le-consulat-et-lempire/; Revue générale du droit public, police jurisdictions, https://www.revuegeneraledudroit.eu/blog/2021/05/01/la-prefecture-de-police-est-elle-une-institution-napoleonienne/.
+Sources: Thierry Lentz, “Institutions. L’administration départementale sous le Consulat et l’Empire,” departmental hierarchy and local offices, https://www.napoleon.org/histoire-des-2-empires/articles/institutions-ladministration-departementale-sous-le-consulat-et-lempire/ (lines 67-84); Revue générale du droit public, “La préfecture de police est-elle une institution napoléonienne?”, police jurisdictions and authority rivalry, https://www.revuegeneraledudroit.eu/blog/2021/05/01/la-prefecture-de-police-est-elle-une-institution-napoleonienne/ (lines 47-68).
