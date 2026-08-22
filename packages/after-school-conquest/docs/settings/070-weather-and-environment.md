@@ -217,6 +217,14 @@ The Education Facilities Safety and Maintenance Standard, effective 2022-01-14, 
 
 ## Air quality, pollen, and smoke
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes air, pollen, smoke, ventilation, exposure, indoor/outdoor choice, and health-referral boundaries. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked exposure, ventilation, refuge, and referral limits; air conditions do not become a diagnosis. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives usable air-quality and smoke-response constraints without prescribing a medical scene. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the exposure and referral clauses; downstream units can stop or relocate work without inventing treatment. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates pollen, smoke, ventilation, exposure, relocation, and health referral. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the environmental effects; smoke relocation is the distinct operational consequence. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional air conditions and avoids unsupported medical or pollution claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and health boundary wording; no external air-quality threshold is asserted. -->
 
 **Status:** Work decision using official weather and safety-information channels; no fictional pollution reading is presented as measured fact.
 
