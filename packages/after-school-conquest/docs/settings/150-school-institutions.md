@@ -30,6 +30,7 @@
 <!-- @evidence obligations/common.md#proportionate-development The Principal authority host gives 169 authored words across 3 paragraphs to its distinct institutional decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Principal authority” H2 from Status through its final boundary. Its first operating statement is “Principal Han Mi-rae signs club recognition, controls rooms and staff assignments, and represents Haneul in external agreements. Form H-01 records purpose, adviser, dates, headcoun”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Principal authority acknowledgement is grounded in this host's Status and its concrete opening statement 'n - fictional Haneul allocation.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Principal authority” H2 from Status through its final boundary. Its first operating statement is “Principal Han Mi-rae signs club recognition, controls rooms and staff assignments, and represents Haneul in external agreements. Form H-01 records purpose, adviser, dates, headcoun”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision - fictional Haneul allocation.
 
@@ -46,6 +47,7 @@ Students appeal a principal club-recognition rejection within five school days t
 <!-- @evidence obligations/common.md#proportionate-development The Vice-principal authority host gives 100 authored words across 3 paragraphs to its distinct institutional decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Vice-principal authority” H2 from Status through its final boundary. Its first operating statement is “Vice-principal Kwon Eun-tae owns the daily room-and-timetable queue. Form H-02 names room, time, equipment, key holder, headcount, noise, and accessible route. The office acknowled”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Vice-principal authority acknowledgement is grounded in this host's Status and its concrete opening statement 'n - fictional Haneul operating procedure.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Vice-principal authority” H2 from Status through its final boundary. Its first operating statement is “Vice-principal Kwon Eun-tae owns the daily room-and-timetable queue. Form H-02 names room, time, equipment, key holder, headcount, noise, and accessible route. The office acknowled”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision - fictional Haneul operating procedure.
 
@@ -62,6 +64,7 @@ Kwon may refuse for examination, conflict, unsafe equipment, or absent adult res
 <!-- @evidence obligations/common.md#proportionate-development The Faculty committee host gives 156 authored words across 3 paragraphs to its distinct institutional decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Faculty committee” H2 from Status through its final boundary. Its first operating statement is “The staff Faculty Committee has Han, Kwon, counselor Yun Sae-bom, facilities manager Baek Jun, two grade teachers, and one rotating adviser; five form quorum. When Han made the ori”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Faculty committee acknowledgement is grounded in this host's Status and its concrete opening statement 'n - fictional committee and record.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Faculty committee” H2 from Status through its final boundary. Its first operating statement is “The staff Faculty Committee has Han, Kwon, counselor Yun Sae-bom, facilities manager Baek Jun, two grade teachers, and one rotating adviser; five form quorum. When Han made the ori”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision - fictional committee and record.
 
@@ -78,6 +81,7 @@ Minutes list attendance, recusals, motion, vote, conditions, responsible person,
 <!-- @evidence obligations/common.md#proportionate-development The School Governance Committee host gives 312 authored words across 4 paragraphs to its distinct institutional decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “School Governance Committee” H2 from Status through its final boundary. Its first operating statement is “Haneul Public High School has the statutory School Governance Committee required for a public school. Under the Korean Elementary and Secondary Education Act, Article 31 provides a”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The School Governance Committee acknowledgement is grounded in this host's Status and its concrete opening statement 'nal Haneul membership details separated.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “School Governance Committee” H2 from Status through its final boundary. Its first operating statement is “Haneul Public High School has the statutory School Governance Committee required for a public school. Under the Korean Elementary and Secondary Education Act, Article 31 provides a”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Source-verified statutory structure as at 2026-08-21, with fictional Haneul membership details separated.
 
@@ -96,6 +100,7 @@ The statutory School Governance Committee receives an agenda packet five school 
 <!-- @evidence obligations/common.md#proportionate-development The Student council host gives 99 authored words across 3 paragraphs to its distinct institutional decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Student council” H2 from Status through its final boundary. Its first operating statement is “The council recommends student priorities, allocates its activity budget, and requests assemblies. Agenda form C-01 is due three school days before meeting; the secretary publishes”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Student council acknowledgement is grounded in this host's Status and its concrete opening statement 'n - fictional representative authority.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Student council” H2 from Status through its final boundary. Its first operating statement is “The council recommends student priorities, allocates its activity budget, and requests assemblies. Agenda form C-01 is due three school days before meeting; the secretary publishes”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision - fictional representative authority.
 
@@ -112,6 +117,7 @@ The council cannot unlock rooms, access records, discipline, approve grants, or 
 <!-- @evidence obligations/common.md#proportionate-development The Club recognition host gives 88 authored words across 3 paragraphs to its distinct institutional decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Club recognition” H2 from Status through its final boundary. Its first operating statement is “Applicants file purpose, minimum contacts, adviser consent, calendar, room request, safeguarding route, access plan, budget, and external-contact rule. The adviser checks completen”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Club recognition acknowledgement is grounded in this host's Status and its concrete opening statement 'n - fictional Haneul recognition process.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Club recognition” H2 from Status through its final boundary. Its first operating statement is “Applicants file purpose, minimum contacts, adviser consent, calendar, room request, safeguarding route, access plan, budget, and external-contact rule. The adviser checks completen”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision - fictional Haneul recognition process.
 
@@ -128,6 +134,7 @@ Recognition grants approved room use and scheduled adviser supervision, not fund
 <!-- @evidence obligations/common.md#proportionate-development The Discipline host gives 138 authored words across 3 paragraphs to its distinct institutional decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Discipline” H2 from Status through its final boundary. Its first operating statement is “The support officer receives an incident report with date, place, conduct, immediate safety action, witnesses, and remedy; receipt is same day and response opportunity precedes a n”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Discipline acknowledgement is grounded in this host's Status and its concrete opening statement 'n bounded by the Korean school-law framework.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Discipline” H2 from Status through its final boundary. Its first operating statement is “The support officer receives an incident report with date, place, conduct, immediate safety action, witnesses, and remedy; receipt is same day and response opportunity precedes a n”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision bounded by the Korean school-law framework.
 
@@ -144,6 +151,7 @@ Han decides ordinary club sanctions as original decision-maker. The staff Facult
 <!-- @evidence obligations/common.md#proportionate-development The Student records host gives 118 authored words across 3 paragraphs to its distinct institutional decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Student records” H2 from Status through its final boundary. Its first operating statement is “The records officer controls grades, attendance, health, counseling, guardian, and discipline files. Request R-01 states requester, purpose, fields, authority, and deletion date; a”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Student records acknowledgement is grounded in this host's Status and its concrete opening statement 'n incorporating the Korean Personal Information Protection Act.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Student records” H2 from Status through its final boundary. Its first operating statement is “The records officer controls grades, attendance, health, counseling, guardian, and discipline files. Request R-01 states requester, purpose, fields, authority, and deletion date; a”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision incorporating the Korean Personal Information Protection Act.
 
@@ -160,6 +168,7 @@ Aggregate counts and anonymous route observations are allowed when consented. Di
 <!-- @evidence obligations/common.md#proportionate-development The Room booking host gives 89 authored words across 3 paragraphs to its distinct institutional decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Room booking” H2 from Status through its final boundary. Its first operating statement is “The clerk's H-02 queue is authoritative. Confirmation requires receipt number, room, time, key holder, adult supervisor, headcount, equipment, route, and closing inspection. The cl”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Room booking acknowledgement is grounded in this host's Status and its concrete opening statement 'n - facilities procedure.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Room booking” H2 from Status through its final boundary. Its first operating statement is “The clerk's H-02 queue is authoritative. Confirmation requires receipt number, room, time, key holder, adult supervisor, headcount, equipment, route, and closing inspection. The cl”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision - facilities procedure.
 
@@ -176,6 +185,7 @@ The audiovisual booth holds twelve seated students and two supervisors; its door
 <!-- @evidence obligations/common.md#proportionate-development The Safeguarding host gives 114 authored words across 3 paragraphs to its distinct institutional decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Safeguarding” H2 from Status through its final boundary. Its first operating statement is “Counselor Yun is the safeguarding contact. S-01 records necessary facts; a student may request support person, interpreter, and disclosure explanation. Immediate concerns receive a”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Safeguarding acknowledgement is grounded in this host's Status and its concrete opening statement 'n - fictional school route.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Safeguarding” H2 from Status through its final boundary. Its first operating statement is “Counselor Yun is the safeguarding contact. S-01 records necessary facts; a student may request support person, interpreter, and disclosure explanation. Immediate concerns receive a”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision - fictional school route.
 
@@ -192,6 +202,7 @@ Student leaders may listen and contact Yun, but cannot investigate or promise ab
 <!-- @evidence obligations/common.md#proportionate-development The Attendance host gives 120 authored words across 3 paragraphs to its distinct institutional decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Attendance” H2 from Status through its final boundary. Its first operating statement is “The attendance officer records classes and approved activities; the club records hours only as workload. A-01 states purpose, supervisor, place, and time; the officer answers befor”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Attendance acknowledgement is grounded in this host's Status and its concrete opening statement 'n - voluntary activity is separate from compulsory attendance.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Attendance” H2 from Status through its final boundary. Its first operating statement is “The attendance officer records classes and approved activities; the club records hours only as workload. A-01 states purpose, supervisor, place, and time; the officer answers befor”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision - voluntary activity is separate from compulsory attendance.
 
@@ -208,6 +219,7 @@ No seal, token, recommendation, or grade depends on a voluntary shift. Injury or
 <!-- @evidence obligations/common.md#proportionate-development The Examination authority host gives 109 authored words across 3 paragraphs to its distinct institutional decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Examination authority” H2 from Status through its final boundary. Its first operating statement is “The coordinator publishes schedule, room, materials, time, and accommodation contact on portal and paper notice. E-01 requests receive acknowledgment in two school days and a decis”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Examination authority acknowledgement is grounded in this host's Status and its concrete opening statement 'n - school assessment remains teacher and administration controlled.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Examination authority” H2 from Status through its final boundary. Its first operating statement is “The coordinator publishes schedule, room, materials, time, and accommodation contact on portal and paper notice. E-01 requests receive acknowledgment in two school days and a decis”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision - school assessment remains teacher and administration controlled.
 
@@ -224,6 +236,7 @@ Teachers control marking and integrity decisions. Appeals go to the coordinator,
 <!-- @evidence obligations/common.md#proportionate-development The Graduation authority host gives 170 authored words across 3 paragraphs to its distinct institutional decision, proportionate to the twenty-volume scale. -->
 <!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Graduation authority” H2 from Status through its final boundary. Its first operating statement is “Graduation eligibility comes from official academic records, not seals, volunteer hours, council office, or reputation. The graduation officer issues a completion review notice; st”; checked the distinct word and paragraph budget against its single canon decision against this unit. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Graduation authority acknowledgement is grounded in this host's Status and its concrete opening statement 'n - three-year Korean high-school boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Graduation authority” H2 from Status through its final boundary. Its first operating statement is “Graduation eligibility comes from official academic records, not seals, volunteer hours, council office, or reputation. The graduation officer issues a completion review notice; st”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision - three-year Korean high-school boundary.
 
