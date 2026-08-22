@@ -31,6 +31,7 @@ This file fixes how people, objects, information, and waste move through Haneul.
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Request-to-delivery chain” H2 from Status through its final boundary. Its first operating statement is “Every supply request names item, quantity, specification, destination, access window, owner, urgency, and cancellation condition. The chain then records approval, purchase or sourc”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Request-to-delivery chain host gives 84 authored words across 3 paragraphs to its distinct 230 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Request-to-delivery chain acknowledgement is grounded in this host's Status and its concrete opening statement 'n — logistics canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Request-to-delivery chain” H2 from Status through its final boundary. Its first operating statement is “Every supply request names item, quantity, specification, destination, access window, owner, urgency, and cancellation condition. The chain then records approval, purchase or sourc”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — logistics canon.
 
@@ -46,6 +47,7 @@ The person who requests an item is not automatically the person who may accept i
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “School receiving boundary” H2 from Status through its final boundary. Its first operating statement is “School deliveries use the designated gate, service lane, receiving office, or facilities process. Students do not direct a courier through a locked wing, leave a parcel in a stairw”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The School receiving boundary host gives 79 authored words across 3 paragraphs to its distinct 230 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The School receiving boundary acknowledgement is grounded in this host's Status and its concrete opening statement 'n — inherited institutional boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “School receiving boundary” H2 from Status through its final boundary. Its first operating statement is “School deliveries use the designated gate, service lane, receiving office, or facilities process. Students do not direct a courier through a locked wing, leave a parcel in a stairw”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — inherited institutional boundary.
 
@@ -61,6 +63,7 @@ The west annex and audiovisual booth retain the fire and key rules in `030` and 
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Civic receiving boundary” H2 from Status through its final boundary. Its first operating statement is “City facilities, the youth centre, library, market edge, and public service lane have separate hosts and hours. A delivery addressed to one facility cannot be left in another. The ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Civic receiving boundary host gives 82 authored words across 3 paragraphs to its distinct 230 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Civic receiving boundary acknowledgement is grounded in this host's Status and its concrete opening statement 'n — municipal interface.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Civic receiving boundary” H2 from Status through its final boundary. Its first operating statement is “City facilities, the youth centre, library, market edge, and public service lane have separate hosts and hours. A delivery addressed to one facility cannot be left in another. The ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — municipal interface.
 
@@ -76,6 +79,7 @@ During a warning, no volunteer enters the channel or basement to retrieve a parc
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Packaging and accessibility” H2 from Status through its final boundary. Its first operating statement is “Packaging is handled so that labels can be read, weights carried, waste removed, and a person using a mobility aid can approach without losing the route. Heavy or unstable items ar”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Packaging and accessibility host gives 85 authored words across 3 paragraphs to its distinct 230 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Packaging and accessibility acknowledgement is grounded in this host's Status and its concrete opening statement 'n — material canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Packaging and accessibility” H2 from Status through its final boundary. Its first operating statement is “Packaging is handled so that labels can be read, weights carried, waste removed, and a person using a mobility aid can approach without losing the route. Heavy or unstable items ar”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — material canon.
 
@@ -91,6 +95,7 @@ The group identifies scissors, tape, batteries, liquid, sharp edges, allergens, 
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Inventory and condition” H2 from Status through its final boundary. Its first operating statement is “Inventory records asset or consumable name, quantity, owner, location, condition, serial or identifier when necessary, custodian, inspection date, and disposal route. “One box” is ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Inventory and condition host gives 69 authored words across 3 paragraphs to its distinct 230 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Inventory and condition acknowledgement is grounded in this host's Status and its concrete opening statement 'n — asset ledger.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Inventory and condition” H2 from Status through its final boundary. Its first operating statement is “Inventory records asset or consumable name, quantity, owner, location, condition, serial or identifier when necessary, custodian, inspection date, and disposal route. “One box” is ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — asset ledger.
 
@@ -106,6 +111,7 @@ The founders check received material against order and report damage before use.
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Shared tools and checkout” H2 from Status through its final boundary. Its first operating statement is “A checkout entry states borrower, item, purpose, start, return, condition, accessories, and supervision. Shared tools are stored where the host can monitor them; students do not du”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Shared tools and checkout host gives 75 authored words across 3 paragraphs to its distinct 230 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Shared tools and checkout acknowledgement is grounded in this host's Status and its concrete opening statement 'n — access canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Shared tools and checkout” H2 from Status through its final boundary. Its first operating statement is “A checkout entry states borrower, item, purpose, start, return, condition, accessories, and supervision. Shared tools are stored where the host can monitor them; students do not du”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — access canon.
 
@@ -121,6 +127,7 @@ The custodian may refuse a request when training, age, weather, room, or safety 
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Food, water, and temperature-sensitive items” H2 from Status through its final boundary. Its first operating statement is “Food and temperature-sensitive supplies carry source, date, storage condition, allergen information where available, and discard rule. A public room may not have a refrigerator, si”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Food, water, and temperature-sensitive items host gives 83 authored words across 3 paragraphs to its distinct 230 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Food, water, and temperature-sensitive items acknowledgement is grounded in this host's Status and its concrete opening statement 'n — health boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Food, water, and temperature-sensitive items” H2 from Status through its final boundary. Its first operating statement is “Food and temperature-sensitive supplies carry source, date, storage condition, allergen information where available, and discard rule. A public room may not have a refrigerator, si”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — health boundary.
 
@@ -136,6 +143,7 @@ The founders do not diagnose an allergy, store medication casually, or serve unl
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Printing, paper, and archive” H2 from Status through its final boundary. Its first operating statement is “Printed notices state issuer, date, audience, version, contact, and removal or correction condition. A map printed at a different scale is marked. Sensitive drafts are collected or”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Printing, paper, and archive host gives 91 authored words across 3 paragraphs to its distinct 230 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Printing, paper, and archive acknowledgement is grounded in this host's Status and its concrete opening statement 'n — information logistics.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Printing, paper, and archive” H2 from Status through its final boundary. Its first operating statement is “Printed notices state issuer, date, audience, version, contact, and removal or correction condition. A map printed at a different scale is marked. Sensitive drafts are collected or”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — information logistics.
 
@@ -151,6 +159,7 @@ Paper archives are stored dry, above flood risk, and separate from batteries or 
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Waste and reverse logistics” H2 from Status through its final boundary. Its first operating statement is “The plan accounts for cardboard, plastic, food, batteries, toner, broken tools, contaminated material, and reusable packaging. Disposal follows the host’s rule and the item’s hazar”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Waste and reverse logistics host gives 80 authored words across 3 paragraphs to its distinct 230 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Waste and reverse logistics acknowledgement is grounded in this host's Status and its concrete opening statement 'n — environmental canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Waste and reverse logistics” H2 from Status through its final boundary. Its first operating statement is “The plan accounts for cardboard, plastic, food, batteries, toner, broken tools, contaminated material, and reusable packaging. Disposal follows the host’s rule and the item’s hazar”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — environmental canon.
 
@@ -166,6 +175,7 @@ The person who brings material home is not automatically responsible for permane
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Weather and route contingency” H2 from Status through its final boundary. Its first operating statement is “Rain, heat, cold, darkness, flood warning, bus delay, crowding, or a closed passage can interrupt delivery. The contingency states a safe alternate, authority to cancel, storage li”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Weather and route contingency host gives 88 authored words across 3 paragraphs to its distinct 230 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Weather and route contingency acknowledgement is grounded in this host's Status and its concrete opening statement 'n — cross-system canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Weather and route contingency” H2 from Status through its final boundary. Its first operating statement is “Rain, heat, cold, darkness, flood warning, bus delay, crowding, or a closed passage can interrupt delivery. The contingency states a safe alternate, authority to cancel, storage li”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — cross-system canon.
 
@@ -181,6 +191,7 @@ An alternate route must be checked for actual access, not selected from a map al
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Delivery evidence and dispute” H2 from Status through its final boundary. Its first operating statement is “Delivery evidence may be a receipt, signed handoff, time-stamped message, condition photograph, inventory entry, or named witness, depending on the item and host. Evidence records ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Delivery evidence and dispute host gives 89 authored words across 3 paragraphs to its distinct 230 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Delivery evidence and dispute acknowledgement is grounded in this host's Status and its concrete opening statement 'n — records canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Delivery evidence and dispute” H2 from Status through its final boundary. Its first operating statement is “Delivery evidence may be a receipt, signed handoff, time-stamped message, condition photograph, inventory entry, or named witness, depending on the item and host. Evidence records ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — records canon.
 
@@ -196,6 +207,7 @@ When sender and recipient disagree, the owner isolates the disputed item, checks
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Handoff at graduation and project closure” H2 from Status through its final boundary. Its first operating statement is “Before graduation or closure, the club lists assets, consumables, orders, subscriptions, open repairs, stored media, borrowed items, and next owners. School-owned supplies return t”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Handoff at graduation and project closure host gives 82 authored words across 3 paragraphs to its distinct 230 setting decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Handoff at graduation and project closure acknowledgement is grounded in this host's Status and its concrete opening statement 'n — continuity canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Handoff at graduation and project closure” H2 from Status through its final boundary. Its first operating statement is “Before graduation or closure, the club lists assets, consumables, orders, subscriptions, open repairs, stored media, borrowed items, and next owners. School-owned supplies return t”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — continuity canon.
 
