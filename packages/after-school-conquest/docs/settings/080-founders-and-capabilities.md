@@ -128,6 +128,14 @@ The ledger records subject, date, location, conditions, owner, confidence class,
 
 ## Complementarity without compulsory harmony
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes how founder capacities complement, conflict, decline, substitute, and remain voluntary without requiring emotional agreement. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked complementarity, conflict, refusal, and substitution clauses; teamwork never erases individual consent. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives downstream writers a complete relation among skills, disagreement, handoff, and refusal without prescribing an event. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the cooperation limits; a task can continue through substitution without forcing harmony. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates useful overlap, conflict, refusal, substitution, and relationship repair. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the relation modes; refusal is the independent agency safeguard. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional relationship constraints, not a claim about real adolescent psychology. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and consent language; no external harmony model is asserted. -->
 
 **Status:** Work decision — relationship constraint.
 
