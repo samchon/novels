@@ -1,10 +1,39 @@
 
+<!-- @evidence principles/common.md#purpose-fit This file partitions the complete delivery into twenty chronological settings containers, giving each volume its inclusive dates, status, seasonal resources, institutional records, and outside boundary without assigning plot, reveal, chapter, or scene work. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa I reread the overview and all twenty volume units; Volume 17 is the weakest scale test because its long final-student interval must hold assessment and graduation administration without becoming plot planning. -->
+<!-- @evidence principles/common.md#layer-boundary Every H2 fixes time-container facts and constraints only; volume-level event order, character arcs, climaxes, chapters, and scenes are explicitly reserved for downstream layers. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 I compared all twenty bodies and their outside-date paragraphs with the settings boundary; Volume 18 is the clearest transition test because it begins after student status without narrating an event. -->
+<!-- @evidence principles/common.md#work-language The file uses stable Volume headings, ISO inclusive ranges, spelled-out weekdays, academic-status labels, and plain distinctions among instructional, recess, examination, graduation, and alumni time. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c I checked every heading, date range, weekday, and status phrase; Volume 06 is the weakest notation unit because its leap day and winter recess must remain unambiguous. -->
+<!-- @evidence principles/settings.md#addressable-canon Each of the twenty volumes has one independent H2 with a stable anchor and unique time container; no volume is bundled with an adjacent boundary or hidden in overview prose. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f I counted all twenty anchored H2 owners and compared each start/end with its neighbors; Volume 13 remains separately addressable because office preparation and first instruction have different dates. -->
+<!-- @evidence principles/settings.md#information-structure Every Volume H2 begins with Status, then gives inclusive dates/status, examinations or birthdays, seasonal and resource conditions, authority records, and dates outside the container. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 I read all twenty units in order and compared paragraph roles; Volume 20 is the weakest structure check because it must state two birthdays, alumni resources, final closure, and outside endpoint without repetition. -->
+<!-- @evidence principles/settings.md#fact-status Status labels all volume partitions and seasonal conditions as Work decisions while inheriting legal membership only where 030 identifies it; no real weather average or future legal fact is asserted. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 I checked every Status and each legal/fictional qualifier; Volume 16 most clearly separates intentional semester movement from Work-decision seasonal pressure. -->
+<!-- @evidence principles/settings.md#source-support The file refers back to 030 for current-law baselines and marks exact volume dates, birthdays, examinations, weather/resource conditions, and alumni partitions as package decisions rather than fabricating new sources. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 I compared all legal references with 030 and inspected the twenty source-free Work-decision containers; Volume 13 does not turn its office-preparation date into unsupported public-holiday law. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency Each volume fixes exact endpoints, weekday, academic/semester/grade standing, internal exams/birthdays/recess, resource changes, authority records, and excluded dates so downstream units cannot invent a missing temporal condition. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 I checked the date/status/resource/outside-date fields across all twenty units; Volume 17 is the narrowest operational container because final exams, graduation administration, records, keys, and access all coexist. -->
+<!-- @evidence principles/settings.md#minimal-departure The file declares fictional Haneul volume partitions and seasonal resource decisions while preserving 030's legal semester membership, official status boundary, and ordinary institutional authority. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 I compared each fictional partition with 030's legal and chronology defaults; Volume 06 best demonstrates the departure boundary by keeping winter recess inside semester 2 and first-year status. -->
+<!-- @evidence principles/settings.md#internal-coherence The twenty ranges form one contiguous inclusive partition from 2027-03-02 to 2031-02-28, with aligned weekdays, grades, exam windows, birthdays, graduation, alumni standing, and inherited 030 constraints. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e I audited every adjacent endpoint, weekday, exam, birthday, grade, and status transition against 030; Volume 18 is the arithmetic anchor where student status ends on February 28 and alumni time begins March 1. -->
+
 # Volume Time Boundaries
 
 This file divides the delivery interval into twenty inclusive chronological containers. A volume container owns dates, institutional status, seasonal resources, and the boundaries that later layers must inherit; it does not own plot, reveal, event order, character arcs, climaxes, chapters, or scenes. The dates below are fictional Haneul scheduling decisions unless the referenced legal school-year rule is explicitly identified in `030-chronology-baseline.md`. Every container begins the day after the previous container ends, and every date belongs to exactly one container.
 
 ## Volume 01 — First term opening {#volume-01-first-term-opening}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2027-03-02–04-30, first-year first-semester standing, April 26–30 exams, no birthday, opening resources, and dates outside including March 1 and May 1. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the opening/closing weekdays, April exam inclusion, no-birthday list, and outside dates against 030; March 1 remains outside as legal boundary. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit settles the first instructional boundary, exam-end coincidence, daylight/transport/family constraints, school/city record owners, and next-day separation without assigning an event. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread all five paragraphs; the final exam Friday and April 30 volume endpoint are explicitly distinguished from May 1 continuation. -->
+<!-- @evidence obligations/common.md#proportionate-development The opening unit develops winter-to-spring daylight, wet routes, household notice access, exam capacity, and family work as distinct resources rather than a date card. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the seasonal, route, household, and assessment paragraphs; shared-phone notice access is the least visible resource and is retained. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status and body identify a fictional container while inheriting 030's legal year/exam facts; weather and family conditions are Work decisions, not sourced averages. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, dates, and legal/fictional qualifiers; no external weather or holiday claim is attached to Volume 01. -->
 
 **Status:** Work decision; inclusive container 2027-03-02 through 2027-04-30.
 
@@ -20,6 +49,14 @@ April 30 is also the last examination Friday in this container, so the end date 
 
 ## Volume 02 — Spring instruction to summer edge {#volume-02-spring-instruction-to-summer-edge}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2027-05-01–07-20, first-year first-semester standing, June 28–July 2 exams, Jae-won's June 2 birthday, summer boundary, and outside dates. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked Saturday start, Tuesday instructional end, June exam weekdays, birthday inclusion, and July 21 outside boundary against 030. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit fixes birthday-versus-grade authority, flood-detour resource, school/family records, June weekend exclusion, and the transition from instruction to recess. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the exam, birthday, detour, and July 20/21 paragraphs; the volume closes instructional time without backdating recess. -->
+<!-- @evidence obligations/common.md#proportionate-development The body separates late-spring daylight, rain, flood detour, exam recovery, paid/care work, and summer boundary effects. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared seasonal, transport, exam, and household-resource treatment; the 35-minute detour is the most concrete cost and remains conditional on warnings. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks Haneul dates and resource pressures as Work decisions while preserving 030's examination and legal semester baseline. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked the date table references and fictional-weather wording; the birthday and exam facts are chronology canon, not external claims. -->
 
 **Status:** Work decision; inclusive container 2027-05-01 through 2027-07-20.
 
@@ -33,6 +70,14 @@ The June examination begins on a Monday and ends on a Friday, so the adjacent we
 
 ## Volume 03 — First summer recess {#volume-03-first-summer-recess}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2027-07-21–08-20, first-year first-semester summer recess, no internal exam/birthday, flood detour/gauge, facility authorities, and August 21 outside opening. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked both inclusive endpoints and the no-exam/no-birthday assertion against 030; semester membership and recess operation are both stated. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit settles summer non-instruction, city/youth-centre/school authority, warning closure, family-work variability, and the next-day semester transition without scene allocation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I compared the resource and authority paragraphs; the adviser cannot reopen a warning area, and August 20/21 membership is explicit. -->
+<!-- @evidence obligations/common.md#proportionate-development The body develops heat/rain/shade, accessible-route crowding, municipal gauge, basement restrictions, reduced school demand, and household availability as separate recess conditions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I checked physical, institutional, and household conditions; adult-authority separation is the least seasonal but necessary recess constraint. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies a fictional recess container; gauge, detour, and family resources inherit Work decisions from 030 without real weather averages. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I reread Status and all inherited flood/authority wording; no city closure or holiday law is falsely sourced. -->
 
 **Status:** Work decision; inclusive container 2027-07-21 through 2027-08-20.
 
@@ -46,6 +91,14 @@ The summer boundary also changes which adult can answer a question. A school adv
 
 ## Volume 04 — Second semester and autumn assessment {#volume-04-second-semester-and-autumn-assessment}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2027-08-21–10-29, first-year second-semester standing, October 25–29 exams, Do-yun's September 9 birthday, and outside October 30. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked second-semester start, exam weekdays, birthday inclusion, and Saturday next-volume boundary against 030. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit fixes second-semester/legal versus instructional meaning, autumn daylight/route resources, room/exam/family authority, and birthday independence from grade. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the two boundary paragraphs; October 29 exam closure is not extended into October 30 and birthday does not alter records. -->
+<!-- @evidence obligations/common.md#proportionate-development The body distinguishes late-summer heat, autumn darkness, flood closure, weekend opening, facilities, assessment, and family commitments. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared weather, transit, room, exam, and household paragraphs; municipal closure versus school opening is the least obvious resource split. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional seasonal pressure and dates, with 030 supplying legal membership and exam canon; no average-weather claim is made. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, dates, and source standing; birthday, exam, and city/education separation remain package canon. -->
 
 **Status:** Work decision; inclusive container 2027-08-21 through 2027-10-29.
 
@@ -61,6 +114,14 @@ October 29 is a Friday, and the following Saturday is deliberately outside. A la
 
 ## Volume 05 — Autumn to winter assessment {#volume-05-autumn-to-winter-assessment}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2027-10-30–12-17, first-year second-semester standing, Minseo's November 18 birthday, December 13–17 exams, booth limits, and outside dates. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked Saturday start, birthday, five examination weekdays, and December 18 outside boundary against 030 and fire/booth canon. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit settles winter daylight, assessment-room authority, twelve-seat booth/access controls, family work, and the dual exam/volume endpoint. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I compared the booth and exam paragraphs; December 17 is both final exam and volume boundary, while winter recess remains outside. -->
+<!-- @evidence obligations/common.md#proportionate-development The body develops darkness, wet notices, digital access, family shifts, assessment, key, breaker, charging, and committee limits separately. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I checked resource and facility details; adult-present charging is the easiest downstream omission and is repeated as a temporal condition. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional volume and resource decisions, inheriting 030's birthday/exam and 2022 fire constraints without claiming real winter conditions. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I reread Status and the booth/fire references; the twelve-seat and charging rules are fictional canon, not building-code claims. -->
 
 **Status:** Work decision; inclusive container 2027-10-30 through 2027-12-17.
 
@@ -74,6 +135,14 @@ December 17 is both the fifth examination Friday and the container boundary. A r
 
 ## Volume 06 — Winter recess and leap-day close {#volume-06-winter-recess-and-leap-day-close}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2027-12-18–2028-02-29, first-year second-semester standing, Lila's January 27 birthday, February 9–29 first-year recess, leap day, and outside March 1/2 dates. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the leap-year endpoints, birthday, no-exam assertion, and first-year winter wording against 030; no graduation administration is assigned here. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit fixes cross-year continuity, winter travel, detour/gauge restrictions, school year-end administration, and February 29 record precision without inventing a fourth year. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the leap-day and outside-date paragraphs; March 1 starts the next academic year and cannot be normalized to February 28. -->
+<!-- @evidence obligations/common.md#proportionate-development The body separates winter light/surfaces, flood detour, family work, office closure, and leap-day ledger consequences. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared seasonal, access, family, and date-precision treatment; the February 29 record consequence is the unique unit contribution. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks the first-year winter container as fictional and preserves 030's legal membership and age dates; it does not call this graduation administration. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and the first-year labels against 030; no graduation or unsupported holiday claim remains. -->
 
 **Status:** Work decision; inclusive container 2027-12-18 through 2028-02-29.
 
@@ -87,6 +156,14 @@ The leap day makes the closing ledger especially exact. A February 29 key return
 
 ## Volume 07 — Second-year opening assessment {#volume-07-second-year-opening-assessment}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2028-03-01–04-28, second-year first-semester standing, March 2 instruction, April 24–28 exams, and outside leap day/April 29 dates. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked Wednesday start, Thursday instruction, exam weekdays, and next-volume Saturday against 030. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit distinguishes academic and instructional opening, spring route resources, household access, school/city/education records, and promotion from birthday. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the opening and exam-end paragraphs; April 28 closes assessment while April 29 begins a new container in the same semester. -->
+<!-- @evidence obligations/common.md#proportionate-development The body develops administrative preparation, spring travel, notices, family care, accommodation, and examination capacity separately. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared office, household, route, and exam constraints; shared-phone notice access is the least visible but remains concrete. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional volume boundaries bounded by 030's legal year and exam schedule; spring conditions are Work decisions. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and all inherited dates; no public-holiday or weather average is asserted. -->
 
 **Status:** Work decision; inclusive container 2028-03-01 through 2028-04-28.
 
@@ -102,6 +179,14 @@ April 28 closes the second-year opening examination on a Friday. The next date, 
 
 ## Volume 08 — Second-year spring examination {#volume-08-second-year-spring-examination}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2028-04-29–06-30, second-year first-semester standing, Jae-won's Friday June 2 birthday, June 26–30 exams, and July 1 outside. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the Friday birthday and Monday–Friday exam window against 030; the April exam is correctly outside in Volume 07. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit fixes age-versus-authority, rain/heat/detour resources, booth and assessment control, family work, and exam-end adjacency. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the birthday and boundary paragraphs; June 2 changes age only and June 30 closes the protected exam without importing recess. -->
+<!-- @evidence obligations/common.md#proportionate-development The body separates daylight, weather, accessible travel, equipment, examination, and family scheduling pressures. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared route, booth, exam, and family paragraphs; the Friday birthday is an ordinary weekday boundary, not a weekend consequence. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional time/resource conditions while preserving 030's verified weekday/date canon. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, birthday weekday, and exam dates; no special access or unsupported seasonal fact is claimed. -->
 
 **Status:** Work decision; inclusive container 2028-04-29 through 2028-06-30.
 
@@ -115,6 +200,14 @@ The birthday falls on a Friday, inside the ordinary school week. Age arithmetic 
 
 ## Volume 09 — Second summer recess {#volume-09-second-summer-recess}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2028-07-01–08-20, second-year first-semester standing, summer recess, no exam/birthday, flood controls, and August 21 outside. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked Saturday start, recess end, no internal exam/birthday, and second-semester next date against 030. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit fixes recess membership, heat/rain/access costs, gauge and youth-centre authority, school maintenance, family work, and the semester transition. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the boundary and authority paragraphs; August 20 remains semester 1 while August 21 begins semester 2. -->
+<!-- @evidence obligations/common.md#proportionate-development The body develops summer travel, flood detour, facilities, family availability, and reduced instructional demand as different constraints. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared route, facility, and household effects; recess does not erase the 35-minute detour or make guardians free. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional recess resources and inherits 030's semester/flood canon; no real weather average is used. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and all inherited thresholds; city, youth-centre, and school authorities remain distinct. -->
 
 **Status:** Work decision; inclusive container 2028-07-01 through 2028-08-20.
 
@@ -128,6 +221,14 @@ The summer container includes July 1–19, when the first instructional window h
 
 ## Volume 10 — Second-year autumn examination {#volume-10-second-year-autumn-examination}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2028-08-21–10-27, second-year second-semester standing, October 23–27 exams, no internal birthday, and October 28 outside. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked second-semester start, exam weekdays, no-birthday claim, and Saturday next boundary against 030. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit fixes autumn daylight, route closure, assessment/facilities/family authority, and the distinction between exam close and next volume. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the final Friday and outside-date paragraphs; October 28 is not appended to assessment merely because the semester continues. -->
+<!-- @evidence obligations/common.md#proportionate-development The body separates late-summer transition, earlier darkness, transport, school rooms, city routes, and household schedules. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared route safety and assessment capacity; an open room does not imply a safe route home, the key resource distinction. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional seasonal pressure and volume dates bounded by 030's legal/exam canon. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and date qualifications; seasonal wording is explicitly a Work decision. -->
 
 **Status:** Work decision; inclusive container 2028-08-21 through 2028-10-27.
 
@@ -143,6 +244,14 @@ The final October Friday is also the last day before the Volume 11 boundary. A t
 
 ## Volume 11 — Second-year winter examination {#volume-11-second-year-winter-examination}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2028-10-28–12-15, second-year second-semester standing, December 11–15 exams, no birthday, booth controls, and December 16 outside. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the October/December boundaries, exam weekdays, and outside winter interval against 030. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit fixes winter darkness, family work, assessment rooms, booth supervision, school/city records, and exam-end partition. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the protected-week and December 16 transition; ordinary December chronology is not collapsed into exam week. -->
+<!-- @evidence obligations/common.md#proportionate-development The body develops daylight, transport, booth capacity, adult charging, committee limits, assessment, and family resources distinctly. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared facility and household constraints; the twelve-seat booth is the most concrete non-calendar limit and remains bounded. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional volume/resource decisions and inherits 030's exam and fire canon without claiming winter averages. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, inherited fire controls, and December dates; no external facility certification is asserted. -->
 
 **Status:** Work decision; inclusive container 2028-10-28 through 2028-12-15.
 
@@ -156,6 +265,14 @@ The winter assessment dates are not a proxy for the whole December. October 28 t
 
 ## Volume 12 — Second-year winter close {#volume-12-second-year-winter-close}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2028-12-16–2029-02-28, second-year second-semester standing, Lila's January 27 birthday, February recess, and March 1/2/5 outside dates. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the Saturday start, birthday, February endpoint, and third-year outside dates against 030; no exam is incorrectly included. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit fixes cross-year winter resources, record processing versus instruction, second-year closure, and the March academic transition without a promotion scene. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the February 28/March 1 distinction; a form crossing the boundary must change academic-year classification even when the project continues. -->
+<!-- @evidence obligations/common.md#proportionate-development The body separates winter travel, family work, office closure, city/education ledgers, birthday, and grade-boundary effects. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the winter, records, and family constraints; administrative processing during closure is the distinctive resource condition. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks this fictional second-year container and preserves 030's academic boundary and age canon. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, endpoint, birthday, and outside dates; no graduation administration is imported. -->
 
 **Status:** Work decision; inclusive container 2028-12-16 through 2029-02-28.
 
@@ -169,6 +286,14 @@ The January birthday is inside a winter interval but does not create a new schoo
 
 ## Volume 13 — Third-year opening and spring assessment {#volume-13-third-year-opening-and-spring-assessment}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2029-03-01–04-27, third-year first-semester standing, March 2 office preparation, March 5 instruction, April 23–27 exams, and April 28 outside. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the four-day preparation gap, weekend dates, exam weekdays, and next-volume boundary against 030. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit distinguishes preparation from instruction, office/route readiness, family schedules, third-year classification, and the final-year administrative interval outside. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the preparation-owner and exam-end paragraphs; March 2 is not relabelled as class or attendance. -->
+<!-- @evidence obligations/common.md#proportionate-development The body develops readiness, spring light/rain, routes, keys, notices, records, and household timing as separate opening constraints. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared office readiness with student instruction and family schedules; the preparation/student distinction is the unique allocation. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks all Haneul dates and resource conditions as Work decisions bounded by 030's legal year/exam rule. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and the four-day gap; no public-holiday or real-weather claim is attached. -->
 
 **Status:** Work decision; inclusive container 2029-03-01 through 2029-04-27.
 
@@ -184,6 +309,14 @@ The April 27 examination close is a Friday; April 28 begins a new volume on Satu
 
 ## Volume 14 — Third-year spring examination {#volume-14-third-year-spring-examination}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2029-04-28–06-29, third-year first-semester standing, Jae-won's Saturday June 2 birthday, June 25–29 exams, and June 30 outside. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked Saturday birthday, exam weekdays, April exam exclusion, and Sunday next start against 030. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit fixes birthday-age separation, late-spring route/flood costs, school/municipal authority, and the exam Friday versus weekend boundary. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the June 29/30 paragraphs; June 30 is outside despite the first semester continuing to August 19. -->
+<!-- @evidence obligations/common.md#proportionate-development The body develops daylight, rain, heat, detour, family shifts, examination, and authority records separately. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared route and family costs with the weekend boundary; the birthday remains an age record rather than a school appointment. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional volume/resource decisions while preserving 030's birthday and examination canon. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, birthday weekday, and exam dates; no holiday list or weather average is claimed. -->
 
 **Status:** Work decision; inclusive container 2029-04-28 through 2029-06-29.
 
@@ -197,6 +330,14 @@ The June 29 boundary is a Friday examination close, not the start of recess. Jun
 
 ## Volume 15 — Third-year summer edge {#volume-15-third-year-summer-edge}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2029-06-30–08-19, third-year first-semester standing, July 20–August 19 recess, no birthday/exam, and August 20 outside. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked Sunday start, July instruction/recess transition, Sunday semester endpoint, and August 20 next-semester date against 030. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit fixes the post-exam start, instruction-to-recess transition, flood controls, school maintenance, family availability, and semester boundary. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the August 19/20 paragraphs; the first-semester evidence and second-semester reopening are not merged. -->
+<!-- @evidence obligations/common.md#proportionate-development The body separates summer light/heat/storms, detour, gauge, school maintenance, and recess family work. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared physical flood controls with recess resources; adviser cancellation cannot become municipal closure. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional third-year summer conditions, inheriting 030's flood and semester rules without external weather claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and inherited threshold wording; no future policy is asserted. -->
 
 **Status:** Work decision; inclusive container 2029-06-30 through 2029-08-19.
 
@@ -210,6 +351,14 @@ The final first-semester date is Sunday, August 19. The next day belongs to seme
 
 ## Volume 16 — Third-year second-semester assessment {#volume-16-third-year-second-semester-assessment}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2029-08-20–10-26, third-year second-semester standing, Do-yun's Sunday September 9 birthday, October 22–26 exams, and October 27 outside. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the August 20 semester movement, birthday weekday, exam weekdays, and October 27 adjacency against 030. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit fixes second-semester transition, seasonal route safety, third-year status, facilities/exam/family authority, and the final autumn exam close. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the boundary and birthday paragraphs; Sunday birthday changes age records only and cannot create a school appointment. -->
+<!-- @evidence obligations/common.md#proportionate-development The body develops semester movement, darkness, warning closure, room safety, transport, family work, and assessment as distinct conditions. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared open-room and safe-route conditions; the separation is the unit's key resource relation. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies intentional fictional semester and seasonal decisions bounded by 030. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, birthday, semester, and examination dates; no seasonal average is presented as fact. -->
 
 **Status:** Work decision; inclusive container 2029-08-20 through 2029-10-26.
 
@@ -225,6 +374,14 @@ October 26 is the final protected examination date in the third-year autumn wind
 
 ## Volume 17 — Final school-year close and graduation administration {#volume-17-final-school-year-close}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2029-10-27–2030-02-28, third-year second-semester standing, Minseo and Lila birthdays, December exams, February 8–28 administration, and March 1 outside alumni boundary. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the long inclusive range, both birthdays, December exam weekdays, administration dates, and student-status endpoint against 030. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit settles assessment, winter administration, records, keys, archives, access notices, current-student status, and alumni transition without assigning ceremony order. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread February 8 versus February 28 and March 1; administration begins before, but student status ends only at the inclusive endpoint. -->
+<!-- @evidence obligations/common.md#proportionate-development The body develops final-year daylight, transport, family work, records, key return, archive transfer, birthdays, and access as separate resources. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared school, education-office, city, and alumni records; access notices are the least visible but remain distinct from graduation eligibility. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks the final student container as fictional and inherits 030's graduation/exam canon without claiming ceremony timing. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, dates, and no-plot wording; no public holiday or real graduation procedure is asserted. -->
 
 **Status:** Work decision; inclusive container 2029-10-27 through 2030-02-28.
 
@@ -240,6 +397,14 @@ The final container’s endpoint is inclusive: a key, record, notice, or supervi
 
 ## Volume 18 — First post-graduation quarter {#volume-18-first-post-graduation-quarter}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2030-03-01–06-30, alumni standing, Jae-won's Sunday June 2 birthday, changed access bases, booth controls, and July 1 outside. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked the Friday alumni start, Sunday birthday, June endpoint, and absence of school exams/recess against 030. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit fixes post-student access, age-versus-authority, school facility controls, separate city/education records, and adult-resource conditions. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the March 1 status change and access-basis paragraphs; former familiarity cannot substitute for a key or invitation. -->
+<!-- @evidence obligations/common.md#proportionate-development The body develops daylight, invitation/volunteer/contract access, booth limits, work/study, transport, living, and family resources. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared student and alumni resource categories; changed living arrangements are the distinctive post-graduation condition. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies the fictional alumni container and preserves 030's graduation boundary and booth canon. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and absence of high-school status; no occupation or future legal fact is claimed. -->
 
 **Status:** Work decision; inclusive container 2030-03-01 through 2030-06-30.
 
@@ -257,6 +422,14 @@ June 30 closes this first alumni quarter on a Sunday. July 1 is outside and star
 
 ## Volume 19 — Post-graduation summer and autumn {#volume-19-post-graduation-summer-and-autumn}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2030-07-01–10-31, alumni standing, Do-yun's Monday September 9 birthday, flood-route constraints, employment/study resources, and November 1 outside. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked Monday start, birthday weekday, alumni-only status, flood controls, and final-container adjacency against 030. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit fixes invitation/contract access, municipal closure authority, employment and records conditions, and the distinction between administrative school year and enrolled status. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the school-backdrop and alumni paragraphs; a 2030–31 academic year does not restore student standing. -->
+<!-- @evidence obligations/common.md#proportionate-development The body develops seasonal route costs, gauge/detour, employment, study, rent, care, pay periods, and access forms as distinct adult constraints. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared municipal, employment, and household resources; variable pay periods are the least calendar-like but materially constrain access. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks Haneul seasonal and alumni decisions as fictional; no exact holiday list or weather average is asserted. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, birthday, flood, and alumni qualifiers; city closure remains outside club authority. -->
 
 **Status:** Work decision; inclusive container 2030-07-01 through 2030-10-31.
 
@@ -272,6 +445,14 @@ The post-graduation academic year exists as a city and school administrative bac
 
 ## Volume 20 — Post-graduation winter close {#volume-20-post-graduation-winter-close}
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns 2030-11-01–2031-02-28, final alumni standing, Minseo's November 18 and Lila's January 27 birthdays, winter resources, and March 1 outside delivery endpoint. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked both Friday endpoints, both internal birthdays, absence of school exams, and the final outside date against 030. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit fixes final alumni status, access/resource boundaries, separate records, open-ended civic work, inclusive endpoint, and the prohibition on implied continuation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the final closure and outside-date paragraphs; February 28 closes delivery while leaving civic questions open without extending chronology. -->
+<!-- @evidence obligations/common.md#proportionate-development The body develops winter light, transport, employment/family timing, flood and booth controls, institutional ledgers, birthdays, and future-scope conditions separately. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared personal birthdays with institutional and winter resources; final delivery scope is the distinctive allocation constraint. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks the final container as fictional alumni chronology and does not claim a fourth school year, future law, or real weather pattern. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status, endpoint, birthday weekdays, and no-future-forecast wording; all inherited controls remain package canon. -->
 
 **Status:** Work decision; inclusive container 2030-11-01 through 2031-02-28.
 
