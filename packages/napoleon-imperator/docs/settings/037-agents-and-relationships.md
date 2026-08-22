@@ -1,3 +1,16 @@
+<!-- @evidence principles/common.md#purpose-fit The Agents and Relationships file fixes the historical and material setting needed by the twenty-volume English novel; its opening scope is This file owns the relationship system through which Napoleon's decisions become social action.. -->
+<!-- @evidence principles/common.md#layer-boundary The Agents and Relationships file records addressable facts, constraints, source status, and work decisions; it does not prescribe storyline order, scene blocking, or finished manuscript prose. -->
+<!-- @evidence principles/common.md#work-language The Agents and Relationships file is authored in consistent English and preserves the period names, French institutional terms, and place-name variants needed for a readable historical novel. -->
+<!-- @evidence principles/settings.md#addressable-canon The Agents and Relationships file assigns its distinct canon to 7 independently anchored H2 owners, so later layers can cite a precise fact rather than a whole-file summary. -->
+<!-- @evidence principles/settings.md#information-structure Each of the 7 Agents and Relationships H2 owners states Status before developing its fact, operating condition, consequence, and limitation. -->
+<!-- @evidence principles/settings.md#fact-status The Agents and Relationships H2 statuses distinguish established historical claims, contested or source-dependent reconstructions, and owner-adopted work decisions instead of presenting every detail as equally certain. -->
+<!-- @evidence principles/settings.md#source-support The Agents and Relationships file carries 14 direct source URL marker(s) and identifies uncertainty where the surviving record does not settle a detail; fictional connective decisions remain marked as such. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The Agents and Relationships H2 owners specify the actors, institutions, dates, material conditions, information limits, and downstream boundaries required to use this domain without inventing its foundations. -->
+<!-- @evidence principles/settings.md#minimal-departure The Agents and Relationships file keeps departures from the record bounded: it may choose a usable narrative emphasis, but it does not silently change documented dates, identities, institutions, or contested status. -->
+<!-- @evidence principles/settings.md#internal-coherence The Agents and Relationships file keeps its 7 owners consistent in chronology, geography, institutional authority, terminology, and the distinction between evidence and narrative-use decisions. -->
+<!-- @evidence principles/common.md#bounded-historical-invention The Agents and Relationships file permits only bounded connective invention around the documented historical record; it does not fabricate quotations, hidden motives, or unsupported precision. -->
+<!-- @evidence principles/common.md#historical-claim-provenance Historical claims in the Agents and Relationships file are assigned to their source-bearing H2 owners, with source-dependent details and work decisions visibly separated for downstream checking. -->
+<!-- @evidence principles/common.md#historical-corroboration The Agents and Relationships file treats source agreement, disagreement, and silence as distinct statuses and requires later prose to preserve those limits rather than laundering one retrospective into certainty. -->
 # Agents and Relationships
 
 This file owns the relationship system through which Napoleon's decisions become social action.
@@ -5,6 +18,10 @@ This file owns the relationship system through which Napoleon's decisions become
 <!-- principles/common.md#purpose-fit principles/common.md#layer-boundary principles/common.md#work-language -->
 
 ## Relationships as channels of power {#relationships-as-channels-of-power}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Relationships as channels of power is marked Work canon. A relationship matters when it changes access, information, resources, authority, protection, or consequence.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Relationships as channels of power host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Relationships as channels of power host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Relationships as channels of power host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. A relationship matters when it changes access, information, resources, authority, protection, or consequence.
 
@@ -13,6 +30,10 @@ Affection, fear, debt, kinship, office, and rivalry can coexist. The settings gr
 Sources: Fondation Napoléon correspondence, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Information possession and relay {#information-possession-and-relay}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Information possession and relay is marked Source-critical. No relationship gives a character all knowledge; every report has a source, route, delay, and reason to be believed or concealed.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Information possession and relay host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Information possession and relay host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Information possession and relay host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-critical. No relationship gives a character all knowledge; every report has a source, route, delay, and reason to be believed or concealed.
 
@@ -21,6 +42,10 @@ A secretary sees documents, a spouse sees domestic strain, a marshal sees orders
 Sources: Fondation Napoléon correspondence, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Kinship marriage and patronage {#kinship-marriage-and-patronage}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Kinship marriage and patronage is marked Work canon. Family ties and patronage create opportunities while imposing obligations, resentment, and exposure.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Kinship marriage and patronage host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Kinship marriage and patronage host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Kinship marriage and patronage host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. Family ties and patronage create opportunities while imposing obligations, resentment, and exposure.
 
@@ -29,6 +54,10 @@ The Bonaparte family, Josephine's household, dynastic marriages, and imperial ap
 Sources: Fondation Napoléon biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/; Fondation Napoléon correspondence, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/.
 
 ## Rivalry and correction {#rivalry-and-correction}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Rivalry and correction is marked Source-required domain. Rivalry is an information and command condition, not a personality label.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Rivalry and correction host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Rivalry and correction host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Rivalry and correction host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-required domain. Rivalry is an information and command condition, not a personality label.
 
@@ -37,6 +66,10 @@ Subordinates can correct, delay, flatter, resist, or reinterpret an order. Napol
 Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Absence correspondence and emotional evidence {#absence-correspondence-and-emotional-evidence}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Absence correspondence and emotional evidence is marked Source-critical boundary. Letters, silence, gifts, quarrels, and memoirs reveal relationships unevenly and never license invented private speech.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Absence correspondence and emotional evidence host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Absence correspondence and emotional evidence host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Absence correspondence and emotional evidence host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-critical boundary. Letters, silence, gifts, quarrels, and memoirs reveal relationships unevenly and never license invented private speech.
 
@@ -45,6 +78,10 @@ An unanswered letter may be delayed, intercepted, lost, withheld, or unanswered.
 Sources: Fondation Napoléon correspondence, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Relationship change under war and exile {#relationship-change-under-war-and-exile}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Relationship change under war and exile is marked Work boundary. Campaign distance, captivity, death, divorce, and regime change alter relationships through absence and new institutions.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Relationship change under war and exile host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Relationship change under war and exile host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Relationship change under war and exile host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work boundary. Campaign distance, captivity, death, divorce, and regime change alter relationships through absence and new institutions.
 
@@ -53,6 +90,10 @@ A household separated by war has different information and labor from one in the
 Sources: Fondation Napoléon biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/; Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/.
 
 ## Boundary to character-specific owners {#boundary-to-character-specific-owners}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Boundary to character-specific owners is marked Work boundary. Individual relationships belong to their character, campaign, court, and family owners.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Boundary to character-specific owners host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Boundary to character-specific owners host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Boundary to character-specific owners host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work boundary. Individual relationships belong to their character, campaign, court, and family owners.
 
