@@ -6,6 +6,11 @@ Haneul is fictional. External sources below establish current Korean legal categ
 
 ## Metropolitan districts and physical orientation
 
+<!-- @evidence obligations/common.md#scope-preservation The Metropolitan districts and physical orientation host states n for fictional Haneul's urban morphology. This is the concrete city-space scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Metropolitan districts and physical orientation host develops its public-space rule through is https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1028650975, Article 2. The law defines a framework, not Haneul's districts. The district map, ridge, terrace, market, and civic campus are Work decisions.; downstream layers do not need to invent the route, owner, or closure condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Metropolitan districts and physical orientation host gives 300 authored words across 5 paragraphs to its distinct public-space decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Metropolitan districts and physical orientation acknowledgement is grounded in this host's Status and its concrete opening statement 'n for fictional Haneul's urban morphology.'. -->
+
 **Status:** Work decision for fictional Haneul's urban morphology.
 
 Haneul's built-up area is organized around a north civic street, the east–west Seongnae channel, the central market district, and a school-and-library civic campus north of the market. Apartment towers occupy the north-west ridge; older low-rise shops occupy the channel's south bank; the bus interchange sits east of the market; and the youth centre stands west of the channel on a raised municipal lot. These are map relationships, not claims about a real Korean city.
@@ -17,6 +22,11 @@ The city grid is not uniformly flat. The market sits in the lower channel terrac
 The Act on Promotion of Transportation Convenience for Mobility Disadvantaged Persons defines transportation-disadvantaged people and mobility facilities including accessible sidewalks, lifts, and tactile blocks; the current official text displayed as effective 2026-02-01 is https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1028650975, Article 2. The law defines a framework, not Haneul's districts. The district map, ridge, terrace, market, and civic campus are Work decisions.
 
 ## North civic street and school frontage
+
+<!-- @evidence obligations/common.md#scope-preservation The North civic street and school frontage host states n informed by current pedestrian-safety and accessibility standards. This is the concrete city-space scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The North civic street and school frontage host develops its public-space rule through rface, a delivery van, or a crowd under the school canopy changes sight distance. Later blocking must specify sidewalk side, crossing state, and municipal obstruction rather than saying simply “outside school.”; downstream layers do not need to invent the route, owner, or closure condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The North civic street and school frontage host gives 316 authored words across 5 paragraphs to its distinct public-space decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The North civic street and school frontage acknowledgement is grounded in this host's Status and its concrete opening statement 'n informed by current pedestrian-safety and accessibility standards.'. -->
 
 **Status:** Work decision informed by current pedestrian-safety and accessibility standards.
 
@@ -30,6 +40,11 @@ Daylight and traffic change what can be seen. A person approaching from the mark
 
 ## Market edge and lower passage
 
+<!-- @evidence obligations/common.md#scope-preservation The Market edge and lower passage host states n preserving 030's flood legacy and municipal ownership. This is the concrete city-space scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Market edge and lower passage host develops its public-space rule through .do?bylClsCd=110201&flSeq=135226913. The rule is a technical standard whose application depends on facility type. Haneul's arcade width, loading recess, supports, and flood-prone lower level are Work decisions.; downstream layers do not need to invent the route, owner, or closure condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Market edge and lower passage host gives 307 authored words across 5 paragraphs to its distinct public-space decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Market edge and lower passage acknowledgement is grounded in this host's Status and its concrete opening statement 'n preserving 030's flood legacy and municipal ownership.'. -->
+
 **Status:** Work decision preserving 030's flood legacy and municipal ownership.
 
 The market edge follows the south bank of the Seongnae channel for 260 metres between the west pedestrian bridge and the east bus-loop ramp. Stalls occupy private or leased frontage under a continuous 2.2-metre covered arcade; the lower market passage is a separate 2.4-metre pedestrian corridor below the arcade. The covered arcade remains above the lower passage at the west end but descends toward the channel near the east ramp. A person can walk under cover while still approaching a flood-prone lower level.
@@ -41,6 +56,11 @@ The 2019-07-27 flood remains the owner of the gauge, pumps, three raised electri
 The official Accessibility Enforcement Rule Appendix 1, item 2, requires accessible approaches to be level, slip-resistant, and protected from dangerous gaps; direct PDF, amended 2023-12-11: https://law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=135226913. The rule is a technical standard whose application depends on facility type. Haneul's arcade width, loading recess, supports, and flood-prone lower level are Work decisions.
 
 ## Bus interchange and ramp
+
+<!-- @evidence obligations/common.md#scope-preservation The Bus interchange and ramp host states n for municipal transport geometry; no school or club authority is assigned. This is the concrete city-space scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Bus interchange and ramp host develops its public-space rule through iser may cancel a student task but cannot hold a bus, move a barrier, or declare the ramp safe. A route plan that starts at the upper platform must name the street crossing and school-side threshold separately.; downstream layers do not need to invent the route, owner, or closure condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Bus interchange and ramp host gives 337 authored words across 5 paragraphs to its distinct public-space decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Bus interchange and ramp acknowledgement is grounded in this host's Status and its concrete opening statement 'n for municipal transport geometry; no school or club authority is assigned.'. -->
 
 **Status:** Work decision for municipal transport geometry; no school or club authority is assigned.
 
@@ -54,6 +74,11 @@ Transport delays, a full queue, or a closed lower ramp change a route's actual d
 
 ## Seongnae channel corridor
 
+<!-- @evidence obligations/common.md#scope-preservation The Seongnae channel corridor host states n for present physical channel geometry; 030 owns the 2019 disaster record and warning threshold. This is the concrete city-space scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Seongnae channel corridor host develops its public-space rule through rning, and safety responsibilities, while the exact city trigger remains the fictional 030 rule. The channel dimensions, ledge, guardrail, gauge placement, pump inlets, and cabinet positions are Work decisions.; downstream layers do not need to invent the route, owner, or closure condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Seongnae channel corridor host gives 294 authored words across 5 paragraphs to its distinct public-space decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Seongnae channel corridor acknowledgement is grounded in this host's Status and its concrete opening statement 'n for present physical channel geometry; 030 owns the 2019 disaster record and warning threshold.'. -->
+
 **Status:** Work decision for present physical channel geometry; 030 owns the 2019 disaster record and warning threshold.
 
 The Seongnae channel is a concrete-lined open corridor averaging 12 metres from retaining edge to retaining edge through the market district. A 1.8-metre inspection ledge runs along the north side, separated from the public lower passage by a 1.1-metre guardrail. The ledge has access hatches and a maintenance stair at the west bridge; it is not a pedestrian shortcut. The south retaining wall carries the market arcade above, while the east ramp approaches the lower passage.
@@ -65,6 +90,11 @@ The channel's ordinary barrier has no gate that volunteers may operate. The muni
 The Disaster and Safety Management Basic Act is current official law displayed effective 2026-02-01 at https://www.law.go.kr/LSW/lsInfoP.do?ancYnChk=0&chrClsCd=010202&efYd=20260611&lsiSeq=283851&urlMode=lsInfoP; it frames disaster prediction, warning, and safety responsibilities, while the exact city trigger remains the fictional 030 rule. The channel dimensions, ledge, guardrail, gauge placement, pump inlets, and cabinet positions are Work decisions.
 
 ## Youth-centre parcel and basement access
+
+<!-- @evidence obligations/common.md#scope-preservation The Youth-centre parcel and basement access host states n for a separate municipal youth-centre physical site, preserving 030's authority boundary. This is the concrete city-space scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Youth-centre parcel and basement access host develops its public-space rule through law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=135226913. The youth-centre parcel, basement dimensions, raised shelving, drain, doors, and separation of public and service paths are fictional Work decisions.; downstream layers do not need to invent the route, owner, or closure condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Youth-centre parcel and basement access host gives 291 authored words across 5 paragraphs to its distinct public-space decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Youth-centre parcel and basement access acknowledgement is grounded in this host's Status and its concrete opening statement 'n for a separate municipal youth-centre physical site, preserving 030's authority boundary.'. -->
 
 **Status:** Work decision for a separate municipal youth-centre physical site, preserving 030's authority boundary.
 
@@ -78,6 +108,11 @@ The Accessibility Enforcement Rule Appendix 1, items 7, 9, and 13, supports leve
 
 ## Library and civic-service frontage
 
+<!-- @evidence obligations/common.md#scope-preservation The Library and civic-service frontage host states n for adjacent public buildings and their physical interfaces. This is the concrete city-space scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Library and civic-service frontage host develops its public-space rule through pendix 1, items 6, 7, and 9, amended 2023-12-11: https://law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=135226913. The library and civic-service footprints, setbacks, vestibule, and queue bays are fictional.; downstream layers do not need to invent the route, owner, or closure condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Library and civic-service frontage host gives 301 authored words across 5 paragraphs to its distinct public-space decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Library and civic-service frontage acknowledgement is grounded in this host's Status and its concrete opening statement 'n for adjacent public buildings and their physical interfaces.'. -->
+
 **Status:** Work decision for adjacent public buildings and their physical interfaces.
 
 The Haneul Public Library occupies a 54-by-28-metre building north-west of the school, separated by a 6-metre public street and a 12-metre planted setback. Its main entrance faces south and has a 2.4-metre covered forecourt. A civic-service building sits 40 metres west of the library, with a public reception entrance and a separate records delivery door. Neither building is part of Haneul Public High School, and neither can be used as an unofficial school office.
@@ -89,6 +124,11 @@ The public library and civic-service frontage offer indoor alternatives during r
 The official School Facilities Project Promotion Act is not a source for library ownership; the civic buildings are Work decisions. Accessibility principles and technical dimensions are drawn from the official Enforcement Rule Appendix 1, items 6, 7, and 9, amended 2023-12-11: https://law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=135226913. The library and civic-service footprints, setbacks, vestibule, and queue bays are fictional.
 
 ## Public toilets, rest areas, and shelter
+
+<!-- @evidence obligations/common.md#scope-preservation The Public toilets, rest areas, and shelter host states n for city-side support spaces, distinct from 050's school toilets and rest points. This is the concrete city-space scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Public toilets, rest areas, and shelter host develops its public-space rule through load.do?bylClsCd=110201&flSeq=135226913. These standards apply by facility category and current legal scope. Haneul's public toilet locations, benches, shelter dimensions, and sound profiles are Work decisions.; downstream layers do not need to invent the route, owner, or closure condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Public toilets, rest areas, and shelter host gives 302 authored words across 5 paragraphs to its distinct public-space decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Public toilets, rest areas, and shelter acknowledgement is grounded in this host's Status and its concrete opening statement 'n for city-side support spaces, distinct from 050's school toilets and rest points.'. -->
 
 **Status:** Work decision for city-side support spaces, distinct from 050's school toilets and rest points.
 
@@ -102,6 +142,11 @@ The official Accessibility Enforcement Rule Appendix 1 item 13 supports accessib
 
 ## Crossings, kerbs, and pedestrian sight lines
 
+<!-- @evidence obligations/common.md#scope-preservation The Crossings, kerbs, and pedestrian sight lines host states n informed by current road-marking and mobility-accessibility standards. This is the concrete city-space scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Crossings, kerbs, and pedestrian sight lines host develops its public-space rule through https://www.law.go.kr/LSW/flDownload.do?flNm=%5B별표+1%5D+이동편의시설의구조ㆍ재질+등에+관한+세부기준%28제2조제1항+관련%29%0A&flSeq=40424119. Haneul's crossings, landing sizes, eye-height method, and sight obstructions are Work decisions.; downstream layers do not need to invent the route, owner, or closure condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Crossings, kerbs, and pedestrian sight lines host gives 322 authored words across 5 paragraphs to its distinct public-space decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Crossings, kerbs, and pedestrian sight lines acknowledgement is grounded in this host's Status and its concrete opening statement 'n informed by current road-marking and mobility-accessibility standards.'. -->
+
 **Status:** Work decision informed by current road-marking and mobility-accessibility standards.
 
 The school route crosses three distinct vehicle interfaces: the north civic street, the east bus-loop ramp entrance, and the youth-centre service lane. Each has a level pedestrian continuation, a marked crossing or priority treatment, and a sight-line risk. The north street crossing is 4 metres wide; the service-lane crossing is 2.4 metres; the bus-loop crossing uses a 2-metre refuge strip between the upper platform and the civic sidewalk. The lower ramp is excluded when 030's 1.2-metre closure trigger applies.
@@ -113,6 +158,11 @@ Sight lines are measured from a 1.1-metre seated eye-height reference and a 1.6-
 Road Traffic Enforcement Rule Appendix 6, amended 2024-11-14, gives official crosswalk and pedestrian-priority marking conditions at https://www.law.go.kr/flDownload.do?bylClsCd=110201&flSeq=146448457. The Mobility Convenience Act's current Article 2 and the official mobility-facility appendix frame accessible sidewalks and road facilities at https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1028650975 and https://www.law.go.kr/LSW/flDownload.do?flNm=%5B별표+1%5D+이동편의시설의구조ㆍ재질+등에+관한+세부기준%28제2조제1항+관련%29%0A&flSeq=40424119. Haneul's crossings, landing sizes, eye-height method, and sight obstructions are Work decisions.
 
 ## Civic signs and public route information
+
+<!-- @evidence obligations/common.md#scope-preservation The Civic signs and public route information host states n for physical wayfinding and information access; no public authority is transferred by a sign. This is the concrete city-space scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Civic signs and public route information host develops its public-space rule through tactile and Braille sign placement principles at https://law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=135226913, items 6 and 9. Haneul's sign text, heights, colors, and map conventions are Work decisions.; downstream layers do not need to invent the route, owner, or closure condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Civic signs and public route information host gives 303 authored words across 5 paragraphs to its distinct public-space decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Civic signs and public route information acknowledgement is grounded in this host's Status and its concrete opening statement 'n for physical wayfinding and information access; no public authority is transferred by a sign.'. -->
 
 **Status:** Work decision for physical wayfinding and information access; no public authority is transferred by a sign.
 
@@ -126,6 +176,11 @@ Official Road Traffic Enforcement Rule Appendix 6 provides current sign and mark
 
 ## Municipal service lane and loading geometry
 
+<!-- @evidence obligations/common.md#scope-preservation The Municipal service lane and loading geometry host states n for the city-side service boundary, preserving school and market ownership distinctions. This is the concrete city-space scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Municipal service lane and loading geometry host develops its public-space rule through t sign and marking categories at https://www.law.go.kr/flDownload.do?bylClsCd=110201&flSeq=146448457. Haneul's lane widths, turning court, strip, drains, loading recesses, and gate ownership are Work decisions.; downstream layers do not need to invent the route, owner, or closure condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Municipal service lane and loading geometry host gives 339 authored words across 5 paragraphs to its distinct public-space decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Municipal service lane and loading geometry acknowledgement is grounded in this host's Status and its concrete opening statement 'n for the city-side service boundary, preserving school and market ownership distinctions.'. -->
+
 **Status:** Work decision for the city-side service boundary, preserving school and market ownership distinctions.
 
 The east municipal service lane runs north–south between the bus interchange and the school’s east fence. It is 5 metres wide at the straight section and widens to a 7-by-7-metre turning court beside the civic-service building. The school service gate opens west from this lane, while the market delivery recess opens east through a separate curb cut. A person walking from the bus loop cannot use the service lane as a sheltered shortcut without sharing a space designed for vehicles and deliveries.
@@ -138,6 +193,11 @@ The current official Accessibility Enforcement Rule Appendix 1 treats approach r
 
 ## Public-space measurement and ownership ledger
 
+<!-- @evidence obligations/common.md#scope-preservation The Public-space measurement and ownership ledger host states n establishing city-side measurement and boundary control. This is the concrete city-space scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Public-space measurement and ownership ledger host develops its public-space rule through oP. These sources support record-owner and maintenance distinctions only to the extent stated in their current text; Haneul's C-prefix map, route segmentation, measurements, and owner ledger are Work decisions.; downstream layers do not need to invent the route, owner, or closure condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Public-space measurement and ownership ledger host gives 310 authored words across 5 paragraphs to its distinct public-space decision, proportionate to the twenty-volume scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Public-space measurement and ownership ledger acknowledgement is grounded in this host's Status and its concrete opening statement 'n establishing city-side measurement and boundary control.'. -->
+
 **Status:** Work decision establishing city-side measurement and boundary control.
 
 Every city route is recorded as a sequence of segments with owner, surface, clear width, slope or step, crossing, shelter, sight-line obstruction, lighting, and closure condition. The route from Bay 2 to the school gate has seven segments: platform, upper ramp, civic crossing, market-side sidewalk, lower-passage approach, north sidewalk, and school forecourt. The lower-passage segment is conditionally unavailable under 030; the school forecourt is controlled by the school; the other segments are city or market-side spaces.
@@ -147,3 +207,15 @@ Measurements use the same metre-based discipline as 050 but a separate city coor
 The municipal flood-response office owns gauge and road-closure records; the youth-centre coordinator owns its facility response plan; market operators own their frontage within their agreements; the school and education office own school-side records. This is an ownership ledger for physical information, not an appeal route. 150 and 020 supply institutional escalation. No city map can authorize a volunteer to enter a basement, channel, service lane, or school room.
 
 The Education Facilities Safety and Maintenance Standard's boundary-facility concepts are at https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000208251. The current Disaster and Safety Management Basic Act text is at https://www.law.go.kr/LSW/lsInfoP.do?ancYnChk=0&chrClsCd=010202&efYd=20260611&lsiSeq=283851&urlMode=lsInfoP. These sources support record-owner and maintenance distinctions only to the extent stated in their current text; Haneul's C-prefix map, route segmentation, measurements, and owner ledger are Work decisions.
+<!-- @evidence principles/common.md#purpose-fit The file City and Public Spaces owns 12 city-and-public-space H2s; its overview states "This file owns the physical city-side environments that meet Haneul's campus: streets, market edges, bus facilities, the Seongnae channel corridor, the youth centre, civic buildings, and public wayfinding. It does not re", giving public streets, market, bus, channel, youth-centre, library, and service-space constraints to the civic-school promise. -->
+<!-- @evidence principles/common.md#layer-boundary The file City and Public Spaces owns 12 city-and-public-space H2s; its overview states "This file owns the physical city-side environments that meet Haneul's campus: streets, market edges, bus facilities, the Seongnae channel corridor, the youth centre, civic buildings, and public wayfinding. It does not re"; it fixes public-space geometry and ownership, not narrative events or school authority. -->
+<!-- @evidence principles/common.md#work-language The file City and Public Spaces owns 12 city-and-public-space H2s; its overview states "This file owns the physical city-side environments that meet Haneul's campus: streets, market edges, bus facilities, the Seongnae channel corridor, the youth centre, civic buildings, and public wayfinding. It does not re"; routes, barriers, public notices, and ownership are described in readable English with exact spatial distinctions. -->
+<!-- @evidence principles/settings.md#addressable-canon The file City and Public Spaces owns 12 city-and-public-space H2s; its overview states "This file owns the physical city-side environments that meet Haneul's campus: streets, market edges, bus facilities, the Seongnae channel corridor, the youth centre, civic buildings, and public wayfinding. It does not re"; district, frontage, market, bus, channel, youth-centre, library, rest, crossings, signs, service lane, and measurement ledger have independent H2 owners. -->
+<!-- @evidence principles/settings.md#information-structure The file City and Public Spaces owns 12 city-and-public-space H2s; its overview states "This file owns the physical city-side environments that meet Haneul's campus: streets, market edges, bus facilities, the Seongnae channel corridor, the youth centre, civic buildings, and public wayfinding. It does not re"; each H2 states Status and then develops geometry, route condition, owner, accessibility, and closure limits. -->
+<!-- @evidence principles/settings.md#fact-status The file City and Public Spaces owns 12 city-and-public-space H2s; its overview states "This file owns the physical city-side environments that meet Haneul's campus: streets, market edges, bus facilities, the Seongnae channel corridor, the youth centre, civic buildings, and public wayfinding. It does not re"; city morphology and measurements are Work decisions, while 030 flood ownership and official accessibility/traffic frameworks remain scoped references. -->
+<!-- @evidence principles/settings.md#source-support The file City and Public Spaces owns 12 city-and-public-space H2s; its overview states "This file owns the physical city-side environments that meet Haneul's campus: streets, market edges, bus facilities, the Seongnae channel corridor, the youth centre, civic buildings, and public wayfinding. It does not re"; 19 direct official links support only the legal/accessibility/traffic/safety claims attached to the relevant public-space units. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file City and Public Spaces owns 12 city-and-public-space H2s; its overview states "This file owns the physical city-side environments that meet Haneul's campus: streets, market edges, bus facilities, the Seongnae channel corridor, the youth centre, civic buildings, and public wayfinding. It does not re"; it states adjacency, grades, passage/ramp closure, detour, public facilities, sight lines, signs, loading, and ownership ledger conditions. -->
+<!-- @evidence principles/settings.md#minimal-departure The file City and Public Spaces owns 12 city-and-public-space H2s; its overview states "This file owns the physical city-side environments that meet Haneul's campus: streets, market edges, bus facilities, the Seongnae channel corridor, the youth centre, civic buildings, and public wayfinding. It does not re"; it explicitly separates public spatial visibility from permission, city property from school property, and a dry route from a safe/open route. -->
+<!-- @evidence principles/settings.md#internal-coherence The file City and Public Spaces owns 12 city-and-public-space H2s; its overview states "This file owns the physical city-side environments that meet Haneul's campus: streets, market edges, bus facilities, the Seongnae channel corridor, the youth centre, civic buildings, and public wayfinding. It does not re"; public geometry preserves 030 flood legacy, 050 school-side route, 120 civic contacts, 150 school authority, and 160 municipal ownership. -->
+
+# City and Public Spaces
