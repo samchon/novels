@@ -1,10 +1,39 @@
 
+<!-- @evidence principles/common.md#purpose-fit This file makes the work's money, time, labour, reimbursement, employment, and fairness constraints executable without assigning a particular grant, job, or crisis. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa I reread the complete target and all twelve 220 H2s, then compared 210 Media and 230 Supply. The weakest host is Paid work and student labour because contribution can be disguised as friendship; plain terms, consent, records, and institutional responsibility make it usable. 210 owns media, 230 owns supply, and 220 owns financial/labour conditions. -->
+<!-- @evidence principles/common.md#layer-boundary This settings file fixes budget sources, prices, ownership, labour, access cost, reserves, transparency, debt, and closure while leaving transactions as narrative events, relationship changes, scene execution, reveal order, and prose downstream. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 I reread the complete target, all twelve H2s, and adjacent 210/230 boundaries. The weakest seam is Emergency reserve: it fixes custodian, approval, use, and audit without staging an emergency; 210 retains data/media and 230 retains material supply. -->
+<!-- @evidence principles/common.md#work-language This English file uses stable financial vocabulary—owner, ceiling, approval, receipt, quote, loan, wage, availability, payer, value, reserve, privacy, debt, and audit—so fairness remains concrete. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c I reread the complete target, all twelve H2s, and adjacent 210/230 language. The weakest host is Budget transparency and privacy, which distinguishes aggregate understanding from family and donor secrets without euphemism. -->
+<!-- @evidence principles/settings.md#addressable-canon The file gives independent H2 owners for budget, price, donations, labour, family work, transit, exchange, reserve, transparency, debt, access cost, and closure; its H1 overview contains no separately consumable financial rule. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f I reread the target, all twelve H2s, and adjacent 210/230 catalogs. The weakest seam is Donated and borrowed material versus In-kind exchange: ownership/return belongs to donations and loans, while reciprocal terms belong to exchange; no duplicate owner remains. -->
+<!-- @evidence principles/settings.md#information-structure The H1 frames money and labour as material reality; twelve H2s move from budget and transaction records through ownership/work/availability/travel/exchange, reserve and disclosure, debt/access, and closure. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 I reread the full file and adjacent structures. Budget and prices establish resources, donations/labour/family/travel establish contribution costs, exchange/reserve govern exceptions, transparency/debt/access protect dignity, and closure audits continuity. -->
+<!-- @evidence principles/settings.md#fact-status The twelve H2s mark fictional operational canon, distinguish estimates from receipts and gifts from obligations, preserve uncertainty and privacy, and defer route, school, civic, legal, and media authority to named settings. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 I reread every 220 Status/body and adjacent 050/060/070/150/170/180/210/230 labels. The weakest host is Price, quotation, and receipt because numbers look factual; dated estimates, transaction proof, suitability limits, and substitutions keep them bounded. -->
+<!-- @evidence principles/settings.md#source-support The file makes no unsupported economic or legal claim: costs and work arrangements are fictional canon, while 050/060/070 routes, 150 school rules, 170 rights, 180 accountability, 210 media, and 230 supply provide explicit dependencies. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 I reread the complete target, all twelve H2s, and adjacent references. The weakest host is Paid work and student labour; it sends applicable employment rules to the responsible institution instead of inventing a wage exception. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The twelve H2s provide usable owners, ceilings, approval/receipt records, return and damage routes, labour terms, availability alternatives, reimbursement, exchange, reserves, privacy, repayment, access funding, and audit. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 I reread every H2 and adjacent 210/230 dependencies. The weakest host is Costed accessibility because burden can be shifted to the user; payer, institutional route, equal-use testing, and infrastructure owner make it executable. -->
+<!-- @evidence principles/settings.md#minimal-departure The file records only departures needed for this work's material texture: multi-source budgets, dated prices, consented gifts/loans, plain labour terms, family availability, safe travel alternatives, transparent exchange, accountable reserves, private reporting, dignified debt, funded access, and closure audit. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 I reread all twelve H2s and adjacent 210/230 departures. The weakest departure is Costed accessibility, which names a resource cost while refusing to make access optional; other financial rules remain bounded and ordinary. -->
+<!-- @evidence principles/settings.md#internal-coherence The financial canon keeps one system: every resource has an owner and purpose, labour has terms, access has a payer or alternative, privacy limits transparency, debt permits repair, reserves remain accountable, and closure records handoff. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e I reread all twelve H2s and adjacent 210/230 boundaries. I checked ownership, prices, donation terms, labour consent, family availability, travel burden, exchange pressure, reserves, disclosure, debt repair, access funding, and closure handoff; no contradiction appears. -->
+
 # Money, Labour, and Budget
 
 The founders’ work consumes money and time even when it looks playful. This file fixes price, labour, reimbursement, employment, and resource fairness without assigning a particular grant, job, or crisis.
 
 ## Club budget envelope
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns fund sources, owners, purposes, ceilings, approvals, receipts, end dates, personal-payment limits, cost categories, labour/transport reality, and unspent-money return. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread with 150 institutions, 180 governance, 200 clubs, 210 media, and 230 supply confirms the budget envelope is complete. -->
+<!-- @evidence obligations/common.md#substantive-completion The two paragraphs complete operational canon: resources have owners and limits, and free purchase does not erase labour, transport, or disposal cost. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Reread confirms budget setting, not a grant award or spending scene. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 balances funding, approval, access, labour, transport, and closure without inventing a specific grant. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Comparison across all twelve H2s confirms envelope detail is proportionate to every later financial dependency. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional operational canon; personal payment is not assumed reimbursable and unspent funds follow owner rules. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Literal reread confirms reasons match source ownership, ceilings, receipts, costs, and return. -->
 
 **Status:** Work decision — fictional operational canon.
 
@@ -14,6 +43,14 @@ The budget includes printing, transit, food, accessibility, repairs, storage, tr
 
 ## Price, quotation, and receipt
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns seller/item/quantity/unit price/fees/date/purchaser/source/receipt/owner fields, estimate-versus-proof limits, price volatility, refunds, damage, and substitutions. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread with 220 budget, 230 supply, and 210 source records confirms transaction evidence and suitability limits are complete. -->
+<!-- @evidence obligations/common.md#substantive-completion The two paragraphs complete accounting canon: records are dated and attributable, estimates are not proof, and changed goods receive their own entries. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Reread confirms accounting setting, not a shopping sequence or future-price promise. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 gives sufficient fields and change rules without cataloguing vendors or guaranteeing safety from a receipt. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Comparison across all twelve H2s confirms price detail is proportionate to budget accountability. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional accounting canon; a quote is an estimate and a receipt proves transaction, not suitability or safety. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Literal reread confirms reasons match dated prices, evidence types, refunds, damage, and substitutions. -->
 
 **Status:** Work decision — accounting canon.
 
@@ -23,6 +60,14 @@ Prices change with stock, season, delivery, and accessibility requirements. The 
 
 ## Donated and borrowed material
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns donation terms, loan ownership/return/condition/accessories/damage, clarification before storage, donor privacy, influence limits, device planning, and early return. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread with 210 devices, 180 governance, 220 budget, and 230 storage confirms ownership and donation boundaries are complete. -->
+<!-- @evidence obligations/common.md#substantive-completion The two paragraphs complete ownership canon: gifts transfer only by terms, loans remain owned, privacy and influence are separate, and return survives project failure. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Reread confirms material setting, not a donation scene or moral bargain. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 balances ownership, condition, privacy, charging, accounts, disposal, and return without prescribing donor relationships. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Comparison across all twelve H2s confirms donation detail is proportionate to asset and influence risk. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional ownership boundary; a donation buys neither influence nor publication, and a loan is returned under its terms. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Literal reread confirms reasons match terms, ownership, privacy, device planning, and return. -->
 
 **Status:** Work decision — ownership boundary.
 
@@ -32,6 +77,14 @@ The founders do not publish a donor’s name without permission or imply that a 
 
 ## Paid work and student labour
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns labour examples, voluntary/credited/paid/exchanged/required status, employment non-promise, plain hours/conditions, refusal, and institutional handling of applicable rules. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread with 150 roles, 170 rights, 180 accountability, 200 tutoring, and 220 family work confirms labour terms and refusal boundaries are complete. -->
+<!-- @evidence obligations/common.md#substantive-completion The two paragraphs complete labour canon: contribution is named before work, refusal does not cost ordinary belonging, and institutions—not the club—invent no exception. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Reread confirms labour setting, not a job offer, wage negotiation, or recruitment scene. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 balances varied labour, terms, records, refusal, and institutional responsibility without asserting a universal employment law. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Comparison across all twelve H2s confirms labour detail is proportionate to exploitation and fairness risk. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional labour canon; voluntary work is not silently required and the club does not invent a wage exception. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Literal reread confirms reasons match status, hours, conditions, refusal, and institutional authority. -->
 
 **Status:** Work decision — labour canon.
 
@@ -41,6 +94,14 @@ Hours and conditions are recorded in plain language. A person can decline unpaid
 
 ## Family work and availability cost
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns student work/care contexts, variable demand and family schedules, actual work cost, minimum availability requests, asynchronous/short alternatives, privacy, and plan change. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread with 110 domestic life, 200 absence, 220 labour, and 230 logistics confirms family-work availability boundaries are complete. -->
+<!-- @evidence obligations/common.md#substantive-completion The two paragraphs complete domestic-economy canon: missed tasks can have material causes, alternatives are real, private employment details are protected, and plans must adapt. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Reread confirms availability setting, not a family-work subplot or motivational scene. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 balances work types, demand, privacy, asynchronous access, and schedule change without assuming one household economy. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Comparison across all twelve H2s confirms family-work detail is proportionate to participation fairness. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional domestic-economy canon; absence caused by actual work cost is not laziness and private employer details remain private. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Literal reread confirms reasons match availability, alternatives, privacy, and plan-change clauses. -->
 
 **Status:** Work decision — domestic economy.
 
@@ -50,6 +111,14 @@ The group asks for only the availability needed and offers asynchronous or short
 
 ## Transit and reimbursements
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns fare/transfer/time/weather/accessibility/return burden, reimbursement receipt/ceiling/payer/timing, no-advance limit, alternatives, cancellation, and 050/060/070 route dependencies. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread with 050 routes, 060 public spaces, 070 environment, 200 breaks, and 230 supply confirms travel and reimbursement boundaries are complete. -->
+<!-- @evidence obligations/common.md#substantive-completion The two paragraphs complete access-economy canon: travel has financial and bodily cost, and safer alternatives or cancellation replace impossible advances. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Reread confirms reimbursement setting, not a journey scene or guaranteed fare. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 balances cost, time, weather, accessibility, payer, receipts, alternatives, and route authority without overmapping transit. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Comparison across all twelve H2s confirms transit detail is proportionate to access and budget effects. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional access-economy canon; physical accessibility does not make a fare free and unsafe travel can be cancelled. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Literal reread confirms reasons match fare, payer, ceiling, route conditions, alternatives, and cancellation. -->
 
 **Status:** Work decision — access economy.
 
@@ -59,6 +128,14 @@ The founders choose a nearer public site, remote or paper channel, shared author
 
 ## In-kind exchange and gifts
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns exchanged resources, offered/accepted/value/completion records, hidden access/endorsement/future-labour limits, clarification, refusal, and institutional-resource boundaries. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread with 090 consent, 180 governance, 190 gifts, and 220 donations confirms exchange pressure and refusal boundaries are complete. -->
+<!-- @evidence obligations/common.md#substantive-completion The two paragraphs complete reciprocity canon: exchange terms are visible, uncertain pressure is escalated, and institutional goods are not friendship tokens. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Reread confirms exchange setting, not a favour scene or relationship bargain. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 balances material and social exchange, value, pressure, refusal, and institutional limits without pricing every favour. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Comparison across all twelve H2s confirms exchange detail is proportionate to reciprocity risk. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional reciprocity rule; a favour cannot secretly purchase access, endorsement, or labour. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Literal reread confirms reasons match offered/accepted terms, pressure, refusal, and institutional ownership. -->
 
 **Status:** Work decision — reciprocity rule.
 
@@ -68,6 +145,14 @@ If the value or pressure is unclear, the founders ask an adult or use a transpar
 
 ## Emergency reserve
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns reserve uses, custodian, maximum, approval, receipts, replenishment, prohibited bypasses, accountable restoration, and post-use redesign. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread with 180 accountability, 220 budget, 230 supply, and 260 emergency confirms reserve authority and audit boundaries are complete. -->
+<!-- @evidence obligations/common.md#substantive-completion The two paragraphs complete resilience canon: urgent spending protects people while preserving authority, and use triggers a truthful redesign record. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Reread confirms reserve setting, not an emergency event or authority bypass. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 balances urgent fare/material/access uses with custodian, approval, replenishment, and prohibited repairs or data purchases. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Comparison across all twelve H2s confirms reserve detail is proportionate to resilience and accountability. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional resilience canon; reserve money cannot authorize entry, electrical repair, or private-data purchase. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Literal reread confirms reasons match use, approval, receipt, custodian, replenishment, and redesign. -->
 
 **Status:** Work decision — resilience canon.
 
@@ -77,6 +162,14 @@ Emergency spending protects people and restores accountable process; it does not
 
 ## Budget transparency and privacy
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns aggregate financial understanding, decision ownership, private bank/donor detail, restricted receipts, subsidy conditions, conflicts, low-income dignity, and required grant fields. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread with 170 privacy, 180 accountability, 210 data, and 220 budget confirms transparency and disclosure boundaries are complete. -->
+<!-- @evidence obligations/common.md#substantive-completion The two paragraphs complete disclosure canon: participants can understand totals and conditions without exposing families or turning beneficiaries into promotion. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Reread confirms privacy setting, not a public accounting scene or donor reveal. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 balances aggregate accountability, receipts, subsidy/conflict disclosure, and dignity without publishing sensitive financial detail. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Comparison across all twelve H2s confirms transparency detail is proportionate to privacy risk. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional disclosure boundary; fairness does not require identifying a low-income participant or exposing private accounts. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Literal reread confirms reasons match aggregate reporting, restricted receipts, conditions, conflicts, and dignity. -->
 
 **Status:** Work decision — disclosure boundary.
 
@@ -86,6 +179,14 @@ The club discloses a subsidy’s conditions and a conflict of interest. A low-in
 
 ## Debt and repayment
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns lender/item/amount/date/schedule/flexibility/impossibility records, non-coercive enforcement, renegotiation/substitution/waiver/referral, privacy, consent, and completion/repair. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread with 090 consent, 100 relationships, 170 rights, and 220 budget confirms debt dignity and repair boundaries are complete. -->
+<!-- @evidence obligations/common.md#substantive-completion The two paragraphs complete financial-dignity canon: debts are recorded without humiliation, alternatives exist, and settlement does not erase relational repair. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Reread confirms debt setting, not a repayment confrontation or coercive subplot. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 balances accountability, flexibility, privacy, consent, and repair without treating every friendship as a contract. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Comparison across all twelve H2s confirms debt detail is proportionate to dignity and continuity. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional financial-dignity rule; no debtor is exposed, dispossessed, or assigned unpaid work without consent. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Literal reread confirms reasons match records, flexibility, alternatives, privacy, consent, completion, and repair. -->
 
 **Status:** Work decision — financial dignity rule.
 
@@ -95,6 +196,14 @@ The group offers renegotiation, substitution, waiver, or referral. It does not p
 
 ## Costed accessibility
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns access examples, payer and institutional route, cost recording, non-optional inclusion, equal-use alternatives, and durable infrastructure ownership. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread with 050 access, 170 rights, 190 ritual, 200 study, and 220 transit confirms accessibility funding and equal-use boundaries are complete. -->
+<!-- @evidence obligations/common.md#substantive-completion The two paragraphs complete inclusion-economy canon: access has resource cost, but cost never makes access optional or symbolic. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Reread confirms funding constraint, not a staged accommodation request or inspirational device. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 balances varied access costs, payer, alternatives, equal usefulness, and infrastructure owner without prescribing one solution. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Comparison across all twelve H2s confirms access-cost detail is proportionate to inclusion stakes. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional inclusion economy; a cheaper alternative must work equally and access cannot be shifted to the person who needs it. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Literal reread confirms reasons match examples, payer, institutional route, equal use, and infrastructure authority. -->
 
 **Status:** Work decision — inclusion economy.
 
@@ -104,6 +213,14 @@ The budget records that inclusion has a resource cost while refusing the conclus
 
 ## Closure and audit
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns closure totals, reimbursements, borrowed goods, donations, subscriptions, restricted balances, second-person checks, personal/institutional separation, discrepancies, and graduation handoff. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread with 150 school funds, 170 records, 180 governance, 200 alumni, and 220 budget confirms closure and audit boundaries are complete. -->
+<!-- @evidence obligations/common.md#substantive-completion The two paragraphs complete financial-continuity canon: closure records unresolved ownership and discrepancies, and graduation changes institutional versus personal arrangements. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Reread confirms audit setting, not a final-accounting scene or invented clean result. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 balances totals, verification, privacy, discrepancies, and handoff without requiring false precision or personal-note disclosure. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Comparison across all twelve H2s confirms closure detail is proportionate to continuity and trust. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks fictional financial-continuity canon; unresolved discrepancies stay recorded and post-graduation ownership follows the responsible host. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Literal reread confirms reasons match totals, checks, discrepancies, owner, privacy, and school handoff. -->
 
 **Status:** Work decision — financial continuity.
 
