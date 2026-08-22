@@ -115,13 +115,13 @@ Sources: Muracciole, “Les industries d'armement,” lines 69-90, https://www.n
 
 ## Boundary to scientific work in Egypt {#boundary-to-scientific-work-in-egypt}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns the handoff of expeditionary science, local knowledge, translation, ownership, occupation, and publication. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Compared this boundary with 009; Egypt's colonial knowledge is not duplicated as generic science. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Rechecked expedition, survey, local expertise, translation, extraction, publication, and military use beside 009; Egypt remains a distinct colonial knowledge owner. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 settles why surveying or publishing knowledge does not prove consent or shared benefit. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested observer, local source, translator, collector, owner, archive, and occupying authority. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Traced observer, local source, translator, collector, archive, occupying authority, instrument, escort, and publication owner. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 separates expedition, survey, local expertise, translation, extraction, publication, and military use. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked that the boundary supplies constraints without retelling the Egypt campaign. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Kept expedition, survey, local expertise, translation, extraction, publication, and military use as handoff constraints rather than campaign retelling. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This host keeps scientific publication and colonial power in the same frame without treating them as equivalent. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the science account's centralization and utilitarian claims before retaining this handoff. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked de Syon pp. 1-3 on Egypt's Institute, maps, factory, and logistics and kept scientific publication distinct from local consent. -->
 
 **Status:** Work boundary with colonial caution. The Egypt expedition's scholars, maps, specimens, translators, and publications belong to 009 and its descendants. Their work can preserve observations while occurring under invasion, unequal access, and extraction. A later owner must identify who supplied knowledge, who translated it, who possessed the object or manuscript, where it was stored, and who could publish or use it. A printed volume does not prove local consent or benefit, and a European observer's category is not a transparent description of Egyptian practice. This file hands forward the mechanics of instruments, escorts, archives, and ownership; it does not supply a universal story of enlightened science.
 
