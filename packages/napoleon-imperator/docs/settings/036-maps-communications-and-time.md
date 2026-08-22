@@ -23,7 +23,7 @@
 <!-- @evidence principles/common.md#historical-corroboration Communication claims are cross-read between postal history, cartographic logistics, military transmission, and official publication. -->
 <!-- @evidenceReview principles/common.md#historical-corroboration #b58522c Re-read maps, postal routes, signals, clocks, dispatches, and asymmetry against their direct and editorial sources: preserved disagreement covers route and speed, signal interpretation, observation/order/receipt/publication time, and official versus edited framing; graph and narrative boundaries remain method and handoff decisions. -->
 <!-- @evidence principles/common.md#bounded-historical-invention Later scenes may invent bounded waits, mishearings, route choices, and document handling only within documented media limits. -->
-<!-- @evidenceReview principles/common.md#bounded-historical-invention #231571a Reread all units for instantaneous knowledge, invented codes, impossible speeds, and false exact clocks. -->
+<!-- @evidenceReview principles/common.md#bounded-historical-invention #231571a Re-read all eight H2s and both boundaries for fabricated exact minutes, distances, codes, order wording, motives, quotations, hindsight, or scene certainty; retained only bounded waits, mishearings, route choices, and document handling within stated media, with graph and narrative execution left downstream. -->
 
 # Maps, Communications, and Time
 
