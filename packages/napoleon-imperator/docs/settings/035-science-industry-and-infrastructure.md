@@ -101,13 +101,13 @@ Sources: Delage and Prévot, Paris urban evolution, https://www.napoleon.org/en/
 
 ## Industrial limits and campaign logistics {#industrial-limits-and-campaign-logistics}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns the chain from raw material and contract through depot, route, inspection, loss, and receipt. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Compared this chain with 016 and 018; factory potential is not campaign availability. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Rechecked raw material, contract, workshop, inspection, packing, wagon, road, depot, clerk, loss, and receipt beside 016 and 018. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 settles how distance, weather, bridges, allocation, theft, and damage bound production. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested output, packing, wagon, road, depot, clerk, recipient, and failure. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested production, allocation, packing, wagon, weather, bridge, depot, clerk, recipient, capture, breakage, and delay as separate failures. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 separates production, allocation, transport, storage, inspection, damage, theft, and delay. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked that every shortage has a possible material cause instead of an abstract economy. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Kept factory potential, allocation, transport, storage, inspection, damage, theft, and delay as distinct causes of shortage. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This host preserves Muracciole's cautions about totals, orders, and financial economy. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked armament lines 69-90 and removed unsupported output-to-front assumptions. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked Muracciole lines 69-90; the article's cautions on forecasts, private industry, and finance do not support output-equals-receipt. -->
 
 **Status:** Source-critical boundary. Muracciole explicitly warns that armament needs and factory forecasts were disrupted by sudden wars, that production totals are subject to caution, and that private industry did not expand in proportion to operations. A campaign setting must therefore connect raw material, contract, furnace or workshop, inspection, packing, wagon, road, bridge, weather, depot, clerk, and receiving unit. A shortage can arise from production, allocation, capture, theft, breakage, or delay; “the factory produced it” is not receipt. This chain keeps the novel's marching armies embodied in wheels, hooves, hands, ledgers, and time. It also permits opposing accounts to disagree without inventing a precise number.
 
