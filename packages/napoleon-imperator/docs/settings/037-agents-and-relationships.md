@@ -1,7 +1,7 @@
 <!-- @evidence principles/common.md#purpose-fit This file makes relationships executable as channels of access, information, resources, authority, protection, and consequence. -->
 <!-- @evidenceReview principles/common.md#purpose-fit #a5876aa Reread all seven units; each owns a distinct relationship mechanism or boundary. -->
 <!-- @evidence principles/common.md#layer-boundary These H2s establish social conditions; events, reveals, scenes, and finished dialogue remain downstream. -->
-<!-- @evidenceReview principles/common.md#layer-boundary #c239986 Compared 037 with 011, 017, 033, and 038; it does not duplicate family, diplomacy, court, or marshal biographies. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 Re-read all seven H2s against 011, 017, 033, and 038: relationship facts and channels remain settings constraints, while named biography, event connections, reveal order, scene mechanics, and finished dialogue remain with their owning downstream layers. -->
 <!-- @evidence principles/common.md#work-language The English file explains patronage, kinship, relay, audience, office, loyalty, and memoir mediation. -->
 <!-- @evidenceReview principles/common.md#work-language #a2dca6c Checked relationship vocabulary for readable historical precision. -->
 <!-- @evidence principles/settings.md#addressable-canon The canon separates power channels, information relay, kinship, rivalry, absence, war change, and character handoff. -->
