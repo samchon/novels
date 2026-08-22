@@ -162,6 +162,14 @@ Recovery is not a reward for productivity. A founder who says “not now” has 
 
 ## Equipment ownership and handoff
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes equipment owner, custody, checkout, condition, handoff, return, and loss/escalation boundaries. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked owner, custody, checkout, handoff, return, and loss conditions; possession does not prove authority. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete equipment lifecycle for downstream use without assigning an event. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread checkout and return rules; a handoff preserves provenance and responsibility. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates ownership, custody, condition, handoff, return, and escalation. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the six controls; condition is the independent record. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional equipment governance and does not claim school or municipal property law. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and ownership wording; no external title claim is made. -->
 
 **Status:** Work decision — material canon.
 
