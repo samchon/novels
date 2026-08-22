@@ -1,7 +1,7 @@
 <!-- @evidence principles/common.md#purpose-fit This file makes maps, messages, clocks, signals, and decisions executable information infrastructure. -->
 <!-- @evidenceReview principles/common.md#purpose-fit #a5876aa Reread all eight units; each owns a distinct medium, uncertainty, or handoff. -->
 <!-- @evidence principles/common.md#layer-boundary These H2s establish information conditions; events, reveals, scenes, and prose remain downstream. -->
-<!-- @evidenceReview principles/common.md#layer-boundary #c239986 Compared 036 with 016, 018, 035, and 049; it does not take over logistics or chronology. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 Re-read all eight H2s against 016, 018, 035, and 049: maps, routes, clocks, signals, documents, asymmetry, and source standings remain settings facts or constraints, while event connections, reveals, scene execution, and prose remain downstream. -->
 <!-- @evidence principles/common.md#work-language The English file explains survey, dispatch, estafette, semaphore, bulletin, local time, and receipt. -->
 <!-- @evidenceReview principles/common.md#work-language #a2dca6c Checked communication vocabulary for readable historical precision. -->
 <!-- @evidence principles/settings.md#addressable-canon The canon separates maps, postal delay, clocks, field signals, edited dispatches, asymmetry, graph handoff, and narrative handoff. -->
