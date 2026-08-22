@@ -94,6 +94,14 @@ Do-yun is not a universal accessibility oracle. A measurement does not replace a
 
 ## Shared age and school-standing envelope
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes the founders' shared first/second/third-year standing, age/grade distinction, graduation boundary, and institutional authority limits. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked age, grade, student status, graduation, and authority fields against 030; birthday does not grant school power. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives downstream writers a complete standing boundary for access, consent, records, and progression. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the full H2; school records and institutional procedures remain the decisive authority. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates age, grade, school standing, graduation, consent, and records. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the six effects; graduation is the independent status transition. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional standing bounded by 030's calculated chronology and legal baseline. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and age/grade wording; no external identity record is claimed. -->
 
 **Status:** Work decision — chronology-dependent canon.
 
