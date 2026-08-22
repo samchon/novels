@@ -4,6 +4,11 @@ This final settings file records the initial system state and the source, disput
 
 ## Opening date and delivery window
 
+<!-- @evidence obligations/common.md#scope-preservation The Opening date and delivery window host states n — chronology inheritance. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Opening date and delivery window host develops its register through t an unowned academic year, or treat an alumni date as student attendance. A date used in a document states its timezone and whether it is an observation, issue date, effective date, or retrospective reference.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Opening date and delivery window host gives 93 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Opening date and delivery window acknowledgement is grounded in this host's Status and its concrete opening statement 'n — chronology inheritance.'. -->
+
 **Status:** Work decision — chronology inheritance.
 
 The canonical delivery begins on 2027-03-02 and ends on 2031-02-28, with the contiguous partitions in `040`. The first instructional day in the 2027–28 year is Tuesday 2027-03-02. The setting distinguishes legal semester membership, instructional days, recess, examination windows, and fictional office preparation exactly as `030` does.
@@ -11,6 +16,11 @@ The canonical delivery begins on 2027-03-02 and ends on 2031-02-28, with the con
 No later file may move the delivery endpoint, insert an unowned academic year, or treat an alumni date as student attendance. A date used in a document states its timezone and whether it is an observation, issue date, effective date, or retrospective reference.
 
 ## Founders’ initial standing
+
+<!-- @evidence obligations/common.md#scope-preservation The Founders’ initial standing host states n — character-state inheritance. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Founders’ initial standing host develops its register through availability. The game vocabulary is a proposal and shared practice, not a legal or supernatural system. The school, city, youth centre, market, and families remain operating institutions with their own owners.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Founders’ initial standing host gives 95 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Founders’ initial standing acknowledgement is grounded in this host's Status and its concrete opening statement 'n — character-state inheritance.'. -->
 
 **Status:** Work decision — character-state inheritance.
 
@@ -20,6 +30,11 @@ They possess ordinary school materials, personal histories, family constraints, 
 
 ## Opening physical state
 
+<!-- @evidence obligations/common.md#scope-preservation The Opening physical state host states n — spatial inheritance. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Opening physical state host develops its register through uction are historical constraints, not active events in every date. A route is usable only after current access, weather, authority, and maintenance conditions are checked. A map is not a reopening certificate.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Opening physical state host gives 92 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Opening physical state acknowledgement is grounded in this host's Status and its concrete opening statement 'n — spatial inheritance.'. -->
+
 **Status:** Work decision — spatial inheritance.
 
 The campus and public approach are available only under the measured, conditional envelopes in `050` and `060`. Main gates, service lanes, stairs, lift, ramps, classrooms, west annex, gym, auditorium, market passage, bus loop, channel, youth centre, library, toilets, rest points, and signs each have an owner and current-state condition.
@@ -27,6 +42,11 @@ The campus and public approach are available only under the measured, conditiona
 The 2019 flood infrastructure and 2022 school fire reconstruction are historical constraints, not active events in every date. A route is usable only after current access, weather, authority, and maintenance conditions are checked. A map is not a reopening certificate.
 
 ## Opening institutional state
+
+<!-- @evidence obligations/common.md#scope-preservation The Opening institutional state host states n — authority inheritance. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Opening institutional state host develops its register through nd city hall does not own school records or the high-school building. Joint coordination records each office’s deliverable. The opening state contains no unassigned universal adult who can solve every boundary.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Opening institutional state host gives 89 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Opening institutional state acknowledgement is grounded in this host's Status and its concrete opening statement 'n — authority inheritance.'. -->
 
 **Status:** Work decision — authority inheritance.
 
@@ -36,6 +56,11 @@ The school does not own city closure and city hall does not own school records o
 
 ## Opening resource state
 
+<!-- @evidence obligations/common.md#scope-preservation The Opening resource state host states n — material inheritance. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Opening resource state host develops its register through . Any loss must preserve practical consequences. A fictional grant, job, device, or office support is created only in its owning layer and may not retroactively make the opening state affluent or fully staffed.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Opening resource state host gives 98 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Opening resource state acknowledgement is grounded in this host's Status and its concrete opening statement 'n — material inheritance.'. -->
+
 **Status:** Work decision — material inheritance.
 
 Ordinary resources include classrooms by booking, maps and stationery, personal devices, school and public networks, transport, family time, food and water, budget channels, shared equipment, translation, and adult attention. Each resource has owner, condition, access, cost, and expiry. The club begins with proposals and ordinary constraints, not a guaranteed grant or permanent room.
@@ -43,6 +68,11 @@ Ordinary resources include classrooms by booking, maps and stationery, personal 
 Any later resource increase must identify source and permission. Any loss must preserve practical consequences. A fictional grant, job, device, or office support is created only in its owning layer and may not retroactively make the opening state affluent or fully staffed.
 
 ## Opening safety state
+
+<!-- @evidence obligations/common.md#scope-preservation The Opening safety state host states n — safety inheritance. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Opening safety state host develops its register through pe; it does not promise that every hazard is absent. The responsible owner rechecks after weather, maintenance, crowd, power, or access change. Students can stop a task without being punished for lacking proof.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Opening safety state host gives 89 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Opening safety state acknowledgement is grounded in this host's Status and its concrete opening statement 'n — safety inheritance.'. -->
 
 **Status:** Work decision — safety inheritance.
 
@@ -52,6 +82,11 @@ The ordinary safe state includes known emergency contacts, school and facility p
 
 ## Opening knowledge state
 
+<!-- @evidence obligations/common.md#scope-preservation The Opening knowledge state host states n — epistemic inheritance. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Opening knowledge state host develops its register through e. Unknown, disputed, stale, and inaccessible are valid states. The group records what was checked, by whom, when, and under what conditions. A confident sentence is not upgraded evidence merely by repetition.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Opening knowledge state host gives 78 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Opening knowledge state acknowledgement is grounded in this host's Status and its concrete opening statement 'n — epistemic inheritance.'. -->
+
 **Status:** Work decision — epistemic inheritance.
 
 The founders know different fragments: personal experience, school routine, public notices, family language, measurements, rumours, and game concepts. No one begins with omniscient access to city systems, records, private motives, or future consequences. A document or source can expand knowledge only within its scope.
@@ -59,6 +94,11 @@ The founders know different fragments: personal experience, school routine, publ
 Unknown, disputed, stale, and inaccessible are valid states. The group records what was checked, by whom, when, and under what conditions. A confident sentence is not upgraded evidence merely by repetition.
 
 ## Claim classes
+
+<!-- @evidence obligations/common.md#scope-preservation The Claim classes host states n — research protocol. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Claim classes host develops its register through character’s mistaken belief may exist downstream while the canonical setting preserves the correct owner. A report from a market trader can be true lived experience without becoming a city-wide official status.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Claim classes host gives 87 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Claim classes acknowledgement is grounded in this host's Status and its concrete opening statement 'n — research protocol.'. -->
 
 **Status:** Work decision — research protocol.
 
@@ -68,6 +108,11 @@ The classes are not interchangeable. A character’s mistaken belief may exist d
 
 ## Official-source register
 
+<!-- @evidence obligations/common.md#scope-preservation The Official-source register host states n for applicability. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Official-source register host develops its register through page: [direct current linked document](https://www.law.go.kr/LSW/lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000990378). These sources inform legal or technical claims but do not certify the fictional campus.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Official-source register host gives 147 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Official-source register acknowledgement is grounded in this host's Status and its concrete opening statement 'n for applicability.'. -->
+
 **Status:** Source-backed register plus work decision for applicability.
 
 The current official education baselines are the Korean Elementary and Secondary Education Act Article 24, effective 2026-08-20, [direct article](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?lsJoLnkSeq=1032276043), and Enforcement Decree Article 44, effective 2026-05-26, [direct article](https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1002280340). The stable Act page also exposes Articles 24, 25, 26, and 46 through [the official statute page](https://www.law.go.kr/법령/초ㆍ중등교육법#제24조).
@@ -75,6 +120,11 @@ The current official education baselines are the Korean Elementary and Secondary
 Accessibility baselines use the official Act Articles 3 and 8 and [official Enforcement Rule Appendix 1 PDF](https://law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=135226913). Building egress and stair references use the official Building Act Enforcement Decree Article 34–40 page: [direct current linked document](https://www.law.go.kr/LSW/lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000990378). These sources inform legal or technical claims but do not certify the fictional campus.
 
 ## Administrative-rule and transport sources
+
+<!-- @evidence obligations/common.md#scope-preservation The Administrative-rule and transport sources host states n for scope. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Administrative-rule and transport sources host develops its register through Seq=40424119). Road marking reference uses [official Road Traffic Enforcement Rule Appendix 6](https://www.law.go.kr/flDownload.do?bylClsCd=110201&flSeq=146448457). Applicability is checked rather than assumed.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Administrative-rule and transport sources host gives 158 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Administrative-rule and transport sources acknowledgement is grounded in this host's Status and its concrete opening statement 'n for scope.'. -->
 
 **Status:** Source-backed register plus work decision for scope.
 
@@ -84,6 +134,11 @@ Mobility facility legal and technical references use the official Mobility Conve
 
 ## Disaster and weather sources
 
+<!-- @evidence obligations/common.md#scope-preservation The Disaster and weather sources host states n for fictional response. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Disaster and weather sources host develops its register through blic guidance and labels Haneul decisions as fictional. Forecast pages are time-sensitive; a later check records current access date and observed wording. No seasonal average or warning is invented from memory.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Disaster and weather sources host gives 120 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Disaster and weather sources acknowledgement is grounded in this host's Status and its concrete opening statement 'n for fictional response.'. -->
+
 **Status:** Source-backed register plus work decision for fictional response.
 
 The Disaster and Safety Management Basic Act current official page is [the 2026-06-11 current document](https://www.law.go.kr/LSW/lsInfoP.do?ancYnChk=0&chrClsCd=010202&efYd=20260611&lsiSeq=283851&urlMode=lsInfoP). It supplies a current safety-management framework, not a fictional gauge reading or closure. KMA public references include [heat safety guidance](https://www.weather.go.kr/w/hazard/safety-guide/heatwave.do) and [current warning status](https://www.weather.go.kr/weather/warning/status.jsp?printable=true).
@@ -91,6 +146,11 @@ The Disaster and Safety Management Basic Act current official page is [the 2026-
 The novel uses these sources for general public guidance and labels Haneul decisions as fictional. Forecast pages are time-sensitive; a later check records current access date and observed wording. No seasonal average or warning is invented from memory.
 
 ## Dispute and lived-experience protocol
+
+<!-- @evidence obligations/common.md#scope-preservation The Dispute and lived-experience protocol host states n — evidence discipline. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Dispute and lived-experience protocol host develops its register through rection or decision. A student may carry a lived report without claiming to speak for all residents. The package does not invent a culprit or resolve a dispute merely because a downstream scene would be easier.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Dispute and lived-experience protocol host gives 102 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Dispute and lived-experience protocol acknowledgement is grounded in this host's Status and its concrete opening statement 'n — evidence discipline.'. -->
 
 **Status:** Work decision — evidence discipline.
 
@@ -100,6 +160,11 @@ Disputes are routed to the competent owner for correction or decision. A student
 
 ## Uncertainty, source decay, and recheck
 
+<!-- @evidence obligations/common.md#scope-preservation The Uncertainty, source decay, and recheck host states n — maintenance protocol. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Uncertainty, source decay, and recheck host develops its register through , disputed, superseded, and not-applicable states. A broken link prompts a source search; it does not prompt an invented locator. A later review rereads the source and the claim host before renewing confidence.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Uncertainty, source decay, and recheck host gives 77 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Uncertainty, source decay, and recheck acknowledgement is grounded in this host's Status and its concrete opening statement 'n — maintenance protocol.'. -->
+
 **Status:** Work decision — maintenance protocol.
 
 Each source has a recheck trigger: legal amendment, changed effective date, broken URL, altered public page, new inspection, graduation, weather warning, route works, or correction request. A source can remain historically useful after it stops being current.
@@ -107,6 +172,11 @@ Each source has a recheck trigger: legal amendment, changed effective date, brok
 The register marks stale, inaccessible, disputed, superseded, and not-applicable states. A broken link prompts a source search; it does not prompt an invented locator. A later review rereads the source and the claim host before renewing confidence.
 
 ## Downstream handoff and scope lock
+
+<!-- @evidence obligations/common.md#scope-preservation The Downstream handoff and scope lock host states n — layer boundary. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Downstream handoff and scope lock host develops its register through its are reread, and reviews become stale. A green build cannot justify preserving a false fact. This scope lock closes the settings 초도본 while leaving later evidence and review stages to the repository pipeline.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Downstream handoff and scope lock host gives 92 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Downstream handoff and scope lock acknowledgement is grounded in this host's Status and its concrete opening statement 'n — layer boundary.'. -->
 
 **Status:** Work decision — layer boundary.
 
@@ -116,8 +186,25 @@ If downstream work discovers a real contradiction, the earliest owning settings 
 
 ## Settings completion state
 
+<!-- @evidence obligations/common.md#scope-preservation The Settings completion state host states n — current delivery state. This is the concrete opening/research scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Settings completion state host develops its register through . Before any stage change, the package must pass its build and the full settings corpus must undergo literal review for chronology, jurisdiction, source scope, duplication, placeholders, and language integrity.; downstream layers do not need to invent the source standing, recheck, or handoff condition. -->
+<!-- @evidence obligations/common.md#proportionate-development The Settings completion state host gives 105 authored words across 3 paragraphs to its distinct opening/research decision, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Settings completion state acknowledgement is grounded in this host's Status and its concrete opening statement 'n — current delivery state.'. -->
+
 **Status:** Work decision — current delivery state.
 
 The settings layer now owns world laws, time, space, environment, agents, relationships, institutions, culture, material life, technology, safety, recurring forms, opening state, and research uncertainty across the thirty-file map. Every addressable fact has an H2 owner; shared mechanics are referenced rather than duplicated into conflicting values.
 
 The layer remains `disabled` until the coordinator authorizes the evidence transition. Disabled means a complete first version without coverage pressure, not permission to ignore compiler errors. Before any stage change, the package must pass its build and the full settings corpus must undergo literal review for chronology, jurisdiction, source scope, duplication, placeholders, and language integrity.
+<!-- @evidence principles/common.md#purpose-fit The file Opening State and Research Register owns 15 opening-state and research-register H2s; its overview states "This final settings file records the initial system state and the source, dispute, and uncertainty protocol that downstream layers inherit. It does not allocate opening scenes, reveals, or volume beats. “Opening state” m", closing the settings layer with the initial system state, source protocol, disputes, uncertainty, and handoff required by the complete novel. -->
+<!-- @evidence principles/common.md#layer-boundary The file Opening State and Research Register owns 15 opening-state and research-register H2s; its overview states "This final settings file records the initial system state and the source, dispute, and uncertainty protocol that downstream layers inherit. It does not allocate opening scenes, reveals, or volume beats. “Opening state” m"; it records opening facts, source standing, and downstream handoff, not opening scenes, reveals, or narrative beats. -->
+<!-- @evidence principles/common.md#work-language The file Opening State and Research Register owns 15 opening-state and research-register H2s; its overview states "This final settings file records the initial system state and the source, dispute, and uncertainty protocol that downstream layers inherit. It does not allocate opening scenes, reveals, or volume beats. “Opening state” m"; dates, source titles, article locators, uncertainty labels, and handoff instructions are written in retrievable English. -->
+<!-- @evidence principles/settings.md#addressable-canon The file Opening State and Research Register owns 15 opening-state and research-register H2s; its overview states "This final settings file records the initial system state and the source, dispute, and uncertainty protocol that downstream layers inherit. It does not allocate opening scenes, reveals, or volume beats. “Opening state” m"; opening date, standing, physical/institutional/resource/safety/knowledge state, claim classes, source families, dispute, uncertainty, handoff, and completion each have separate H2 owners. -->
+<!-- @evidence principles/settings.md#information-structure The file Opening State and Research Register owns 15 opening-state and research-register H2s; its overview states "This final settings file records the initial system state and the source, dispute, and uncertainty protocol that downstream layers inherit. It does not allocate opening scenes, reveals, or volume beats. “Opening state” m"; each H2 states Status and then distinguishes current state, source scope, authority, uncertainty, and downstream use. -->
+<!-- @evidence principles/settings.md#fact-status The file Opening State and Research Register owns 15 opening-state and research-register H2s; its overview states "This final settings file records the initial system state and the source, dispute, and uncertainty protocol that downstream layers inherit. It does not allocate opening scenes, reveals, or volume beats. “Opening state” m"; it separates Work decisions, source-backed legal/weather/accessibility claims, character knowledge, observations, reports, inferences, proposals, and disputes. -->
+<!-- @evidence principles/settings.md#source-support The file Opening State and Research Register owns 15 opening-state and research-register H2s; its overview states "This final settings file records the initial system state and the source, dispute, and uncertainty protocol that downstream layers inherit. It does not allocate opening scenes, reveals, or volume beats. “Opening state” m"; 13 direct official URLs identify the actual law, administrative rule, accessibility appendix, transport appendix, disaster framework, and KMA pages with locators/effective dates. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file Opening State and Research Register owns 15 opening-state and research-register H2s; its overview states "This final settings file records the initial system state and the source, dispute, and uncertainty protocol that downstream layers inherit. It does not allocate opening scenes, reveals, or volume beats. “Opening state” m"; it states the opening dates, status, resources, safety, knowledge limits, source metadata, dispute handling, recheck triggers, and layer handoff conditions. -->
+<!-- @evidence principles/settings.md#minimal-departure The file Opening State and Research Register owns 15 opening-state and research-register H2s; its overview states "This final settings file records the initial system state and the source, dispute, and uncertainty protocol that downstream layers inherit. It does not allocate opening scenes, reveals, or volume beats. “Opening state” m"; fictional Haneul opening state is explicitly separated from current real-world legal/weather frameworks and never silently substitutes a source for a work decision. -->
+<!-- @evidence principles/settings.md#internal-coherence The file Opening State and Research Register owns 15 opening-state and research-register H2s; its overview states "This final settings file records the initial system state and the source, dispute, and uncertainty protocol that downstream layers inherit. It does not allocate opening scenes, reveals, or volume beats. “Opening state” m"; the register cross-checks 030 chronology, 040 partitions, 050–270 domain owners, 280 motifs, and the disabled-to-evidence layer boundary. -->
+
+# Opening State and Research Register
