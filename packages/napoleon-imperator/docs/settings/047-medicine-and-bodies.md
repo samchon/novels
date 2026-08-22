@@ -1,29 +1,3 @@
-<!-- @evidence principles/common.md#purpose-fit The Medicine and Bodies file fixes the historical and material setting needed by the twenty-volume English novel; its opening scope is This file owns illness, injury, care, disability, and the bodily cost of state and war.. -->
-<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa Read the complete “Medicine and Bodies” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
-<!-- @evidence principles/common.md#layer-boundary The Medicine and Bodies file records addressable facts, constraints, source status, and work decisions; it does not prescribe storyline order, scene blocking, or finished manuscript prose. -->
-<!-- @evidenceReview principles/common.md#layer-boundary #c239986 Read the complete “Medicine and Bodies” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
-<!-- @evidence principles/common.md#work-language The Medicine and Bodies file is authored in consistent English and preserves the period names, French institutional terms, and place-name variants needed for a readable historical novel. -->
-<!-- @evidenceReview principles/common.md#work-language #a2dca6c Read the complete “Medicine and Bodies” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
-<!-- @evidence principles/settings.md#addressable-canon The Medicine and Bodies file assigns its distinct canon to 5 independently anchored H2 owners, so later layers can cite a precise fact rather than a whole-file summary. -->
-<!-- @evidenceReview principles/settings.md#addressable-canon #660699f Read the complete “Medicine and Bodies” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
-<!-- @evidence principles/settings.md#information-structure Each of the 5 Medicine and Bodies H2 owners states Status before developing its fact, operating condition, consequence, and limitation. -->
-<!-- @evidenceReview principles/settings.md#information-structure #10ff424 Read the complete “Medicine and Bodies” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
-<!-- @evidence principles/settings.md#fact-status The Medicine and Bodies H2 statuses distinguish established historical claims, contested or source-dependent reconstructions, and owner-adopted work decisions instead of presenting every detail as equally certain. -->
-<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Read the complete “Medicine and Bodies” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
-<!-- @evidence principles/settings.md#source-support The Medicine and Bodies file carries 10 direct source URL marker(s) and identifies uncertainty where the surviving record does not settle a detail; fictional connective decisions remain marked as such. -->
-<!-- @evidenceReview principles/settings.md#source-support #2462844 Read the complete “Medicine and Bodies” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
-<!-- @evidence principles/settings.md#constraint-sufficiency The Medicine and Bodies H2 owners specify the actors, institutions, dates, material conditions, information limits, and downstream boundaries required to use this domain without inventing its foundations. -->
-<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Read the complete “Medicine and Bodies” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
-<!-- @evidence principles/settings.md#minimal-departure The Medicine and Bodies file keeps departures from the record bounded: it may choose a usable narrative emphasis, but it does not silently change documented dates, identities, institutions, or contested status. -->
-<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 Read the complete “Medicine and Bodies” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
-<!-- @evidence principles/settings.md#internal-coherence The Medicine and Bodies file keeps its 5 owners consistent in chronology, geography, institutional authority, terminology, and the distinction between evidence and narrative-use decisions. -->
-<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e Read the complete “Medicine and Bodies” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
-<!-- @evidence principles/common.md#bounded-historical-invention The Medicine and Bodies file permits only bounded connective invention around the documented historical record; it does not fabricate quotations, hidden motives, or unsupported precision. -->
-<!-- @evidenceReview principles/common.md#bounded-historical-invention #231571a Read the complete “Medicine and Bodies” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
-<!-- @evidence principles/common.md#historical-claim-provenance Historical claims in the Medicine and Bodies file are assigned to their source-bearing H2 owners, with source-dependent details and work decisions visibly separated for downstream checking. -->
-<!-- @evidenceReview principles/common.md#historical-claim-provenance #d7515dc Read the complete “Medicine and Bodies” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
-<!-- @evidence principles/common.md#historical-corroboration The Medicine and Bodies file treats source agreement, disagreement, and silence as distinct statuses and requires later prose to preserve those limits rather than laundering one retrospective into certainty. -->
-<!-- @evidenceReview principles/common.md#historical-corroboration #b58522c Read the complete “Medicine and Bodies” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 # Medicine and Bodies
 
 This file owns illness, injury, care, disability, and the bodily cost of state and war.
@@ -31,14 +5,6 @@ This file owns illness, injury, care, disability, and the bodily cost of state a
 <!-- principles/common.md#purpose-fit principles/common.md#layer-boundary principles/common.md#work-language -->
 
 ## Medical knowledge and uncertainty {#medical-knowledge-and-uncertainty}
-<!-- @evidence obligations/common.md#evidence-content-conformance The Medical knowledge and uncertainty is marked Source-critical. Historical medicine contains observation, theory, practice, hierarchy, and uncertainty that must not be rewritten as modern diagnosis.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Medical knowledge and uncertainty” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#proportionate-development The Medical knowledge and uncertainty host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Medical knowledge and uncertainty” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#scope-preservation The Medical knowledge and uncertainty host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Medical knowledge and uncertainty” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#substantive-completion The Medical knowledge and uncertainty host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Medical knowledge and uncertainty” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-critical. Historical medicine contains observation, theory, practice, hierarchy, and uncertainty that must not be rewritten as modern diagnosis.
 
@@ -47,14 +13,6 @@ A doctor records symptoms through contemporary categories and limited instrument
 Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Military hospitals and evacuation {#military-hospitals-and-evacuation}
-<!-- @evidence obligations/common.md#evidence-content-conformance The Military hospitals and evacuation is marked Work canon. Care depends on sites, surgeons, orderlies, water, instruments, transport, shelter, and command protection.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Military hospitals and evacuation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#proportionate-development The Military hospitals and evacuation host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Military hospitals and evacuation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#scope-preservation The Military hospitals and evacuation host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Military hospitals and evacuation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#substantive-completion The Military hospitals and evacuation host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Military hospitals and evacuation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work canon. Care depends on sites, surgeons, orderlies, water, instruments, transport, shelter, and command protection.
 
@@ -63,14 +21,6 @@ A wounded soldier can be treated, moved, abandoned, captured, or returned to dut
 Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Disability labor and household care {#disability-labor-and-household-care}
-<!-- @evidence obligations/common.md#evidence-content-conformance The Disability labor and household care is marked Source-required domain. Injury and illness alter work, income, marriage, status, and family labor long after a campaign report closes.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Disability labor and household care” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#proportionate-development The Disability labor and household care host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Disability labor and household care” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#scope-preservation The Disability labor and household care host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Disability labor and household care” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#substantive-completion The Disability labor and household care host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Disability labor and household care” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-required domain. Injury and illness alter work, income, marriage, status, and family labor long after a campaign report closes.
 
@@ -79,14 +29,6 @@ The settings graph must include dependants, pensions, prostheses, domestic care,
 Sources: Fondation Napoléon correspondence, https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Disease environment and prevention {#disease-environment-and-prevention}
-<!-- @evidence obligations/common.md#evidence-content-conformance The Disease environment and prevention is marked Work canon. Water, food, crowding, insects, season, hygiene, and movement shape disease independently of battle.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Disease environment and prevention” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#proportionate-development The Disease environment and prevention host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Disease environment and prevention” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#scope-preservation The Disease environment and prevention host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Disease environment and prevention” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#substantive-completion The Disease environment and prevention host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Disease environment and prevention” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work canon. Water, food, crowding, insects, season, hygiene, and movement shape disease independently of battle.
 
@@ -95,14 +37,6 @@ Reports may classify an epidemic differently from modern medicine. Settings must
 Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Boundary to personal medical owners {#boundary-to-personal-medical-owners}
-<!-- @evidence obligations/common.md#evidence-content-conformance The Boundary to personal medical owners is marked Work boundary. Napoleon's illnesses, family health, battlefield wounds, and Saint Helena medicine require dedicated primary and critical sources.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Boundary to personal medical owners” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#proportionate-development The Boundary to personal medical owners host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Boundary to personal medical owners” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#scope-preservation The Boundary to personal medical owners host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Boundary to personal medical owners” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
-<!-- @evidence obligations/common.md#substantive-completion The Boundary to personal medical owners host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Boundary to personal medical owners” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work boundary. Napoleon's illnesses, family health, battlefield wounds, and Saint Helena medicine require dedicated primary and critical sources.
 
