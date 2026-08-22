@@ -6,6 +6,11 @@ Weather entries use three standings. A `Source-verified framework` is an officia
 
 ## Seasonal daylight and usable time
 
+<!-- @evidence obligations/common.md#scope-preservation The Seasonal daylight and usable time host states n for fictional daylight and exposure conditions; no real-world average is asserted. This is the concrete environmental scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Seasonal daylight and usable time host develops its environmental condition through page is https://www.weather.go.kr/weather/warning/status.jsp?printable=true. These are current official information pages accessed 2026-08-21; Haneul's seasonal daylight descriptions and visual-wayfinding test are Work decisions.; downstream work does not need to invent its operating threshold or stop rule. -->
+<!-- @evidence obligations/common.md#proportionate-development The Seasonal daylight and usable time host gives 322 authored words across 5 paragraphs to its distinct environmental constraint, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Seasonal daylight and usable time acknowledgement is grounded in this host's Status and the concrete observation or response beginning 'n for fictional daylight and exposure conditions; no real-world average is asserted.'. -->
+
 **Status:** Work decision for fictional daylight and exposure conditions; no real-world average is asserted.
 
 Haneul measures daylight operationally rather than by a claimed sunrise table. The school forecourt, north street, bus shelter, and west covered connection are the four reference zones. A route is “daylit enough for ordinary visual wayfinding” when a person can distinguish the high-contrast sign, curb edge, and another person's approach without relying on a phone light. This is a physical observation condition, not a legal time or a promise that every person's vision is the same.
@@ -17,6 +22,11 @@ The north gate canopy creates a 4-metre shadow band at low sun; the west annex c
 The Korea Meteorological Administration's public hazard guidance distinguishes forecast and safety response rather than supplying Haneul's fictional route times. Its heatwave safety guide is https://www.weather.go.kr/w/hazard/safety-guide/heatwave.do, and its live warning page is https://www.weather.go.kr/weather/warning/status.jsp?printable=true. These are current official information pages accessed 2026-08-21; Haneul's seasonal daylight descriptions and visual-wayfinding test are Work decisions.
 
 ## Monsoon rain and saturated surfaces
+
+<!-- @evidence obligations/common.md#scope-preservation The Monsoon rain and saturated surfaces host states n for Haneul surface states. This is the concrete environmental scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Monsoon rain and saturated surfaces host develops its environmental condition through .jsp?printable=true. The official pages are current guidance, not a direct source for Haneul's fictional surface thresholds. Haneul's four surface states, downspout placement, paper failure, and route responses are Work decisions.; downstream work does not need to invent its operating threshold or stop rule. -->
+<!-- @evidence obligations/common.md#proportionate-development The Monsoon rain and saturated surfaces host gives 279 authored words across 5 paragraphs to its distinct environmental constraint, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Monsoon rain and saturated surfaces acknowledgement is grounded in this host's Status and the concrete observation or response beginning 'n for Haneul surface states.'. -->
 
 **Status:** Source-verified hazard framework plus Work decision for Haneul surface states.
 
@@ -30,6 +40,11 @@ KMA's hazard guidance and live warning pages identify rain and other dangerous w
 
 ## Flood warning as a physical state
 
+<!-- @evidence obligations/common.md#scope-preservation The Flood warning as a physical state host states n strictly preserving 030's fixed flood canon and authority. This is the concrete environmental scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Flood warning as a physical state host develops its environmental condition through 83851&urlMode=lsInfoP. It supports a framework for warning, safety measures, and responsible agencies; Haneul's gauge value, barriers, alternate route, and school-adviser response are fictional Work decisions already owned in 030.; downstream work does not need to invent its operating threshold or stop rule. -->
+<!-- @evidence obligations/common.md#proportionate-development The Flood warning as a physical state host gives 283 authored words across 5 paragraphs to its distinct environmental constraint, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Flood warning as a physical state acknowledgement is grounded in this host's Status and the concrete observation or response beginning 'n strictly preserving 030's fixed flood canon and authority.'. -->
+
 **Status:** Work decision strictly preserving 030's fixed flood canon and authority.
 
 The flood-warning state is entered when the municipal flood-response office's yellow Seongnae gauge reaches the 1.2-metre closure threshold specified in 030. At that point the lower market passage and bus-loop ramp are physically excluded from the available route, the channel and youth-centre basement are barred to volunteers, and the school adviser may cancel a student task. The adviser cannot issue or revoke the municipal closure. Nothing in this H2 changes the 2019-07-27 date, the three raised electrical cabinets, the pumps, or the 35-minute accessible detour.
@@ -41,6 +56,11 @@ The warning record carries gauge time, issuer, affected segment, last safe inspe
 The Disaster and Safety Management Basic Act is current official law displayed effective 2026-02-01 at https://www.law.go.kr/LSW/lsInfoP.do?ancYnChk=0&chrClsCd=010202&efYd=20260611&lsiSeq=283851&urlMode=lsInfoP. It supports a framework for warning, safety measures, and responsible agencies; Haneul's gauge value, barriers, alternate route, and school-adviser response are fictional Work decisions already owned in 030.
 
 ## Heat and humidity
+
+<!-- @evidence obligations/common.md#scope-preservation The Heat and humidity host states n informed by current KMA heat-safety guidance; no local temperature average is asserted. This is the concrete environmental scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Heat and humidity host develops its environmental condition through ic-safety guide, not a fictional Haneul school rule. Haneul's three heat states, shade locations, material effects, and stop conditions are Work decisions, while 150 owns the school response and 060 owns municipal-space authority.; downstream work does not need to invent its operating threshold or stop rule. -->
+<!-- @evidence obligations/common.md#proportionate-development The Heat and humidity host gives 285 authored words across 5 paragraphs to its distinct environmental constraint, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Heat and humidity acknowledgement is grounded in this host's Status and the concrete observation or response beginning 'n informed by current KMA heat-safety guidance; no local temperature average is asserted.'. -->
 
 **Status:** Work decision informed by current KMA heat-safety guidance; no local temperature average is asserted.
 
@@ -54,6 +74,11 @@ KMA's current heatwave safety guide states public precautions and displays warni
 
 ## Cold, frost, and winter surfaces
 
+<!-- @evidence obligations/common.md#scope-preservation The Cold, frost, and winter surfaces host states n for fictional winter surface and body-resource conditions. This is the concrete environmental scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Cold, frost, and winter surfaces host develops its environmental condition through p?printable=true. No claim about Haneul's winter temperature, snowfall frequency, or frost date is externally asserted. The surface states, reference zones, material effects, and fictional maintenance responses are Work decisions.; downstream work does not need to invent its operating threshold or stop rule. -->
+<!-- @evidence obligations/common.md#proportionate-development The Cold, frost, and winter surfaces host gives 283 authored words across 5 paragraphs to its distinct environmental constraint, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Cold, frost, and winter surfaces acknowledgement is grounded in this host's Status and the concrete observation or response beginning 'n for fictional winter surface and body-resource conditions.'. -->
+
 **Status:** Work decision for fictional winter surface and body-resource conditions.
 
 Cold makes a route slower through clothing, gloves, reduced dexterity, and shorter comfortable waiting. Haneul's exposed north gate, bus platform, market arcade edge, and west annex connection have different wind and shelter conditions. The school lobby is warmer than the forecourt, but entering the lobby requires crossing the gate and threshold. A person who can wait indoors may still need to return across a cold or wet route.
@@ -65,6 +90,11 @@ Cold also changes paper and electronics. A phone battery may lose charge, a lami
 KMA's official warning page is the source-verified channel for current cold, snow, wind, and other hazard notices: https://www.weather.go.kr/weather/warning/status.jsp?printable=true. No claim about Haneul's winter temperature, snowfall frequency, or frost date is externally asserted. The surface states, reference zones, material effects, and fictional maintenance responses are Work decisions.
 
 ## Wind, lightning, and falling objects
+
+<!-- @evidence obligations/common.md#scope-preservation The Wind, lightning, and falling objects host states n for Haneul's exposed edges. This is the concrete environmental scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Wind, lightning, and falling objects host develops its environmental condition through s.jsp?printable=true. Haneul's wind-sensitive zones, object categories, local barriers, and observation fields are Work decisions. 150 remains the owner of school facilities response, and 060 remains the owner of municipal spaces.; downstream work does not need to invent its operating threshold or stop rule. -->
+<!-- @evidence obligations/common.md#proportionate-development The Wind, lightning, and falling objects host gives 266 authored words across 5 paragraphs to its distinct environmental constraint, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Wind, lightning, and falling objects acknowledgement is grounded in this host's Status and the concrete observation or response beginning 'n for Haneul's exposed edges.'. -->
 
 **Status:** Source-verified hazard categories plus Work decision for Haneul's exposed edges.
 
@@ -78,6 +108,11 @@ KMA's live warning page supplies the source-verified weather-information channel
 
 ## Visibility, fog, and darkness
 
+<!-- @evidence obligations/common.md#scope-preservation The Visibility, fog, and darkness host states n for observation limits; no real-world visibility average is asserted. This is the concrete environmental scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Visibility, fog, and darkness host develops its environmental condition through categories: https://www.weather.go.kr/w/hazard/safety-guide/heatwave.do and https://www.weather.go.kr/weather/warning/status.jsp?printable=true. Haneul's sight distances, states, fixtures, and observer protocol are Work decisions.; downstream work does not need to invent its operating threshold or stop rule. -->
+<!-- @evidence obligations/common.md#proportionate-development The Visibility, fog, and darkness host gives 260 authored words across 5 paragraphs to its distinct environmental constraint, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Visibility, fog, and darkness acknowledgement is grounded in this host's Status and the concrete observation or response beginning 'n for observation limits; no real-world visibility average is asserted.'. -->
+
 **Status:** Work decision for observation limits; no real-world visibility average is asserted.
 
 Visibility is recorded from the observer's position, not from a narrator's all-seeing map. In clear daylight a person at the north gate can see the forecourt, main door, and the first section of the lobby. The market support and arcade break the line toward the lower passage. Fog, rain film, glare, darkness, a bus, or a delivery vehicle can reduce that line without moving any building.
@@ -89,6 +124,11 @@ Artificial light is layered. The school forecourt, lobby, west connection, bus s
 KMA's official current hazard and warning pages provide forecast and warning context but do not establish Haneul's fictional visibility categories: https://www.weather.go.kr/w/hazard/safety-guide/heatwave.do and https://www.weather.go.kr/weather/warning/status.jsp?printable=true. Haneul's sight distances, states, fixtures, and observer protocol are Work decisions.
 
 ## Drainage, runoff, and standing water
+
+<!-- @evidence obligations/common.md#scope-preservation The Drainage, runoff, and standing water host states n consistent with 030's flood infrastructure and 050/060 route geometry. This is the concrete environmental scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Drainage, runoff, and standing water host develops its environmental condition through nt Basic Act current text is at https://www.law.go.kr/LSW/lsInfoP.do?ancYnChk=0&chrClsCd=010202&efYd=20260611&lsiSeq=283851&urlMode=lsInfoP. Haneul's drainage topology, depth bands, and owner-specific responses are Work decisions.; downstream work does not need to invent its operating threshold or stop rule. -->
+<!-- @evidence obligations/common.md#proportionate-development The Drainage, runoff, and standing water host gives 296 authored words across 5 paragraphs to its distinct environmental constraint, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Drainage, runoff, and standing water acknowledgement is grounded in this host's Status and the concrete observation or response beginning 'n consistent with 030's flood infrastructure and 050/060 route geometry.'. -->
 
 **Status:** Work decision consistent with 030's flood infrastructure and 050/060 route geometry.
 
@@ -102,6 +142,11 @@ The Education Facilities Safety and Maintenance Standard is the direct official 
 
 ## Indoor thermal and acoustic conditions
 
+<!-- @evidence obligations/common.md#scope-preservation The Indoor thermal and acoustic conditions host states n for physical indoor conditions; no unverified building-performance claim. This is the concrete environmental scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Indoor thermal and acoustic conditions host develops its environmental condition through //www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000208251. Haneul's thermal orientation, sound zones, air-flow effects, and equipment interactions are Work decisions; no claim about legal indoor-temperature limits is made here.; downstream work does not need to invent its operating threshold or stop rule. -->
+<!-- @evidence obligations/common.md#proportionate-development The Indoor thermal and acoustic conditions host gives 277 authored words across 5 paragraphs to its distinct environmental constraint, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Indoor thermal and acoustic conditions acknowledgement is grounded in this host's Status and the concrete observation or response beginning 'n for physical indoor conditions; no unverified building-performance claim.'. -->
+
 **Status:** Work decision for physical indoor conditions; no unverified building-performance claim.
 
 The main block has three indoor acoustic zones. The lobby and central spine reflect footsteps and trolley noise; ordinary classrooms absorb some sound through doors and wall panels; the gym and auditorium carry voices across large volumes. The west audiovisual booth is more isolated with its door closed but shares corridor sound when the door opens. Mechanical noise is strongest near the east service corridor and south gym junction. A person can be visually near another person while acoustically unable to hear them.
@@ -113,6 +158,11 @@ The audiovisual booth's two breakers, twelve-seat limit, separate battery bench,
 The Education Facilities Safety and Maintenance Standard, effective 2022-01-14, provides an official maintenance framework at https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000208251. Haneul's thermal orientation, sound zones, air-flow effects, and equipment interactions are Work decisions; no claim about legal indoor-temperature limits is made here.
 
 ## Air quality, pollen, and smoke
+
+<!-- @evidence obligations/common.md#scope-preservation The Air quality, pollen, and smoke host states n using official weather and safety-information channels; no fictional pollution reading is presented as measured fact. This is the concrete environmental scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Air quality, pollen, and smoke host develops its environmental condition through kr/weather/warning/status.jsp?printable=true and https://www.weather.go.kr/w/hazard/safety-guide/heatwave.do. Haneul's three air-quality states, zone differences, ventilation trade-offs, and access alternatives are Work decisions.; downstream work does not need to invent its operating threshold or stop rule. -->
+<!-- @evidence obligations/common.md#proportionate-development The Air quality, pollen, and smoke host gives 284 authored words across 5 paragraphs to its distinct environmental constraint, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Air quality, pollen, and smoke acknowledgement is grounded in this host's Status and the concrete observation or response beginning 'n using official weather and safety-information channels; no fictional pollution reading is presented as measured fact.'. -->
 
 **Status:** Work decision using official weather and safety-information channels; no fictional pollution reading is presented as measured fact.
 
@@ -126,6 +176,11 @@ KMA's current public weather and hazard pages provide the official information c
 
 ## Weather-dependent material and clothing
 
+<!-- @evidence obligations/common.md#scope-preservation The Weather-dependent material and clothing host states n for material and bodily resource effects. This is the concrete environmental scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Weather-dependent material and clothing host develops its environmental condition through .go.kr/w/hazard/safety-guide/heatwave.do and https://www.weather.go.kr/weather/warning/status.jsp?printable=true. Haneul's storage states, material effects, clothing effects, and alternative participation modes are Work decisions.; downstream work does not need to invent its operating threshold or stop rule. -->
+<!-- @evidence obligations/common.md#proportionate-development The Weather-dependent material and clothing host gives 265 authored words across 5 paragraphs to its distinct environmental constraint, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Weather-dependent material and clothing acknowledgement is grounded in this host's Status and the concrete observation or response beginning 'n for material and bodily resource effects.'. -->
+
 **Status:** Work decision for material and bodily resource effects.
 
 Paper, adhesive, electronics, metal, fabric, and painted surfaces respond differently to weather. A paper notice can swell at the market arcade edge; adhesive can loosen on a wet board; a phone can lose charge in cold; a metal handrail can become hot in direct sun; and a fabric banner can pull against a tie in wind. These are material mechanics for later blocking, not a claim that a particular item always fails.
@@ -138,6 +193,11 @@ KMA's official public safety guidance is the source-verified route for warnings 
 
 ## Environmental observation protocol
 
+<!-- @evidence obligations/common.md#scope-preservation The Environmental observation protocol host states n establishing a repeatable observation record without converting weather into plot instructions. This is the concrete environmental scope this H2 owns. -->
+<!-- @evidence obligations/common.md#substantive-completion The Environmental observation protocol host develops its environmental condition through 1&lsiSeq=283851&urlMode=lsInfoP, and https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000208251. Their current dates and scopes remain distinct; Haneul's codes, fields, expiry rule, and owner separation are Work decisions.; downstream work does not need to invent its operating threshold or stop rule. -->
+<!-- @evidence obligations/common.md#proportionate-development The Environmental observation protocol host gives 299 authored words across 5 paragraphs to its distinct environmental constraint, proportionate to the twenty-volume settings scale. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Environmental observation protocol acknowledgement is grounded in this host's Status and the concrete observation or response beginning 'n establishing a repeatable observation record without converting weather into plot instructions.'. -->
+
 **Status:** Work decision establishing a repeatable observation record without converting weather into plot instructions.
 
 An environmental observation records date and time, observer position, route segment, official warning state if any, surface state, visibility state, temperature or sensation only when measured by an identified instrument, wind effect, water or debris, accessible-route width, obstruction owner if known, and action taken. “Cold,” “loud,” or “blocked” alone is insufficient. The observer must say whether the statement is measured, reported, or inferred.
@@ -147,3 +207,15 @@ The school-side observation code uses `E-S` for school parcel, `E-C` for city ro
 Observations expire as physical descriptions when the surface, barrier, light, or weather state changes. A dated photograph can preserve appearance but must identify direction and scale. A later writer may use the observation as a constraint only if the location and state match; no generic “it was raining” sentence can establish that a ramp, bus bay, or classroom was inaccessible.
 
 The official KMA warning page, current public safety guidance, Disaster and Safety Management Basic Act, and Education Facilities Safety and Maintenance Standard are the external framework set: https://www.weather.go.kr/weather/warning/status.jsp?printable=true, https://www.weather.go.kr/w/hazard/safety-guide/heatwave.do, https://www.law.go.kr/LSW/lsInfoP.do?ancYnChk=0&chrClsCd=010202&efYd=20260611&lsiSeq=283851&urlMode=lsInfoP, and https://www.law.go.kr/LSW/admRulLsInfoP.do?admRulSeq=2100000208251. Their current dates and scopes remain distinct; Haneul's codes, fields, expiry rule, and owner separation are Work decisions.
+<!-- @evidence principles/common.md#purpose-fit The file Weather and Environment owns 12 weather-and-environment H2s; its overview states "This file fixes how weather and environmental conditions alter Haneul's physical world without inventing real-world climate averages or changing the chronology in 030 and 040. It owns daylight as a usable resource, wet a", giving route, room, material, and safety decisions concrete environmental states for the civic-school promise. -->
+<!-- @evidence principles/common.md#layer-boundary The file Weather and Environment owns 12 weather-and-environment H2s; its overview states "This file fixes how weather and environmental conditions alter Haneul's physical world without inventing real-world climate averages or changing the chronology in 030 and 040. It owns daylight as a usable resource, wet a"; it sets weather and environmental constraints, while emergency events and scene progression belong downstream. -->
+<!-- @evidence principles/common.md#work-language The file Weather and Environment owns 12 weather-and-environment H2s; its overview states "This file fixes how weather and environmental conditions alter Haneul's physical world without inventing real-world climate averages or changing the chronology in 030 and 040. It owns daylight as a usable resource, wet a"; warnings, surfaces, daylight, visibility, and observation fields are expressed in clear English with operational labels. -->
+<!-- @evidence principles/settings.md#addressable-canon The file Weather and Environment owns 12 weather-and-environment H2s; its overview states "This file fixes how weather and environmental conditions alter Haneul's physical world without inventing real-world climate averages or changing the chronology in 030 and 040. It owns daylight as a usable resource, wet a"; daylight, rain, flood warning, heat, cold, wind, visibility, drainage, indoor conditions, air, materials, and observation each have an H2. -->
+<!-- @evidence principles/settings.md#information-structure The file Weather and Environment owns 12 weather-and-environment H2s; its overview states "This file fixes how weather and environmental conditions alter Haneul's physical world without inventing real-world climate averages or changing the chronology in 030 and 040. It owns daylight as a usable resource, wet a"; each environmental H2 states Status and then defines conditions, effects, owners, stop rules, and observation limits. -->
+<!-- @evidence principles/settings.md#fact-status The file Weather and Environment owns 12 weather-and-environment H2s; its overview states "This file fixes how weather and environmental conditions alter Haneul's physical world without inventing real-world climate averages or changing the chronology in 030 and 040. It owns daylight as a usable resource, wet a"; KMA and disaster/maintenance sources are distinguished from Haneul's fictional thresholds, zones, and responses. -->
+<!-- @evidence principles/settings.md#source-support The file Weather and Environment owns 12 weather-and-environment H2s; its overview states "This file fixes how weather and environmental conditions alter Haneul's physical world without inventing real-world climate averages or changing the chronology in 030 and 040. It owns daylight as a usable resource, wet a"; 22 direct official links identify KMA guidance/warnings and Korean safety frameworks, while no unsupported seasonal averages are asserted. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file Weather and Environment owns 12 weather-and-environment H2s; its overview states "This file fixes how weather and environmental conditions alter Haneul's physical world without inventing real-world climate averages or changing the chronology in 030 and 040. It owns daylight as a usable resource, wet a"; it specifies daylight, wetness, heat, cold, wind, visibility, drainage, indoor sound/thermal effects, air, clothing, and data-recording conditions. -->
+<!-- @evidence principles/settings.md#minimal-departure The file Weather and Environment owns 12 weather-and-environment H2s; its overview states "This file fixes how weather and environmental conditions alter Haneul's physical world without inventing real-world climate averages or changing the chronology in 030 and 040. It owns daylight as a usable resource, wet a"; Haneul's four-state surfaces, three-state heat/air conditions, and route responses are marked Work decisions rather than real-world forecasts. -->
+<!-- @evidence principles/settings.md#internal-coherence The file Weather and Environment owns 12 weather-and-environment H2s; its overview states "This file fixes how weather and environmental conditions alter Haneul's physical world without inventing real-world climate averages or changing the chronology in 030 and 040. It owns daylight as a usable resource, wet a"; environmental states preserve 030 flood authority, 050 campus geometry, 060 public-space ownership, and 150 school response authority. -->
+
+# Weather and Environment
