@@ -1,4 +1,25 @@
 
+<!-- @evidence principles/common.md#purpose-fit This file fixes weather and environmental conditions as usable time, safety, route, material, health, and observation constraints for the twenty-volume setting. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa I reread all twelve environmental H2s; Flood warning as a physical state is the weakest purpose test because it converts weather into authority and route consequences. -->
+<!-- @evidence principles/common.md#layer-boundary These H2s establish environmental facts and work constraints, not plot events, scene order, character arcs, or finished prose. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 I compared each weather unit with settings ownership; Environmental observation protocol is closest to process but fixes measurement conditions rather than narrative action. -->
+<!-- @evidence principles/common.md#work-language The file distinguishes daylight, warning, closure, visibility, thermal, air-quality, material, and observation terms in plain English. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c I checked the environmental vocabulary and Status labels; Visibility, fog, and darkness is the weakest clarity unit because perception and official observation must not merge. -->
+<!-- @evidence principles/settings.md#addressable-canon Each independent environmental owner has its own H2: daylight, rain, warning, heat, cold, wind, visibility, drainage, indoor conditions, air, materials, and observation. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f I counted and reread all twelve H2 owners; Drainage, runoff, and standing water remains separate from Monsoon rain because infrastructure persistence has a different consumer. -->
+<!-- @evidence principles/settings.md#information-structure Each H2 begins with Status and develops condition, material effect, authority, exceptions, and observation limits by function. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 I read the twelve units in order; Environmental observation protocol is the weakest structure unit because it must separate measurement from interpretation. -->
+<!-- @evidence principles/settings.md#fact-status Status lines distinguish fictional Haneul environmental decisions from uncertain observations and inherited flood/route canon. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 I checked every environmental Status and uncertainty qualifier; no seasonal average is presented as settled external fact. -->
+<!-- @evidence principles/settings.md#source-support The file records work decisions and observation limits without inventing weather research or treating a general forecast as direct evidence for Haneul. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 I reread the observation and uncertainty clauses; fictional conditions remain clearly separated from any external source claim. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file fixes weather states, route and closure effects, indoor/outdoor conditions, health/material consequences, and observation procedure for downstream use. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 I compared all condition and consequence units; Flood warning as a physical state is the narrowest operational constraint. -->
+<!-- @evidence principles/settings.md#minimal-departure Haneul weather values and operating thresholds are explicit work decisions while ordinary safety, transport, and institutional authority remain in force. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 I compared fictional weather pressure with the inherited municipal flood boundary; warning authority is not granted to students. -->
+<!-- @evidence principles/settings.md#internal-coherence Daylight, rain, warning, heat, cold, wind, visibility, drainage, indoor conditions, air, materials, and observation form one environmental system. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e I traced weather condition to route, material, health, and observation consequences; Drainage is the continuity anchor for persistent water effects. -->
+
 # Weather and Environment
 
 This file fixes how weather and environmental conditions alter Haneul's physical world without inventing real-world climate averages or changing the chronology in 030 and 040. It owns daylight as a usable resource, wet and dry surfaces, heat, cold, wind, visibility, indoor conditions, air quality, material exposure, and observation records. It does not own the 2019 flood event, the 2022 fire, city closure authority, school cancellation authority, or any plot assignment.
@@ -7,6 +28,14 @@ Weather entries use three standings. A `Source-verified framework` is an officia
 
 ## Seasonal daylight and usable time
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes seasonal daylight, safe usable time, travel/resource limits, and the distinction between clock time and practical capacity. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked daylight, travel, family-work, and after-hours constraints; practical usable time is explicitly narrower than the timetable. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives downstream writers daylight and safe-departure conditions without assigning a scene or claiming a weather average. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the seasonal and travel paragraphs; the route, energy, and supervision consequences are usable constraints. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates daylight, temperature, travel, family work, and safe-after-hours capacity. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the five resource effects; family-work availability is the least visible and remains explicit. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional seasonal resource decisions and does not present them as real climate averages. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and all seasonal qualifiers; no external weather fact is asserted. -->
 
 **Status:** Work decision for fictional daylight and exposure conditions; no real-world average is asserted.
 
