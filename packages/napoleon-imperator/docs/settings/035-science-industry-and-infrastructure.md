@@ -19,7 +19,7 @@
 <!-- @evidence principles/settings.md#internal-coherence The sequence runs from knowledge and patronage through routes, production, standards, civilian effects, campaign limits, Egypt, and handoff. -->
 <!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e Reconciled schools, arsenals, bridges, factories, city projects, and Egyptian publication by keeping institution, scale, user, and material chain distinct. -->
 <!-- @evidence principles/common.md#historical-claim-provenance The file labels primary technical text, critical article, institutional interview, urban synthesis, and bounded inference separately. -->
-<!-- @evidenceReview principles/common.md#historical-claim-provenance #d7515dc Audited every number, date, institution, output, and failure claim against its source type. -->
+<!-- @evidenceReview principles/common.md#historical-claim-provenance #d7515dc Matched each number, date, institution, output, and failure to PDF page, article line range, interview line range, or bounded inference. -->
 <!-- @evidence principles/common.md#historical-corroboration Technical capacity is cross-read between science history, armament production, urban projects, and engineering scholarship. -->
 <!-- @evidenceReview principles/common.md#historical-corroboration #b58522c Compared state optimism with production limits, pollution, incomplete works, and scholarly institutional context. -->
 <!-- @evidence principles/common.md#bounded-historical-invention Later scenes may invent bounded workshop tests, repairs, delays, and inspections only inside documented systems. -->
