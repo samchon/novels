@@ -111,6 +111,14 @@ A mediator may facilitate but cannot erase a safety report, force private disclo
 
 ## Privacy and identifiable media
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes recording purpose, subjects, storage, access, retention, deletion/correction, identification risks, event consent, and minor-image authority. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I reread the complete privacy body and checked faces, voices, uniforms, routines, event scope, and adult/school handling. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives a complete media-permission and repair boundary without assigning a scene. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I compared purpose, storage, review, deletion, and correction conditions; blurring is not treated as a substitute for consent. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates recording purpose, identification, public visibility, mitigation, event process, and minor authority. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared the six media controls; precise routines are the least visible identification risk. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional privacy canon and does not claim a universal media-law rule. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I reread Status and every media restriction; no external statute is presented as proof. -->
 
 **Status:** Work decision — data boundary.
 
