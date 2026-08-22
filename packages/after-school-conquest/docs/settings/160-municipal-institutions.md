@@ -30,6 +30,7 @@ Haneul city government and Haneul Public High School are separate authorities. T
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “City government boundary” H2 from Status through its final boundary. Its first operating statement is “Haneul city hall owns municipal services, public roads, drainage assets, civic facilities, and city administrative records within the fictional boundary. It does not own the public”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The City government boundary host gives 98 authored words across 3 paragraphs to its distinct municipal decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The City government boundary acknowledgement is grounded in this host's Status and its concrete opening statement 'n — fictional institutional canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “City government boundary” H2 from Status through its final boundary. Its first operating statement is “Haneul city hall owns municipal services, public roads, drainage assets, civic facilities, and city administrative records within the fictional boundary. It does not own the public”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — fictional institutional canon.
 
@@ -45,6 +46,7 @@ The city and school may coordinate, but a joint meeting does not merge their aut
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Flood-response office” H2 from Status through its final boundary. Its first operating statement is “The municipal flood-response office owns the yellow flood-level gauge, the city’s closure decision for the affected lower passage and bus-loop ramp, and the public warning route de”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Flood-response office host gives 96 authored words across 3 paragraphs to its distinct municipal decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Flood-response office acknowledgement is grounded in this host's Status and its concrete opening statement 'n — inherited authority canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Flood-response office” H2 from Status through its final boundary. Its first operating statement is “The municipal flood-response office owns the yellow flood-level gauge, the city’s closure decision for the affected lower passage and bus-loop ramp, and the public warning route de”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — inherited authority canon.
 
@@ -60,6 +62,7 @@ The office receives gauge information, field reports, weather information, and i
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Public works and drainage maintenance” H2 from Status through its final boundary. Its first operating statement is “Public works maintains city-side pumps, drainage inlets, raised electrical cabinets, road surfaces, barriers, and repair schedules within its assignment. The three raised cabinets ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Public works and drainage maintenance host gives 97 authored words across 3 paragraphs to its distinct municipal decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Public works and drainage maintenance acknowledgement is grounded in this host's Status and its concrete opening statement 'n — municipal service canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Public works and drainage maintenance” H2 from Status through its final boundary. Its first operating statement is “Public works maintains city-side pumps, drainage inlets, raised electrical cabinets, road surfaces, barriers, and repair schedules within its assignment. The three raised cabinets ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — municipal service canon.
 
@@ -75,6 +78,7 @@ Students may report blocked drains or damaged signs from a safe public position.
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Roads and traffic office” H2 from Status through its final boundary. Its first operating statement is “The municipal roads or traffic office owns ordinary road markings, kerb treatments, traffic control, bus-loop geometry, and approved temporary barriers within city jurisdiction. Th”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Roads and traffic office host gives 83 authored words across 3 paragraphs to its distinct municipal decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Roads and traffic office acknowledgement is grounded in this host's Status and its concrete opening statement 'n — jurisdiction boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Roads and traffic office” H2 from Status through its final boundary. Its first operating statement is “The municipal roads or traffic office owns ordinary road markings, kerb treatments, traffic control, bus-loop geometry, and approved temporary barriers within city jurisdiction. Th”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — jurisdiction boundary.
 
@@ -90,6 +94,7 @@ The founders describe a crossing by legible landmarks, direction, date, and obse
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Youth and family services office” H2 from Status through its final boundary. Its first operating statement is “The city youth and family services office funds or supervises applicable public programmes and may receive reports from the youth-centre coordinator. It does not own school facilit”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Youth and family services office host gives 91 authored words across 3 paragraphs to its distinct municipal decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Youth and family services office acknowledgement is grounded in this host's Status and its concrete opening statement 'n — civic-service canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Youth and family services office” H2 from Status through its final boundary. Its first operating statement is “The city youth and family services office funds or supervises applicable public programmes and may receive reports from the youth-centre coordinator. It does not own school facilit”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — civic-service canon.
 
@@ -105,6 +110,7 @@ Students can ask for a programme, accessibility support, or referral. A programm
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Library and cultural services office” H2 from Status through its final boundary. Its first operating statement is “The library and cultural services office administers the public library and permitted civic learning spaces. It sets opening, seat, computer, archive, and event rules for those fac”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Library and cultural services office host gives 87 authored words across 3 paragraphs to its distinct municipal decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Library and cultural services office acknowledgement is grounded in this host's Status and its concrete opening statement 'n — public-learning canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Library and cultural services office” H2 from Status through its final boundary. Its first operating statement is “The library and cultural services office administers the public library and permitted civic learning spaces. It sets opening, seat, computer, archive, and event rules for those fac”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — public-learning canon.
 
@@ -120,6 +126,7 @@ The founders ask for source discovery, accessible formats, and public-room condi
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Civil complaint and service request” H2 from Status through its final boundary. Its first operating statement is “A city service request records requester, location, observable problem, date, safety concern, requested remedy, and contact preference. A complaint may seek review of conduct or de”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Civil complaint and service request host gives 90 authored words across 3 paragraphs to its distinct municipal decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Civil complaint and service request acknowledgement is grounded in this host's Status and its concrete opening statement 'n — process canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Civil complaint and service request” H2 from Status through its final boundary. Its first operating statement is “A city service request records requester, location, observable problem, date, safety concern, requested remedy, and contact preference. A complaint may seek review of conduct or de”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — process canon.
 
@@ -135,6 +142,7 @@ The office provides a receipt, reference, response, or reason for referral where
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Public notice and emergency communication” H2 from Status through its final boundary. Its first operating statement is “An official city notice identifies issuing office, affected area, effective period, action required, access alternative, update channel, and correction contact. A loudspeaker, web ”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Public notice and emergency communication host gives 94 authored words across 3 paragraphs to its distinct municipal decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Public notice and emergency communication acknowledgement is grounded in this host's Status and its concrete opening statement 'n — municipal communication rule.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Public notice and emergency communication” H2 from Status through its final boundary. Its first operating statement is “An official city notice identifies issuing office, affected area, effective period, action required, access alternative, update channel, and correction contact. A loudspeaker, web ”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — municipal communication rule.
 
@@ -150,6 +158,7 @@ The founders may translate or summarize a notice, but label the version and pres
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Civic facility booking” H2 from Status through its final boundary. Its first operating statement is “A city facility booking states host, room, date, hours, capacity, access route, equipment, cleaning, key or staff handoff, and cancellation conditions. A booking confirms a reserva”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Civic facility booking host gives 81 authored words across 3 paragraphs to its distinct municipal decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Civic facility booking acknowledgement is grounded in this host's Status and its concrete opening statement 'n — physical-use canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Civic facility booking” H2 from Status through its final boundary. Its first operating statement is “A city facility booking states host, room, date, hours, capacity, access route, equipment, cleaning, key or staff handoff, and cancellation conditions. A booking confirms a reserva”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — physical-use canon.
 
@@ -165,6 +174,7 @@ The youth centre, library, and other public rooms have separate owners. The foun
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “City employees and public contact” H2 from Status through its final boundary. Its first operating statement is “An employee’s badge, uniform, email, or counter position identifies a work relationship but not every city power. The record names department, duty, and whether the statement is an”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The City employees and public contact host gives 96 authored words across 3 paragraphs to its distinct municipal decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The City employees and public contact acknowledgement is grounded in this host's Status and its concrete opening statement 'n — authority clarity.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “City employees and public contact” H2 from Status through its final boundary. Its first operating statement is “An employee’s badge, uniform, email, or counter position identifies a work relationship but not every city power. The record names department, duty, and whether the statement is an”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — authority clarity.
 
@@ -180,6 +190,7 @@ The founders speak respectfully and ask for a written route when a decision affe
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “City-school coordination” H2 from Status through its final boundary. Its first operating statement is “Coordination may cover route notices, emergency information, youth programming, accessibility, or shared public space. A coordination note states each institution’s owner, delivera”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The City-school coordination host gives 93 authored words across 3 paragraphs to its distinct municipal decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The City-school coordination acknowledgement is grounded in this host's Status and its concrete opening statement 'n — interinstitutional boundary.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “City-school coordination” H2 from Status through its final boundary. Its first operating statement is “Coordination may cover route notices, emergency information, youth programming, accessibility, or shared public space. A coordination note states each institution’s owner, delivera”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — interinstitutional boundary.
 
@@ -195,6 +206,7 @@ If the city and school records differ, the founders identify the time and issuer
 <!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Municipal archive and retention” H2 from Status through its final boundary. Its first operating statement is “The city retains public records according to the purpose and applicable administrative rule of the responsible office. A civic archive, service ticket, private notebook, and public”; checked the complete mechanism, inputs, authority, and stopping condition against this unit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Municipal archive and retention host gives 93 authored words across 3 paragraphs to its distinct municipal decision, proportionate to the twenty-volume scale. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance The Municipal archive and retention acknowledgement is grounded in this host's Status and its concrete opening statement 'n — records canon.'. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Municipal archive and retention” H2 from Status through its final boundary. Its first operating statement is “The city retains public records according to the purpose and applicable administrative rule of the responsible office. A civic archive, service ticket, private notebook, and public”; checked each statement against the Status and source or Work-decision label. -->
 
 **Status:** Work decision — records canon.
 
