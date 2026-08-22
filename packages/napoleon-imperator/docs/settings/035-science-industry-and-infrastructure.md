@@ -1,7 +1,7 @@
 <!-- @evidence principles/common.md#purpose-fit This file makes technical change executable as institutions, labor, money, objects, and users. -->
 <!-- @evidenceReview principles/common.md#purpose-fit #a5876aa Reread the eight anchors from state patronage through technical storyline handoff; each turns technical modernity into a usable institution, object, or limit. -->
 <!-- @evidence principles/common.md#layer-boundary These H2s state material settings and limits; inventions, scenes, and reveals remain downstream. -->
-<!-- @evidenceReview principles/common.md#layer-boundary #c239986 Compared 035 with 016, 031, and 036; it does not take over logistics, education, or communications. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 Rechecked 016 supply, 031 education, and 036 communication beside every 035 H2; 035 stops at capacity, infrastructure, and maintenance constraints. -->
 <!-- @evidence principles/common.md#work-language The English file explains patronage, engineer, arsenal, canal, standard, workshop, and maintenance without assuming technical expertise. -->
 <!-- @evidenceReview principles/common.md#work-language #a2dca6c Checked technical and French institutional vocabulary for accessible precision. -->
 <!-- @evidence principles/settings.md#addressable-canon The canon separates science patronage, transport, production, standards, civilian cost, campaign limits, Egypt, and technical handoff. -->
