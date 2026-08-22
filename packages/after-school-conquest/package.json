@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "@samchon/novel-after-school-conquest",
+  "version": "0.1.0",
+  "description": "Evidence-compiled novel work package.",
+  "main": "./src/index.ts",
+  "type": "commonjs",
+  "scripts": {
+    "build": "ttsc",
+    "dev": "ttsc --watch"
+  },
+  "devDependencies": {
+    "@samchon/novel-config": "workspace:*",
+    "@ttsc/evidence": "catalog:typescript",
+    "@ttsc/lint": "catalog:typescript",
+    "@types/node": "catalog:utils",
+    "ttsc": "catalog:typescript",
+    "typescript": "catalog:typescript"
+  }
+}

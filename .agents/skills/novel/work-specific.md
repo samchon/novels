@@ -25,6 +25,20 @@ Audit the axes relevant to this work:
 
 Add an axis when the work needs it; create no rule merely to fill the list. Convert labels such as “lyrical,” “cinematic,” or “intense” into observable choices, applicable conditions, intended effects, and representative failures before adopting them.
 
+## Subject-Specific Principle Pass
+
+When the work's subject or genre creates a recurring authenticity, representation, research, or form risk across files, decide whether it needs a package-local principle checklist. Derive candidates from direct user rules, subject research, known genre failures, and concrete defects or near misses observed in the work. An observed error is regression evidence for the package, not permission to hardcode that work into a shared principle.
+
+For each candidate, define one observable condition, its authority, applicability, intended effect, success boundary, representative failure, and supporting sources. Select its file population deliberately:
+
+- a condition shared by settings and all narrative layers belongs in package `docs/principles/common.md`;
+- a condition shared only by storylines, scenarios, and manuscripts belongs in package `docs/principles/narratives.md`;
+- a condition unique to one authored layer belongs in that layer's package principle file.
+
+Separate factual integrity from narrative realization. For example, a historical work may need settings-inclusive rules for source attribution, corroboration, disputed standing, and bounded precision, while focal access, documentary voice, period dialogue, distributed agency, and the representation of cost belong only to narrative files. Do not force narrative style onto settings or let a narrative principle excuse a false fact.
+
+Compare every candidate literally with the shared principles and common unit obligations. If a shared item already asks the complete question, do not duplicate it; record the work's answer in its authored owner. Otherwise create the package target and activate its exact file population through additive, stage-aligned checklist claims by following `$evidence-graph` [Configuration](../evidence-graph/SKILL.md#configuration). A prose guideline without its claim is not an enforced principle.
+
 ## Canonical owner
 
 Give every adopted rule one owner:
