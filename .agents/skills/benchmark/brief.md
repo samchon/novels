@@ -10,7 +10,11 @@ The owner's first authorship task is the `$novel` work-specific contract pass in
 
 An owner may delegate read-only research but never package authorship: a helper returns findings and writes no repository file. Before reassigning or restarting a work, stop the current owner and its helpers, collect their reports, and confirm the package directory is no longer changing.
 
-Keep the declared owner model and package ownership across every layer and state. A bounded-task completion or deliberate gate is not an owner failure. When a provider, runtime, or agent failure ends unfinished work, confirm that the prior owner and every helper have stopped, preserve the last clean checkpoint and sound package-local changes, then resume the same owner context and declared model. If that session cannot resume, assign a replacement with the same model, brief, package authority, and required readings; never overlap the old and replacement writers.
+## Persistent Ownership
+
+An incomplete package never remains without one active exclusive owner. Keep the declared owner model and package ownership across every layer and state. A bounded-task completion, deliberate gate, provider failure, runtime failure, or agent failure is not a terminal state: immediately resume the same owner context and declared model from the latest sound checkpoint. If that session cannot continue safely, confirm it and every helper have stopped, preserve sound package-local work, and immediately assign a replacement with the same model, brief, package authority, and required readings; never overlap writers.
+
+An integrity intervention may interrupt an owner only as a stop-confirmed message boundary. Immediately resume that owner into the earliest contained corrective scope, forbidding unrelated or later progression while the audit continues; if repeated behavior requires replacement, perform the same-model handoff without leaving the package dormant. Neither a queued report nor an outstanding coordinator audit suspends this ownership invariant.
 
 Every brief states:
 
