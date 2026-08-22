@@ -1,16 +1,29 @@
 <!-- @evidence principles/common.md#purpose-fit The Russia 1812 and Retreat file fixes the historical and material setting needed by the twenty-volume English novel; its opening scope is This file owns the campaign-level constraints of the Russian invasion and retreat.. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa Read the complete “Russia 1812 and Retreat” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#layer-boundary The Russia 1812 and Retreat file records addressable facts, constraints, source status, and work decisions; it does not prescribe storyline order, scene blocking, or finished manuscript prose. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 Read the complete “Russia 1812 and Retreat” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#work-language The Russia 1812 and Retreat file is authored in consistent English and preserves the period names, French institutional terms, and place-name variants needed for a readable historical novel. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c Read the complete “Russia 1812 and Retreat” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#addressable-canon The Russia 1812 and Retreat file assigns its distinct canon to 8 independently anchored H2 owners, so later layers can cite a precise fact rather than a whole-file summary. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f Read the complete “Russia 1812 and Retreat” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#information-structure Each of the 8 Russia 1812 and Retreat H2 owners states Status before developing its fact, operating condition, consequence, and limitation. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 Read the complete “Russia 1812 and Retreat” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#fact-status The Russia 1812 and Retreat H2 statuses distinguish established historical claims, contested or source-dependent reconstructions, and owner-adopted work decisions instead of presenting every detail as equally certain. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Read the complete “Russia 1812 and Retreat” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#source-support The Russia 1812 and Retreat file carries 15 direct source URL marker(s) and identifies uncertainty where the surviving record does not settle a detail; fictional connective decisions remain marked as such. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 Read the complete “Russia 1812 and Retreat” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#constraint-sufficiency The Russia 1812 and Retreat H2 owners specify the actors, institutions, dates, material conditions, information limits, and downstream boundaries required to use this domain without inventing its foundations. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Read the complete “Russia 1812 and Retreat” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#minimal-departure The Russia 1812 and Retreat file keeps departures from the record bounded: it may choose a usable narrative emphasis, but it does not silently change documented dates, identities, institutions, or contested status. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 Read the complete “Russia 1812 and Retreat” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/settings.md#internal-coherence The Russia 1812 and Retreat file keeps its 8 owners consistent in chronology, geography, institutional authority, terminology, and the distinction between evidence and narrative-use decisions. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e Read the complete “Russia 1812 and Retreat” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#bounded-historical-invention The Russia 1812 and Retreat file permits only bounded connective invention around the documented historical record; it does not fabricate quotations, hidden motives, or unsupported precision. -->
+<!-- @evidenceReview principles/common.md#bounded-historical-invention #231571a Read the complete “Russia 1812 and Retreat” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#historical-claim-provenance Historical claims in the Russia 1812 and Retreat file are assigned to their source-bearing H2 owners, with source-dependent details and work decisions visibly separated for downstream checking. -->
+<!-- @evidenceReview principles/common.md#historical-claim-provenance #d7515dc Read the complete “Russia 1812 and Retreat” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 <!-- @evidence principles/common.md#historical-corroboration The Russia 1812 and Retreat file treats source agreement, disagreement, and silence as distinct statuses and requires later prose to preserve those limits rather than laundering one retrospective into certainty. -->
+<!-- @evidenceReview principles/common.md#historical-corroboration #b58522c Read the complete “Russia 1812 and Retreat” file, its opening scope, H2 inventory, statuses, and source notes; verified this principle against the current setting canon. -->
 # Russia 1812 and Retreat
 
 This file owns the campaign-level constraints of the Russian invasion and retreat.
@@ -19,9 +32,13 @@ This file owns the campaign-level constraints of the Russian invasion and retrea
 
 ## Coalition army and multinational scale {#coalition-army-and-multinational-scale}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Coalition army and multinational scale is marked Source-supported. The 1812 army contains French and allied contingents with different languages, supplies, loyalties, and commanders.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Coalition army and multinational scale” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Coalition army and multinational scale host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Coalition army and multinational scale” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Coalition army and multinational scale host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Coalition army and multinational scale” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Coalition army and multinational scale host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Coalition army and multinational scale” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-supported. The 1812 army contains French and allied contingents with different languages, supplies, loyalties, and commanders.
 
@@ -31,9 +48,13 @@ Sources: Fondation Napoléon, “Napoleon's Grande Armée” (1), https://www.na
 
 ## Distance climate and supply collapse {#distance-climate-and-supply-collapse}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Distance climate and supply collapse is marked Work canon. Russian roads, distances, heat, autumn rain, winter cold, forage failure, and disease transform operational strength.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Distance climate and supply collapse” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Distance climate and supply collapse host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Distance climate and supply collapse” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Distance climate and supply collapse host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Distance climate and supply collapse” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Distance climate and supply collapse host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Distance climate and supply collapse” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work canon. Russian roads, distances, heat, autumn rain, winter cold, forage failure, and disease transform operational strength.
 
@@ -43,9 +64,13 @@ Sources: Fondation Napoléon, “Napoleon's Grande Armée” (1), https://www.na
 
 ## Moscow and political misreading {#moscow-and-political-misreading}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Moscow and political misreading is marked Source-critical rule. Occupying Moscow does not compel Russian negotiation; the emperor's expectation and Russian policy must be separated.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Moscow and political misreading” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Moscow and political misreading host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Moscow and political misreading” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Moscow and political misreading host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Moscow and political misreading” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Moscow and political misreading host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Moscow and political misreading” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-critical rule. Occupying Moscow does not compel Russian negotiation; the emperor's expectation and Russian policy must be separated.
 
@@ -55,9 +80,13 @@ Sources: Fondation Napoléon, biography, https://www.napoleon.org/en/history-of-
 
 ## Retreat as a changing army state {#retreat-as-a-changing-army-state}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Retreat as a changing army state is marked Work boundary. The retreat is not one event but repeated losses of route, cohesion, supplies, horses, and command reach.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Retreat as a changing army state” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Retreat as a changing army state host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Retreat as a changing army state” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Retreat as a changing army state host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Retreat as a changing army state” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Retreat as a changing army state host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Retreat as a changing army state” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work boundary. The retreat is not one event but repeated losses of route, cohesion, supplies, horses, and command reach.
 
@@ -67,9 +96,13 @@ Sources: Fondation Napoléon chronology portal, https://www.napoleon.org/en/hist
 
 ## Allied command and operational translation {#allied-command-and-operational-translation}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Allied command and operational translation is marked Source-required domain. The invasion's multinational scale makes command a problem of translation, liaison, precedence, and incompatible political aims.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Allied command and operational translation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Allied command and operational translation host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Allied command and operational translation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Allied command and operational translation host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Allied command and operational translation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Allied command and operational translation host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Allied command and operational translation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-required domain. The invasion's multinational scale makes command a problem of translation, liaison, precedence, and incompatible political aims.
 
@@ -79,9 +112,13 @@ Sources: Fondation Napoléon, “Napoleon's Grande Armée” (1), https://www.na
 
 ## Roads rivers and the search for forage {#roads-rivers-and-the-search-for-forage}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Roads rivers and the search for forage is marked Work canon. Operational distance is governed by roads, bridges, wagons, wells, grain, and horse condition rather than by map scale alone.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Roads rivers and the search for forage” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Roads rivers and the search for forage host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Roads rivers and the search for forage” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Roads rivers and the search for forage host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Roads rivers and the search for forage” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Roads rivers and the search for forage host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Roads rivers and the search for forage” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work canon. Operational distance is governed by roads, bridges, wagons, wells, grain, and horse condition rather than by map scale alone.
 
@@ -91,9 +128,13 @@ Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-
 
 ## Moscow fire and the missing negotiation {#moscow-fire-and-the-missing-negotiation}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Moscow fire and the missing negotiation is marked Source-critical rule. Moscow's occupation, evacuation, fire, and diplomatic silence must remain separate facts whose causes and meanings are contested.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Moscow fire and the missing negotiation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Moscow fire and the missing negotiation host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Moscow fire and the missing negotiation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Moscow fire and the missing negotiation host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Moscow fire and the missing negotiation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Moscow fire and the missing negotiation host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Moscow fire and the missing negotiation” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Source-critical rule. Moscow's occupation, evacuation, fire, and diplomatic silence must remain separate facts whose causes and meanings are contested.
 
@@ -103,9 +144,13 @@ Sources: Fondation Napoléon, biography, https://www.napoleon.org/en/history-of-
 
 ## Retreat mechanics and civilian cost {#retreat-mechanics-and-civilian-cost}
 <!-- @evidence obligations/common.md#evidence-content-conformance The Retreat mechanics and civilian cost is marked Work boundary. Retreat is a sequence of changing capacities, not one weather tableau or one date.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Read the complete “Retreat mechanics and civilian cost” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#proportionate-development The Retreat mechanics and civilian cost host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Read the complete “Retreat mechanics and civilian cost” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#scope-preservation The Retreat mechanics and civilian cost host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Read the complete “Retreat mechanics and civilian cost” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 <!-- @evidence obligations/common.md#substantive-completion The Retreat mechanics and civilian cost host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Read the complete “Retreat mechanics and civilian cost” H2 from Status through its final boundary and Sources; checked the cited obligation against its concrete content, evidence status, and downstream limit. -->
 
 **Status:** Work boundary. Retreat is a sequence of changing capacities, not one weather tableau or one date.
 
