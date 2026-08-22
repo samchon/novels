@@ -79,6 +79,15 @@ Students may report blocked drains or damaged signs from a safe public position.
 
 ## Roads and traffic office
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 owns municipal road markings, kerb treatments, traffic control, bus-loop geometry, approved temporary barriers, transport coordination, school-attendance/grade/room exclusions, landmark/date/condition observation format, and issuer/expiry for temporary controls. Public works owns maintenance assets; Flood-response owns specified closure; school retains school powers. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I reread this H2 with the common scope target, Public works, Flood-response, City government boundary, Youth services, and 150 School Institutions. Road assets and temporary controls, observation requirements, school exclusions, and issuer/expiry consequences are all stated; no traffic decision is left implicit. -->
+<!-- @evidence obligations/common.md#substantive-completion The two paragraphs complete the traffic boundary: the municipal office owns named road controls and coordinates with operators, while founders' observations have a defined evidentiary limit and temporary controls carry issuer and expiry. Downstream layers can describe a crossing without inventing a formal road change. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread the target and both Roads and traffic paragraphs and checked maintenance, flood, city-boundary, youth-service, and school limits. This is a finished jurisdiction and observation rule with consequences, not a road-setting label or scene direction. -->
+<!-- @evidence obligations/common.md#proportionate-development The Roads and traffic H2 gives one paragraph to municipal ownership and school/transport limits and one to observation, formal-change, and temporary-control conditions, proportionate to public-route access without duplicating drainage maintenance or flood closure. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I reread all eleven 160 H2s and compared this unit with Public works, Flood-response, City government boundary, Youth services, and 150. Its road-control ownership and observation/expiry rules receive enough depth while specialized hazards remain in their owners. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional municipal service canon. Road markings, bus-loop geometry, temporary controls, observation format, issuer, and expiry are Haneul work decisions; the acknowledgement does not claim a real traffic code or turn a driver's or crowd's suggestion into official change. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I reread the complete host, Status, common targets, and adjacent road, flood, maintenance, youth, and school H2s. Each reason matches concrete ownership, exclusions, observation limits, and control metadata actually present, with no unsupported legal claim or invented fingerprint. -->
+
 
 **Status:** Work decision — jurisdiction boundary.
 
