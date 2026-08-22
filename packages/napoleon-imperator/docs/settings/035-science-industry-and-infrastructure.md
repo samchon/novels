@@ -17,7 +17,7 @@
 <!-- @evidence principles/settings.md#minimal-departure The file rejects invention as automatic progress, output as delivery, a map as a usable road, and imperial science as neutral. -->
 <!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 Compared state patronage, armament, Paris works, and Egyptian knowledge while preserving coercion, displacement, pollution, shortage, and failure. -->
 <!-- @evidence principles/settings.md#internal-coherence The sequence runs from knowledge and patronage through routes, production, standards, civilian effects, campaign limits, Egypt, and handoff. -->
-<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e Reconciled schools, arsenals, bridges, factories, city projects, and colonial knowledge without collapsing their scales. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e Reconciled schools, arsenals, bridges, factories, city projects, and Egyptian publication by keeping institution, scale, user, and material chain distinct. -->
 <!-- @evidence principles/common.md#historical-claim-provenance The file labels primary technical text, critical article, institutional interview, urban synthesis, and bounded inference separately. -->
 <!-- @evidenceReview principles/common.md#historical-claim-provenance #d7515dc Audited every number, date, institution, output, and failure claim against its source type. -->
 <!-- @evidence principles/common.md#historical-corroboration Technical capacity is cross-read between science history, armament production, urban projects, and engineering scholarship. -->
