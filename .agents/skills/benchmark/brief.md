@@ -10,6 +10,8 @@ The owner's first authorship task is the `$novel` work-specific contract pass in
 
 An owner may delegate read-only research but never package authorship: a helper returns findings and writes no repository file. Before reassigning or restarting a work, stop the current owner and its helpers, collect their reports, and confirm the package directory is no longer changing.
 
+Keep the declared owner model and package ownership across every layer and state. A bounded-task completion or deliberate gate is not an owner failure. When a provider, runtime, or agent failure ends unfinished work, confirm that the prior owner and every helper have stopped, preserve the last clean checkpoint and sound package-local changes, then resume the same owner context and declared model. If that session cannot resume, assign a replacement with the same model, brief, package authority, and required readings; never overlap the old and replacement writers.
+
 Every brief states:
 
 - package path, title or seed, genre, intended scale, language, owner model, and authorized creative freedom;
