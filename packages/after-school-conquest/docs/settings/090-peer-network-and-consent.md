@@ -43,6 +43,14 @@ Names and personal details are used only for a stated school purpose. A seating 
 
 ## Invitation, consent, and withdrawal
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes invitation activity, location, duration, demands, audience, recording, adult, cost, questions, specific consent, withdrawal, deletion limits, and non-punitive logistics. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I reread the full invitation body and matched each disclosed field to its consent and withdrawal consequence; safety/statutory retention is the limiting exception. -->
+<!-- @evidence obligations/common.md#substantive-completion The H2 settles invitation content, acceptable consent forms, recorded method, pause/route/quote/image requests, withdrawal timing, and the explanation required when deletion is limited. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I compared the first paragraph's disclosure list with the second paragraph's withdrawal examples and retention limit; no downstream unit must invent what withdrawal means. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 develops invitation information, consent understanding, permission granularity, withdrawal logistics, and retention as separate social mechanisms. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I checked each paragraph's allocation; removal of an unpublished image is the narrowest practical repair case and is explicitly conditional on the responsible owner. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status marks this as fictional executable social canon; written/spoken/school-process consent and safety/statutory retention are described as package rules, not universal law. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I reread Status, consent methods, withdrawal logistics, and retention wording; the H2 does not attribute its procedure to an unnamed statute. -->
 
 **Status:** Work decision — executable social rule.
 
