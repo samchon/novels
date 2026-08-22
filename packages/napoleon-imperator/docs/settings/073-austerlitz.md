@@ -1,29 +1,29 @@
 <!-- @evidence principles/common.md#purpose-fit This file makes Austerlitz executable through dated campaign state, terrain, command information, formations, sequence, material friction, and provisional aftermath. -->
-<!-- @evidenceReview principles/common.md#purpose-fit #ba1d5e7 Reread all twenty H2s; each owns a distinct battle setting mechanism or bounded operational end-state. -->
+<!-- @evidenceReview principles/common.md#purpose-fit #a5876aa Reread all twenty H2s; each owns a distinct battle setting mechanism or bounded operational end-state. -->
 <!-- @evidence principles/common.md#layer-boundary The H2s establish Austerlitz settings; reader-entry order, storyline accumulation, scenario blocking, and manuscript prose remain downstream. -->
-<!-- @evidenceReview principles/common.md#layer-boundary #c8e6a4b Compared 073 with 046, 048, 049, and the package foundation; no reveal schedule or finished scene is treated as a setting fact. -->
+<!-- @evidenceReview principles/common.md#layer-boundary #c239986 Compared 073 with 046, 048, 049, and the package foundation; no reveal schedule or finished scene is treated as a setting fact. -->
 <!-- @evidence principles/common.md#work-language The English file distinguishes dated state, observer, report, column, frontage, route, formation, source position, contested total, and provisional accounting. -->
-<!-- @evidenceReview principles/common.md#work-language #d9f7b2c Checked tactical, geographic, command, and evidentiary vocabulary for precise execution without false omniscience. -->
+<!-- @evidenceReview principles/common.md#work-language #a2dca6c Checked tactical, geographic, command, and evidentiary vocabulary for precise execution without false omniscience. -->
 <!-- @evidence principles/settings.md#addressable-canon The canon separates entry state, night disposition, weather, command post, geometry, forces, plan, operations, retreat, and accounting. -->
-<!-- @evidenceReview principles/settings.md#addressable-canon #e7c9a5d Tested every H2 for one physical, informational, operational, or documentary owner. -->
+<!-- @evidenceReview principles/settings.md#addressable-canon #660699f Tested every H2 for one physical, informational, operational, or documentary owner. -->
 <!-- @evidence principles/settings.md#information-structure Each H2 states status, actors, source position, physical or informational constraint, downstream consequence, and boundary. -->
-<!-- @evidenceReview principles/settings.md#information-structure #acf8d3e Reread all Status-to-Sources blocks for date, place, actor, route, authority, uncertainty, and inherited condition. -->
+<!-- @evidenceReview principles/settings.md#information-structure #10ff424 Reread all Status-to-Sources blocks for date, place, actor, route, authority, uncertainty, and inherited condition. -->
 <!-- @evidence principles/settings.md#fact-status Status distinguishes source-verified, contested, bounded reconstruction, source-critical, and operational boundary claims. -->
-<!-- @evidenceReview principles/settings.md#fact-status #f6da4eb Compared every status label with bulletins, participant accounts, maps, orders of battle, reports, and critical studies. -->
+<!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Compared every status label with bulletins, participant accounts, maps, orders of battle, reports, and critical studies. -->
 <!-- @evidence principles/settings.md#source-support Claims use direct bulletins, memoirs, correspondence, orders, maps, battlefield records, order-of-battle tables, and critical studies with paragraph, page, row, or article locators. -->
-<!-- @evidenceReview principles/settings.md#source-support #e8b7c6f Reopened the cited bulletins, participant accounts, maps, order-of-battle tables, Weyrother transcription, and battlefield records while preserving contested totals and retrospective limits. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 Reopened the cited bulletins, participant accounts, maps, order-of-battle tables, Weyrother transcription, and battlefield records while preserving contested totals and retrospective limits. -->
 <!-- @evidence principles/settings.md#constraint-sufficiency The setting fixes date, calendar, observer, route, terrain, weather, formation, command channel, order, strength basis, material capacity, and accounting category. -->
-<!-- @evidenceReview principles/settings.md#constraint-sufficiency #daf9e4c Tested every H2 for actor, place, time, source access, physical capacity, information limit, and human cost. -->
+<!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Tested every H2 for actor, place, time, source access, physical capacity, information limit, and human cost. -->
 <!-- @evidence principles/settings.md#minimal-departure The file rejects map omniscience, exact unsupported clocks, interchangeable headcounts, frictionless columns, scripted deception certainty, cinematic retreat totals, and final ledgers during incomplete reporting. -->
-<!-- @evidenceReview principles/settings.md#minimal-departure #a9f5d7e Compared French, coalition, Russian, memoir, map, and later critical positions before retaining only bounded mechanisms. -->
+<!-- @evidenceReview principles/settings.md#minimal-departure #ef545a6 Compared French, coalition, Russian, memoir, map, and later critical positions before retaining only bounded mechanisms. -->
 <!-- @evidence principles/settings.md#internal-coherence The sequence runs from campaign entry through night posture, weather, command, geometry, forces, plan, operations, collapse, and provisional victory accounting. -->
-<!-- @evidenceReview principles/settings.md#internal-coherence #cbfa8e5 Reconciled dated entry, visibility, routes, formations, orders, arrivals, attacks, retreat capacity, prisoners, and incomplete returns. -->
+<!-- @evidenceReview principles/settings.md#internal-coherence #0426b2e Reconciled dated entry, visibility, routes, formations, orders, arrivals, attacks, retreat capacity, prisoners, and incomplete returns. -->
 <!-- @evidence principles/common.md#historical-claim-provenance The file distinguishes official bulletins, contemporary or participant reports, memoirs, maps, orders, order-of-battle tables, battlefield records, later scholarship, inference, and bounded reconstruction. -->
-<!-- @evidenceReview principles/common.md#historical-claim-provenance #e5c8f9a Audited every named commander, unit, date, place, number, order, report, quotation, and contested causal claim. -->
+<!-- @evidenceReview principles/common.md#historical-claim-provenance #d7515dc Audited every named commander, unit, date, place, number, order, report, quotation, and contested causal claim. -->
 <!-- @evidence principles/common.md#historical-corroboration Austerlitz claims are cross-read between French official reports, coalition and Russian accounts, memoirs, correspondence, maps, tables, and critical battlefield studies. -->
-<!-- @evidenceReview principles/common.md#historical-corroboration #baf7d6c Compared national, participant, cartographic, tabular, and retrospective perspectives without manufacturing one complete view. -->
+<!-- @evidenceReview principles/common.md#historical-corroboration #b58522c Compared national, participant, cartographic, tabular, and retrospective perspectives without manufacturing one complete view. -->
 <!-- @evidence principles/common.md#bounded-historical-invention Later scenes may invent bounded witness positions, relay delays, local congestion, bodily strain, and provisional reports only within the documented terrain, channels, chronology, and material limits. -->
-<!-- @evidenceReview principles/common.md#bounded-historical-invention #f7e9acb Reread all H2s for invented omniscience, unsupported clock precision, mass movement without capacity, scripted intention, and settled human totals. -->
+<!-- @evidenceReview principles/common.md#bounded-historical-invention #231571a Reread all H2s for invented omniscience, unsupported clock precision, mass movement without capacity, scripted intention, and settled human totals. -->
 
 # Austerlitz
 
@@ -31,13 +31,13 @@ This file owns the historical and physical setting of the Battle of Austerlitz. 
 
 ## Campaign date and entry state {#campaign-date-and-entry-state}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns battle date, Republican calendar, campaign entry, Ulm, Vienna, roads, reports, fatigue, opposing convergence, and temporal boundary. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns battle date, Republican calendar, campaign entry, Ulm, Vienna, roads, reports, fatigue, opposing convergence, and temporal boundary. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns battle date, Republican calendar, campaign entry, Ulm, Vienna, roads, reports, fatigue, opposing convergence, and temporal boundary. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns battle date, Republican calendar, campaign entry, Ulm, Vienna, roads, reports, fatigue, opposing convergence, and temporal boundary. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified. The decisive battle was fought on 2 December 1805 near Slavkov u Brna, then Austerlitz, in Moravia. The French army had occupied Vienna after the capitulation of Ulm. Russian and Austrian forces were converging in Moravia while Napoleon sought to force a decision before the coalition could consolidate its separate national commands and threaten his communications toward Vienna.
 
@@ -49,13 +49,13 @@ Sources: Napoleon, 31st Bulletin, 11 Frimaire XIV / 2 December 1805, Fondation N
 
 ## Night withdrawal and French bivouac {#night-withdrawal-and-french-bivouac}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns night movement, Pratzen visibility, sentries, staff, guns, horses, fires, formed units, routes, darkness, and morning reserve. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns night movement, Pratzen visibility, sentries, staff, guns, horses, fires, formed units, routes, darkness, and morning reserve. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns night movement, Pratzen visibility, sentries, staff, guns, horses, fires, formed units, routes, darkness, and morning reserve. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns night movement, Pratzen visibility, sentries, staff, guns, horses, fires, formed units, routes, darkness, and morning reserve. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified in disposition; local camp detail is bounded reconstruction. During the night of 1-2 December, French forces reduced their visible occupation of the Pratzen Heights and placed the principal striking formations behind lower ground west of the ridge. This movement supported the appearance that the French centre and right were vulnerable. It did not mean that the ridge or the surrounding roads were empty: sentries, staff officers, guns, horses, fires, and formed units remained part of the night position.
 
@@ -67,13 +67,13 @@ Sources: Baron Thiébault, *Memoirs*, vol. II, pp. 152-154, direct scan, https:/
 
 ## Weather mist light and bounded time convention {#weather-mist-light-and-bounded-time-convention}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns cold mist, light, sunrise, clock uncertainty, roofs, hedges, reverse slopes, smoke, ground, equipment, and bounded time language. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns cold mist, light, sunrise, clock uncertainty, roofs, hedges, reverse slopes, smoke, ground, equipment, and bounded time language. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns cold mist, light, sunrise, clock uncertainty, roofs, hedges, reverse slopes, smoke, ground, equipment, and bounded time language. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns cold mist, light, sunrise, clock uncertainty, roofs, hedges, reverse slopes, smoke, ground, equipment, and bounded time language. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Contested in exact clock readings; source-verified in broad weather sequence. Cold mist covered the low ground during the opening movement while higher ground brightened first. Segur places the decisive clearing before eight o'clock and describes the sun breaking through; Thiébault places the marshals together before eight and describes Napoleon waiting while the fog concealed the French; the official 30th Bulletin avoids the memoir dialogue and says that Napoleon ordered the attack at the first rays of the sun. These accounts support an early-morning interval, not a defensible minute.
 
@@ -85,13 +85,13 @@ Sources: Segur, pp. 248-250, direct scan, https://archive.org/details/aidedecamp
 
 ## Zuran command post and information channels {#zuran-command-post-and-information-channels}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Zuran, Napoleon, Berthier staff, aides, couriers, scouts, prisoners, local observation, reports, maps, receipt, and information age. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Zuran, Napoleon, Berthier staff, aides, couriers, scouts, prisoners, local observation, reports, maps, receipt, and information age. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Zuran, Napoleon, Berthier staff, aides, couriers, scouts, prisoners, local observation, reports, maps, receipt, and information age. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Zuran, Napoleon, Berthier staff, aides, couriers, scouts, prisoners, local observation, reports, maps, receipt, and information age. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified in position and information limits. Zuran is a low rise northwest of the Pratzen ridge and served as an early French command position. Battlefield documentation places Napoleon near the rise and records the relation between his observation point, the ridge, and the roads toward the southern villages. From Zuran he could perceive the ridge and the large movement toward Telnitz and Sokolnitz; he could not see every battalion behind a village wall, on a reverse slope, or inside the mist.
 
@@ -103,13 +103,13 @@ Sources: Zuran battlefield record, Austerlitz.org, direct location document, htt
 
 ## Battlefield geometry and sight-line constraints {#battlefield-geometry-and-sight-line-constraints}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Pratzen, Staré Vinohrady, Prace, Goldbach, Bosenitz, villages, ponds, roads, bridges, fords, sight-lines, frontage, and choke points. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Pratzen, Staré Vinohrady, Prace, Goldbach, Bosenitz, villages, ponds, roads, bridges, fords, sight-lines, frontage, and choke points. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Pratzen, Staré Vinohrady, Prace, Goldbach, Bosenitz, villages, ponds, roads, bridges, fords, sight-lines, frontage, and choke points. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Pratzen, Staré Vinohrady, Prace, Goldbach, Bosenitz, villages, ponds, roads, bridges, fords, sight-lines, frontage, and choke points. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified. The Pratzen ridge runs roughly north-south for about 5 km and rises about 40 m above adjacent low ground. Staré Vinohrady is near 290 m absolute elevation; the Prace and Pratzen sector approaches 325 m. The ridge controls observation and lateral connection. The Goldbach stream and Bosenitz brook drain the southern low ground. Telnitz and Sokolnitz sit near the southern approach; Kobelnitz and Puntowitz lie farther north; the Satschan and Menitz ponds lie south near Augezd and Saint Anthony chapel. The Brno-Olomouc road passes the Santon on the French left.
 
@@ -121,13 +121,13 @@ Sources: Gallica, *Atlas pour servir a l'histoire de l'empereur Napoleon*, Auste
 
 ## French order of battle and effective strength {#french-order-of-battle-and-effective-strength}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Napoleon, Berthier, corps, divisions, cavalry reserve, Guard, unit rows, attached artillery, effective strength, routes, and arrival state. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Napoleon, Berthier, corps, divisions, cavalry reserve, Guard, unit rows, attached artillery, effective strength, routes, and arrival state. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Napoleon, Berthier, corps, divisions, cavalry reserve, Guard, unit rows, attached artillery, effective strength, routes, and arrival state. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Napoleon, Berthier, corps, divisions, cavalry reserve, Guard, unit rows, attached artillery, effective strength, routes, and arrival state. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Contested in total strength, source-verified in command relationships. The French effective field strength is bounded at approximately 67,000-75,000 men and 139-157 guns because the tables count attached artillery, detached formations, the Imperial Guard, and Davout's arriving troops differently. Napoleon held supreme command; Berthier directed the major-general staff; Soult commanded IV Corps in the centre; Lannes commanded V Corps on the north; Bernadotte commanded I Corps in support; Davout commanded III Corps on the south; Murat commanded the cavalry reserve; and Bessieres commanded the Imperial Guard.
 
@@ -139,13 +139,13 @@ Sources: George Nafziger, "French Order of Battle at Austerlitz, 2 December 1805
 
 ## Allied order of battle and political command {#allied-order-of-battle-and-political-command}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Alexander, Francis, Kutuzov, Weyrother, Buxhowden, Bagration, Constantine, Liechtenstein, national contingents, authority, and counting basis. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Alexander, Francis, Kutuzov, Weyrother, Buxhowden, Bagration, Constantine, Liechtenstein, national contingents, authority, and counting basis. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Alexander, Francis, Kutuzov, Weyrother, Buxhowden, Bagration, Constantine, Liechtenstein, national contingents, authority, and counting basis. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Alexander, Francis, Kutuzov, Weyrother, Buxhowden, Bagration, Constantine, Liechtenstein, national contingents, authority, and counting basis. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Contested in effective total and gun count, source-verified in command chain. The Allied field strength is bounded at approximately 73,200-85,400 combatants. Millar's detailed table counts 113 battalions, 124 squadrons, and 298 guns, while broader summaries include troops and artillery under different availability rules. Alexander and Francis were sovereign presences; Kutuzov was the senior Russian field commander; Weyrother prepared the written disposition; Buxhowden coordinated the southern wing; Bagration commanded the northern force; Constantine commanded the Russian Guard; and Liechtenstein commanded important cavalry.
 
@@ -155,13 +155,13 @@ Sources: Stephen Millar, "Russian-Austrian Order-of-Battle at Austerlitz: 2 Dece
 
 ## Weyrother five-column plan and dependencies {#weyrother-five-column-plan-and-dependencies}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Kienmayer, Dokhturov, Langeron, Przybyszewski, Kollowrat-Miloradovich, Buxhowden, Bagration, defiles, departure, and marching dependency. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Kienmayer, Dokhturov, Langeron, Przybyszewski, Kollowrat-Miloradovich, Buxhowden, Bagration, defiles, departure, and marching dependency. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Kienmayer, Dokhturov, Langeron, Przybyszewski, Kollowrat-Miloradovich, Buxhowden, Bagration, defiles, departure, and marching dependency. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Kienmayer, Dokhturov, Langeron, Przybyszewski, Kollowrat-Miloradovich, Buxhowden, Bagration, defiles, departure, and marching dependency. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified in assigned tasks, contested in exact clock sequence. Weyrother's disposition sent Kienmayer's advance guard toward Telnitz; Dokhturov's first column along the southern approach; Langeron's second column toward Sokolnitz; Przybyszewski's third column against Sokolnitz and its chateau; and Kollowrat-Miloradovich's fourth column toward the Pratzen. Buxhowden coordinated the southern wing. Bagration and Liechtenstein covered the northern flank and protected the coalition right. The columns' approximate strengths are taken from Millar's itemized table, not invented as a single exact total: Kienmayer about 7,000, Dokhturov about 13,000, Langeron about 11,000, Przybyszewski about 7,000, and the central column about 20,000-24,000 under the table's inclusion rules.
 
@@ -171,13 +171,13 @@ Sources: *Rossijskaja imperija i monarkhija Gabsburgov v napoleonovskih vojnakh*
 
 ## French concealment and exposed coalition centre {#french-concealment-and-exposed-coalition-centre}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns French visible posture, Goldbach screen, Pratzen concealment, mist, folds, coalition perception, Soult, commitment, and contested intention. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns French visible posture, Goldbach screen, Pratzen concealment, mist, folds, coalition perception, Soult, commitment, and contested intention. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns French visible posture, Goldbach screen, Pratzen concealment, mist, folds, coalition perception, Soult, commitment, and contested intention. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns French visible posture, Goldbach screen, Pratzen concealment, mist, folds, coalition perception, Soult, commitment, and contested intention. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified in disposition, contested in intentional theatre. The documented disposition is that French forces reduced their visible occupation of the Pratzen and presented a thin or endangered right near the Goldbach villages while the main central formations waited behind lower ground. Mist, folds, villages, and the absence of a complete visible French line helped produce the appearance of weakness. The documented operational consequence is that coalition columns moved south and the central ridge became less strongly connected to the southern attack.
 
@@ -187,13 +187,13 @@ Sources: *Correspondance de Napoleon Ier*, tome XI, no. 9541, 30th Bulletin, pp.
 
 ## Telnitz opening and Legrand holding action {#telnitz-opening-and-legrand-holding-action}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Kienmayer, Legrand, Telnitz, Goldbach crossing, houses, frontage, successive attacks, Davout, Friant, and contested clock readings. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Kienmayer, Legrand, Telnitz, Goldbach crossing, houses, frontage, successive attacks, Davout, Friant, and contested clock readings. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Kienmayer, Legrand, Telnitz, Goldbach crossing, houses, frontage, successive attacks, Davout, Friant, and contested clock readings. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Kienmayer, Legrand, Telnitz, Goldbach crossing, houses, frontage, successive attacks, Davout, Friant, and contested clock readings. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Local identities and sequence are source-verified; clock readings are contested. Kienmayer's Austrian advance guard attacked the thin French right at Telnitz in the early-morning interval variously placed near 06:00-08:00 by the direct accounts. Legrand's division held the village through the Goldbach crossing and local defenders were pushed back, returned, and contested the position as successive coalition formations approached. The crossing, houses, roads, and limited frontage made the fight recurrent rather than one irreversible charge. Dokhturov's following column was assigned to the southern movement but is not placed at the first contact merely by its plan assignment.
 
@@ -203,13 +203,13 @@ Sources: Fondation Napoleon, "La victoire d'Austerlitz, 2 decembre 1805," direct
 
 ## Sokolnitz village and chateau fight {#sokolnitz-village-and-chateau-fight}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Sokolnitz, chateau, village streets, gardens, walls, Legrand, Langeron, Przybyszewski, frontage, reinforcements, and local sequence. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Sokolnitz, chateau, village streets, gardens, walls, Legrand, Langeron, Przybyszewski, frontage, reinforcements, and local sequence. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Sokolnitz, chateau, village streets, gardens, walls, Legrand, Langeron, Przybyszewski, frontage, reinforcements, and local sequence. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Sokolnitz, chateau, village streets, gardens, walls, Legrand, Langeron, Przybyszewski, frontage, reinforcements, and local sequence. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified in the named places and broad control sequence; contested in exact clocks, strength, and retrospective explanations. Sokolnitz is not one object. The village is a cluster of streets, walls, gardens, roofs, and lanes beside the Goldbach approaches. Its so-called Castle is an eighteenth-century manor house, not a medieval fortress. North of it lies the pheasantry, whose east wall looks up toward the Pratzen slopes; the granary is a separate strongpoint. Each can be held while another changes hands, and a report saying “Sokolnitz taken” cannot be read as proof that the manor, pheasantry, and every lane were simultaneously secure.
 
@@ -231,13 +231,13 @@ Sources: William Peterson, “Austerlitz Tour: Sokolnitz,” image captions 1–
 
 ## Davout march and arrival sequence {#davout-march-and-arrival-sequence}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Davout, Friant, forced march, roads, fatigue, reports, arrival order, Telnitz, Sokolnitz, III Corps, and available strength. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Davout, Friant, forced march, roads, fatigue, reports, arrival order, Telnitz, Sokolnitz, III Corps, and available strength. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Davout, Friant, forced march, roads, fatigue, reports, arrival order, Telnitz, Sokolnitz, III Corps, and available strength. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Davout, Friant, forced march, roads, fatigue, reports, arrival order, Telnitz, Sokolnitz, III Corps, and available strength. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified for the written order, the named formations, and the existence of a staged arrival; contested for the exact road, clock meaning, distance-time folklore, and the size of each arriving increment. This setting owns the movement system that brings Davout's III Corps onto the southern French right. It does not turn “Davout arrived” into a single instant or place every unit listed in an order of battle at Telnitz or Sokolnitz.
 
@@ -259,13 +259,13 @@ Sources: Napoleon, *Correspondance de Napoléon*, 1 December 1805 orders, “Ord
 
 ## Soult order and assault timing {#soult-order-and-assault-timing}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Soult, Napoleon's order, IV Corps, Pratzen ascent, columns, sunrise, receipt, attack timing, and disputed memoir speech. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Soult, Napoleon's order, IV Corps, Pratzen ascent, columns, sunrise, receipt, attack timing, and disputed memoir speech. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Soult, Napoleon's order, IV Corps, Pratzen ascent, columns, sunrise, receipt, attack timing, and disputed memoir speech. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Soult, Napoleon's order, IV Corps, Pratzen ascent, columns, sunrise, receipt, attack timing, and disputed memoir speech. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified in the 1 December written disposition and the existence of a morning decision at the French command post; contested in the exact oral words, clock, and boundary between readiness, order, receipt, and first movement. This H2 owns the decision-to-execution timing system for Soult's centre-right. It fixes Saint-Hilaire and Vandamme as the divisions prepared for the initial central operation while Legrand remains the southern holding division; the detailed assaults and their successive objectives belong to later H2s.
 
@@ -285,13 +285,13 @@ Sources: Napoleon, *Correspondance de Napoléon*, “Dispositions générales po
 
 ## Saint-Hilaire assault on Pratzen {#saint-hilaire-assault-on-pratzen}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Saint-Hilaire, Pratzen ascent, battalions, slopes, artillery, coalition columns, crest, wounded, and local command information. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Saint-Hilaire, Pratzen ascent, battalions, slopes, artillery, coalition columns, crest, wounded, and local command information. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Saint-Hilaire, Pratzen ascent, battalions, slopes, artillery, coalition columns, crest, wounded, and local command information. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Saint-Hilaire, Pratzen ascent, battalions, slopes, artillery, coalition columns, crest, wounded, and local command information. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified in the division's named command relationships, the Pratz–Pratzeberg geometry, and the broad first-contact sequence; contested in exact clocks, the later disposition of Varé's brigade, and memoir dialogue. This setting owns Saint-Hilaire's initial approach and the immediate fight around Pratz village and the Pratzeberg. Vandamme's independent axis toward Stare Vinohrady, the later struggle for that height, and the Imperial Guard's fighting belong to downstream settings owners.
 
@@ -313,13 +313,13 @@ Sources: Jack Sigler, “The Battle of Austerlitz and the Principles of War,” 
 
 ## Vandamme and Stare Vinohrady {#vandamme-and-stare-vinohrady}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Vandamme, Stare Vinohrady, heights, Russian counterpressure, artillery, formed units, flank, route, and contested sequence. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Vandamme, Stare Vinohrady, heights, Russian counterpressure, artillery, formed units, flank, route, and contested sequence. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Vandamme, Stare Vinohrady, heights, Russian counterpressure, artillery, formed units, flank, route, and contested sequence. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Vandamme, Stare Vinohrady, heights, Russian counterpressure, artillery, formed units, flank, route, and contested sequence. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified in the division's nominal identity, leftward axis, and the height's observation function; contested in exact clocks, the order in which every brigade reached the crest, and retrospective claims that the height alone decided the battle. This owner begins where Saint-Hilaire's right-hand approach leaves a boundary marker. It owns Vandamme's movement toward Stare Vinohrady and the material fight for that high point, but not the later Russian Imperial Guard action or the final pursuit into the southern villages.
 
@@ -339,13 +339,13 @@ Sources: Jack Sigler, “The Battle of Austerlitz and the Principles of War,” 
 
 ## Crochet and allied counterstroke on Pratzen {#crochet-and-allied-counterstroke-on-pratzen}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Crochet, allied counterstroke, Pratzen crest, Russian and Austrian formations, French reserves, orders, visibility, and source disagreement. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Crochet, allied counterstroke, Pratzen crest, Russian and Austrian formations, French reserves, orders, visibility, and source disagreement. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Crochet, allied counterstroke, Pratzen crest, Russian and Austrian formations, French reserves, orders, visibility, and source disagreement. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Crochet, allied counterstroke, Pratzen crest, Russian and Austrian formations, French reserves, orders, visibility, and source disagreement. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified for the French hook's broad geometry, the arrival of Kamensky's brigade and Austrian troops, the use of reserve artillery, and a later French advance; contested in exact clocks, spoken words, casualty totals, and the reliability of memoir descriptions of individual gestures. This setting owns the fight that turns Saint-Hilaire's initially exposed advance into a bent defensive line on the height. It does not own the later Imperial Guard cavalry action or the southern encirclement.
 
@@ -371,13 +371,13 @@ Sources: Jack Sigler, “The Battle of Austerlitz and the Principles of War,” 
 
 ## Russian Guard cavalry and the Blasowitz reserve {#russian-guard-cavalry-and-blasowitz-reserve}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Russian Guard cavalry, Blasowitz, Constantine, reserves, cavalry charge, infantry support, terrain, delay, and command reach. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Russian Guard cavalry, Blasowitz, Constantine, reserves, cavalry charge, infantry support, terrain, delay, and command reach. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Russian Guard cavalry, Blasowitz, Constantine, reserves, cavalry charge, infantry support, terrain, delay, and command reach. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Russian Guard cavalry, Blasowitz, Constantine, reserves, cavalry charge, infantry support, terrain, delay, and command reach. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified for the Russian Guard's reserve role, its movement toward Blasowitz, the early engagement with French light troops and infantry, and a later cavalry contest; contested in exact charge timing, formations, casualty totals, and the polished heroism of retrospective descriptions. This setting owns the Guard's intervention on the French northern-centre flank as a distinct operation. It does not merge that fight with the Pratzen infantry hook or with the later southern retreat through the frozen ponds.
 
@@ -403,13 +403,13 @@ Sources: Karl von Stutterheim, *A Detailed Account of the Battle of Austerlitz*,
 
 ## Lannes Murat and the northern containment battle {#lannes-murat-and-the-northern-containment-battle}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Lannes, Murat, Bagration, Liechtenstein, cavalry, infantry, roads, northern flank, commands, and containment. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Lannes, Murat, Bagration, Liechtenstein, cavalry, infantry, roads, northern flank, commands, and containment. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Lannes, Murat, Bagration, Liechtenstein, cavalry, infantry, roads, northern flank, commands, and containment. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Lannes, Murat, Bagration, Liechtenstein, cavalry, infantry, roads, northern flank, commands, and containment. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified for the northern French command relationship, the Bagration–Uwarov opposition, the Blasowitz–Krug–Holubitz route, and the use of a commanding battery near the Brunn causeway; contested in exact charge order, the number of squadrons in each collision, and retrospective claims that the northern wing was merely a holding action. This setting owns the battle that prevents the coalition right from freely reinforcing the Pratzen centre. It does not rewrite the Guard's distinct intervention at Blasowitz or the southern collapse.
 
@@ -435,13 +435,13 @@ Sources: Karl von Stutterheim, *A Detailed Account of the Battle of Austerlitz*,
 
 ## Southern collapse and the Satschan dike {#southern-collapse-and-the-satschan-dike}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns Augezd, lakes, Satschan, dike, Dochturov, Kienmayer, covering cavalry, artillery, prisoners, wounded, and retreat capacity. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns Augezd, lakes, Satschan, dike, Dochturov, Kienmayer, covering cavalry, artillery, prisoners, wounded, and retreat capacity. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns Augezd, lakes, Satschan, dike, Dochturov, Kienmayer, covering cavalry, artillery, prisoners, wounded, and retreat capacity. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns Augezd, lakes, Satschan, dike, Dochturov, Kienmayer, covering cavalry, artillery, prisoners, wounded, and retreat capacity. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified for the French turn from Pratzen toward Augezd, the coalition retreat through the southern villages and between the lakes, the role of Dochturov, Kienmayer, and covering cavalry, and the material danger of the dike; contested in the number of men lost on the ice, the exact condition of the lakes, the sequence of every surrender, and later victory-myth explanations. This setting owns the immediate southern end-state of the battle. The armistice, treaty, and political aftermath belong to later settings.
 
@@ -467,13 +467,13 @@ Sources: Karl von Stutterheim, *A Detailed Account of the Battle of Austerlitz*,
 
 ## Battlefield accounting prisoners and the victory report {#battlefield-accounting-prisoners-and-the-victory-report}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns killed, wounded, captured, missing, stragglers, guns, returns, prisoners, reports, bulletins, commanders, and provisional victory accounting. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #b3e71a4 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Reread this host against adjacent settings and its cited sources; every named actor and affected population remains in scope. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 owns killed, wounded, captured, missing, stragglers, guns, returns, prisoners, reports, bulletins, commanders, and provisional victory accounting. The H2 fixes the actors, place, timing, material or information constraint, source limit, and downstream consequence required for execution. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #c6a92d8 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested the host's dates, places, actors, routes, authority, capacity, uncertainty, and consequence against its full text. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 owns killed, wounded, captured, missing, stragglers, guns, returns, prisoners, reports, bulletins, commanders, and provisional victory accounting. It separates commanders, formations, staff, civilians, terrain, reports, and later narrative owners rather than collapsing them. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #e4b17f2 Checked each role for distinct access, task, resource, decision, and cost. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each role for distinct access, task, resource, decision, and cost. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This H2 owns killed, wounded, captured, missing, stragglers, guns, returns, prisoners, reports, bulletins, commanders, and provisional victory accounting. This host preserves its source status, contested boundaries, and settings-to-narrative lineage without importing unsupported precision. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #a7d83c1 Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the host's direct sources and adjacent boundary before retaining its canon and uncertainty claims. -->
 
 **Status:** Source-verified for the need to separate killed, wounded, prisoners, missing, abandoned guns, and stragglers; contested in all grand totals and in the rhetorical cleanliness of French and coalition summaries. This setting owns the first accounting state after the firing recedes, when commanders are still receiving fragmentary returns. It does not own the armistice, the diplomatic settlement, or the later public memory of the battle.
 
