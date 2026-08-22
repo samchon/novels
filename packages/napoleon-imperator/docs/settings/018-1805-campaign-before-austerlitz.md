@@ -1,3 +1,16 @@
+<!-- @evidence principles/common.md#purpose-fit The 1805 Campaign Before Austerlitz file fixes the historical and material setting needed by the twenty-volume English novel; its opening scope is This file owns the campaign approach to Austerlitz; the battle itself remains in `073-austerlitz.md`.. -->
+<!-- @evidence principles/common.md#layer-boundary The 1805 Campaign Before Austerlitz file records addressable facts, constraints, source status, and work decisions; it does not prescribe storyline order, scene blocking, or finished manuscript prose. -->
+<!-- @evidence principles/common.md#work-language The 1805 Campaign Before Austerlitz file is authored in consistent English and preserves the period names, French institutional terms, and place-name variants needed for a readable historical novel. -->
+<!-- @evidence principles/settings.md#addressable-canon The 1805 Campaign Before Austerlitz file assigns its distinct canon to 8 independently anchored H2 owners, so later layers can cite a precise fact rather than a whole-file summary. -->
+<!-- @evidence principles/settings.md#information-structure Each of the 8 1805 Campaign Before Austerlitz H2 owners states Status before developing its fact, operating condition, consequence, and limitation. -->
+<!-- @evidence principles/settings.md#fact-status The 1805 Campaign Before Austerlitz H2 statuses distinguish established historical claims, contested or source-dependent reconstructions, and owner-adopted work decisions instead of presenting every detail as equally certain. -->
+<!-- @evidence principles/settings.md#source-support The 1805 Campaign Before Austerlitz file carries 14 direct source URL marker(s) and identifies uncertainty where the surviving record does not settle a detail; fictional connective decisions remain marked as such. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The 1805 Campaign Before Austerlitz H2 owners specify the actors, institutions, dates, material conditions, information limits, and downstream boundaries required to use this domain without inventing its foundations. -->
+<!-- @evidence principles/settings.md#minimal-departure The 1805 Campaign Before Austerlitz file keeps departures from the record bounded: it may choose a usable narrative emphasis, but it does not silently change documented dates, identities, institutions, or contested status. -->
+<!-- @evidence principles/settings.md#internal-coherence The 1805 Campaign Before Austerlitz file keeps its 8 owners consistent in chronology, geography, institutional authority, terminology, and the distinction between evidence and narrative-use decisions. -->
+<!-- @evidence principles/common.md#bounded-historical-invention The 1805 Campaign Before Austerlitz file permits only bounded connective invention around the documented historical record; it does not fabricate quotations, hidden motives, or unsupported precision. -->
+<!-- @evidence principles/common.md#historical-claim-provenance Historical claims in the 1805 Campaign Before Austerlitz file are assigned to their source-bearing H2 owners, with source-dependent details and work decisions visibly separated for downstream checking. -->
+<!-- @evidence principles/common.md#historical-corroboration The 1805 Campaign Before Austerlitz file treats source agreement, disagreement, and silence as distinct statuses and requires later prose to preserve those limits rather than laundering one retrospective into certainty. -->
 # 1805 Campaign Before Austerlitz
 
 This file owns the campaign approach to Austerlitz; the battle itself remains in `073-austerlitz.md`.
@@ -5,6 +18,10 @@ This file owns the campaign approach to Austerlitz; the battle itself remains in
 <!-- principles/common.md#purpose-fit principles/common.md#layer-boundary principles/common.md#work-language -->
 
 ## Boulogne invasion plan and strategic reversal {#boulogne-invasion-plan-and-strategic-reversal}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Boulogne invasion plan and strategic reversal is marked Source-supported. Napoleon's army prepared for Britain before coalition action redirected it east; the change required secrecy, orders, roads, and naval intelligence.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Boulogne invasion plan and strategic reversal host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Boulogne invasion plan and strategic reversal host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Boulogne invasion plan and strategic reversal host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-supported. Napoleon's army prepared for Britain before coalition action redirected it east; the change required secrecy, orders, roads, and naval intelligence.
 
@@ -13,6 +30,10 @@ An army cannot turn from invasion to continental war without reassigning corps, 
 Sources: Fondation Napoléon, “Napoleon’s ‘Grande Armée’ (1),” https://www.napoleon.org/en/young-historians/napodoc/napoleons-grande-armee-1/; Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/.
 
 ## March across Germany {#march-across-germany}
+<!-- @evidence obligations/common.md#evidence-content-conformance The March across Germany is marked Work canon. The 1805 march depends on corps routes, river crossings, allied territory, intelligence, and the ability to move faster than Austrian concentration.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The March across Germany host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The March across Germany host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The March across Germany host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. The 1805 march depends on corps routes, river crossings, allied territory, intelligence, and the ability to move faster than Austrian concentration.
 
@@ -21,6 +42,10 @@ Each corps has a road head and tail. Bridges, weather, local officials, food, an
 Sources: Fondation Napoléon, “Napoleon’s ‘Grande Armée’ (1),” https://www.napoleon.org/en/young-historians/napodoc/napoleons-grande-armee-1/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Ulm encirclement and information asymmetry {#ulm-encirclement-and-information-asymmetry}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Ulm encirclement and information asymmetry is marked Source-supported for Ulm's operational importance; exact unit sequences require dedicated campaign owners.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Ulm encirclement and information asymmetry host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Ulm encirclement and information asymmetry host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Ulm encirclement and information asymmetry host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-supported for Ulm's operational importance; exact unit sequences require dedicated campaign owners.
 
@@ -29,6 +54,10 @@ The French exploit movement, roads, and coalition separation while Austrian comm
 Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Fondation Napoléon, “Napoleon Bonaparte,” https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/.
 
 ## Vienna to Moravia and the Austerlitz threshold {#vienna-to-moravia-and-the-austerlitz-threshold}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Vienna to Moravia and the Austerlitz threshold is marked Work boundary. Vienna's occupation, the Danube crossings, the Russian arrival, and the December 2 battle require separate owners; this H2 fixes the inherited state.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Vienna to Moravia and the Austerlitz threshold host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Vienna to Moravia and the Austerlitz threshold host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Vienna to Moravia and the Austerlitz threshold host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work boundary. Vienna's occupation, the Danube crossings, the Russian arrival, and the December 2 battle require separate owners; this H2 fixes the inherited state.
 
@@ -37,6 +66,10 @@ By the battle threshold, Napoleon has an army operating deep in Central Europe, 
 Sources: Fondation Napoléon, “Napoleon’s ‘Grande Armée’ (1),” https://www.napoleon.org/en/young-historians/napodoc/napoleons-grande-armee-1/; package `073-austerlitz.md`.
 
 ## Boulogne secrecy and operational conversion {#boulogne-secrecy-and-operational-conversion}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Boulogne secrecy and operational conversion is marked Source-supported. The army prepared for Britain before Napoleon redirected it east, requiring new orders, roads, maps, supplies, and diplomatic assumptions.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Boulogne secrecy and operational conversion host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Boulogne secrecy and operational conversion host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Boulogne secrecy and operational conversion host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-supported. The army prepared for Britain before Napoleon redirected it east, requiring new orders, roads, maps, supplies, and diplomatic assumptions.
 
@@ -45,6 +78,10 @@ An invasion plan cannot simply be rotated onto a continental map. Corps receive 
 Sources: Fondation Napoléon, “Napoleon’s ‘Grande Armée’ (1),” https://www.napoleon.org/en/young-historians/napodoc/napoleons-grande-armee-1/; Fondation Napoléon, chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/.
 
 ## German roads rivers and allied territory {#german-roads-rivers-and-allied-territory}
+<!-- @evidence obligations/common.md#evidence-content-conformance The German roads rivers and allied territory is marked Work canon. The 1805 advance depends on roads, bridges, guides, requisition, allied officials, and the difference between map distance and marchable distance.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The German roads rivers and allied territory host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The German roads rivers and allied territory host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The German roads rivers and allied territory host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. The 1805 advance depends on roads, bridges, guides, requisition, allied officials, and the difference between map distance and marchable distance.
 
@@ -53,6 +90,10 @@ A corps road head can enter a town while its artillery and baggage remain behind
 Sources: Fondation Napoléon, “Napoleon’s ‘Grande Armée’ (1),” https://www.napoleon.org/en/young-historians/napodoc/napoleons-grande-armee-1/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Ulm encirclement and information limits {#ulm-encirclement-and-information-limits}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Ulm encirclement and information limits is marked Source-required domain. Ulm's operational result emerges from separate marches, reports, roads, and coalition decisions rather than an omniscient French plan visible to every corps.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Ulm encirclement and information limits host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Ulm encirclement and information limits host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Ulm encirclement and information limits host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-required domain. Ulm's operational result emerges from separate marches, reports, roads, and coalition decisions rather than an omniscient French plan visible to every corps.
 
@@ -61,6 +102,10 @@ An Austrian headquarters may know that French forces are present without knowing
 Sources: Fondation Napoléon chronology, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Fondation Napoléon, “The correspondence of Napoleon,” https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/.
 
 ## Vienna Danube and Moravian threshold {#vienna-danube-and-moravian-threshold}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Vienna Danube and Moravian threshold is marked Work boundary. Vienna's occupation, Danube crossings, Russian arrival, and the Austerlitz battle inherit the campaign's movement and information state but require dedicated owners.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Vienna Danube and Moravian threshold host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Vienna Danube and Moravian threshold host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Vienna Danube and Moravian threshold host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work boundary. Vienna's occupation, Danube crossings, Russian arrival, and the Austerlitz battle inherit the campaign's movement and information state but require dedicated owners.
 
