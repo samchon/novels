@@ -1,3 +1,14 @@
+<!-- @evidence principles/common.md#purpose-fit The file School Institutions owns 13 school-institutions H2s; its overview states "", giving the school, club, record, safety, examination, and graduation powers that the civic-school premise requires. -->
+<!-- @evidence principles/common.md#layer-boundary The file School Institutions owns 13 school-institutions H2s; its overview states ""; it fixes institutional authority and process, not storyline events or scene blocking. -->
+<!-- @evidence principles/common.md#work-language The file School Institutions owns 13 school-institutions H2s; its overview states ""; school offices, records, notices, and appeals are expressed in clear English while retaining Korean statutory names where precision matters. -->
+<!-- @evidence principles/settings.md#addressable-canon The file School Institutions owns 13 school-institutions H2s; its overview states ""; principal, vice-principal, faculty, governance committee, student council, club, discipline, records, booking, safeguarding, attendance, examination, and graduation each have an H2. -->
+<!-- @evidence principles/settings.md#information-structure The file School Institutions owns 13 school-institutions H2s; its overview states ""; each institutional H2 states Status and then separates authority, procedure, records, appeal, and limits. -->
+<!-- @evidence principles/settings.md#fact-status The file School Institutions owns 13 school-institutions H2s; its overview states ""; statutory baselines are distinguished from Haneul's named people, committee composition, forms, deadlines, and fictional ownership. -->
+<!-- @evidence principles/settings.md#source-support The file School Institutions owns 13 school-institutions H2s; its overview states ""; 12 direct official law links support Article 20, governance, records/privacy, safeguarding, and graduation claims in their owning H2s. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The file School Institutions owns 13 school-institutions H2s; its overview states ""; it defines who can recognize clubs, discipline, book rooms, protect records, receive safeguarding reports, set exams, and close student authority. -->
+<!-- @evidence principles/settings.md#minimal-departure The file School Institutions owns 13 school-institutions H2s; its overview states ""; Haneul's 640-student committee and fictional H-01 forms are identified as applications rather than silently treated as Korean defaults. -->
+<!-- @evidence principles/settings.md#internal-coherence The file School Institutions owns 13 school-institutions H2s; its overview states ""; school powers align with 030 chronology, 050 campus facilities, 120 adult roles, 160 city separation, and 170 record/privacy boundaries. -->
+
 # School Institutions
 
 ## Principal authority
