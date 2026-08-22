@@ -1,3 +1,16 @@
+<!-- @evidence principles/common.md#purpose-fit The Consulate and Coup file fixes the historical and material setting needed by the twenty-volume English novel; its opening scope is This file owns the institutional conditions of the 1799 coup and Consulate.. -->
+<!-- @evidence principles/common.md#layer-boundary The Consulate and Coup file records addressable facts, constraints, source status, and work decisions; it does not prescribe storyline order, scene blocking, or finished manuscript prose. -->
+<!-- @evidence principles/common.md#work-language The Consulate and Coup file is authored in consistent English and preserves the period names, French institutional terms, and place-name variants needed for a readable historical novel. -->
+<!-- @evidence principles/settings.md#addressable-canon The Consulate and Coup file assigns its distinct canon to 9 independently anchored H2 owners, so later layers can cite a precise fact rather than a whole-file summary. -->
+<!-- @evidence principles/settings.md#information-structure Each of the 9 Consulate and Coup H2 owners states Status before developing its fact, operating condition, consequence, and limitation. -->
+<!-- @evidence principles/settings.md#fact-status The Consulate and Coup H2 statuses distinguish established historical claims, contested or source-dependent reconstructions, and owner-adopted work decisions instead of presenting every detail as equally certain. -->
+<!-- @evidence principles/settings.md#source-support The Consulate and Coup file carries 17 direct source URL marker(s) and identifies uncertainty where the surviving record does not settle a detail; fictional connective decisions remain marked as such. -->
+<!-- @evidence principles/settings.md#constraint-sufficiency The Consulate and Coup H2 owners specify the actors, institutions, dates, material conditions, information limits, and downstream boundaries required to use this domain without inventing its foundations. -->
+<!-- @evidence principles/settings.md#minimal-departure The Consulate and Coup file keeps departures from the record bounded: it may choose a usable narrative emphasis, but it does not silently change documented dates, identities, institutions, or contested status. -->
+<!-- @evidence principles/settings.md#internal-coherence The Consulate and Coup file keeps its 9 owners consistent in chronology, geography, institutional authority, terminology, and the distinction between evidence and narrative-use decisions. -->
+<!-- @evidence principles/common.md#bounded-historical-invention The Consulate and Coup file permits only bounded connective invention around the documented historical record; it does not fabricate quotations, hidden motives, or unsupported precision. -->
+<!-- @evidence principles/common.md#historical-claim-provenance Historical claims in the Consulate and Coup file are assigned to their source-bearing H2 owners, with source-dependent details and work decisions visibly separated for downstream checking. -->
+<!-- @evidence principles/common.md#historical-corroboration The Consulate and Coup file treats source agreement, disagreement, and silence as distinct statuses and requires later prose to preserve those limits rather than laundering one retrospective into certainty. -->
 # Consulate and Coup
 
 This file owns the institutional conditions of the 1799 coup and Consulate.
@@ -5,6 +18,10 @@ This file owns the institutional conditions of the 1799 coup and Consulate.
 <!-- principles/common.md#purpose-fit principles/common.md#layer-boundary principles/common.md#work-language -->
 
 ## Directory crisis and constitutional opportunity {#directory-crisis-and-constitutional-opportunity}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Directory crisis and constitutional opportunity is marked Source-supported for the unstable Directory and Napoleon's return as a political opportunity; exact private calculations belong to correspondence and biography owners.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Directory crisis and constitutional opportunity host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Directory crisis and constitutional opportunity host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Directory crisis and constitutional opportunity host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-supported for the unstable Directory and Napoleon's return as a political opportunity; exact private calculations belong to correspondence and biography owners.
 
@@ -13,6 +30,10 @@ The postwar state has constitutions, councils, ministers, armies, creditors, and
 Sources: Fondation Napoléon, biography and chronology, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/; Gallica Napoleon collections, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## 18–19 Brumaire mechanics {#18-19-brumaire-mechanics}
+<!-- @evidence obligations/common.md#evidence-content-conformance The 18–19 Brumaire mechanics is marked Work canon. Separate the first day's legal maneuver from the second day's confrontation; do not compress both into one speech.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The 18–19 Brumaire mechanics host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The 18–19 Brumaire mechanics host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The 18–19 Brumaire mechanics host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. Separate the first day's legal maneuver from the second day's confrontation; do not compress both into one speech.
 
@@ -21,6 +42,10 @@ Councils move, deputies receive claims, guards occupy spaces, and conspirators r
 Sources: Fondation Napoléon chronology portal, https://www.napoleon.org/en/history-of-the-two-empires/chronologies/; Archives nationales, research collections, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Provisional authority and the Constitution of Year VIII {#provisional-authority-and-the-constitution-of-year-viii}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Provisional authority and the Constitution of Year VIII is marked Source-supported for the transition to the Consulate; exact drafting conflicts and private bargains remain contested.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Provisional authority and the Constitution of Year VIII host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Provisional authority and the Constitution of Year VIII host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Provisional authority and the Constitution of Year VIII host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-supported for the transition to the Consulate; exact drafting conflicts and private bargains remain contested.
 
@@ -29,6 +54,10 @@ The coup must yield offices that can issue orders, collect revenue, command armi
 Sources: Gallica, Napoleonic collections, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Political legitimacy and coercive capacity {#political-legitimacy-and-coercive-capacity}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Political legitimacy and coercive capacity is marked Work canon. Consular legitimacy combines plebiscitary claim, administrative performance, military prestige, and coercion; no single source or ceremony proves consent.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Political legitimacy and coercive capacity host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Political legitimacy and coercive capacity host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Political legitimacy and coercive capacity host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. Consular legitimacy combines plebiscitary claim, administrative performance, military prestige, and coercion; no single source or ceremony proves consent.
 
@@ -37,6 +66,10 @@ The state can restore roads, tax collection, and order while limiting speech and
 Sources: Fondation Napoléon, “The correspondence of Napoleon,” https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Army and civilian theatre of the coup {#army-and-civilian-theatre-of-the-coup}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Army and civilian theatre of the coup is marked Work canon. Troops near Paris are political force only through orders, pay, loyalty, food, and the interpretation of legality.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Army and civilian theatre of the coup host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Army and civilian theatre of the coup host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Army and civilian theatre of the coup host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. Troops near Paris are political force only through orders, pay, loyalty, food, and the interpretation of legality.
 
@@ -45,6 +78,10 @@ The coup's soldiers need billets, ammunition, officers, and a reason to obey. Ci
 Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Fondation Napoléon, biography, https://www.napoleon.org/en/history-of-the-two-empires/biographies/napoleon-bonaparte/.
 
 ## Conspiracy roles and incompatible aims {#conspiracy-roles-and-incompatible-aims}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Conspiracy roles and incompatible aims is marked Work canon. A coup coalition can share an immediate objective while disagreeing about the constitution, office, and limits that follow.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Conspiracy roles and incompatible aims host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Conspiracy roles and incompatible aims host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Conspiracy roles and incompatible aims host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. A coup coalition can share an immediate objective while disagreeing about the constitution, office, and limits that follow.
 
@@ -53,6 +90,10 @@ Military prestige, parliamentary maneuver, legal drafting, money, police, and pu
 Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Fondation Napoléon, “The correspondence of Napoleon,” https://fondationnapoleon.org/en/activities-and-services/telling-history/correspondence-napoleon/.
 
 ## Councils rooms and physical coercion {#councils-rooms-and-physical-coercion}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Councils rooms and physical coercion is marked Source-required domain. The 18–19 Brumaire sequence depends on rooms, doors, guards, entrances, messengers, and the physical movement of deputies.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Councils rooms and physical coercion host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Councils rooms and physical coercion host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Councils rooms and physical coercion host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-required domain. The 18–19 Brumaire sequence depends on rooms, doors, guards, entrances, messengers, and the physical movement of deputies.
 
@@ -61,6 +102,10 @@ A chamber's authority is embodied in who may enter, speak, vote, or remove anoth
 Sources: Archives nationales, https://www.archives-nationales.culture.gouv.fr/; Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte.
 
 ## Constitution and administrative continuity {#constitution-and-administrative-continuity}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Constitution and administrative continuity is marked Work canon. The new regime must keep collecting revenue, paying troops, appointing officials, and answering foreign governments while its legitimacy is unsettled.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Constitution and administrative continuity host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Constitution and administrative continuity host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Constitution and administrative continuity host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Work canon. The new regime must keep collecting revenue, paying troops, appointing officials, and answering foreign governments while its legitimacy is unsettled.
 
@@ -69,6 +114,10 @@ The morning after a coup contains forms, seals, orders, and frightened clerks. A
 Sources: Gallica, https://gallica.bnf.fr/html/und/histoire/napoleon-bonaparte; Archives nationales, https://www.archives-nationales.culture.gouv.fr/.
 
 ## Public rescue and private coercion {#public-rescue-and-private-coercion}
+<!-- @evidence obligations/common.md#evidence-content-conformance The Public rescue and private coercion is marked Source-critical. The regime's narrative of saving the Republic must be presented alongside intimidation, censorship, arrests, and exclusion.; the host opens with the stated historical fact and its operating limits. This is the concrete evidence-bearing decision owned by this H2. -->
+<!-- @evidence obligations/common.md#proportionate-development The Public rescue and private coercion host gives its distinct actors, conditions, material consequences, and uncertainty enough development to support later use rather than naming the topic only. -->
+<!-- @evidence obligations/common.md#scope-preservation The Public rescue and private coercion host confines itself to its named historical fact and constraint, preserving the settings boundary and leaving event order and scene prose to later layers. -->
+<!-- @evidence obligations/common.md#substantive-completion The Public rescue and private coercion host settles the operating consequence and the evidence or uncertainty limit implied by its Status and body, so downstream writers do not have to invent the foundation. -->
 
 **Status:** Source-critical. The regime's narrative of saving the Republic must be presented alongside intimidation, censorship, arrests, and exclusion.
 
