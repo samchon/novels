@@ -175,6 +175,14 @@ KMA's official current hazard and warning pages provide forecast and warning con
 
 ## Drainage, runoff, and standing water
 
+<!-- @evidence obligations/common.md#scope-preservation This H2 fixes drains, runoff, standing water, pumps, route obstruction, inspection, and municipal maintenance boundaries. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 I checked drainage, route, pump, inspection, and authority fields; standing water remains distinct from rain and warning. -->
+<!-- @evidence obligations/common.md#substantive-completion The unit gives downstream route and maintenance conditions for persistent water without assigning an event. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 I reread runoff and inspection clauses; clearing water does not itself reopen a route. -->
+<!-- @evidence obligations/common.md#proportionate-development The H2 separates drainage, runoff, standing water, pumps, inspection, and route effects. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f I compared infrastructure and pedestrian consequences; inspection is the independent control. -->
+<!-- @evidence obligations/common.md#evidence-content-conformance The Status identifies fictional drainage conditions inherited from 030. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a I checked Status and municipal authority wording; no real drainage standard is claimed. -->
 
 **Status:** Work decision consistent with 030's flood infrastructure and 050/060 route geometry.
 
