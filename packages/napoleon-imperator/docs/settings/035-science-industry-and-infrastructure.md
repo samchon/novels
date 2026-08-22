@@ -45,17 +45,17 @@ Sources: Guillaume de Syon, “Science under Napoleon,” *Napoleon Series*, PDF
 
 ## Roads canals ports and bridges {#roads-canals-ports-and-bridges}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns road surface, bridge capacity, canals, ports, tolls, guards, maintenance, weather, and route users. -->
-<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Compared routes with 016 logistics; distance never substitutes for surface, bridge, traffic, or repair. -->
+<!-- @evidenceReview obligations/common.md#scope-preservation #cc1e606 Rechecked road, bridge, canal, port, quay, market, waterworks, and fortification beside 016; distance never replaces surface, load, traffic, or repair. -->
 <!-- @evidence obligations/common.md#substantive-completion This H2 settles how infrastructure changes movement while imposing land, labor, and security costs. -->
-<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Tested route, season, vehicle, engineer, labor, toll, guard, and closure. -->
+<!-- @evidenceReview obligations/common.md#substantive-completion #ef2e621 Traced each route mechanism through season, vehicle, engineer, labor, toll, guard, crossing capacity, and closure. -->
 <!-- @evidence obligations/common.md#proportionate-development This H2 separates road, bridge, canal, port, quay, market, waterworks, and fortification. -->
-<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Checked each object for capacity, owner, maintenance, and civilian use. -->
+<!-- @evidenceReview obligations/common.md#proportionate-development #0a1be6f Separated road, bridge, canal, port, quay, market, waterworks, and fortification by owner, capacity, maintenance, and civilian user. -->
 <!-- @evidence obligations/common.md#evidence-content-conformance This host uses Paris urban evidence as a bounded case and does not generalize one capital to all France. -->
-<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the Paris atlas interview and urban project list at lines 64-83. -->
+<!-- @evidenceReview obligations/common.md#evidence-content-conformance #01c3e3a Rechecked the Paris interview lines 63-83 and Lentz lines 70-82; Paris is a bounded case, and its projects carry land, labor, pollution, and fiscal cost. -->
 
 **Status:** Urban case with transferable mechanics, not a national inventory. The Fondation Napoléon Paris atlas interview, drawing on 300 sources and 70 maps, records quays, bridges, Canal de l'Ourcq, fountains, markets, sewers, and the dense, unsanitary city inherited in 1800. Thierry Lentz's synthesis dates the water projects, house numbering, three new bridges ordered in 1801, markets and storage, and a fifteen-year modernization cost of 133 million francs. These are not free improvements: land, demolition, survey, masonry, labor, water flow, traffic, and municipal administration are required. A field road can remain muddy or narrow even when a map marks it; a bridge can carry infantry but not a loaded gun team. Later campaign settings must specify surface, width, axle load, weather, crossing control, repair, and civilian traffic rather than infer speed from distance.
 
-Sources: Delage and Prévot, Paris atlas interview, https://www.napoleon.org/en/magazine/interviews/4-questions-for-irene-delage-and-chantal-prevot-the-story-of-a-vigorous-urban-redesign/ (lines 64-83); Lentz, “Did Napoleon transform Paris?”, https://www.napoleon.org/en/history-of-the-two-empires/articles/bullet-point-30-did-napoleon-transform-paris/ (lines 70-81).
+Sources: Delage and Prévot, Paris atlas interview, https://www.napoleon.org/en/magazine/interviews/4-questions-for-irene-delage-and-chantal-prevot-paris-au-temps-de-napoleon-the-story-of-a-vigorous-urban-redesign/ (lines 63-83); Lentz, “Did Napoleon transform Paris?”, https://www.napoleon.org/en/history-of-the-two-empires/articles/bullet-point-30-did-napoleon-transform-paris/ (lines 70-82).
 
 ## Industrial production and war supply {#industrial-production-and-war-supply}
 <!-- @evidence obligations/common.md#scope-preservation This H2 owns state factories, private workshops, arsenals, raw material, contracts, inspection, output, and delivery. -->
