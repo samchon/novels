@@ -11,7 +11,7 @@
 <!-- @evidence principles/settings.md#fact-status Status distinguishes critical synthesis, institutional history, primary technical claim, urban account, inference, and boundary. -->
 <!-- @evidenceReview principles/settings.md#fact-status #28bbe84 Reclassified de Syon as critical synthesis, Muracciole and Lentz as institutional articles, Delage/Prévot as urban interview, and Guillerme as critical scholarship. -->
 <!-- @evidence principles/settings.md#source-support Claims use direct institutional and critical sources with page or line locators where available. -->
-<!-- @evidenceReview principles/settings.md#source-support #2462844 Reopened the science PDF pages 1-3, armament article lines 68-91, Paris lines 64-83, and Persée pp. 35-57. -->
+<!-- @evidenceReview principles/settings.md#source-support #2462844 Reopened de Syon PDF pp. 1-3, Muracciole lines 68-91, Paris interview lines 63-83, Lentz lines 70-82, and Guillerme pp. 35-57. -->
 <!-- @evidence principles/settings.md#constraint-sufficiency The setting fixes instruments, workshops, raw materials, labor, standards, routes, bridges, depots, inspection, repair, and civilian burden. -->
 <!-- @evidenceReview principles/settings.md#constraint-sufficiency #4600271 Tested every unit for object, body, space, authority, cost, failure, and recovery. -->
 <!-- @evidence principles/settings.md#minimal-departure The file rejects invention as automatic progress, output as delivery, a map as a usable road, and imperial science as neutral. -->
